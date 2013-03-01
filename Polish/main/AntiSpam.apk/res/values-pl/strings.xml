@@ -100,7 +100,6 @@
     <string name="fw_notes_hint">Uwagi</string>
     <string name="fw_notification_settings">Ustawienia powiadomień</string>
     <string name="fw_on">Filtrowanie włączone</string>
-    <string name="fw_pattern_settings">Reguła firewall</string>
     <string name="fw_period">Okres czasu</string>
     <string name="fw_restore_ms">Przywróć wiadomości</string>
     <string name="fw_set_keyword">Słowa kluczowe</string>

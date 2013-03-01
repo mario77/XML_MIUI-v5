@@ -30,7 +30,6 @@
     <string name="action">Zaloguj się</string>
     <string name="add_bookmark">Dodaj zakładkę</string>
     <string name="add_bookmark_short">Dodaj</string>
-    <string name="add_bookmark_to_home_screen">Dodaj na pulpit</string>
     <string name="add_folder">Dodaj folder</string>
     <string name="add_new_bookmark">Dodaj zakładkę</string>
     <string name="add_to_bookmarks_menu_option">Zakładki</string>
@@ -197,7 +196,6 @@
     <string name="import_bookmarks_wizard_next">Dalej</string>
     <string name="import_bookmarks_wizard_previous">Wstecz</string>
     <string name="importing_favorite_files">Przywracanie ...</string>
-    <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
 	<string name="instant_search_label">Google z wyszukiwaniem dynamicznym (Laboratorium)</string>
 	<string name="is_first_history_item">Pierwszy wpis w historii</string>
 	<string name="is_first_tab">Pierwsza zakładka</string>
@@ -225,10 +223,6 @@
     <string name="move_to_up_folder">W górę</string>
     <string name="multi_select_title">Zaznaczono %1$s</string>
     <string name="name">Etykieta</string>
-    <string name="navigator_permissions_prompt_dont_share">Odmów</string>
-    <string name="navigator_permissions_prompt_message" formatted="false">%s wants to access %s on your device</string>
-    <string name="navigator_permissions_prompt_remember">Pamiętaj ustawienia</string>
-    <string name="navigator_permissions_prompt_share">Zezwól</string>
     <string name="new_folder">Nowy folder</string>
     <string name="new_incognito_tab">Nowa karta incognito</string>
     <string name="new_tab">Nowa karta</string>
@@ -298,7 +292,6 @@
     <string name="pref_development_uastring">UAString</string>
     <string name="pref_development_viewport">Użyj szerokiego widoku</string>
     <string name="pref_development_visual_indicator">Włącz wskaźnik wizualny</string>
-    <string name="pref_development_woff">Enable WOFF</string>
     <string name="pref_exit_on_closing_last_tab_enabled_summary">Zaznacz, aby wyłączać przeglądarkę po zamknięciu ostatniej karty na ekranie nawigacyjnym. Odznacz by wyświetlić stronę domową</string>
     <string name="pref_exit_on_closing_last_tab_enabled_title">Zakończ po zamknięciu ostatniej karty</string>
     <string name="pref_extras_reset_default">Przywróć wartości domyślne</string>
@@ -328,8 +321,6 @@
     <string name="pref_lab_fullscreen_summary">Użyj trybu pełnoekranowego, aby ukryć pasek stanu</string>
     <string name="pref_lab_quick_controls">Szybkie sterowanie</string>
     <string name="pref_lab_quick_controls_summary">Przesuń palcem od bocznej krawędzi, by wyświetlić ukryte opcje sterowania i pasek adresu</string>
-    <string name="pref_lab_slide_tab_transitions">Efekty przewijania</string>
-    <string name="pref_lab_slide_tab_transitions_summary">Przesuń od krawędzi strony by przejść do następnej/poprzedniej karty.</string>
     <string name="pref_lab_title">Laboratorium</string>
     <string name="pref_link_prefetch_dialogtitle">Wstępne ładowanie stron</string>
     <string name="pref_link_prefetch_summary">Zezwól Przeglądarce na wstępne ładowanie stron w tle</string>

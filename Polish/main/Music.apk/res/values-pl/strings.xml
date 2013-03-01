@@ -2,7 +2,7 @@
 <resources>
   <string name="add">Dodaj</string>
   <string name="add_to">Dodaj do</string>
-  <string name="add_favorite">Dodaj do ulubionych</string>
+  <string name="add_to_favorite">Dodaj do ulubionych</string>
   <string name="add_to_playlist">Dodaj do playlisty</string>
   <string name="add_tracks">Dodaj utwory</string>
   <string name="album_artist_format" formatted="false">%s , %s</string>
@@ -16,7 +16,8 @@
   <string name="album_search_online_descript">Online | %1$d x %2$d</string>
   <string name="album_select">Wybierz okładkę</string>
   <string name="albums_title">"Albumy "</string>
-  <string name="albumsongseparator">" "</string>
+  <string name="albumsongseparator">" 
+"</string>
   <string name="all_tracks">"Utwory "</string>
   <string name="android_album_settings">Album Android</string>
   <string name="android_album_summary">System automatycznie pobierze album i informacje o utworze</string>
@@ -112,9 +113,11 @@
   <string name="keep_quit_position_summary">Zapamiętuje ostatni odtwarzany utwór, który może zostać wznowiony po restarcie aplikacji</string>
   <string name="listen_to_music_online_settings">Muzyka online</string>
   <string name="listen_to_online_summary">Włącz odtwarzanie muzyki online</string>
-  <string name="load_album_failed">Nie udało się załadować listy albumów. Spróbuj ponownie później.</string>
-  <string name="load_album_in_process">Ładowanie listy albumów</string>
-  <string name="load_artist_failed">Nie udało się załadować listy piosenek. Spróbuj ponownie później.</string>
+  <string name="load_album_artist_failed">Nie udało się załadować listy albumów. Spróbuj ponownie później.</string>
+  <string name="load_album_artist_in_process">Ładowanie listy albumów</string>
+  <string name="load_album_failed">Nie udało się załadować listy piosenek. Spróbuj ponownie później.</string>
+  <string name="load_album_in_process">Ładowanie listy albumów...</string>
+  <string name="load_artist_failed">Nie udało się załadować listy wykonawców. Spróbuj ponownie później</string>
   <string name="load_artist_in_process">Ładowanie listy utworów</string>
   <string name="load_audio_failed">Nie udało się załadować listy. Spróbuj ponownie później.</string>
   <string name="load_audio_in_process">Ładowanie top list</string>
@@ -162,7 +165,7 @@
   <string name="online_search_hint">Wyszukaj muzykę online</string>
   <string name="other_settings">Pozostałe opcje</string>
   <string name="overwrite_confirm">Nadpisz</string>
-  <string name="picker_song_add">Dodaj (%d)</string>
+  <string name="play_all">Odtwórz wszystko</string>
   <string name="play_and_download">Pobieraj i odtwarzaj</string>
   <string name="play_and_download_summary">Automatycznie odtwarzaj utwór pobrany online</string>
   <string name="play_selection">Odtwórz</string>

@@ -140,9 +140,9 @@
     <string name="guild_add_recipients">Kliknij tutaj by dodać odbiorców z książki adresowej</string>
     <string name="has_invalid_recipient">%1$s nieprawidłowych odbiorców</string>
     <string name="hidden_sender_address">Ukryty adres nadawcy</string>
- <string name="hint_search_sms">%d sms</string>
+    <string name="hint_search_sms">%d sms</string>
     <string name="importing_progress_private_message">Importing messages to private MessageBox</string>
-    	<string name="in_sms">Wiadomość</string>
+    <string name="in_sms">Wiadomość</string>
     <string name="insufficient_drm_rights">Wykryto niewystarczające uprawnienia DRM.</string>
     <string name="invalid_destination">Wprowadzono nieprawidłowy adres.</string>
     <string name="invalid_recipient_message">Należy poprawić dane odbiorców, gdyż mogą oni nie otrzymać wiadomości.</string>
@@ -183,7 +183,7 @@
     <string name="move_up">Przesuń w górę</string>
     <string name="msg_type_hint_mms">Wiadomość multimedialna</string>
     <string name="msg_type_hint_mx">Wiadomość w chmurze</string>
-    <string name="msg_type_hint_sms">Wiadomość message</string>
+    <string name="msg_type_hint_sms">Wpisz tekst</string>
     <string name="multimedia_message">Wiadomość multimedialna</string>
     <string name="multimedia_notification">Powiadomienie o wiadomości multimedialnej</string>
     <string name="mx_activate_error_malformed_info">Nie można aktywować wiadomości w chmurze. Wymagana jest ponowna aktywacja</string>

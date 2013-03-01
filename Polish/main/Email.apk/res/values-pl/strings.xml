@@ -229,7 +229,7 @@
     <string name="contextmenu_sms_dot">SMS...</string>
     <string name="copy_email">Kopiuj adres E-mail</string>
     <string name="copy_number">Kopiuj numer telefonu</string>
-    <string name="create_action">Napisz nową</string>
+    <string name="create_action">Nowa</string>
     <string name="debug_clear_webview_cache">Usuń cache WebView</string>
     <string name="debug_disable_graphics_acceleration_label">Wyłącz akcelerację sprzętową UI</string>
     <string name="debug_enable_debug_logging_label">Włączyć rejestr debugowania?</string>
@@ -526,7 +526,7 @@ DW: %4$s
     <string name="security_notification_content_title">Wymagana aktualizacja zabezp.</string>
     <string name="security_notification_ticker_fmt">Konto \"%s\" wymaga aktualizacji ustawień zabezpieczeń.</string>
     <string name="send_action">Wyślij</string>
-    <string name="set_star_action">Dodaj gwiazdkę</string>
+    <string name="set_star_action">Gwiazdka</string>
     <string name="settings_action">Ustawienia</string>
     <string name="settings_activity_title">Ustawienia</string>
     <string name="show_quick_text_list_dialog_action">Wstaw szybką odpowiedź</string>
@@ -559,7 +559,7 @@ DW: %4$s
     <string name="toast_intent_error">Zainicjowanie przesyłania nie powiodło się.</string>
     <string name="toast_mailbox_not_found">"Nie znaleziono folderu. Być może został usunięty."</string>
     <string name="trusted_senders_cleared">Opcja \"Pokaż obrazy\" została wyczyszczona.</string>
-    <string name="unread_action">Zaznacz jako nieprzeczytane</string>
+    <string name="unread_action">Nieprzeczytane</string>
     <string name="upload">Prześlij</string>
     <string name="upload_state_completed">Ukończono</string>
     <string name="upload_state_failed">Niepowodzenie</string>

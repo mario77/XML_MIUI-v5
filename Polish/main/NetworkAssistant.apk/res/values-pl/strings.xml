@@ -90,9 +90,9 @@
   <string name="overseas_menu_traffic_adjust">Dostosuj ręcznie</string>
   <string name="overseas_menu_traffic_settings">Limit transmisji danych</string>
   <string name="overseas_unknown_traffic_hint">Limit transmisji danych nie został ustalony. Skonfigurować teraz?</string>
-  <string name="plate_traffic_already_used">Użyte (%s)</string>
-  <string name="plate_traffic_exceed">Przekroczone (%s)</string>
-  <string name="plate_traffic_remain">Pozostało (%s)</string>
+  <string name="plate_traffic_already_used">Użyte</string>
+  <string name="plate_traffic_exceed">Przekroczone</string>
+  <string name="plate_traffic_remain">Pozostało</string>
   <string name="powered_by">Pomoc techniczą zapewnia WALL-E</string>
   <string name="pref_category_adjust_traffic">Ustawienia transmisji danych</string>
   <string name="pref_connect_settings_enable_backgroung">Włącz dane w tle</string>

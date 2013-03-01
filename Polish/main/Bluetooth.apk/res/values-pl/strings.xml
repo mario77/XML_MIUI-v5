@@ -119,7 +119,6 @@ Zaakceptować plik?"</string>
     <string name="sharedUserId"/>
 	<string name="start_server">Uruchom serwer TCP</string>
 	<string name="status_bpp_aborted_by_printer">Printing failed due to aborted by the printer</string>
-    <string name="status_bpp_canceled">Przesyłanie zostało anulowane przez użytkownika</string>
 	<string name="status_bpp_cancelled_by_printer">Printing failed due to canceled by the printer</string>
     <string name="status_bpp_disconnected">Printing failed due to bluetooth connection_error">Błąd połączenia</string>
 	<string name="status_bpp_output_area_full">Printing failed due to output area full</string>

@@ -311,10 +311,10 @@
         <item>9 sekund</item>
     </string-array>
     <string-array name="back_long_press_timeout">
-		<item>0,5 sekundy</item>
-		<item>1 sekunda</item>
-		<item>1,5 sekundy</item>
-		<item>2 sekundy</item>
+        <item>0,5 sekundy</item>
+        <item>1 sekunda</item>
+        <item>1,5 sekundy</item>
+        <item>2 sekundy</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
         <item>1 sekunda</item>
@@ -323,11 +323,6 @@
         <item>10 sekund</item>
         <item>20 sekund</item>
         <item>Zawsze</item>
-    </string-array>
-    <string-array name="entries_dolby_control">
-        <item>Wył</item>
-        <item>Muzyka</item>
-        <item>Film</item>
     </string-array>
     <string-array name="wfd_status">
         <item>Urządzenie podłączone, tworzenie sesji...</item>
@@ -395,6 +390,10 @@ komputer automatycznie odczyta zawartość telefonu"</item>
     <string-array name="perm_hips_action">
         <item>Zezwól</item>
         <item>Pytaj</item>
+        <item>Odmów</item>
+    </string-array>
+    <string-array name="startup_hips_action">
+        <item>Zezwól</item>
         <item>Odmów</item>
     </string-array>
  </resources>

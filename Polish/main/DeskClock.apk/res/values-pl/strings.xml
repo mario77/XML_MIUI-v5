@@ -65,7 +65,7 @@
   <string name="hours">%s godzin</string>
   <string name="keep_screen_on">Ekran włączony</string>
   <string name="label">Etykieta</string>
-  <string name="lap">Okr.</string>
+  <string name="lap">Okrążenie</string>
   <string name="lap_num">Okr.</string>
   <string name="loading_ringtone">Wczytywanie dzwonka…</string>
   <string name="menu_add_worldclock">Dodaj strefę czasową</string>
@@ -99,7 +99,7 @@
   <string name="start_up">Start</string>
   <string name="stopwatch_lap_empty_text">Brak</string>
   <string name="stopwatch_title">Stoper</string>
-  <string name="system_time_setting">Ustawienia czasu</string>
+  <string name="system_time_setting">Ustawienia</string>
   <string name="time">Godzina</string>
   <string name="timer_continue">Kontynuuj</string>
   <string name="timer_got_it">Ok</string>

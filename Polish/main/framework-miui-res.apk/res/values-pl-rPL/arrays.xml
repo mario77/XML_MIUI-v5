@@ -27,4 +27,10 @@
         <item>26006</item>
         <item>26002</item>
     </string-array>
+        <string-array name="miui_font_scale">
+		<item>0.65</item>
+        <item>0.86</item>
+        <item>1.0</item>
+        <item>1.2</item>
+    </string-array>
 </resources>

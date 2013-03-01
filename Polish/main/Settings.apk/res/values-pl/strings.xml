@@ -369,6 +369,7 @@ Zezwól na autostartt？"</string>
     <string name="bluetooth_pb_acceptance_dialog_text">%1$s chce uzyskać dostęp do Twoich kontaktów i historii połączeń. Zezwolić %2$s na dostęp?</string>
     <string name="bluetooth_pb_remember_choice">Nie pytaj ponownie</string>
     <string name="bluetooth_pbap_connection_permission_request">Prośba o pozwolenie na włączenie modułu Bluetooth</string>
+    <string name="bluetooth_permission_request">Prośba o uprawnienia Bluetooth</string>
     <string name="bluetooth_phonebook_request">Żądanie dotyczące książki telefonicznej</string>
     <string name="bluetooth_pin_values_hint">Zazwyczaj 0000 lub 1234</string>
     <string name="bluetooth_preference_device_settings">Ustawienia urządzenia</string>
@@ -379,8 +380,8 @@ Zezwól na autostartt？"</string>
     <string name="bluetooth_profile_details">Ustawienia profilów</string>
     <string name="bluetooth_profile_dun">Dial-up Network Access</string>
     <string name="bluetooth_profile_headset">Dźwięk telefonu</string>
-	<string name="bluetooth_profile_hid">Urządzenie wejściowe</string>
-    <string name="bluetooth_profile_name">"Telefon MIUI - %1$s"</string>
+    <string name="bluetooth_profile_hid">Urządzenie wejściowe</string>
+    <string name="bluetooth_profile_name">"MIUI - %1$s"</string>
     <string name="bluetooth_profile_opp">Przesyłanie pliku</string>
     <string name="bluetooth_profile_pan">Dostęp do internetu</string>
     <string name="bluetooth_profile_pan_nap">Udostępnianie połączenia internetowego</string>
@@ -389,6 +390,8 @@ Zezwól na autostartt？"</string>
     <string name="bluetooth_quick_toggle_title">Bluetooth</string>
     <string name="bluetooth_rename_button">Zmień nazwę</string>
     <string name="bluetooth_rename_device">Zmień nazwę telefonu</string>
+    <string name="bluetooth_sap_acceptance_dialog_text">%1$s would like to access your SIM. Give access to %2$s?</string>
+    <string name="bluetooth_sap_connection_permission_request">Sap connection request</string>
     <string name="bluetooth_sap_profile_summary_connected">Połączony z serwerem dostępu SIM</string>
     <string name="bluetooth_sap_profile_summary_not_connected">Not connected to SIM Access Server</string>
     <string name="bluetooth_sap_profile_summary_use_for">Wykorzystaj do dostępu SIM</string>
@@ -416,7 +419,7 @@ Zezwól na autostartt？"</string>
     <string name="bluetooth_visibility_timeout">Czas widoczności</string>
     <string name="bluetooth_visibility_timeout_summary">Ustaw czas, przez jaki urządzenie będzie wykrywalne</string>
     <string name="breathing_light_color_summary">Kolor diody gdy otrzymano nowe powiadomienie</string>
-    <string name="breathing_light_color_title">Kolor diody LED</string>
+    <string name="breathing_light_color_title">" "</string>
     <string name="breathing_light_freq_summary">Oczekiwanie między pulsowaniem diody LED</string>
     <string name="breathing_light_freq_title">Częstość pulsowania diody LED</string>
     <string name="brightness">Jasność ekranu</string>
@@ -532,7 +535,10 @@ Aby dalej używać telefonu, musisz przywrócić dane fabryczne. Podczas konfigu
     <string name="data_usage_app_restrict_background">Ogranicz przesył danych w tle</string>
     <string name="data_usage_app_restrict_background_summary">Wyłącz dane w tle w sieciach komórkowych (nadal używaj w innych sieci).</string>
     <string name="data_usage_app_restrict_background_summary_disabled">Transmisję danych w tle możesz ograniczyć po ustawieniu limitu.</string>
-    <string name="data_usage_app_restrict_dialog_title">Ograniczyć dane w tle?</string>
+    <string name="data_usage_app_restrict_dialog">"This feature may cause an app that depends on background data to stop working when only mobile networks are available.
+
+You can find more appropriate data usage controls in the settings available within the app."</string>
+  <string name="data_usage_app_restrict_dialog_title">Ograniczyć dane w tle?</string>
     <string name="data_usage_app_restricted">z ograniczeniami</string>
     <string name="data_usage_app_settings">Wyświetl ustawienia aplikacji</string>
     <string name="data_usage_auto_sync_off_dialog">Powoduje przesyłanie mniejszej ilości danych oraz zmniejsza użycie baterii, ale pobranie najnowszych informacji będzie wymagało ręcznej synchronizacji każdego konta. Poza tym nie będziesz otrzymywać powiadomień o aktualizacjach.</string>
@@ -631,7 +637,7 @@ Ilość przesyłanych danych może być różnie rozliczana przez telefon i oper
     <string name="details_title">Szczegóły użycia</string>
     <string name="dev_settings_warning_message">Te ustawienia są przeznaczone wyłącznie dla programistów. Ich użycie może spowodować uszkodzenie lub nieprawidłowe działanie urządzenia i zainstalowanych na nim aplikacji.</string>
     <string name="dev_settings_warning_title">Zezwolić na ustawienia programistyczne?</string>
-    <string name="development_enable">Włącz ust. programistyczne</string>
+    <string name="development_enable">Ustawienia programistyczne</string>
     <string name="development_settings_summary">Ustaw opcje związane z programowaniem aplikacji.</string>
     <string name="development_settings_title">Opcje programistyczne</string>
     <string name="device_additional_status">Dodatkowe informacje</string>
@@ -641,7 +647,7 @@ Ilość przesyłanych danych może być różnie rozliczana przez telefon i oper
     <string name="device_admin_status">Administrator jest aktywny i zezwala aplikacji %1$s na wykonywanie następujących operacji:</string>
     <string name="device_admin_title">Administracja urządzeniem</string>
     <string name="device_admin_warning">Aktywowanie tego administratora zezwoli aplikacji %1$s na wykonywanie następujących operacji:</string>
-    <string name="device_cpu">Procesor:</string>
+    <string name="device_cpu">Procesor</string>
     <string name="device_cpu2_info">"2x"</string>
     <string name="device_cpu4_info">"4x"</string>
     <string name="device_default_name">Telefon Xiaomi</string>
@@ -691,19 +697,19 @@ Ilość przesyłanych danych może być różnie rozliczana przez telefon i oper
     <string name="dock_sounds_enable_summary_off">Nie odtwarzaj dźwięku podczas umieszczania telefonu w podstawce</string>
     <string name="dock_sounds_enable_summary_on">Odtwarzaj dźwięk podczas umieszczania telefonu w podstawce</string>
     <string name="dock_sounds_enable_title">Dźwięk włożenia do stacji dokującej</string>
-	<string name="does_not_exist">Aplikacja nie istnieje.</string>
-	<string name="dolby_bassboost_high">Wysokie</string>
-	<string name="dolby_bassboost_low">Niskie</string>
-	<string name="dolby_bassboost_normal">Normalne</string>
-	<string name="dolby_bassboost_title">"Podbicie basu: "</string>
-	<string name="dolby_effects">Efekty przestrzenne</string>
-	<string name="dolby_eq_auto">Własne</string>
-	<string name="dolby_eq_blues">Blues</string>
-	<string name="dolby_eq_classical">Klasyka</string>
-	<string name="dolby_eq_country">Country</string>
-	<string name="dolby_eq_dance">Dance</string>
-	<string name="dolby_eq_delete">Usuń</string>
-	<string name="dolby_eq_delete_success">Usunięto profil EQ</string>
+    <string name="does_not_exist">Aplikacja nie istnieje.</string>
+    <string name="dolby_bassboost_high">Wysokie</string>
+    <string name="dolby_bassboost_low">Niskie</string>
+    <string name="dolby_bassboost_normal">Normalne</string>
+    <string name="dolby_bassboost_title">"Podbicie basu: "</string>
+    <string name="dolby_effects">Efekty przestrzenne</string>
+    <string name="dolby_eq_auto">Własne</string>
+    <string name="dolby_eq_blues">Blues</string>
+    <string name="dolby_eq_classical">Klasyka</string>
+    <string name="dolby_eq_country">Country</string>
+    <string name="dolby_eq_dance">Dance</string>
+    <string name="dolby_eq_delete">Usuń</string>
+    <string name="dolby_eq_delete_success">Usunięto profil EQ</string>
     <string name="dolby_eq_electronic">Elektroniczna</string>
     <string name="dolby_eq_enter_alert_msg">Otworzyć Przestrzenny Equalizer?</string>
     <string name="dolby_eq_enter_alert_title">Przestrzenny EQ</string>
@@ -797,7 +803,7 @@ Niektóre aplikacje mogą przestać działać i wymagać aktualizacji przez prog
     <string name="filter_dlg_title">Wybierz opcje filtru</string>
     <string name="finish_application">Zakończ aplikację</string>
     <string name="finish_button_label">Zakończ</string>
-    <string name="firmware_version">Wersja Android:</string>
+    <string name="firmware_version">Wersja Android</string>
     <string name="font_size_huge">Ogromna</string>
     <string name="font_size_large">Bardzo duża</string>
     <string name="font_size_medium">Duża</string>
@@ -919,7 +925,7 @@ Niektóre aplikacje mogą przestać działać i wymagać aktualizacji przez prog
     <string name="last_synced">Ostatnia synchronizacja: %1$s</string>
     <string name="launch_count_label">Licznik</string>
     <string name="launcher_settings_title">Launcher</string>
-    <string name="led_colors_summary">Kolor diody LED</string>
+    <string name="led_colors_summary">" "</string>
     <string name="led_frequence_summary">Ustaw opóźnienie pulsowania diody LED</string>
     <string name="led_pulse_summary">Pulsowanie diody LED przy nowym powiadomieniu</string>
     <string name="led_settings">Powiadomienia LED</string>
@@ -1048,28 +1054,21 @@ Aby usunąć muzykę, zdjęcia i inne dane użytkownika, należy wymazać "<b>no
     <string name="master_clear_personal_data_sdcard">"Wymazać wszystkie Twoje informacje osobiste i sformatować kartę SD? Tej czynności nie można cofnąć"</string>
     <string name="master_clear_summary">Wymazuje wszystkie dane w telefonie</string>
     <string name="master_clear_title">Ustawienia fabryczne</string>
-    <string name="mdb_entering">Entering</string>
-    <string name="mdb_restore_cancel">Anuluj</string>
-    <string name="mdb_restore_info1">"Will restore your phone's data"</string>
-    <string name="mdb_restore_info2">"Please don't break usb connection"</string>
-    <string name="mdb_restore_label">Mdb Restore</string>
-    <string name="mdb_restore_mode">Tryb przywracania</string>
-    <string name="mdb_usb_disconnection_exit">USB rozłączone, przerywanie...</string>
     <string name="media_button">Przycisk multimedialny</string>
     <string name="media_format_button_text">Wyczyść nośnik USB</string>
     <string name="media_format_desc">Wymazać cały nośnik USB? Utracisz <b>wszystkie</b> zapisane dane.</string>
     <string name="media_format_final_button_text">Wymaż wszystko</string>
     <string name="media_format_final_desc">Wymazać nośnik USB, usuwając wszystkie zapisane na nim pliki? Tej czynności nie można cofnąć.</string>
-	<string name="media_format_gesture_explanation">Aby potwierdzić zamiar wyczyszczenia nośnika USB, musisz narysować wzór odblokowania.</string>
-	<string name="media_format_gesture_prompt">Narysuj wzór odblokowania</string>
-	<string name="media_format_summary">Wymazuje wszystko z nośnika USB</string>
-	<string name="media_format_title">Wyczyść nośnik USB</string>
-	<string name="media_volume_summary">Ustaw głośność muzyki oraz filmów wideo</string>
-	<string name="media_volume_title">Multimedia</string>
-	<string name="medium_font">Średni</string>
-	<string name="memory">Pamięć RAM</string>
-	<string name="memory_apps_usage">Aplikacje (dane aplikacji i multimedia)</string>
-	<string name="memory_available">Wolne</string>
+    <string name="media_format_gesture_explanation">Aby potwierdzić zamiar wyczyszczenia nośnika USB, musisz narysować wzór odblokowania.</string>
+    <string name="media_format_gesture_prompt">Narysuj wzór odblokowania</string>
+    <string name="media_format_summary">Wymazuje wszystko z nośnika USB</string>
+    <string name="media_format_title">Wyczyść nośnik USB</string>
+    <string name="media_volume_summary">Ustaw głośność muzyki oraz filmów wideo</string>
+    <string name="media_volume_title">Multimedia</string>
+    <string name="medium_font">Średni</string>
+    <string name="memory">Pamięć RAM</string>
+    <string name="memory_apps_usage">Aplikacje (dane aplikacji i multimedia)</string>
+    <string name="memory_available">Wolne</string>
     <string name="memory_calculating_size">Obliczanie...</string>
     <string name="memory_dcim_usage">Zdjęcia, filmy</string>
     <string name="memory_downloads_usage">Pobrane</string>
@@ -1090,8 +1089,9 @@ Aby usunąć muzykę, zdjęcia i inne dane użytkownika, należy wymazać "<b>no
     <string name="misc_files">Różne pliki</string>
     <string name="misc_files_selected_count">wybrano %1$d z %2$d</string>
     <string name="misc_files_selected_count_bytes">%1$s z %2$s</string>
+    <string name="miui_device_default_name">Android</string>
     <string name="mms_vibrate_abbreviation">MMS</string>
-    <string name="model_number">Model:</string>
+    <string name="model_number">Model</string>
     <string name="move_app">Przenieś</string>
     <string name="move_app_failed_dlg_text">"Nie udało się przenieść aplikacji %1$s"</string>
     <string name="move_app_failed_dlg_title"/>
@@ -1105,7 +1105,7 @@ Wybierz swój system operacyjny:"</string>
     <string name="msd_install_finish">OK</string>
     <string name="msd_install_next">Dalej</string>
     <string name="msd_install_retry_linux">"Jeśli komputer nie wykrywa MI 2
-na systemie Ubuntu 12.xx przejdź ten poradnik:
+na systemie Ubuntu 12.xx wykonaj polecenia tego poradnika:
 <a href="http://tinyurl.com/Ubuntu-MTP">Ubuntu-MTP</a>.
 
 Uwaga: Ubuntu 13.04 i wyżej posiada
@@ -1284,7 +1284,8 @@ Are you sure to disable it?"</string>
     <string name="perm_notice">Alert of Security</string>
     <string name="perm_operating">Operating...</string>
     <string name="perm_optimize">Optimize</string>
-    <string name="perm_privacy_app_count">%1$d permissions_privacy_app_finish">Finish</string>
+    <string name="perm_privacy_app_count">%1$d permissions</string>
+    <string name="perm_privacy_app_finish">Finish</string>
     <string name="perm_privacy_app_installed">Installation succeeded!</string>
     <string name="perm_privacy_app_launch">Launch</string>
     <string name="perm_privacy_app_log">Logs</string>
@@ -1602,6 +1603,7 @@ Note: Apps with the permission may cause system instability, even loss of person
     <string name="search_wifi">WiFi</string>
     <string name="security_passwords_title">Hasła</string>
     <string name="security_privacy_settings_title">Bezpieczeństwo i prywatność</string>
+    <string name="security_relative">Security related</string>
     <string name="security_settings_desc">Aplikacja ma dostęp do następujących elementów na telefonie:</string>
     <string name="security_settings_desc_multi">Aplikacja ma dostęp do tych elementów na telefonie. Aby poprawić wydajność i zmniejszyć użycie pamięci, aplikacja %1$s ma niektóre z tych uprawnień, bo działa wewnątrz tego samego procesu co %2$s:</string>
     <string name="security_settings_summary">Ustaw funkcję Moja lokalizacja, odblokowywanie ekranu, blokadę karty SIM, blokadę magazynu danych logowania.</string>
@@ -1942,12 +1944,12 @@ Zaufaj aplikacji？"</string>
     <string name="user_dict_settings_empty_text">Nie masz żadnych słów w słowniku użytkownika. Aby dodać słowo, wybierz Dodaj (+).</string>
     <string name="user_dict_settings_more_languages">Więcej języków...</string>
     <string name="user_dict_settings_summary"/>
-	<string name="user_dict_settings_titlebar">Słownik użytkownika</string>
-	<string name="user_dict_single_settings_title">Słownik osobisty</string>
-	<string name="user_discard_user_menu">Odrzuć</string>
-	<string name="user_information_heading">Informacje o użytkowniku</string>
-	<string name="user_list_title">Użytkownicy</string>
-	<string name="user_market_apps_heading">Zainstalowane aplikacje</string>
+    <string name="user_dict_settings_titlebar">Słownik użytkownika</string>
+    <string name="user_dict_single_settings_title">Słownik osobisty</string>
+    <string name="user_discard_user_menu">Odrzuć</string>
+    <string name="user_information_heading">Informacje o użytkowniku</string>
+    <string name="user_list_title">Użytkownicy</string>
+    <string name="user_market_apps_heading">Zainstalowane aplikacje</string>
     <string name="user_market_requires_pin">Wymagaj PIN-u</string>
     <string name="user_max_content_rating">Ocena treści</string>
     <string name="user_name_title">Nazwa</string>
@@ -2016,8 +2018,8 @@ Zaufaj aplikacji？"</string>
     <string name="vpn_cancel">Anuluj</string>
     <string name="vpn_configure">Konfiguruj VPN</string>
     <string name="vpn_connect">Połącz</string>
-	<string name="vpn_connect_to">Połącz z: %s</string>
-	<string name="vpn_create">Dodaj profil VPN</string>
+    <string name="vpn_connect_to">Połącz z: %s</string>
+    <string name="vpn_create">Dodaj profil VPN</string>
     <string name="vpn_dns_servers">Serwery DNS (np. 8.8.8.8)</string>
     <string name="vpn_dns_servers_hint">np. 8.8.8.8</string>
     <string name="vpn_edit">Edytuj profil VPN</string>
