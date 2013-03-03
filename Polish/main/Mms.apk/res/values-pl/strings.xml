@@ -203,7 +203,7 @@
  <string name="mx_dspt">Wysyłaj wiadomości przez Internet pomiędzy telefonami z MIUI</string>
     <string name="mx_enable">Wiadomości w chmurze</string>
     <string name="mx_enable_popup_msg">Wiadomości w chmurze pozwalają na wysyłanie SMS pomiędzy systemem MIUI. Wymagane jest wysłanie SMS w celu aktywacji usługi. Koszt SMS wg. taryfy operatora! Aktywować usługę teraz?</string>
-    <string name="mx_msg">Wiadomość z chmury</string>
+    <string name="mx_msg">Funkcje Online</string>
     <string name="mx_offline">Rozłączono</string>
     <string name="mx_online">Połączono</string>
     <string name="mx_reactivate">Reaktywuj wiadomości w chmurze</string>
@@ -309,7 +309,6 @@
     <string name="search">Wiadomości</string>
     <string name="search_empty">Brak wyników</string>
     <string name="search_hint">Przeszukaj wiadomości</string>
-    <string name="search_history">Liczba wyników dla zapytania %2$s: %1$s</string>
     <string name="search_label">Wiadomości</string>
     <string name="search_setting_description">Tekst w wiadomościach</string>
     <string name="secs">s</string>

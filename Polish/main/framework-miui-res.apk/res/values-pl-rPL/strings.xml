@@ -96,8 +96,6 @@
   <string name="no_sim">Brak SIM. Usługa niedostępna</string>
   <string name="open_wifi_settings">Otwórz połączenie sieciowe</string>
   <string name="payphone">Telefon płatny</string>
-  <string name="perm_activate_dspt">Wysyłanie SMS do aktywacji usług Xiaomi</string>
-  <string name="perm_activate_lab">Aktywacja usług Xiaomi</string>
   <string name="perm_auto_backup">Kopia automatyczna</string>
   <string name="perm_payment_dspt">Allow app to pay through Xiaomi payment service</string>
   <string name="perm_payment_lab">Xiaomi payment service</string>

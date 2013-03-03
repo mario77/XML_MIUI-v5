@@ -200,7 +200,6 @@
     <string name="rename_failed_duplicated_name">Nazwa już istnieje, nie można zmienić</string>
     <string name="rotate">Obróć</string>
     <string name="rotate_tooltip">Przeciągnij zdjęcie by obrócić</string>
-    <string name="running_face_detection">Proszę czekać...</string>
     <string name="saturation">Saturacja</string>
     <string name="save">Zapisz</string>
     <string name="save_error">"Nie udało się zapisać zdjęcia."</string>

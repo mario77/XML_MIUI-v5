@@ -1,15 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="altitude">%.1f m</string>
+    <string name="altitude">%.1f</string>
+    <string name="altitude_title">Wysokość</string>
+    <string name="altitude_unit">m</string>
     <string name="app_label">Kompas</string>
     <string name="calibrate_failed_no_location">Kalibracja nieudana: nie można uzyskać aktualnej pozycji geograficznej</string>
 	<string name="calibrate_failed_timeout">Kalibracja nieudana: przekroczono limit czasu serwera</string>
     <string name="calibrate_success">Kalibracja zakończona</string>
     <string name="cannot_get_location">Nie można określić lokalizacji</string>
     <string name="dialog_calibrat_altitude">Kalibracja wysokości za pomocą połączenia internetowego.</string>
-	<string name="dialog_content">Kalibracja kompasu nie została zakończona i wskazania położenia mogą nie być dokładne. Na pewno anulować kalibrację？</string>
-    <string name="dialog_title">Anuluj kalibrację</string>
     <string name="dialog_title_no_network">Nie wykryto sieci, połącz się z Wi-Fi lub siecią 3G</string>
+    <string name="direction_east">E</string>
+    <string name="direction_north">N</string>
+    <string name="direction_south">S</string>
+    <string name="direction_west">W</string>
     <string name="getting_location">Określanie lokalizacji...</string>
     <string name="latitude">LAT</string>
     <string name="location_east">E</string>
@@ -19,8 +23,7 @@
     <string name="longitude">LON</string>
     <string name="menu_calibrate">Kalibracja kompasu</string>
     <string name="menu_calibrate_altitude">Kalibracja pozycji geograficznej</string>
-    <string name="pressure">%.1f hPa</string>
-    <string name="toast_accuracy_low">"Dokładność lokalizacji jest niska. 
-Naciśnij Menu i skalibruj kompas."</string>
-    <string name="user_guide_calibrate">Naciśnij menu aby skalibrować kompas</string>
+    <string name="pressure">%.1f</string>
+    <string name="pressure_title">Ciśnienie</string>
+    <string name="pressure_unit">hPa</string>
 </resources>

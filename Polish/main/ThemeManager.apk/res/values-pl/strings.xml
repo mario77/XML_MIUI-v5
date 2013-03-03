@@ -45,7 +45,6 @@
     <string name="mi_wallpaper_title">Tapeta Mi</string>
     <string name="online_no_network">Nie można połączyc się z siecią</string>
     <string name="online_search_hint">Wyszukaj zasoby online</string>
-    <string name="play_all_audio_effect">odtwórz efekt dźwiękowy (wszystkich: %1$s)</string>
     <string name="processing">Przetwarzanie...</string>
     <string name="resource_alarm_default">Alarm</string>
     <string name="resource_app_name">Przeglądarkar</string>
@@ -57,7 +56,6 @@
     <string name="resource_comment_description">%1$s skomentował w dniu %4$s.%3$s.%2$s</string>
     <string name="resource_comment_edit_comment">Napisz komentarz</string>
     <string name="resource_comment_edit_comment_waiting">Sprawdzanie czy już komentowałeś...</string>
-    <string name="resource_comment_edit_left_count">Pozostało znaków: %1$s</string>
     <string name="resource_comment_edit_text_default">Treść komentarza</string>
     <string name="resource_comment_edit_title">Komentarz: %1$s</string>
     <string name="resource_comment_entry_tips">Motyw ma %1$s ocen. Kliknij aby pokazać wszystkie</string>
@@ -100,7 +98,6 @@
     <string name="resource_ringtone_default">Dzwonki</string>
     <string name="resource_see_more">Więcej</string>
     <string name="resource_select">Zaznacz</string>
-    <string name="resource_selected_number">Zaznaczonych elementów: %1$d</string>
     <string name="resource_server_out_of_service">Out of service, please try again later.</string>
     <string name="resource_switch_account">Switch</string>
     <string name="resource_system_title">Elementy online</string>
@@ -178,6 +175,5 @@ Otwórz aplikację ponownie aby odświeżyć zasoby."</string>
     <string name="wallpaper_set_as_both">Ustaw obie tapety</string>
     <string name="wallpaper_set_as_destop">Ustaw jako tapetę pulpitu</string>
     <string name="wallpaper_set_as_lockscreen">Ustaw jako tapetę ekranu blokady</string>
-    <string name="wallpaper_settings">Tapety</string>
-    <string name="wrong_title">Błąd</string>    
+    <string name="wallpaper_settings">Tapety</string> 
 </resources>

@@ -11,7 +11,6 @@
     <string name="binded_accout_warning">Uwaga: tej operacji nie można odwrócić. Kontynuować?</string>
     <string name="binding_accout_title">Dodaj istniejące konto KuaiPan</string>
     <string name="cancel">Anuluj</string>
-    <string name="cancel_cleanup">Anuluj czyszczenie</string>
     <string name="category_all">Wszystkie</string>
     <string name="category_apk">APKs</string>
     <string name="category_bluetooth">Bluetooth</string>
@@ -30,9 +29,6 @@
     <string name="clean_title">Usuń z kosza pliki starsze niż 30 dni</string>
     <string name="clean_trash_box">Opróżnij kosz</string>
     <string name="clean_trash_box_failed">Usuwanie nieudane</string>
-    <string name="cleanup_help">Usuń niechciane pliki z systemu aby zwolnić miejsce w pamięci wewnętrznej</string>
-    <string name="cleanup_tab_app">Czyszczenie Aplikacji</string>
-    <string name="cleanup_tab_garbage">Czyszczenie Systemu</string>
     <string name="clear_cache">Czyść cache</string>
     <string name="close">Zamknij</string>
     <string name="compress_message">Pakowanie do:</string>
@@ -107,8 +103,6 @@
     <string name="local_cache_size">Rozmiar lokalnej pamięci podręcznej: %s</string>
     <string name="login_reg_content">MiDrive pozwala na przechowywanie plików i synchronizację pomiędzy urządzeniami.</string>
     <string name="login_reg_content0">Dysk w chmurze KuaiPan</string>
-    <string name="login_reg_login_xiaomi">Zaloguj do konta Xiaomi</string>
-    <string name="menu_item_cleanup">Czyszczenie plików</string>
     <string name="menu_item_ftp">FTP</string>
     <string name="menu_item_search">Szukaj</string>
     <string name="menu_item_sort">Sortuj po</string>
@@ -158,7 +152,6 @@
     <string name="operation_rename_message">Wprowadź nową nazwę</string>
     <string name="operation_resume">Wznów</string>
     <string name="operation_resume_all">Wznawianie</string>
-    <string name="operation_selectall">Zaznacz wszystko</string>
     <string name="operation_send">Wyślij</string>
     <string name="operation_show_sys">Pokaż ukryte pliki</string>
     <string name="operation_unfavorite">Usuń z Ulubionych</string>
@@ -180,7 +173,6 @@
     <string name="show_message">Plik nie może zostać otwarty bez pobierania</string>
     <string name="space_info">Pojemność: %1$s, Dostępne/Razem: %2$s</string>
     <string name="space_usage">Użycie</string>
-    <string name="start_cleanup">Rozpocznij czyszczenie</string>
     <string name="start_server">Uruchom FTP</string>
     <string name="start_use_xiaomi_account">Zaloguj</string>
 	<string name="stay_awake_summary">Ekran nie będzie gaszony podczas połączenia FTP</string>

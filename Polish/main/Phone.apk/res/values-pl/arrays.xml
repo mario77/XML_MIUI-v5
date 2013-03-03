@@ -22,4 +22,9 @@
         <item>Normalne</item>
         <item>Długie</item>
     </string-array>
+    <string-array name="voicemail_notification_vibrate_when_entries">
+        <item>Zawsze</item>
+        <item>Tylko gdy cichy</item>
+        <item>Nigdy</item>
+    </string-array>
 </resources>

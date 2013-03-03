@@ -8,7 +8,7 @@
   <string name="album_artist_format" formatted="false">%s , %s</string>
   <string name="album_display_settings">Pokaż album</string>
   <string name="album_display_summary">Wyświetl okładkę albumu w widoku odtwarzacza</string>
-  <string name="album_download">Pobierz okładkę albumu</string>
+  <string name="album_download">Pobierz okładki albumów</string>
   <string name="album_edit">Album</string>
   <string name="album_picker_not_found">Nie znaleziono galerii na urządzeniu</string>
   <string name="album_search_failed">Okładki albumów nieznalezione!</string>
@@ -32,8 +32,8 @@
   <string name="billboard">Toplisty</string>
   <string name="buffering">Buforowanie...</string>
   <string name="cancel">Anuluj</string>
-  <string name="cancel_sleep_mode">Tryb uśpienia anulowany</string>
-  <string name="cancle_warining">Has Canceled Sleep Mode</string>
+  <string name="cancel_sleep_mode">Zatrzymaj uśpienie odtwarzacza</string>
+  <string name="cancle_warining">Uśpienie odtwarzacza anulowane</string>
   <string name="channel">Radio FM</string>
   <string name="channel_format" formatted="false">"%s %s MHz"</string>
   <string name="channel_postfix">MHz</string>
@@ -53,16 +53,16 @@
   <string name="create_playlist_create_text_prompt">Nazwa playlisty</string>
   <string name="custom">Nowe ustawienia EQ</string>
   <string name="default_interval">30 minut</string>
-  <string name="delete_file_from_sdcard">Usuń z karty SD</string>
+  <string name="delete_file_from_sdcard">Usuń z pamięci wewnętrznej</string>
   <string name="delete_item">Usuń</string>
   <string name="delete_playlist_menu">Usuń</string>
-  <string name="delete_song_desc">Zostanie usunięte %s utworów z pamięci urządzenia</string>
+  <string name="delete_song_desc">Z pamięci urządzenia zostaną trwale usunięte: %s</string>
   <string name="deselect_all">Odznacz wszystko</string>
   <string name="download">Pobieranie</string>
   <string name="download_album_settings">Pobierz okładkę albumu</string>
   <string name="download_album_summary">Włącz pobieranie okładek albumów.</string>
-  <string name="download_all_album">Pobierz okładkę albumu</string>
-  <string name="download_all_avatar">Pobierz avatary wykonawców</string>
+  <string name="download_all_album">Pobierz okładki albumów</string>
+  <string name="download_all_avatar">Pobierz zdjęcia wykonawców</string>
   <string name="download_all_track">Pobierz wszystkie utwory</string>
   <string name="download_batch_start">Rozpocznij wszystko</string>
   <string name="download_lyric_settings">Pobierz teksty utworów</string>
@@ -74,7 +74,7 @@
   <string name="edit_playlist_menu">Edytuj</string>
   <string name="empty_edit_hint">Informacje o utworze niedostępne</string>
   <string name="emptyplaylist">Playlista jest pusta.</string>
-  <string name="enter_sleep_mode">Przechodzenie do trybu uśpienia</string>
+  <string name="enter_sleep_mode">Tryb uśpienia</string>
   <string name="equalizer">Equalizer</string>
   <string name="equalizer_delete">Usuń własne ustawienia equalizera</string>
   <string name="equalizer_delete_success">Własne ustawienia equalizera usunięte. Przywrócono Płaski</string>
@@ -233,8 +233,8 @@
   <string name="sort_by_album">Albumy</string>
   <string name="sort_by_artist">Wykonawcy</string>
   <string name="sort_by_track">Utwory</string>
-  <string name="start_to_download_album">Pobieranie okładki albumu dla utworów</string>
-  <string name="start_to_download_avatar">Downloading artist avatar for your song(s) library</string>
+  <string name="start_to_download_album">Pobieranie okładek albumów dla utworów</string>
+  <string name="start_to_download_avatar">Pobieranie zdjęć wykonawców</string>
   <string name="streamloadingtext">Łączenie z %s</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_edit">Utwór</string>

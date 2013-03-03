@@ -51,7 +51,7 @@
   <string name="disable_background_mobile_connect">Ogranicz transmisję danych w tle</string>
   <string name="edit_frame_free_traffic_title">Limit transmisji danych</string>
   <string name="edit_frame_month_start_title">Data resetowania cyklu</string>
-  <string name="edit_frame_warning_title">Ostrzeżenie o transmisji</string>
+  <string name="edit_frame_warning_title">"Ostrzeżenie o transmisji przy: "</string>
   <string name="finish_traffic_settings_hint">Ustawienia zapisane!</string>
   <string name="finish_traffic_settings_message">
     "Wykorzystane dane: %s. Czy te dane są prawidłowe? 
@@ -128,13 +128,16 @@
   <string name="sync_traffic_no_cmd_detail">"Submit your City, Province and ICC's brand and carrier to the following thread on the forums: http://www.miui.com/forum-172-1.html. Thank you."</string>
   <string name="sync_traffic_no_cmd_title">Brak schematu SMS</string>
   <string name="sync_traffic_success">"Zsynchronizowano informacje od operatora, użycie danych ustawione pomyślnie"</string>
-  <string name="traffic_none">b.d.</string>
+  <string name="text_day"/>
+    <string name="text_done">Gotowe</string>
+    <string name="text_save">Zapisz</string>
+    <string name="traffic_none">b.d.</string>
   <string name="traffic_remain">Pozostało</string>
   <string name="traffic_settings_error">There is an error in your settings for monthly free traffic. According to your settings and operator SMS, your monthly free traffic is: %1$s and remaining traffic is: %2$s.</string>
   <string name="traffic_suffix">Dane</string>
   <string name="traffic_suffix_with_uint">Użycie danych (MB)</string>
-  <string name="traffic_total">Razem: %s</string>
-  <string name="traffic_used_status">Użyte: %s</string>
+  <string name="traffic_total">Razem %s</string>
+  <string name="traffic_used_status">Użyte %s</string>
   <string name="unknown">unknown</string>
   <string name="unknown_free_traffic_hint">"Jeśli nie znasz swojego limitu transmisji danych skontaktuj się w tym celu ze swoim operatorem"</string>
   <string name="unknown_free_traffic_text">"Jaki mam limit transmisji danych?"</string>

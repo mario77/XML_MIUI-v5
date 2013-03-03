@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ntracks_search_result_format">
-        <item quantity="other">%d 首相关歌曲</item>
-        <item quantity="one">%d 首相关歌曲</item>
+        <item quantity="other">%d utwóry</item>
+        <item quantity="one">%d utwór</item>
     </plurals>
     <plurals name="Ntracks_total">
         <item quantity="other">utwory: %d</item>
         <item quantity="one">%d utwór</item>
     </plurals>
     <plurals name="Ntracks_string">
-        <item quantity="other">utwory: %d</item>
+        <item quantity="other">%d utwory</item>
         <item quantity="one">%d utwór</item>
     </plurals>
     <plurals name="Ntracks_format">
-        <item quantity="other">utwory: %d</item>
+        <item quantity="other">%d utwory</item>
         <item quantity="one">%d utwór</item>
     </plurals>
     <plurals name="Nalbums_format">
-        <item quantity="other">albumy: %d</item>
+        <item quantity="other">%d albumy</item>
         <item quantity="one">%d album</item>
     </plurals>
     <plurals name="Ntracks">

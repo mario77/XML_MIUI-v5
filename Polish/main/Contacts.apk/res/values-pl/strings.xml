@@ -236,6 +236,8 @@
     <string name="device_bluetooth_title">Przygotowanie</string>
     <string name="device_brand_title">Wybierz producenta telefonu</string>
     <string name="device_import_account_dialog_title">Wybierz konto do przywracania</string>
+    <string name="device_import_account_dialog_title_suffix">"
+(znalezionych %1$s kontaktów)"</string>
     <string name="device_import_done_toast">%1$d kontaktów przywróconych</string>
     <string name="device_import_failed_message">Przywracanie nieudane!</string>
     <string name="device_import_local_account">Lokalne konto</string>
@@ -278,14 +280,14 @@
     <string name="dirty_contacts_notification_title">Włączyć synchronizację kontaktów?</string>
     <string name="display_all_contacts">Wszystkie kontakty</string>
     <string name="display_more_groups">Więcej grup...</string>
-    <string name="display_only_phones">Kontakty z numerami</string>
+    <string name="display_only_phones">Pokaż kontakty z numerami</string>
     <string name="display_options_sort_by_family_name">Nazwisko</string>
     <string name="display_options_sort_by_given_name">Imię</string>
     <string name="display_options_sort_list_by">Sortuj listę według</string>
     <string name="display_options_view_family_name_first">Najpierw nazwisko</string>
     <string name="display_options_view_given_name_first">Najpierw imię</string>
     <string name="display_options_view_names_as">Wyświetl nazwy kontaktów jako</string>
-    <string name="display_sim_contacts">Kontakty na SIM</string>
+    <string name="display_sim_contacts">Pokaż kontakty na SIM</string>
     <string name="display_ungrouped">Wszystkie inne kontakty</string>
     <string name="display_warn_remove_ungrouped">"Usunięcie grupy \"%s\" z ustawień synchronizacji spowoduje również usunięcie wszelkich rozgrupowanych kontaktów z tych
         ustawień."</string>
@@ -432,6 +434,11 @@
     <string name="meid">Numer MEID</string>
     <string name="menu_accounts">Konta</string>
     <string name="menu_addStar">Dodaj do ulubionych</string>
+    <string name="menu_bar_group_add">Dodaj</string>
+    <string name="menu_bar_group_delete">Usuń</string>
+    <string name="menu_bar_group_rename">Zmień nazwę</string>
+    <string name="menu_bar_group_ringtone">Dzwonek</string>
+    <string name="menu_bar_group_sms">SMS</string>
     <string name="menu_call">Zadzwoń do kontaktu</string>
     <string name="menu_callNumber">Zadzwoń do: %s</string>
     <string name="menu_call_ip_number">Wybierz połączenie IP (%s)</string>
@@ -456,7 +463,7 @@
     <string name="menu_newContact">Nowy kontakt</string>
     <string name="menu_new_contact_action_bar">Nowy</string>
     <string name="menu_new_favorite_action_bar">Nowy</string>
-    <string name="menu_new_group_action_bar">Nowa</string>
+    <string name="menu_new_group_action_bar">Nowa grupa</string>
     <string name="menu_not_redirect_calls_to_vm">Poczta głosowa nieaktywna</string>
     <string name="menu_redirect_calls_to_vm">Łącz na pocztę głosową</string>
     <string name="menu_removeStar">Usuń z ulubionych</string>
@@ -477,7 +484,10 @@
     <string name="messageShortcutActivityTitle">Wybierz numer, aby wysłać wiadomość</string>
     <string name="missing_name">(Bez nazwy)</string>
     <string name="move_and_resize">Zmień pozycję lub rozmiar</string>
-    <string name="multipleContactDeleteConfirmation">Usunięcie tego kontaktu spowoduje usunięcie informacji z wielu kont.</string>
+    <string name="multipleContactDeleteConfirmation">Usunięcie tego kontaktu spowoduje usunięcie danych z wielu kont.</string>
+    <string name="multipleContactDeleteConfirmationDetail">Usunięcie \"%s\" spowoduje usunięcie danych z wielu kont.</string>
+    <string name="my_phone_not_provider_bluetooth">my phone dont provider bluetooth</string>
+    <string name="my_phone_provider_bluetooth">my phone provider bluetooth</string>    
     <string name="nameLabelsGroup">Nazwa</string>
     <string name="name_family">Nazwisko</string>
     <string name="name_given">Imię</string>
@@ -488,78 +498,122 @@
     <string name="name_phonetic_middle">Drugie imię (fonetycznie)</string>
     <string name="name_prefix">Przedrostek nazwiska</string>
     <string name="name_suffix">Przyrostek nazwiska</string>
+    <string name="next">Dalej</string>
     <string name="next_birthday">Następne urodziny: %s</string>
     <string name="nfc_vcard_file_name">Odebrane przez NFC</string>
     <string name="nicknameLabelsGroup">Pseudonim</string>
+    <string name="nickname_editor_title">Edytuj pseudonim</string>
     <string name="nickname_picker_name_column">Nazwa kontaktu</string>
     <string name="nickname_picker_nickname_column">Tytuł</string>
     <string name="noAccounts">Do tworzenia grup niezbędne jest konto.</string>
     <string name="noContactHelpTextAccountsInfo">Synchronizacja kontaktów z Google, Exchange lub Xiaomi.</string>
     <string name="noContactHelpTextImportXiaomiAccountInfo">Przywróć kontakty z konta Xiaomi i MiTalk</string>
     <string name="noContacts">Brak kontaktów</string>
-    <string name="noContactsHelpText">"Nie masz kontaktów do wyświetlenia. Aby dodać kontakty naciśnij "<b><font fgcolor="#ffffffff">Menu</font></b>" i wybierz: "<b><font
-                fgcolor="#ffffffff"><li>"Konta - aby dodać lub skonfigurować konto z kontaktami do synchronizacji z telefonem "</li></font></b>" "<b><font
-                fgcolor="#ffffffff"><li>"Nowy kontakt - aby stworzyć kontakt "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Kopia i przywracanie by importować z
-                    karty SD lub SIM "</li></font></b>" "</string>
+    <string name="noContactsHelpText">"Nie masz kontaktów do wyświetlenia. 
+
+Aby dodać kontakty naciśnij "<font fgcolor="#ffffffff"><b>Menu</b></font> i wybierz: 
+
+"<b><font fgcolor="#ffffffff"><li>"Konta - aby dodać lub skonfigurować konto z kontaktami do synchronizacji z telefonem "</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Nowy kontakt - aby stworzyć kontakt "</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Kopia i przywracanie by importować z karty SD lub SIM "</li></font></b>"
+"</string>
     <string name="noContactsHelpTextForCreateShortcut">"Nie masz kontaktów do wyświetlenia."</string>
-    <string name="noContactsHelpTextWithSync">"Nie masz kontaktów do wyświetlenia. Aby dodać kontakty naciśnij "<b><font fgcolor="#ffffffff">Menu</font></b>" i wybierz:
-                "<b><font fgcolor="#ffffffff"><li>"Konta - aby dodać lub skonfigurować konto z kontaktami do synchronizacji z telefonem "</li></font></b>" "<b><font
-                fgcolor="#ffffffff"><li>"Opcje wyświetlania - aby ustawić, które kontakty mają być widoczne "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Nowy
-                    kontakt - aby stworzyć kontakt "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Kopia i przywracanie by importować z karty SD lub SIM
-                "</li></font></b>" "</string>
-    <string name="noContactsHelpTextWithSyncForCreateShortcut">"Nie masz kontaktów do wyświetlenia. (Jeśli dodałeś właśnie konto może to chwilę potrwać zanim kontakty się
-        zsynchronizują.)"</string>
-    <string name="noContactsNoSimHelpText">"Nie masz kontaktów do wyświetlenia. Aby dodać kontakty naciśnij "<b><font fgcolor="#ffffffff">Menu</font></b>" i wybierz:
-                "<b><font fgcolor="#ffffffff"><li>"Konta - aby dodać lub skonfigurować konto z kontaktami do synchronizacji z telefonem "</li></font></b>" "<b><font
-                fgcolor="#ffffffff"><li>"Nowy kontakt - aby stworzyć kontakt "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Kopia i przywracanie by importować z
-                    karty SD lub SIM "</li></font></b>" "</string>
-    <string name="noContactsNoSimHelpTextWithSync">"Nie masz kontaktów do wyświetlenia. Aby dodać kontakty naciśnij "<b><font fgcolor="#ffffffff">Menu</font></b>" i
-        wybierz: "<b><font fgcolor="#ffffffff"><li>"Konta - aby dodać lub skonfigurować konto z kontaktami do synchronizacji z telefonem "</li></font></b>" "<b><font
-                fgcolor="#ffffffff"><li>"Opcje wyświetlania - aby ustawić, które kontakty mają być widoczne "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Nowy
-                    kontakt - aby stworzyć kontakt "</li></font></b>" "<b><font fgcolor="#ffffffff"><li>"Kopia i przywracanie by importować z karty SD lub SIM
-                "</li></font></b>" "</string>
+    <string name="noContactsHelpTextWithSync">"Nie masz kontaktów do wyświetlenia. Aby dodać kontakty naciśnij "<font fgcolor="#ffffffff"><b>Menu</b></font>" i wybierz:
+"<b><font fgcolor="#ffffffff"><li>"Konta - aby dodać lub skonfigurować konto z kontaktami do synchronizacji z telefonem "</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Opcje wyświetlania - aby ustawić, które kontakty mają być widoczne "</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Nowy kontakt - aby stworzyć kontakt "</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Kopia i przywracanie by importować z karty SD lub SIM "</li></font></b>" 
+"</string>
+    <string name="noContactsHelpTextWithSyncForCreateShortcut">"Nie masz kontaktów do wyświetlenia. (Jeśli dodałeś właśnie konto może to chwilę potrwać zanim kontakty sięzsynchronizują.)"</string>
+    <string name="noContactsNoSimHelpText">"Nie masz kontaktów do wyświetlenia. Aby dodać kontakty naciśnij "<font fgcolor="#ffffffff"><b>Menu</b></font>" i wybierz:
+"<b><font fgcolor="#ffffffff"><li>"Konta - aby dodać lub skonfigurować konto z kontaktami do synchronizacji z telefonem "</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Nowy kontakt - aby stworzyć kontakt "</li></font></b>"
+"<b><font fgcolor="#ffffffff"><li>"Kopia i przywracanie by importować z karty SD lub SIM "</li></font></b>" 
+"</string>
+    <string name="noContactsNoSimHelpTextWithSync">"Nie masz kontaktów do wyświetlenia. Aby dodać kontakty naciśnij "<b><font fgcolor="#ffffffff">Menu</font></b>" i wybierz:
+"<b><font fgcolor="#ffffffff"><li>"Konta - aby dodać lub skonfigurować konto z kontaktami do synchronizacji z telefonem "</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Opcje wyświetlania - aby ustawić, które kontakty mają być widoczne"</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Nowy kontakt - aby stworzyć kontakt "</li></font></b>" 
+"<b><font fgcolor="#ffffffff"><li>"Kopia i przywracanie by importować z karty SD lub SIM"</li></font></b>" 
+"</string>
     <string name="noContactsWithPhoneNumbers">Brak kontaktów z numerami telefonów.</string>
-    <string name="noFavoritesHelpText">"Nie masz żadnych ulubionych. Aby dodać kontakt do listy ulubionych: "<li>Naciśnij <b>Kontakty</b>" "</li>" "<li>"Wybierz kontakt,
-            który ma być dodany do Ulubionych "</li>" "<li>"Wybierz gwiazdkę przy nazwie kontaktu "</li>" "</string>
+    <string name="noFavoritesHelpText">"Nie masz żadnych ulubionych. 
+
+Aby dodać kontakt do listy ulubionych: 
+
+"<li>Naciśnij <b>Kontakty</b>" 
+"</li>" 
+"<li>"Wybierz kontakt, który ma być dodany do Ulubionych 
+"</li>" 
+"<li>"Wybierz gwiazdkę przy nazwie kontaktu "</li>" 
+"</string>
     <string name="noGroups">Brak grup.</string>
     <string name="noMatchingContacts">Nie znaleziono pasujących kontaktów.</string>
     <string name="noRecentContacts">Brak ostatnich kontaktów</string>
-    <string name="no_account_prompt">"Aplikacja Ludzie działa lepiej z kontem Google. • Używaj jej w dowolnej przeglądarce. • Twórz kopie zapasowe kontaktów."</string>
+    <string name="no_account_prompt">"Aplikacja Osoby działa lepiej z kontem Google. 
+
+• Używaj jej w dowolnej przeglądarce. 
+• Twórz kopie zapasowe kontaktów."</string>
     <string name="no_contact_details">Brak dodatkowych informacji dla tego kontaktu</string>
+    <string name="no_contact_in_other_phone">Brak kontaktów w telefonie</string>
+    <string name="no_contacts_dialog_message">Nie znaleziono kontaktu. Może on znajdować się na karcie SIM. Wczytaj kontakty z SIM do pamięci telefonu.</string>
+    <string name="no_contacts_dialog_title">Kontakt nie znaleziony</string>
     <string name="no_contacts_selected">Nie wybrano kontaktów.</string>
     <string name="no_sdcard_message">Nie znaleziono nośnika.</string>
     <string name="non_phone_add_to_contacts">Dodaj do kontaktów</string>
     <string name="non_phone_caption">Numer telefonu</string>
     <string name="non_phone_close">Zamknij</string>
+    <string name="none_found">Nie znaleziono urządzeń</string>
+    <string name="none_paired">Nie sparowano urządzeń</string>
     <string name="not_applied">Niewspierane</string>
+    <string name="notification_action_voicemail_play">Odtwórz</string>
     <string name="notification_new_voicemail_ticker">Nowa poczta głosowa od: %1$s</string>
+    <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
     <string name="openDialKeyboard">Klawiatura</string>
     <string name="open_contact">Wyświetl kontakt</string>
-    <string name="option_delete_contact">Usuń</string>
+    <string name="option_delete_contact">Usuń kontakt</string>
+    <string name="option_delete_group">Usuń grupę</string>
     <string name="option_edit_contact">Edytuj</string>
     <string name="option_not_in_group">Bez grupy</string>
     <string name="option_not_star">Bez gwiazdki</string>
+    <string name="option_rename_group">Zmień nazwę grupy</string>
     <string name="option_send_to_desktop">Wyślij na pulpit</string>
     <string name="option_send_to_others">Wyślij do...</string>
-    <string name="option_view_contact">Wyświetl</string>
+    <string name="option_view_contact">Wyświetl kontakt</string>
+    <string name="option_view_group">Wyświetl grupę</string>
     <string name="organizationLabelsGroup">Organizacja</string>
     <string name="organization_company_and_title">%2$s, %1$s</string>
+    <string name="other_phone">inne telefony</string>
     <string name="payphone">Telefon płatny</string>
     <string name="people">Osoby</string>
     <string name="phoneLabelsGroup">Telefon</string>
+    <string name="phone_info_divider">"  |  "</string>
+    <string name="phone_primary">Podstawowy</string>
     <string name="photoPickerNotFoundText">W telefonie brak dostępnych zdjęć.</string>
     <string name="pick_favorites_contacts_list_title">Razem %1$d ulubionych kontaktów</string>
     <string name="pick_favorites_list_title">%1$d ulubionych numerów kontaktów</string>
     <string name="pick_new_photo">Wybierz nowe zdjęcie z galerii</string>
     <string name="pick_photo">Wybierz zdjęcie z galerii</string>
-    <string name="pick_recent_contacts_list_title">Razem ostatnich kontaktów %1$d</string>
+    <string name="pick_recent_contacts_list_title">Razem ostatnich kontaktów: %1$d</string>
     <string name="pick_recent_list_title">Liczba ostatnich kontaktów %1$d</string>
     <string name="pickerNewContactHeader">Utwórz nowy kontakt</string>
+    <string name="pickerNewContactText">Utwórz nowy kontakt</string>
+    <string name="picker_all_list_empty">Brak kontaktów</string>
+    <string name="picker_contact_title">Wybierz kontakt</string>
+    <string name="picker_email_title">Wybierz E-mail</string>
+    <string name="picker_favorites_list_empty">Brak ulubionych</string>
+    <string name="picker_groups_list_empty">Brak grup</string>
+    <string name="picker_join_title">Połącz kontakt z %s</string>
+    <string name="picker_number_title">Wybierz numer</string>
+    <string name="picker_postal_title">Wybierz kod</string>
+    <string name="picker_recent_list_empty">Brak ostatnich kontaktów</string>
     <string name="pkgLabel">Kontakty i Dialer</string>
     <string name="postalLabelsGroup">Adres</string>
     <string name="postal_address">Adres</string>
     <string name="postal_city">Miasto</string>
     <string name="postal_country">Kraj</string>
+    <string name="postal_neighborhood">Dzielnica</string>
+    <string name="postal_pobox">Skrytka pocztowa</string>
     <string name="postal_postcode">Kod pocztowy</string>
     <string name="postal_region">Województwo</string>
     <string name="postal_street">Ulica</string>
@@ -571,15 +625,20 @@
     <string name="pref_summary_import_from_account">Kopiowanie kontaktów z Google i Exchange na konto Xiaomi</string>
     <string name="pref_title_account_import">Przywracanie z konta</string>
     <string name="pref_title_import_from_account">Przywracanie z konta Xiaomi</string>
+    <string name="preference_auto_ip_summary_disable">Nieaktywne</string>
+    <string name="preference_auto_ip_summary_on">"Prefiks operatora: %s"</string>
+    <string name="preference_auto_ip_title">Wybieranie Ip</string>
+    <string name="preference_contacts">Kontakty</string>
+    <string name="preference_contacts_display">Wyświetlanie kontaktów</string>
+    <string name="preference_contacts_filter">Pokaż kontakty z kont online</string>
     <string name="preference_contacts_more">Więcej opcji</string>
     <string name="preference_dial_pad_touch_tone_default">Standardowy</string>
-
     <string name="preference_dial_pad_touch_tone_human">Ludzki głos</string>
     <string name="preference_dial_pad_touch_tone_piano">Pianino</string>
     <string name="preference_dial_pad_touch_tone_switch">Dźwięki wybierania numeru</string>
     <string name="preference_dial_pad_touch_tone_title">Dźwięki wybierania numeru</string>
     <string name="preference_display">Wyświetlanie</string>
-    <string name="preference_displayOptions">Opcje wyświetlania</string>
+    <string name="preference_displayOptions">Kolejność wyświetlania</string>
     <string name="preference_export">Kopiowanie kontaktów</string>
     <string name="preference_import">Przywracanie kontaktów</string>
     <string name="preference_import_export">Przywróć/kopiuj kontakty</string>
@@ -588,8 +647,8 @@
     <string name="preference_phone">Telefon</string>
     <string name="preference_phone_more_title">Więcej opcji</string>
     <string name="preference_remove_duplicate">Łączenie kontaktów</string>
-    <string name="preference_simple_mode_description">W tym trybie awatar kontaktu, a także informacje o kierunkowym i firmie nie są wyświetlane</string>
-    <string name="preference_simple_mode_title">Tryb prosty</string>
+    <string name="preference_simple_mode_description">W tym trybie zdjęcia kontaktów, a także informacje o kierunkowym i firmie nie są pokazywane</string>
+    <string name="preference_simple_mode_title">Uproszczone wyświetlanie</string>
     <string name="preference_smart_group_company_summary">Grupuj kontakty po firmie</string>
     <string name="preference_smart_group_company_title">Firma</string>
     <string name="preference_smart_group_frequency_summary">Grupuj po ostatnich połączeniach lub SMS</string>
@@ -597,11 +656,11 @@
     <string name="preference_smart_group_location_summary">Grupuj po lokalizacji</string>
     <string name="preference_smart_group_location_title">Lokalizacja</string>
     <string name="preference_smart_group_title">Inteligentne grupowanie</string>
-    <string name="preference_telocation_summary_countrycode_off">Nie dodawaj kodu kraju</string>
-    <string name="preference_telocation_summary_countrycode_on">Dodaj kod kraju</string>
+    <string name="preference_telocation_summary_countrycode_off">Nie dodawaj kierunkowego kraju</string>
+    <string name="preference_telocation_summary_countrycode_on">Dodaj kierunkowy kraju</string>
     <string name="preference_telocation_summary_teloc_off">Ukryj lokalizację</string>
     <string name="preference_telocation_summary_teloc_on">Pokaż lokalizację</string>
-    <string name="preference_telocation_title">Telocation</string>
+    <string name="preference_telocation_title">Lokalizacja</string>
     <string name="preference_tone_title">Ton</string>
     <string name="prepare_import">przygotuj import</string>
     <string name="preview_contact_card_title">Przywróć kartę kontaktu</string>
@@ -611,13 +670,12 @@
     <string name="progress_notifier_message" formatted="false">Przywracanie %s/%s: %s</string>
     <string name="quickcontact_missing_app">Nie znaleziono aplikacji do obsługi tego działania.</string>
     <string name="quit_dialog_confirm_title">Na pewno chcesz zakończyć łączenie kontaktów?</string>
-    <string name="readOnlyContactDeleteConfirmation">Ten kontakt zawiera dane pochodzące z wielu kont. Informacje z kont przeznaczonych tylko do odczytu zostaną na
-        listach kontaktów ukryte, a nie usunięte.</string>
-    <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" zawiera dane z kilku kont. Informacje z konty tylko do odczytu zostaną ukryte, ale nie
-        usunięte.</string>
+    <string name="readOnlyContactDeleteConfirmation">Ten kontakt zawiera dane pochodzące z wielu kont. Informacje z kont przeznaczonych tylko do odczytu zostaną na listach kontaktów ukryte, a nie usunięte.</string>
+    <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" zawiera dane z kilku kont. Informacje z konty tylko do odczytu zostaną ukryte, ale nieusunięte.</string>
     <string name="readOnlyContactWarning">Nie możesz usunąć kontaktów z kont tylko do odczytu, ale możesz ukryć je na swoich listach kontaktów.</string>
     <string name="reading_vcard_canceled_title">Odczytywanie z vCard anulowane</string>
     <string name="reading_vcard_failed_title">"Nie można odczytać danych vCard"</string>
+    <string name="rebuild_t9_index_dialog_message">Przebudowywanie indeksu…</string>
     <string name="recent">Ostatnie</string>
     <string name="recentCallsIconLabel">Rejestr</string>
     <string name="recentCalls_addToContact">Dodaj do kontaktów</string>
@@ -635,14 +693,18 @@
     <string name="remind_btn_ignore">Ignoruj</string>
     <string name="remind_btn_sync_now">Synchronizuj teraz</string>
     <string name="removePhoto">Usuń zdjęcie</string>
-    <string name="remove_duplicate">"MIUI znajdzie zduplikowane kontakty a Ty zadecydujesz, które połączyć. Łączenie kontaktów może trochę potrwać."</string>
+    <string name="remove_duplicate">"MIUI znajdzie zduplikowane kontakty a Ty zadecydujesz, które połączyć.
+
+ Łączenie kontaktów może trochę potrwać."</string>
     <string name="restore_nickname">Przywróć</string>
-    <string name="ret_sign">" "</string>
+    <string name="ret_sign">" 
+"</string>
     <string name="returnCall">Powrót do połączenia</string>
     <string name="ringLabelsGroup">Dzwonek</string>
     <string name="save_photo_progress">Zapisywanie zdjęcia...</string>
     <string name="savingContact">Zapisywanie kontaktu…</string>
     <string name="savingDisplayGroups">Trwa zapisywanie opcji wyświetlania...</string>
+    <string name="scan">skanuj</string>
     <string name="scan_duplicate_message">Całkowicie zduplikowane kontakty: %1$d</string>
     <string name="scan_merge">Wyszukiwanie zduplikowanych kontaktów, proszę czekać...</string>
     <string name="scanning">Wyszukiwanie urządzeń…</string>
@@ -749,8 +811,11 @@
     <string name="unknown">Nieznane</string>
     <string name="unknown_contact_name">Nieznany</string>
     <string name="upgrade_in_progress">Lista kontaktów jest aktualizowana.</string>
-    <string name="upgrade_out_of_memory">Trwa proces uaktualniania kontaktów. Proces uaktualniania wymaga w przybliżeniu %s MB pamięci wewnętrznej. Wybierz jedną z
-        następujących opcji:</string>
+    <string name="upgrade_out_of_memory">Trwa proces uaktualniania kontaktów. 
+
+Proces uaktualniania wymaga w przybliżeniu %s MB pamięci wewnętrznej. 
+
+Wybierz jedną z następujących opcji:</string>
     <string name="upgrade_out_of_memory_retry">Ponów próbę uaktualnienia</string>
     <string name="upgrade_out_of_memory_uninstall">Odinstaluj część aplikacji</string>
     <string name="use_photo_as_primary">Użyj tego zdjęcia</string>

@@ -157,7 +157,6 @@
   <string name="caller_id_sum_miui">Ukryj/pokaż numer dla połączeń wychodzących (jeśli wspierane przez operatora)</string>
   <string name="caller_id_title_miui">ID rozmówcy</string>
   <string name="caller_manage_header">Połączenie konferencyjne %s</string>
-  <string name="caller_manage_manage_done_text">Powrót do połączenia</string>
   <string name="calling_via_template">"Połączenie za pośrednictwem operatora %s"</string>
   <string name="calling_via_template_miui">"Połączenie za pośrednictwem operatora %s"</string>
   <string name="cancel">Anuluj</string>
@@ -221,7 +220,8 @@
   <string name="connect_later">Nie można połaczyć się z siecią. Spróbuj ponownie później.</string>
   <string name="contactPhoto">zdjęcie kontaktu</string>
   <string name="contacts_icon_label_miui">Kontakty</string>
-  <string name="count_of_persons_in_conference_miui">%d kontaktów</string>
+  <string name="count_down">Sekund:</string>
+    <string name="count_of_persons_in_conference_miui">%d kontaktów</string>
   <string name="countrycode_alert_message_warning_miui">Kod kierunkowy może być nieprawidłowy. Czy na pewno zastosować?</string>
   <string name="countrycode_alert_message_wrong_miui">Kod kierunkowy jest nieprawidłowy.</string>
   <string name="countrycode_alert_title_miui">Alert</string>
@@ -230,7 +230,9 @@
   <string name="current_areacode_miui">Kierunkowy</string>
   <string name="current_areacode_sum_miui">Kod kierunkowy obecnej lokalizacji. Na przykład: 070</string>
   <string name="current_areacode_sum_set_miui">Kod kierunkowy obecnej lokalizacji: %s</string>
+  <string name="cursorError">Cursor is not having proper data !!!</string>
   <string name="custom_location_location_hint_miui">Nazwa</string>
+  <string name="custom_location_location_no_item_miui">"Naciśnij 'Dodaj' aby dodać własny numer kierunkowy"</string>
   <string name="custom_location_number_hint_miui">Kierunkowy np. 070</string>
   <string name="cw_title_miui">Połączenia oczekujące</string>
   <string name="data_enable_summary">Włącz przesył danych przez sieć komórkową</string>
@@ -433,7 +435,6 @@
   <string name="incall_error_supp_service_unknown">Nieobsługiwana usługa.</string>
   <string name="incall_screen_background_summary_miui">"Użyj tapety ekranu blokady jeśli nie ustawiono zdjęcia kontaktu"</string>
   <string name="incall_screen_background_title_miui">Tło ekranu rozmowy</string>
-  <string name="incall_status_dialed_fc">Starting feature code sequence…</string>
   <string name="international_disable">Wiadomości międzynarodowe wyłączone</string>
   <string name="international_enable">Wiadomości międzynarodowe włączone</string>
   <string name="internet_phone">Połączenie internetowe</string>
@@ -659,7 +660,8 @@
   <string name="pin2_lock_warning_miui">" Please notice that PIN2 related functionality will be locked if failed again!"</string>
   <string name="pin2_locked_message_miui">Incorrect PIN2, and the PIN2 related functionality is locked. Please reset PIN2 by PUK2.</string>
   <string name="pin2_or_fdn_invalid">Nie zaktualizowano FDN. PIN2 był niepoprawny lub numer telefonu został odrzucony.</string>
-  <string name="pin_attempts_miui">Pozostało %d prób</string>
+  <string name="pin2_unblocked">PIN2 odblokowany!</string>
+    <string name="pin_attempts_miui">Pozostało %d prób</string>
   <string name="pin_changed">Kod PIN do karty SIM został pomyślnie zmieniony</string>
   <string name="pin_changed_miui">SIM PIN changed successfully</string>
   <string name="pin_failed">Wprowadzony kod PIN był nieprawidłowy</string>
@@ -717,7 +719,8 @@
     <string name="puk2_blocked">PUK2 is permanently blocked.</string>  
 <string name="puk_lock_warning_miui">" Please notice that SIM card will be trashed if failed again!"</string>
   <string name="puk_requested">Hasło nieprawidłowe, SIM zablokowana! PUK2 jest wymagany.</string>
-  <string name="puk_unlocked">Karta SIM została odblokowana. Odblokowywanie telefonu...</string>
+  <string name="puk_unlock_success">Odblokowanie PUK pomyślne.</string>
+    <string name="puk_unlocked">Karta SIM została odblokowana. Odblokowywanie telefonu...</string>
   <string name="radio_off_error">Przed wyświetleniem tych ustawień należy włączyć sieci bezprzewodowe.</string>
   <string name="rc_unlock_failed">RUIM Corporate unlock request unsuccessful.</string>
   <string name="reading_settings">Czytanie ustawień...</string>
@@ -818,15 +821,12 @@
   <string name="sim_lock_off_miui">Wymagaj kodu PIN by korzystać z telefonu</string>
   <string name="sim_lock_on_miui">Wymagaj kodu PIN by korzystać z telefonu</string>
   <string name="sim_lock_title_miui">Ustawienia blokady SIM</string>
-  <string name="sim_missing_continueView_text">Kontynuuj bez karty SIM</string>
-  <string name="sim_missing_msg_text">Nie znaleziono karty SIM. Włóż kartę SIM do telefonu.</string>
   <string name="sim_ndp_dismiss_text">Zamknij</string>
   <string name="sim_ndp_unlock_text">Odblokuj</string>
   <string name="sim_pin_change_miui">Zmień SIM PIN</string>
   <string name="sim_pin_toggle_miui">Zablokuj kartę SIM</string>
   <string name="sip_account_list">Konta SIP</string>
   <string name="sip_accounts">Konta SIP</string>
-  <string name="sip_accounts_summary">Dzwonienie przez Internet (SIP)</string>
   <string name="sip_accounts_title">Konta</string>
   <string name="sip_add_account_tip_text">Dodaj konto SIP by dzwonić przez Internet</string>
   <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
@@ -906,7 +906,8 @@
   <string name="throttle_status_subtext">"%1$s (%2$d٪) of %3$s period maximum. Next period starts in %4$d days (%5$s)"</string>
   <string name="throttle_time_frame">Okres użycia danych</string>
   <string name="throttle_time_frame_subtext">"Upłynęło %1$d٪ okresu. Następny okres zaczyna się za %2$d dni (%3$s)"</string>
-  <string name="transport">Protocol</string>
+  <string name="title_data_settings">Ustawienia transferu</string>
+    <string name="transport">Protocol</string>
   <string name="transport_title">Typ transmisji</string>
   <string name="tty_mode_entries_full_miui">TTY Full</string>
   <string name="tty_mode_entries_hco_miui">TTY HCO</string>

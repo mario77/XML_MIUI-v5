@@ -209,7 +209,6 @@
     <string name="loading_video">Wczytywanie filmu…</string>
     <string name="local_bookmarks">Lokalne</string>
     <string name="location">Adres</string>
-    <string name="manage_feature_permissions">Uprawnienia</string>
     <string name="max_tabs_warning">Brak dostępnych kart</string>
     <string name="menu_disable_night_mode">Wyłącz tryb nocny</string>
     <string name="menu_enable_night_mode">Włącz tryb nocny</string>
@@ -218,8 +217,6 @@
     <string name="menu_save_snapshot">Zapisz do czytania offline</string>
     <string name="menu_share_url">Udostępnij</string>
     <string name="menu_view_download">Pobrane</string>
-    <string name="miui_yellowpage_category">Kategoria</string>
-    <string name="miui_yellowpage_site">Strona</string>
     <string name="move_to_up_folder">W górę</string>
     <string name="multi_select_title">Zaznaczono %1$s</string>
     <string name="name">Etykieta</string>
