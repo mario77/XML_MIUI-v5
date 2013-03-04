@@ -627,7 +627,7 @@ Aby dodać kontakt do listy ulubionych:
     <string name="pref_title_import_from_account">Przywracanie z konta Xiaomi</string>
     <string name="preference_auto_ip_summary_disable">Nieaktywne</string>
     <string name="preference_auto_ip_summary_on">"Prefiks operatora: %s"</string>
-    <string name="preference_auto_ip_title">Wybieranie Ip</string>
+    <string name="preference_auto_ip_title">Wybieranie IP</string>
     <string name="preference_contacts">Kontakty</string>
     <string name="preference_contacts_display">Wyświetlanie kontaktów</string>
     <string name="preference_contacts_filter">Pokaż kontakty z kont online</string>

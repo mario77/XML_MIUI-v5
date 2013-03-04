@@ -6,11 +6,11 @@
 "</string>
     <string name="active_xiaomi_account_title">Aktywuj konto Xiaomi</string>
     <string name="app_name">Aktualizacje</string>
-    <string name="apply_buddy_update_info_message">"Wybierz Zastosuj teraz, a telefon zostanie uruchomiony ponownie. 
+    <string name="apply_buddy_update_info_message">"Wybierz 'Instaluj' aby rozpocząć instalację aktualizacji. Gdy proces zostanie zakończony uruchom telefon ponownie. 
     W przypadku Xiaomi MI-1 lub MI-2 telefon uruchomi się na drugim systemie."</string>
     <string name="apply_existing_update_md5error_title">MD5 się nie zgadza.</string>
-    <string name="apply_later_button_text">Zastosuj później</string>
-    <string name="apply_now_button_text">Zastosuj teraz</string>
+    <string name="apply_later_button_text">Anuluj</string>
+    <string name="apply_now_button_text">Instaluj</string>
     <string name="apply_unable_to_reboot_toast">Nie można uruchomić w trybie recovery</string>
     <string name="apply_update_dialog_cancel_button">Anuluj</string>
     <string name="apply_update_dialog_update_button">Aktualizuj</string>
@@ -18,7 +18,7 @@
     <string name="apply_upload_info_message">Zastosować aktualizację?</string>
     <string name="apply_upload_info_message_manually">Wyłącz telefon i ręcznie uruchom w Recovery by zastosować aktualizację z SD w %s.</string>
     <string name="applying_rom_message">Instalacja ROMu</string>
-    <string name="applying_update">Aktualizowanie...%s</string>
+    <string name="applying_update">Instalacja aktualizacji w toku...%s</string>
     <string name="best_update">Najlepsza aktualizacja</string>
     <string name="boot_recovery">Uruchom w Recovery</string>
     <string name="cancel_download_buton_text">Anuluj pobieranie</string>
@@ -82,7 +82,7 @@
     <string name="paused_queued_for_network">Oczekiwanie na połączenie z siecią</string>
     <string name="paused_queued_for_wifi">Oczekiwanie na połączenie z Wi-Fi</string>
     <string name="previous">Poprzedni</string>
-	<string name="reboot_to_new_system">Restart systemu</string>
+	<string name="reboot_to_new_system">Uruchom ponownie</string>
     <string name="recommend">Poleć</string>
     <string name="recommend_comment_hint">Powód (opcjonalnie)</string>
     <string name="recommend_vote_title">MIUI Beta Team Poll</string>
@@ -104,16 +104,16 @@
     <string name="sign_in_info_rank_more">"Your update ranking is after %1$s Over %2$s users have signed in for MIUI %3$s"</string>
     <string name="sign_in_info_total_more">"Your update ranking is %1$s Over %2$s users have signed in for MIUI %3$s"</string>
     <string name="stable_build">Wersja stabilna</string>
-    <string name="start_update">Aktualizuj</string>
+    <string name="start_update">Zastosuj teraz</string>
     <string name="submit">Wyślij</string>
     <string name="submit_fail">Nie udało się wysłać</string>
     <string name="submit_progress">Wysyłanie...</string>
     <string name="submit_success">Wysłano pomyślnie!</string>
-    <string name="system_backup_button_text">Kopia</string>
+    <string name="system_backup_button_text">Kopia danych</string>
     <string name="system_backup_cancel_text">Uruchom ponownie</string>
     <string name="system_backup_error_message">Błąd przy próbie kopii systemu</string>
     <string name="system_backup_ok_text">Kopia</string>
-    <string name="sytemt_backup_helper">Aktualizacja nie ma wpływu na dane użytkownika. Zaleca się dla bezpieczeństwa danych wykonanie kopii zapasowej</string>
+    <string name="sytemt_backup_helper">Aktualizacja nie ma wpływu na dane użytkownika. Zaleca się jednak wykonanie kopii danych osobistych za pomocą aplikacji Kopia MIUI</string>
     <string name="top_secret_build">Ściśle tajna wersja</string>
     <string name="update_comment_hint">(opcjonalne)</string>
     <string name="update_comment_title">Twoje komentarze</string>
@@ -124,9 +124,9 @@
     <string name="update_happy">Zadowolony</string>
     <string name="update_monthly_build_only">Aktualizuj do wersji miesięcznej</string>
     <string name="update_sad">Niezadowolony</string>
-    <string name="update_success">Aktualizacja udana!</string>
+    <string name="update_success">Instalacja aktualizacji zakończona!</string>
     <string name="update_success_body">Aktualizacja do %s udana</string>
-    <string name="update_success_title">Aktualizacja udana!</string>
+    <string name="update_success_title">Instalacja aktualizacji zakończona!</string>
     <string name="upgrade_close">Zamknij</string>
     <string name="upgrade_kernel">Aktualny kernel wymaga aktualizacji</string>
     <string name="upgrade_kernel_msg">"Aktualna wersja kernela nie pokrywa się z tą z romu MIUI. Możesz uaktualnić kernel ręcznie. Zapoznaj się z pomocą:

@@ -59,6 +59,8 @@
     <string name="confirm_delete_message">Wiadomość zostanie usunięta.</string>
     <string name="confirm_dialog_locked_title">Czy usunąć zablokowaną wiadomość?</string>
     <string name="confirm_dialog_title">Usunąć?</string>
+    <string name="confirm_export_dialog_description">Usuń 1 zaznaczony prywatny kontakt a aplikacja powróci do normalnego trybu SMS. Kontynuować?</string>
+    <string name="confirm_export_dialog_title">Usuń prywatny kontakt</string>
     <string name="confirm_rate_limit">Wysyłanych jest wiele wiadomości multimedialnych. Czy to jest OK?</string>
     <string name="context_menu_add_contact">Dodaj do kontaktów</string>
     <string name="context_menu_browse_web">Przeglądarka</string>
@@ -89,7 +91,7 @@
     <string name="delivery_report_activity">Raport o dostawie</string>
     <string name="delivery_toast_body">Wiadomość odebrana przez: %s</string>
     <string name="disable_notifications_dialog_message">Zatrzymać zduplikowane powiadomienia o wiadomościach od aplikacji SMS?</string>
-    <string name="discard">Odrzuć</string>
+    <string name="discard">Wyjdź</string>
     <string name="discard_message">Odrzuć</string>
     <string name="discard_message_reason">Wiadomość zostanie odrzucona, ponieważ nie zawiera poprawnych odbiorców.</string>
     <string name="discard_slideshow">Odrzuć pokaz slajdów</string>
@@ -118,7 +120,7 @@
     <string name="ex_type_sms">SMS</string>
     <string name="exceed_message_size_limitation">Osiągnięto maksymalny rozmiar wiadomości.</string>
     <string name="expire_on">Traci ważność: %s</string>
-    <string name="exporting_progress_private_message">Exporting messages from private MessageBox</string>
+    <string name="exporting_progress_private_message">Kopiowanie wiadomości z prywatnej skrzynki</string>
     <string name="failed_to_add_media">Niestety, nie można dodać: %1$s do wiadomości.</string>
     <string name="failed_to_resize_image">Nie zmieniono rozmiaru zdjęcia.</string>
     <string name="fdn_check_failure">Wiadomości możesz wysyłać wyłącznie na swoje ustalone numery.</string>
@@ -132,7 +134,7 @@
     <string name="found_old_messages_title">Skopiuj wiadomości</string>
     <string name="found_wild_messages">Znaleziono wiadomości na innych kartach SIM w Chmurze: %s. Rozpocząć pobieranie?</string>   
     <string name="found_wild_messages_title">Pobrane wiadomości</string>    
-<string name="from_label">"Od: "</string>
+    <string name="from_label">"Od: "</string>
     <string name="group_message">Wiadomość grupowa</string>
     <string name="group_message_failed_title">Wysłanie %d wiadomości nieudane. Ponowić?</string>
     <string name="group_resend_message">Ponowne wysyłanie(%d)</string>
@@ -141,7 +143,7 @@
     <string name="has_invalid_recipient">%1$s nieprawidłowych odbiorców</string>
     <string name="hidden_sender_address">Ukryty adres nadawcy</string>
     <string name="hint_search_sms">%d sms</string>
-    <string name="importing_progress_private_message">Importing messages to private MessageBox</string>
+    <string name="importing_progress_private_message">Wczytywanie wiadomości do prywatnej skrzynki</string>
     <string name="in_sms">Wiadomość</string>
     <string name="insufficient_drm_rights">Wykryto niewystarczające uprawnienia DRM.</string>
     <string name="invalid_destination">Wprowadzono nieprawidłowy adres.</string>
@@ -200,7 +202,7 @@
     <string name="mx_btn_enable">Włącz</string>
     <string name="mx_count_dspt">Od momentu aktywacji, MIUI wysłało dla Ciebie %1$d wiadomości w chmurze (%2$s)</string>
     <string name="mx_current_status">Status: Online</string>   
- <string name="mx_dspt">Wysyłaj wiadomości przez Internet pomiędzy telefonami z MIUI</string>
+    <string name="mx_dspt">Wysyłaj wiadomości przez Internet pomiędzy telefonami z MIUI</string>
     <string name="mx_enable">Wiadomości w chmurze</string>
     <string name="mx_enable_popup_msg">Wiadomości w chmurze pozwalają na wysyłanie SMS pomiędzy systemem MIUI. Wymagane jest wysłanie SMS w celu aktywacji usługi. Koszt SMS wg. taryfy operatora! Aktywować usługę teraz?</string>
     <string name="mx_msg">Funkcje Online</string>
@@ -252,8 +254,8 @@
     <string name="pref_summary_show_recent_contacts">Pokazuj listę ostatnich kontaktów podczas tworzenia wiadomości</string>
     <string name="pref_summary_wake_up_screen">Włącza ekran przy otrzymaniu wiadomości</string>
     <string name="pref_system_title">System</string>
-    <string name="pref_time_auto_group_summary">Grupuje wiadomości po czasie</string>
-    <string name="pref_time_auto_group_title">Grupowy</string>
+    <string name="pref_time_auto_group_summary">Grupuje wiadomości wg. czasu otrzymania lub wysłania</string>
+    <string name="pref_time_auto_group_title">Sortuj wg. czasu</string>
     <string name="pref_title_allow_si_sl_push">WAP push</string>
     <string name="pref_title_delivery_reports">Raporty doręczeń</string>
     <string name="pref_title_hide_festival">Ukryj zakładkę Polecane</string>
@@ -277,11 +279,11 @@
     <string name="priority_low">Niski</string>
     <string name="priority_normal">Normalny</string>
     <string name="privacy_mode_hint">Nie można wysłać wiadomości w trybie chronionym</string>
-<string name="private_message">Prywatna wiadomość</string>
-    <string name="private_new_notification">Powiadomienie o nowej prywatnej wiadomości</string>
+    <string name="private_message">Prywatne wiadomości</string>
+    <string name="private_new_notification">Powiadom o nadejściu wiadomości</string>
     <string name="private_protect">Ochrona prywatności</string>
     <string name="private_settings">Ustawienia</string>   
- <string name="processing">Przetwarzanie...</string>
+    <string name="processing">Przetwarzanie...</string>
     <string name="prvate_contact">Prywatny kontakt</string>
     <string name="rate_limit_surpassed">Potwierdź</string>
     <string name="received_label">"Otrzymano: "</string>
@@ -311,6 +313,7 @@
     <string name="search_hint">Przeszukaj wiadomości</string>
     <string name="search_label">Wiadomości</string>
     <string name="search_setting_description">Tekst w wiadomościach</string>
+    <string name="search_show_more_results">Więcej</string>
     <string name="secs">s</string>
     <string name="select_audio">Wybierz plik audio</string>
     <string name="select_bottom_text">Tekst na dole</string>
@@ -351,7 +354,9 @@
     <string name="status_received">Odebrane</string>
     <string name="status_rejected">Odrzucony</string>
     <string name="status_unread">Nieprzeczytany</string>
-    <string name="stick">Pin</string>
+    <string name="stick">Przypnij</string>
+    <string name="stick_conversation">Przypnij ten wątek</string>
+    <string name="sticked_conversation">Wątek przypięty</string>
     <string name="storage_limits_activity">Limity pamięci</string>
     <string name="storage_limits_message">Czy chcesz ograniczyć liczbę wiadomości zapisywanych w wątku?</string>
     <string name="storage_limits_setting">Ustaw limity</string>
@@ -384,7 +389,9 @@
     <string name="undelivered_sms_dialog_body">Nie można wysłać tej wiadomości.</string>
     <string name="unknown_num">Nieznany numer</string>
     <string name="unknown_sender">Nieznany nadawca</string>
-    <string name="unstick">Unpin</string>
+    <string name="unstick">Odepnij</string>
+    <string name="unstick_conversation">Odepnij wątek</string>
+    <string name="unsticked_conversation">Konwersacja odpięta</string>
     <string name="unsupported_media_format">Nieobsługiwany format elementu %1$s</string>
     <string name="view">Wyświetl</string>
     <string name="view_bookmark">Wyświetl wiadomość oryginalną</string>

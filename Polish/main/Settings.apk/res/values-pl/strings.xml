@@ -1379,7 +1379,7 @@ Note: Apps with the permission may cause system instability, even loss of person
     <string name="privacy_relative">Privacy related</string>
     <string name="privacy_settings">Kopia i kasowanie danych</string>
     <string name="privacy_settings_title">Ustawienia prywatności</string>
-    <string name="private_sms_need_to_unlock">Podaj prywatne hasło SMS</string>
+    <string name="private_sms_need_to_unlock">Podaj hasło do prywatnej skrzynki SMS</string>
     <string name="private_sms_recording_intro_header">Narysuj wzór aby utworzyć blokadę</string>
     <string name="private_sms_reset_by_account">Aby zresetować hasło SMS zaloguj się do konta Xiaomi.</string>
     <string name="process_kernel_label">System operacyjny Android</string>

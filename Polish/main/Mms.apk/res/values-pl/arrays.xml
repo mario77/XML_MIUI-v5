@@ -34,8 +34,8 @@
         <item>Inne...</item>
     </string-array>
     <string-array name="entries_date_type">
-        <item>Pokaż czas otrzymania</item>
-        <item>Pokaż czas wysłania</item>
+        <item>Czas otrzymania</item>
+        <item>Czas wysłania</item>
     </string-array>
      <string-array name="resent_via_entries_sms">
         <item>Używając wiadomości SMS</item>

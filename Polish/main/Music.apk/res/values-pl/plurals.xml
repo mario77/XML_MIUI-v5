@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ntracks_search_result_format">
-        <item quantity="other">%d utwóry</item>
+        <item quantity="other">%d utwory</item>
         <item quantity="one">%d utwór</item>
     </plurals>
     <plurals name="Ntracks_total">
