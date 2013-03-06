@@ -284,8 +284,8 @@
   <string name="dial">Wybierz</string>
   <string name="dial_emergency_empty_error">Połączenie niezrealizowane, należy wybrać numer alarmowy!</string>
   <string name="dial_emergency_error">Połączenie niezrealizowane, %s nie jest numerem alarmowym!</string>
-    <string name="dial_related_setting_catory_miui">Dial</string>  
-<string name="dialerKeyboardHintText">Użyj klawiatury do wybierania</string>
+  <string name="dial_related_setting_catory_miui">Ustawienia wybierania</string>  
+  <string name="dialerKeyboardHintText">Użyj klawiatury do wybierania</string>
   <string name="disable">Wyłącz</string>
   <string name="disable_all_cf_miui">Wyłącz przekierowanie połączeń</string>
   <string name="disable_cfb_forbidden">Twój operator nie umożliwia wyłączenia przekazywania połączeń, gdy numer jest zajęty.</string>

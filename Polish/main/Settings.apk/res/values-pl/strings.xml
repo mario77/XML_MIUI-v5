@@ -1983,7 +1983,6 @@ Zaufaj aplikacji？"</string>
     <string name="virus_scanner_auto_update">Autom. aktualizacja</string>
     <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
     <string name="virus_scanner_lib_already_latest">Baza wirusów aktualna</string>
-    <string name="virus_scanner_lib_update">Dostępna aktualizacja bazy wirusów</string>
     <string name="virus_scanner_lib_updating">Aktualizacja bazy...</string>
     <string name="virus_scanner_manual_update">Aktualizacja ręczna</string>
     <string name="virus_scanner_provider">Security provided by %s</string>

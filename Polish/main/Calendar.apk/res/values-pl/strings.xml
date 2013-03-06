@@ -120,9 +120,6 @@
     <string name="no_syncable_calendars">Brak kalendarzy</string>
     <string name="no_title_label">(Bez tytułu)</string>
     <string name="not_synced">niezsynchronizowany</string>
-    <string name="prefDefault_alerts_vibrateWhen">never</string>
-    <string name="prefDefault_alerts_vibrate_false">never</string>
-    <string name="prefDefault_alerts_vibrate_true">always</string>
     <string name="prefDialogTitle_vibrateWhen">Wibracje</string>
     <string name="preferences_about_title">Informacje</string>
     <string name="preferences_alerts_popup_title">Wyświetl na ekranie</string>

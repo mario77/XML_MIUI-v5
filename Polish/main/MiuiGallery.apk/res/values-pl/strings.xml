@@ -19,7 +19,7 @@
     <string name="auto_create_recent_album_over_ten_times">Utwórz ulubione albumy po ich otwarciu więcej niż 10 razy</string>
     <string name="autofix">Auto-fix</string>
     <string name="bigscrren_slide_exit">Wyjdź z pokazu slajdów</string>
-    <string name="browse_category">Zdjęcia</string>
+    <string name="browse_category">Albumy</string>
     <string name="camera_connected">Aparat podłączony.</string>
     <string name="camera_disconnected">Aparat rozłączony.</string>
     <string name="camera_folder_display_name">Zdjęcia aparatu</string>
@@ -29,11 +29,11 @@
     <string name="cant_delete_system_album">%s jest katalogiem systemowym i nie może być usunięty!</string>
     <string name="cleaning_cache">Czyszczenie pamięci podręcznej...</string>
     <string name="clear_thumbnail_cache">Wyczyść pamięć podręczną</string>
-    <string name="clear_thumbnail_cache_confirm">Pamięć podręczna zostanie usunięta. Galeria ponownie przeskanuje pliki multimedialne i odtworzy miniaturki.</string>
+    <string name="clear_thumbnail_cache_confirm">Pamięć podręczna zostanie usunięta. Galeria ponownie przeskanuje pliki multimedialne i odtworzy miniaturki zdjęć.</string>
     <string name="clear_thumbnail_cache_summary">Przeglądanie galerii generuje miniaturki zdjęć. Usunięcie pamięci podręcznej może zwolnić miejsce w pamięci wewnętrznej.</string>
     <string name="click_to_enter_camera">Otwórz Aparat</string>
     <string name="close">Zamknij</string>
-    <string name="cloud_album_more_settings">Albumy online i automatyczne kopiowanie</string>
+    <string name="cloud_album_more_settings">Albumy online</string>
     <string name="cloud_album_set_create">Nowy</string>
     <string name="cloud_albums">Albumy online</string>
     <string name="cloud_camera_display_name">Nieprzydzielone</string>
@@ -125,7 +125,7 @@
     <string name="import_complete">Importowanie udane</string>
     <string name="import_fail">Importowanie nieudane</string>
     <string name="initial_cloud_button_text">Rozpocznij korzystanie z albumów w chmurze</string>
-    <string name="initial_cloud_text">Any time and any place · Organize and view your photos</string>
+    <string name="initial_cloud_text">Wyświetlaj i organizuj zdjęcia w każdej chwili za pomocą MiCloud</string>
     <string name="input_cloudfolder_name">Nazwa katalogu</string>
     <string name="internal_camera_folder_display_name">Zdjęcia z aparatu</string>
     <string name="internal_miui_capture_screen_folder_display_name">Zrzuty ekranu</string>
@@ -199,7 +199,7 @@
     <string name="rename_failed">Zmiana nazwy nieudana</string>
     <string name="rename_failed_duplicated_name">Nazwa już istnieje, nie można zmienić</string>
     <string name="rotate">Obróć</string>
-    <string name="rotate_tooltip">Przeciągnij zdjęcie by obrócić</string>
+    <string name="rotate_tooltip">Przeciągnij zdjęcie aby obrócić</string>
     <string name="saturation">Saturacja</string>
     <string name="save">Zapisz</string>
     <string name="save_error">"Nie udało się zapisać zdjęcia."</string>
@@ -227,11 +227,11 @@
     <string name="set_recent_album">Ustaw jako ulubiony album</string>
     <string name="set_wallpaper">Ustaw jako tapetę pulpitu</string>
     <string name="settings">Ustawienia</string>
-    <string name="settings_i_xiaomi_com">Login i.xiaomi.com to see your cloud album(s) anytime</string>
+    <string name="settings_i_xiaomi_com">Zaloguj się do i.xiaomi.com aby wyświetlić swoje albumy w chmurze</string>
     <string name="shadow">Cienie</string>
     <string name="sharpen">Wyostrzenie</string>
     <string name="show_all">Zdjęcia i filmy</string>
-    <string name="show_hidden_album">Pokaż ukryty album</string>
+    <string name="show_hidden_album">Pokaż ukryte albumy</string>
     <string name="show_hidden_albums">Pokaż ukryte albumy</string>
     <string name="show_images_only">Tylko zdjęcia</string>
     <string name="show_on_map">Pokaż na mapie</string>
@@ -245,7 +245,7 @@
     <string name="slideshow_interval">Przedział czasu</string>
     <string name="slideshow_interval_dialog_title">Przedział czasu musi być większy od 0 sekund</string>
     <string name="slideshow_interval_invalid">Nieprawidłowy przedział czasu. Musi się zawierać między 1 a 3600.</string>
-    <string name="slideshow_repeat_mode">Powtarzanie</string>
+    <string name="slideshow_repeat_mode">Powtarzanie pokazu</string>
     <string name="storage_all_volumes">Wszystkie magazyny danych</string>
     <string name="storage_no_space">"Brak miejsca w pamięci urządzenia."</string>
     <string name="straighten">Rozciąganie</string>
