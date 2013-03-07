@@ -318,6 +318,8 @@
     <string name="select_audio">Wybierz plik audio</string>
     <string name="select_bottom_text">Tekst na dole</string>
     <string name="select_different_media">Wybierz inny element %1$s.</string>
+    <string name="select_local_audio">Wybierz plik audio</string>
+    <string name="select_local_video">Wybierz film</string>
     <string name="select_link_title">Wybierz akcję</string>
     <string name="select_top_text">Tekst na górze</string>
     <string name="send">Wyślij</string>
