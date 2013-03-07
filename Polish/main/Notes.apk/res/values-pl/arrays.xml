@@ -19,4 +19,8 @@
         <item>Duża</item>
         <item>Największa</item>
     </string-array>
+    <string-array name="menu_share_ways">
+        <item>SMS</item>
+        <item>E-Mail</item>
+    </string-array>
 </resources>

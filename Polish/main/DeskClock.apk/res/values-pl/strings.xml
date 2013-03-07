@@ -97,7 +97,7 @@
   <string name="snooze_confirm_ok">Ok</string>
   <string name="start">Start</string>
   <string name="start_up">Start</string>
-  <string name="stopwatch_lap_empty_text">Brak</string>
+  <string name="stopwatch_lap_empty_text">Brak okrążeń</string>
   <string name="stopwatch_title">Stoper</string>
   <string name="system_time_setting">Ustawienia</string>
   <string name="time">Godzina</string>

@@ -9,14 +9,14 @@
         <item>Menedżer plików</item>
         <item>Galeria</item>
         <item>Uprawnienia</item> 
+        <item>Pogoda</item>
         <item>Aparat</item>
         <item>Monitor danych</item>
-        <item>Pogoda</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Kontakty</item>
         <item>Rejestr połączeń</item>
-		<item>Wiadomości tekstowe</item>
+        <item>Wiadomości tekstowe</item>
         <item>Wiadomości MMS</item>
         <item>Ustawienia systemowe</item>
         <item>Ustawienia Wi-Fi</item>

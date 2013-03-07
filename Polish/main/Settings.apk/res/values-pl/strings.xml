@@ -1373,10 +1373,15 @@ Note: Apps with the permission may cause system instability, even loss of person
     <string name="pref_volume_wake_title">Wybudzenie</string>
     <string name="preference_change_password_title">Zmień hasło</string>
     <string name="preferred_media_app_summary">Wybierz aplikację muzyki</string>
+    <string name="preferred_launcher_title">Domyślny Launcher</string>
+    <string name="preferred_launcher_warning_title">Zamiana standardowego launchera</string>
+    <string name="preferred_launcher_warning_message">Zamiana domyślnego launchera może powodować większe użycie zasobów. Kontynuować?</string>
+    <string name="preferred_launcher_warning_replace">Zamień launcher</string>
+    <string name="preferred_launcher_warning_use_system">Użyj domyślnego</string>
     <string name="privacy_mode_enable_sum">Ukryj rejestr połączeń, wiadomości i inne dane podczas korzystania z trybu poufnego</string>
     <string name="privacy_mode_enable_title">Tryb poufny</string>
     <string name="privacy_protect_title">Prywatność</string>
-    <string name="privacy_relative">Privacy related</string>
+    <string name="privacy_relative">Prywatność i powiązane</string>
     <string name="privacy_settings">Kopia i kasowanie danych</string>
     <string name="privacy_settings_title">Ustawienia prywatności</string>
     <string name="private_sms_need_to_unlock">Podaj hasło do prywatnej skrzynki SMS</string>

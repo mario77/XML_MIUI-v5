@@ -9,6 +9,8 @@
   <string name="alert_message_delete_notes">Potwierdzić usunięcie wybranych %1$s notatek?</string>
   <string name="alert_message_discard_changes">Odrzucić zmiany?</string>
   <string name="alert_title_delete">Usuń zaznaczone notatki</string>
+  <string name="alert_title_exceed_image_limit">Nie można wstawić więcej zdjęć!</string>
+  <string name="alert_message_exceed_image_limit">Tylko 15 zdjęć może być jednorazowo dołączone do notatki.</string>
   <string name="alert_title_discard">Odrzuć</string>
   <string name="app_name">Notatki</string>
   <string name="app_widget">Notatki</string>
@@ -17,6 +19,7 @@
   <string name="attachment_gallery">Galeria</string>
   <string name="button_new_note">Nowa notatka</string>
   <string name="call_record_folder_name">Notatki połączeń</string>
+  <string name="close">Zamknij</string>
   <string name="default_folder_name">Notatki</string>
   <string name="enable_sync">Synchronizacja</string>
   <string name="enable_sync_desc">Notatki mogą być synchronizowane z kontem Xiaomi. Zalogować teraz?</string>

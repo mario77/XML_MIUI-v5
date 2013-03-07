@@ -232,7 +232,7 @@ d MMMM, yyyy"</string>
     <string name="status_bar_toggle_network_type">Tryb sieci</string>
     <string name="status_bar_toggle_power_high">Wydajny</string>
     <string name="status_bar_toggle_power_low">Oszczędny</string>
-    <string name="status_bar_toggle_power_mid">Zrównoważony</string>
+    <string name="status_bar_toggle_power_mid">Normalny</string>
     <string name="status_bar_toggle_power_mode">Zasilanie</string>
     <string name="status_bar_toggle_privacy_mode">Prywatny</string>
     <string name="status_bar_toggle_reboot">Restart</string>

@@ -264,6 +264,7 @@
   <string name="pref_camera_picturesize_entry_320x240">QVGA</string>
   <string name="pref_camera_picturesize_entry_352x288">CIF</string>
   <string name="pref_camera_picturesize_entry_4000x3000">12MP</string>
+  <string name="pref_camera_picturesize_entry_4208x3120">13MP</string>
   <string name="pref_camera_picturesize_entry_640x480">VGA</string>
   <string name="pref_camera_picturesize_entry_800x480">WVGA</string>
   <string name="pref_camera_picturesize_entry_800x600">SVGA</string>
@@ -275,6 +276,7 @@
   <string name="pref_camera_picturesize_professional_entry_2592x1944">5MP (2592x1944)</string>
   <string name="pref_camera_picturesize_professional_entry_3200x1800">6MP (3264x1836)</string>
   <string name="pref_camera_picturesize_professional_entry_3200x2400">8MP (3264X2448)</string>
+  <string name="pref_camera_picturesize_professional_entry_4208x3120">13MP (4208x3120)</string>
   <string name="pref_camera_picturesize_title">Rozmiar zdjęć</string>
   <string name="pref_camera_powermode_entry_lp">Low_Power</string>
   <string name="pref_camera_powermode_entry_np">Normal_Power</string>
@@ -433,6 +435,7 @@
   <string name="select_image">Zaznacz zdjęcie</string>
   <string name="select_item">Zaznacz element</string>
   <string name="select_video">Zaznacz wideo</string>
+  <string name="send">Wyślij</string>
   <string name="send_multiple_files_hint_format">Wyślij więcej plików (%s)</string>
   <string name="set_as">Ustaw jako</string>
   <string name="set_image">Ustaw zdjęcie jako</string>

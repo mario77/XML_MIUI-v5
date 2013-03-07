@@ -37,17 +37,21 @@
         <item>Czas otrzymania</item>
         <item>Czas wysłania</item>
     </string-array>
-     <string-array name="resent_via_entries_sms">
+        <string-array name="resent_via_entries">
         <item>Używając wiadomości SMS</item>
         <item>Używając wiadomości w chmurze</item>
     </string-array>
-     <string-array name="resent_via_entries_mms">
+    <string-array name="resent_via_entries_sms">
+        <item>Używając wiadomości SMS</item>
+        <item>Używając wiadomości w chmurze</item>
+    </string-array>
+    <string-array name="resent_via_entries_mms">
         <item>Używając wiadomości MMS</item>
         <item>Używając wiadomości w chmurze</item>
     </string-array>
-     <string-array name="prefEntries_vibrateWhen">
+    <string-array name="prefEntries_vibrateWhen">
         <item>Zawsze</item>
         <item>Tylko gdy cichy</item>
         <item>Nigdy</item>
-     </string-array>
+    </string-array>
 </resources>
