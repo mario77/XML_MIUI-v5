@@ -62,7 +62,8 @@ Wszystkie wcześniejsze dane użytkownika zostaną zapisane."</string>
     <string name="security_settings_desc">Zezwalaj tej aplikacji na:</string>
     <string name="settings">Ustawienia</string>
     <string name="trust_switch_dialog_msg">"MIUI nie będzie pytać o kwestie bezpieczeństwa i prywatności od tej aplikacji. 
-Zaufać aplikacji？"</string>
+
+Zaufać aplikacji?"</string>
     <string name="uninstall_activity_text">%1$s jest częścią następującej aplikacji:</string>
     <string name="uninstall_application_text">Ta aplikacja zostanie odinstalowana.</string>
     <string name="uninstall_application_title">Odinstaluj aplikację</string>
