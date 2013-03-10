@@ -159,6 +159,7 @@
     </style>
     <style name="V5.TextAppearance.List" parent="@style/V5.TextAppearance">
         <item name="android:textSize">@dimen/v5_text_font_size_list_primary</item>
+        <item name="android:textStyle">normal</item>
         <item name="android:textColor">?v5_list_text_color</item>
     </style>
     <style name="V5.TextAppearance.List.Primary" parent="@style/V5.TextAppearance.List" />
@@ -183,9 +184,9 @@
     </style>
     <style name="V5.TextAppearance.PreferenceCategory" parent="@style/V5.TextAppearance">
         <item name="android:textSize">@dimen/v5_text_font_size_preference_category</item>
-        <item name="android:textStyle">bold</item>
-        <item name="android:textAllCaps">true</item>
         <item name="android:textColor">?v5_secondary_text_color</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
     </style>
     <style name="V5.TextAppearance.PreferenceList" parent="@style/V5.TextAppearance">
         <item name="android:textSize">@dimen/v5_text_font_size_primary</item>
@@ -195,7 +196,7 @@
     <style name="V5.TextAppearance.ProgressDialogMessage" parent="@style/V5.TextAppearance">
         <item name="android:textSize">@dimen/v5_text_font_size_button</item>
         <item name="android:textStyle">bold</item>
-        <item name="android:textColor">@color/v5_secondary_tab_indicator_text_color_light</item>
+        <item name="android:textColor">@color/v5_progress_dialog_message_text_color_light</item>
     </style>
     <style name="V5.TextAppearance.ReloadingBar" parent="@style/V5.TextAppearance">
         <item name="android:textSize">@dimen/v5_text_font_size_title_bar_secondary_medium</item>
@@ -217,7 +218,7 @@
     </style>
     <style name="V5.TextAppearance.Title" parent="@style/V5.TextAppearance">
         <item name="android:textSize">@dimen/v5_text_font_size_title</item>
-        <item name="android:textStyle">normal</item>
+        <item name="android:textStyle">bold</item>
         <item name="android:textColor">?v5_title_text_color</item>
     </style>
     <style name="V5.TextAppearance.Title.Large" parent="@style/V5.TextAppearance.Title">
@@ -271,7 +272,7 @@
         <item name="android:expandableListViewStyle">@style/V5.Widget.ExpandableListView</item>
         <item name="android:listViewStyle">@style/V5.Widget.ListView</item>
         <item name="android:progressBarStyle">@style/V5.Widget.ProgressBar</item>
-        <item name="android:progressBarStyleHorizontal">@style/V5.Widget.ProgressBar.Horizontal.Small</item>
+        <item name="android:progressBarStyleHorizontal">@style/V5.Widget.ProgressBar.Horizontal</item>
         <item name="android:progressBarStyleSmall">@style/V5.Widget.ProgressBar.Small</item>
         <item name="android:progressBarStyleLarge">@style/V5.Widget.ProgressBar.Large</item>
         <item name="android:seekBarStyle">@style/V5.Widget.SeekBar</item>
@@ -330,6 +331,7 @@
         <item name="android:actionBarItemBackground">@null</item>
         <item name="android:panelMenuListTheme">@style/V5.Theme.Light.CompactMenu</item>
         <item name="android:timePickerStyle">@style/V5.Widget.TimePicker</item>
+        <item name="android:searchDialogTheme">@style/V5.Theme.Light.SearchBar</item>
         <item name="miui_ui_version">5</item>
         <item name="slidingButtonStyleDefault">@style/V5.Widget.SlidingButton</item>
         <item name="v5_action_bar_title_layout">@layout/v5_action_bar_title_item</item>
@@ -440,6 +442,12 @@
         <item name="v5_top_placeholder">@drawable/v5_tab_indicator_placeholder</item>
         <item name="v5_top_placeholder_enabled">true</item>
         <item name="seekBarForMultipositionBarStyle">@style/V5.Widget.SeekBar.ForMultiPositionBar</item>
+        <item name="searchViewSearchIcon">@*android:color/transparent</item>
+        <item name="searchViewTextField">@drawable/v5_edit_text_search_bg_light</item>
+        <item name="searchViewCloseIcon">@drawable/v5_edit_text_search_clear_btn_light</item>
+        <item name="searchViewTextFieldRight">@*android:color/transparent</item>
+        <item name="searchViewGoIcon">@drawable/v5_search_view_go_icon_light</item>
+        <item name="searchViewVoiceIcon">@drawable/v5_search_view_voice_icon_light</item>
     </style>
     <style name="V5.Theme.Dark" parent="@*android:style/Theme.Holo">
         <item name="android:textAppearance">@style/V5.TextAppearance</item>
@@ -478,7 +486,7 @@
         <item name="android:expandableListViewStyle">@style/V5.Widget.ExpandableListView</item>
         <item name="android:listViewStyle">@style/V5.Widget.ListView</item>
         <item name="android:progressBarStyle">@style/V5.Widget.ProgressBar</item>
-        <item name="android:progressBarStyleHorizontal">@style/V5.Widget.ProgressBar.Horizontal.Small</item>
+        <item name="android:progressBarStyleHorizontal">@style/V5.Widget.ProgressBar.Horizontal</item>
         <item name="android:progressBarStyleSmall">@style/V5.Widget.ProgressBar.Small</item>
         <item name="android:progressBarStyleLarge">@style/V5.Widget.ProgressBar.Large</item>
         <item name="android:seekBarStyle">@style/V5.Widget.SeekBar</item>
@@ -536,6 +544,7 @@
         <item name="android:actionBarItemBackground">@null</item>
         <item name="android:panelMenuListTheme">@style/V5.Theme.Light.CompactMenu</item>
         <item name="android:timePickerStyle">@style/V5.Widget.TimePicker</item>
+        <item name="android:searchDialogTheme">@style/V5.Theme.Light.SearchBar</item>
         <item name="miui_ui_version">5</item>
         <item name="slidingButtonStyleDefault">@style/V5.Widget.SlidingButton</item>
         <item name="v5_action_bar_title_layout">@layout/v5_action_bar_title_item</item>
@@ -646,6 +655,12 @@
         <item name="v5_top_placeholder">@drawable/v5_tab_indicator_placeholder</item>
         <item name="v5_top_placeholder_enabled">true</item>
         <item name="seekBarForMultipositionBarStyle">@style/V5.Widget.SeekBar.ForMultiPositionBar</item>
+        <item name="searchViewSearchIcon">@*android:color/transparent</item>
+        <item name="searchViewTextField">@drawable/v5_edit_text_search_bg_light</item>
+        <item name="searchViewCloseIcon">@drawable/v5_edit_text_search_clear_btn_light</item>
+        <item name="searchViewTextFieldRight">@*android:color/transparent</item>
+        <item name="searchViewGoIcon">@drawable/v5_search_view_go_icon_light</item>
+        <item name="searchViewVoiceIcon">@drawable/v5_search_view_voice_icon_light</item>
     </style>
     <style name="V5.Theme.Dark.CompactMenu" parent="@style/V5.Theme.Dark" />
     <style name="V5.Theme.Dark.MainPage" parent="@style/V5.Theme.Dark">
@@ -1250,5 +1265,13 @@
         <item name="android:actionBarStyle">@style/V5.Widget.ActionBar.Large</item>
         <item name="v5_action_bar_movable">true</item>
         <item name="actionBarMovableLayoutStyle">@style/V5.Widget.ActionBarMovableLayout</item>
+    </style>
+    <style name="V5.Theme.Light.SearchBar" parent="@style/V5.Theme.Light.Panel">
+        <item name="android:actionModeBackground">?v5_title_bar_bg_search_mode</item>
+        <item name="android:homeAsUpIndicator">?v5_title_bar_back_button_search_mode</item>
+        <item name="android:selectableItemBackground">@*android:color/transparent</item>
+    </style>
+    <style name="V5.Theme.Dark.StatusBar" parent="@style/V5.Theme.Dark">
+        <item name="android:progressBarStyleHorizontal">@style/V5.Widget.ProgressBar.Horizontal.Small</item>
     </style>
 </resources>

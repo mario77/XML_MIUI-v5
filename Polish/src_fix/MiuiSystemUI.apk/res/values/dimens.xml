@@ -50,7 +50,7 @@
     <dimen name="pull_span_min">25.0dip</dimen>
     <dimen name="preference_item_padding_inner">8.0dip</dimen>
     <dimen name="legacy_close_view_padding_bottom">23.5dip</dimen>
-    <dimen name="toggle_text_size">14.0dip</dimen>
+    <dimen name="toggle_text_size">14.0sp</dimen>
     <dimen name="status_bar_toggle_item_text_margin_left">12.5dip</dimen>
     <item type="dimen" name="notification_padding_left">@miui:dimen/android_notification_padding_left</item>
     <item type="dimen" name="notification_padding_right">@miui:dimen/android_notification_padding_right</item>
