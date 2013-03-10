@@ -212,6 +212,7 @@
     <string name="cc">DW</string>
     <string name="choose_attachment_dialog_title">Wybierz załącznik</string>
     <string name="choosertitle_sharevia">Udostępnij przez</string>
+    <string name="cleared_trusted_senders_message">"Zdjęcia w wiadomościach nie będą pokazywane automatycznie."</string>
     <string name="close_action">Zamknij</string>
     <string name="completed_no_file">Nie znaleziono pliku</string>
     <string name="compose_action">Napisz</string>

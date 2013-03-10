@@ -190,8 +190,8 @@ Please input your password"</string>
     <string name="skip_setup_account_msg">Using your Xiaomi Account, you can synchronize and backup your SMS, contacts, photos, notes, etc. Continue and setup later?</string>
     <string name="skip_setup_account_title">Skip account setting</string>
     <string name="sync_dspt">Enable sync and cloud services</string>
-    <string name="sync_off">Off</string>
-    <string name="sync_on">On</string>
+    <string name="sync_off">Wył</string>
+    <string name="sync_on">Wł</string>
     <string name="sync_sub_dspt">An SMS may be sent to activate the service</string>
     <string name="title_mili_center">Mi Credit center</string>
     <string name="title_pay_record">%1$s payment records</string>

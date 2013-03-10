@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="MIUI_homepage">MIUI Home</string>
     <string name="MIUI_startpage">Strona startowa</string>
     <string name="accessibility_button_addbookmark">Dodaj stronę do zakładek</string>
     <string name="accessibility_button_back">Wstecz</string>
@@ -30,6 +31,7 @@
     <string name="action">Zaloguj się</string>
     <string name="add_bookmark">Dodaj zakładkę</string>
     <string name="add_bookmark_short">Dodaj</string>
+    <string name="add_bookmark_to_home_screen">Dodaj do pulpitu</string>
     <string name="add_folder">Dodaj folder</string>
     <string name="add_new_bookmark">Dodaj zakładkę</string>
     <string name="add_to_bookmarks_menu_option">Zakładki</string>
@@ -217,6 +219,8 @@
     <string name="menu_save_snapshot">Zapisz do czytania offline</string>
     <string name="menu_share_url">Udostępnij</string>
     <string name="menu_view_download">Pobrane</string>
+    <string name="miui_yellowpage_category">Kategorie</string>
+    <string name="miui_yellowpage_site">Strony</string>
     <string name="move_to_up_folder">W górę</string>
     <string name="multi_select_title">Zaznaczono %1$s</string>
     <string name="name">Etykieta</string>
@@ -366,6 +370,9 @@
     <string name="pref_ua_title">User agent</string>
     <string name="pref_use_instant_search">Wyszukiwanie dynamiczne Google</string>
     <string name="pref_use_instant_search_summary">Użyj wyszukiwania dynamicznego Google, aby uzyskiwać wyniki podczas pisania (może być pobierana większa ilość danych).</string>
+    <string name="pref_video_preload_dialogtitle">Ładowanie wideo...</string>
+    <string name="pref_video_preload_summary">Zezwól Przeglądarce na wstępne ładowanie filmów wideo</string>
+    <string name="pref_video_preload_title">Wstępne ładowanie wideo</string>    
     <string name="pref_volume_key_enabled">Przyciski głośności</string>
     <string name="pref_volume_key_operation">Akcja dla przycisków głośności</string>
     <string name="pref_zoom_on_double_tap">Powiększ po dwukrotnym dotknięciu</string>
@@ -401,6 +408,7 @@
     <string name="security_warning">Ostrzeżenie zabezpieczeń</string>
     <string name="select_dot">Zaznacz tekst</string>
     <string name="selection_all">Zaznacz wszystko</string>
+    <string name="send_bookmark_to_home_screen">Wyślij na pulpit</string>
     <string name="set_as_homepage">Ustaw jako stronę główną</string>
     <string name="share_link">Udostępnij</string>
     <string name="share_page">Udostępnij stronę</string>

@@ -102,9 +102,9 @@
     <string name="resource_price_unit">MiKredyty</string>
     <string name="resource_ringtone_default">Dzwonki</string>
     <string name="resource_see_more">Więcej</string>
-    <string name="resource_select">Zaznacz</string>
+    <string name="resource_select">Zastosuj</string>
     <string name="resource_server_out_of_service">Out of service, please try again later.</string>
-    <string name="resource_switch_account">Switch</string>
+    <string name="resource_switch_account">Zamień</string>
     <string name="resource_system_title">Elementy online</string>
     <string name="resource_tip_select_ringtone">Nie wybrano dzwonka</string>
     <string name="resource_title">Szczegóły</string>
@@ -146,8 +146,7 @@
     <string name="theme_import_from_sdcard">Wczytaj motyw z karty SD</string>
     <string name="theme_import_importing">Aktualizacja.. (pozostało: %1$d)</string>
     <string name="theme_import_item_delete_request_button">Usuń</string>
-    <string name="theme_import_item_delete_request_content">Motyw nie został zaktualizowany. Możesz go użyć dopiero po aktualizacji lub teraz usunąć klikając na
-        Usuń.</string>
+    <string name="theme_import_item_delete_request_content">Motyw nie został zaktualizowany. Możesz go użyć dopiero po aktualizacji lub teraz usunąć klikając na Usuń.</string>
     <string name="theme_import_item_delete_request_title">Motyw nieaktualizowany</string>
     <string name="theme_import_item_importing">Aktualizacja…</string>
     <string name="theme_import_item_not_upgraded">Dostępna aktualizacja</string>
