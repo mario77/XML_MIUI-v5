@@ -206,6 +206,8 @@ d MMMM, yyyy"</string>
     <string name="status_bar_recent_inspect_item_title">Informacje</string>
     <string name="status_bar_recent_memory_info">%1$s / %2$s</string>
     <string name="status_bar_recent_remove_item_title">Usuń z listy</string>
+    <string name="status_bar_recording_back">Powróć do nagrywania</string>
+    <string name="status_bar_recording_pause">Nagrywanie jest zatrzymane. Kliknij na pasku statusu aby powrócić do nagrywania</string>
     <string name="status_bar_settings_airplane">Tryb samolotowy</string>
     <string name="status_bar_settings_auto_brightness_label">AUTO</string>
     <string name="status_bar_settings_auto_rotation">Obracanie ekranu</string>

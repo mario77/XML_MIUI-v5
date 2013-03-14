@@ -22,6 +22,9 @@
     <string name="add_organization">Dodaj organizację</string>
     <string name="add_to_my_contacts">Dodaj do moich kontaktów</string>
     <string name="add_wait">Dodaj pauzę</string>
+    <string name="add_xiaomi_account_dialog_btn">Użyj konta Xiaomi</string>
+    <string name="add_xiaomi_account_dialog_msg">Zalecane jest użycie konta Xiaomi. Konto Xiaomi umożliwia synchronizację i kopię zapasową kontaktów. Możliwa jest też ich edycja na komputerze.</string>
+    <string name="add_xiaomi_account_dialog_title">Wybierz konto dla Kontaktów</string>
     <string name="aggregation_suggestion_edit_dialog_message">Czy chcesz edytować wybrany kontakt? Wprowadzone dotąd informacje zostaną skopiowane.</string>
     <string name="aggregation_suggestion_edit_dialog_title">Edytuj wybrane kontakty</string>
     <string name="aggregation_suggestion_join_dialog_message">Czy połączyć bieżący kontakt z wybranym?</string>
@@ -397,6 +400,7 @@
     <string name="insertGroupDescription">Utwórz grupę</string>
     <string name="invalidContactMessage">Kontakt nie istnieje.</string>
     <string name="keep_local">Przechowuj lokalnie</string>
+    <string name="keep_local_btn">Zapisz w Zdjęciach</string>
     <string name="label_custom_type">Własne</string>
     <string name="label_duplicate_count">(%1$d)</string>
     <string name="label_no_duplicate_contacts">Brak zduplikowanych kontaktów</string>

@@ -310,6 +310,23 @@
         <item>8 sekund</item>
         <item>9 sekund</item>
     </string-array>
+    <string-array name="mi1_led_color_entries">
+        <item>Niebieski</item>
+        <item>Czerwony</item>
+        <item>Zielony</item>
+        <item>Różowy</item>
+        <item>Fioletowy</item>
+        <item>Purpurowy</item>
+    </string-array>
+    <string-array name="led_color_entries">
+        <item>Niebieski</item>
+        <item>Czerwony</item>
+        <item>Żółty</item>
+        <item>Zielony</item>
+        <item>Błękitny</item>
+        <item>Biały</item>
+        <item>Fioletowy</item>
+    </string-array>
     <string-array name="back_long_press_timeout">
         <item>0,5 sekundy</item>
         <item>1 sekunda</item>

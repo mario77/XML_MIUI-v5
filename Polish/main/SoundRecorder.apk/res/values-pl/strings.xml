@@ -48,7 +48,8 @@
     <string name="pref_title_enable_sound_effect">Efekt dźwiękowy</string>
     <string name="pref_title_record_type">Kodek nagrywania</string>
     <string name="preferences_title">Ustawienia</string>
-   <string name="record_list">Lista nagrań</string>
+    <string name="status_bar_recording_pause">"Nagrywanie wstrzymane. "</string>
+    <string name="record_list">Lista nagrań</string>
     <string name="record_loading">Ładowanie nagrania, proszę czekać.</string>
     <string name="record_picker_title">Wybierz nagranie</string>
     <string name="record_saving">Zapisywanie nagrania, proszę czekać...</string>
