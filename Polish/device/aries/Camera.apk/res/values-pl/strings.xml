@@ -119,8 +119,6 @@
   <string name="pref_camera_antibanding_entry_3">Automatycznie</string>
   <string name="pref_camera_antibanding_title">Anti Banding</string>
   <string name="pref_camera_audio_capture_title">Audio</string>
-  <string name="pref_camera_auto_focus_entry_off">wył</string>
-  <string name="pref_camera_auto_focus_entry_on">wł</string>
   <string name="pref_camera_auto_focus_title_entry_off">Wył</string>
   <string name="pref_camera_auto_focus_title_entry_on">Wł</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Centralnie-ważony</string>
@@ -181,12 +179,6 @@
   <string name="pref_camera_iso_entry_iso400">ISO400</string>
   <string name="pref_camera_iso_entry_iso800">ISO800</string>
   <string name="pref_camera_iso_title">Czułość ISO</string>
-  <string name="pref_camera_jpegquality_entry_0">JPEG 55%</string>
-  <string name="pref_camera_jpegquality_entry_1">JPEG 65%</string>
-  <string name="pref_camera_jpegquality_entry_2">JPEG 75%</string>
-  <string name="pref_camera_jpegquality_entry_3">JPEG 85%</string>
-  <string name="pref_camera_jpegquality_entry_4">JPEG 95%</string>
-  <string name="pref_camera_jpegquality_entry_5">JPEG 100%</string>
   <string name="pref_camera_jpegquality_entry_fine">Dobra</string>
   <string name="pref_camera_jpegquality_entry_normal">Normalna</string>
   <string name="pref_camera_jpegquality_entry_superfine">Bardzo dobra</string>
@@ -217,11 +209,11 @@
   <string name="pref_camera_picturesize_professional_entry_3200x2400">8MP (3264X2448)</string>
   <string name="pref_camera_picturesize_professional_entry_4208x3120">13MP (4208x3120)</string>
   <string name="pref_camera_picturesize_title">Rozmiar zdjęć</string>
+  <string name="pref_camera_picturesize_title_simple_mode">Kamera</string>
   <string name="pref_camera_preview_entry_1000">1 sekunda</string>
   <string name="pref_camera_preview_entry_2000">2 sekundy</string>
   <string name="pref_camera_preview_entry_5000">5 sekund</string>
   <string name="pref_camera_preview_entry_off">off</string>
-  <string name="pref_camera_preview_title">Podgląd</string>
   <string name="pref_camera_recordlocation_entry_off">Wył</string>
   <string name="pref_camera_recordlocation_entry_on">Wł</string>
   <string name="pref_camera_recordlocation_title">Lokalizacja zapisu</string>
@@ -229,7 +221,6 @@
   <string name="pref_camera_redeyereduction_entry_disable">Wył</string>
   <string name="pref_camera_redeyereduction_entry_enable">Wł</string>
   <string name="pref_camera_redeyereduction_title">Redukcja czerwonych oczu</string>
-  <string name="pref_camera_referenceline">Siatka kompozycji</string>
   <string name="pref_camera_referenceline_entry_off">Wył</string>
   <string name="pref_camera_referenceline_entry_on">Wł</string>
   <string name="pref_camera_saturation_entry_level0">Poziom 0</string>
@@ -244,7 +235,6 @@
   <string name="pref_camera_saturation_entry_level8">Poziom 8</string>
   <string name="pref_camera_saturation_entry_level9">Poziom 9</string>
   <string name="pref_camera_saturation_title">Nasycenie</string>
-  <string name="pref_camera_scenedetect_entry_off">Wył</string>
   <string name="pref_camera_scenedetect_title">Autom. detekcja sceny</string>
   <string name="pref_camera_scenemode_entry_auto">Auto</string>
   <string name="pref_camera_scenemode_entry_backlight">Podświetlenie</string>
@@ -260,7 +250,6 @@
   <string name="pref_camera_scenemode_entry_sports">Sport</string>
   <string name="pref_camera_scenemode_entry_sunset">Zachód</string>
   <string name="pref_camera_scenemode_title">Sceny</string>
-  <string name="pref_camera_selectablezoneaf_title">Strefowy autofokus</string>
   <string name="pref_camera_settings_category">Ustawienia Aparatu</string>
   <string name="pref_camera_settings_title">Ustawienia</string>
   <string name="pref_camera_sharpness_entry_level0">Poziom 0</string>

@@ -57,8 +57,8 @@
   <string name="note_link_email">Wyślij E-mail</string>
   <string name="note_link_other">Otwórz mapę</string>
   <string name="note_link_select">Zaznacz tekst</string>
-  <string name="note_link_tel">Zadzwoń</string>
-  <string name="note_link_web">Sieć</string>
+  <string name="note_link_tel">Zadzwoń pod numer</string>
+  <string name="note_link_web">Przejdź pod adres sieci Web</string>
   <string name="notealert_enter">Zobacz</string>
   <string name="notealert_ok">OK</string>
   <string name="notelist_menu_new">Dodaj</string>
@@ -71,8 +71,8 @@
   <string name="preferences_bg_random_appear_title">Losowe tło notatek</string>
   <string name="preferences_title">Ustawienia</string>
   <string name="search">Notatki</string>
-  <string name="search_hint">Szukaj notatek</string>
-  <string name="search_label">Szukanie notatek...</string>
+  <string name="search_hint">Wyszukiwanie notatek</string>
+  <string name="search_label">Wyszukiwanie notatek...</string>
   <string name="search_setting_description">Tekst w notatkach</string>
   <string name="select_account_prompt">Włącz synchronizację notatek</string>
   <string name="snippet_image_stub">[Image]</string>

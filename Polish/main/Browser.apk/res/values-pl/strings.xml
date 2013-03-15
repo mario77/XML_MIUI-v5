@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="MIUI_homepage">MIUI Home</string>
     <string name="MIUI_startpage">Strona startowa</string>
     <string name="accessibility_button_addbookmark">Dodaj stronę do zakładek</string>
     <string name="accessibility_button_back">Wstecz</string>
@@ -31,7 +30,6 @@
     <string name="action">Zaloguj się</string>
     <string name="add_bookmark">Dodaj zakładkę</string>
     <string name="add_bookmark_short">Dodaj</string>
-    <string name="add_bookmark_to_home_screen">Dodaj do pulpitu</string>
     <string name="add_folder">Dodaj folder</string>
     <string name="add_new_bookmark">Dodaj zakładkę</string>
     <string name="add_to_bookmarks_menu_option">Zakładki</string>
@@ -219,8 +217,6 @@
     <string name="menu_save_snapshot">Zapisz do czytania offline</string>
     <string name="menu_share_url">Udostępnij</string>
     <string name="menu_view_download">Pobrane</string>
-    <string name="miui_yellowpage_category">Kategorie</string>
-    <string name="miui_yellowpage_site">Strony</string>
     <string name="move_to_up_folder">W górę</string>
     <string name="multi_select_title">Zaznaczono %1$s</string>
     <string name="name">Etykieta</string>

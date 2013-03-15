@@ -40,6 +40,4 @@
     <string name="voice_search_hint_title">Powiedz np.:</string>
     <string name="voice_search_hint_quotation_start">“</string>
     <string name="voice_search_hint_quotation_end">”</string>
-    <string name="search_in_app_store">Market</string>
-    <string name="search_in_web">Sieć</string>
 </resources>

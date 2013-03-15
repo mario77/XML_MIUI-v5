@@ -1202,9 +1202,9 @@ postępuj zgodnie z podanymi krokami"</string>
     <string name="perm_hips_contact_access">czytanie listy kontaktów</string>
     <string name="perm_hips_desc">Monitorowanie %1$d aplikacji</string>
     <string name="perm_hips_desc1">Monitorowanie aplikacji</string>
-    <string name="perm_hips_desc2">Monitoring %1$d apps for security and privacy</string>
-    <string name="perm_hips_disable_content">"Disabling it will make MIUI stop monitoring application requests and no longer protecting your security and privacy.
-Are you sure to disable it?"</string>
+    <string name="perm_hips_desc2">Monitorowanie %1$d aplikacji</string>
+    <string name="perm_hips_disable_content">"Wyłaczenie tej funkcji spowoduje, że MIUI nie będzie monitorował działania aplikacji.
+Jesteś pewien by wyłączyć?"</string>
     <string name="perm_hips_disable_title">Uprawnienia</string>
     <string name="perm_hips_end_call">hang up current call</string>
     <string name="perm_hips_get_call_state">get current call status</string>
@@ -1263,14 +1263,14 @@ Are you sure to disable it?"</string>
     <string name="perm_hips_security_prompt_root_step6">Na pewno zezwolić aplikacji: %1$s na uprawnienia ROOT?</string>
     <string name="perm_hips_security_prompt_title">%1$s pyta o %2$s</string>
     <string name="perm_hips_send_sms_content">Treść:</string>
-    <string name="perm_hips_send_sms_data">send SMS to %1$s:%2$d</string>
+    <string name="perm_hips_send_sms_data">wysyłanie SMS do %1$s:%2$d</string>
     <string name="perm_hips_send_sms_port">Dest Port:</string>
     <string name="perm_hips_send_sms_recipient">Recipient:</string>
     <string name="perm_hips_send_sms_smsc">SMS Center:</string>
     <string name="perm_hips_send_sms_smsc_default">Default SMS Center</string>
-    <string name="perm_hips_send_sms_text">send SMS to %1$s</string>
-    <string name="perm_hips_silence_ringer">silence the ringer</string>
-    <string name="perm_hips_sms_access">read your SMS inbox</string>
+    <string name="perm_hips_send_sms_text">wysyłanie SMS do %1$s</string>
+    <string name="perm_hips_silence_ringer">wyciszanie dzwonka</string>
+    <string name="perm_hips_sms_access">odczytywanie zawartości skrzynki SMS</string>
     <string name="perm_hips_switch">Monitor uprawnień</string>
     <string name="perm_hips_wifi_network">Sieć Wi-Fi</string>
     <string name="perm_hips_wifi_network_desc">Sieć Wi-Fi</string>
@@ -1278,12 +1278,12 @@ Are you sure to disable it?"</string>
     <string name="perm_invalid_input">Invalid input</string>
     <string name="perm_loading">Ładowanie...</string>
     <string name="perm_log">Rejestr</string>
-    <string name="perm_log_clear_content">All logs will be erased. Are you sure to enable it?</string>
-    <string name="perm_log_clear_title">Clear Logs</string>
+    <string name="perm_log_clear_content">Rejestr zostanie usunięty. Kontynuować?</string>
+    <string name="perm_log_clear_title">Wyczyść rejestr</string>
     <string name="perm_monitored_app">Monitorowane aplikacje (%1$d)</string>
     <string name="perm_notice">Powiadomienie bezpieczeństwa</string>
     <string name="perm_operating">Operating...</string>
-    <string name="perm_optimize">Optimize</string>
+    <string name="perm_optimize">Optimizz</string>
     <string name="perm_privacy_app_count">%1$d uprawnień</string>
     <string name="perm_privacy_app_finish">Gotowe</string>
     <string name="perm_privacy_app_installed">Instalacja zakończona!</string>
@@ -1306,15 +1306,15 @@ Are you sure to disable it?"</string>
     <string name="perm_su_desc">Monitorowanie %1$d aplikacji</string>
     <string name="perm_su_desc1">Zarządzaj uprawnieniami ROOT</string>
     <string name="perm_su_disabled">Uprawnienia ROOT wyłączone</string>
-    <string name="perm_su_disabled_desc">Grant ROOT permission to 3rd-party apps may cause system instability, even loss of personal data, system or hardware damage. Please make sure you know ROOT permission.</string>
-    <string name="perm_su_disabled_in_stable">ROOT is not available in MIUI Stable</string>
-    <string name="perm_su_disabled_in_stable_desc">"Grant ROOT permission to 3rd-party apps may cause system instability, even loss of personal data, system or hardware damage.
+    <string name="perm_su_disabled_desc">Udzielanie uprawnień ROOT aplikacjom trzecim, może powodować niestabilność systemu, utratę danych osobistych lub uszkodzenie systemu.</string>
+    <string name="perm_su_disabled_in_stable">Uprawnienia ROOT nie są dostępne w wersji MIUI Stable</string>
+    <string name="perm_su_disabled_in_stable_desc">"Udzielanie uprawnień ROOT aplikacjom trzecim, może powodować niestabilność systemu, utratę danych osobistych lub uszkodzenie systemu.
 
-Please switch to MIUI development version to enable ROOT permission."</string>
-    <string name="perm_su_disabled_in_stable_download">Download MIUI</string>
+Przejdź na wersję rozwojową MIUI aby korzystać z uprawnień ROOT."</string>
+    <string name="perm_su_disabled_in_stable_download">Pobierz MIUI</string>
     <string name="perm_su_enable_content">"Enabling it will allow apps to request ROOT permission.
 Note: Apps with the permission may cause system instability, even loss of personal data, system or hardware damage, please be cautions. Are you sure to enable it?"</string>
-    <string name="perm_su_enable_dialog">%1$s is trying to get system ROOT permission which is disabled by default to ensure system security. If you need to enable it, please go to settings in Permission Manager.</string>
+    <string name="perm_su_enable_dialog">%1$s próbuje uzyskać uprawnienia ROOT, które są obecnie wyłączone. Aktywuj uprawnienia ROOT w aplikacji Uprawnienia.</string>
     <string name="perm_su_enable_title">Uprawnienia ROOT</string>
     <string name="perm_su_switch">Uprawnienia ROOT</string>
     <string name="perm_summary_disabled">Wył</string>
@@ -1653,7 +1653,6 @@ Note: Apps with the permission may cause system instability, even loss of person
     <string name="show_password">Hasła są widoczne</string>
     <string name="show_password_summary"/>
     <string name="show_rounded_corners">Pokaż zaokrąglone rogi</string>
-    <string name="show_rounded_corners_summary">Wymagane jest ponowne uruchomienie aby zastosować efekt</string>
     <string name="show_running_services">Pokaż działające usługi</string>
     <string name="show_screen_updates">Pokaż zmiany powierzchni</string>
     <string name="show_screen_updates_summary">Podświetlaj całe aktualizowane powierzchnie okien</string>
