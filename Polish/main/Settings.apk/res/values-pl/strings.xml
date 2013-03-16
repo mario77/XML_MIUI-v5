@@ -756,7 +756,7 @@ Ilość przesyłanych danych może być różnie rozliczana przez telefon i oper
     <string name="enableNetwork">enableNetwork</string>
     <string name="enable_adb">Debugowanie USB</string>
     <string name="enable_adb_summary">Tryb debugowania, gdy podłączone jest USB</string>
-    <string name="enable_assist_key_long_press">Asystent Głosowy</string>
+    <string name="enable_assist_key_long_press">Google Now</string>
     <string name="enable_back_long_press">Zamykanie aplikacji</string>
     <string name="enable_compatibility">Skaluj aplikację</string>
     <string name="enable_drive_mode">Tryb samochodowy</string>
