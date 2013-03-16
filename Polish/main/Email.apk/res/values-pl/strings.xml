@@ -66,8 +66,8 @@
     <string name="account_setup_account_type_pop_action">POP3</string>
     <string name="account_setup_account_type_title">Konfiguracja konta</string>
     <string name="account_setup_basic_description_label">Nazwa konta (opcjonalnie)</string>
-    <string name="account_setup_basic_label">Please fill in information for %s mailbox :</string>
-    <string name="account_setup_basic_name_label">Your name (optional)</string>
+    <string name="account_setup_basic_label">Podaj dane do konta %s :</string>
+    <string name="account_setup_basic_name_label">Imię (opcjonalnie)</string>
     <string name="account_setup_basics_default_label">Domyślnie wysyłaj wiadomości e-mail z tego konta</string>
     <string name="account_setup_basics_email_label">Adres e-mail</string>
     <string name="account_setup_basics_exchange_title">Dodaj konto Exchange</string>
