@@ -80,7 +80,7 @@
     <string name="calllog_menu_edit_before_call">Edytuj przed połączeniem</string>
     <string name="calllog_menu_send_sms">Wyślij SMS</string>
     <string name="callrecordview_item_newcontact">Nowy kontakt</string>
-    <string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d min %d sek</string>
+    <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sek</string>
     <string name="callrecordview_item_op_time_missed">Nie połączono</string>
     <string name="callrecordview_item_op_time_only_minutes">%d min</string>
     <string name="callrecordview_item_op_time_only_seconds">%d sek</string>
