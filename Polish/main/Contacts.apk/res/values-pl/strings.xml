@@ -443,11 +443,11 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="list_filter_customize">Dostosuj</string>
     <string name="list_filter_phones">Wszystkie kontakty z numerami telefonów</string>
     <string name="list_filter_single">Kontakt</string>
-    <string name="loading">Loading...</string>
+    <string name="loading">Wczytywanie...</string>
     <string name="loading_group_members">Ładowanie grupy...</string>
     <string name="loading_groups">Ładowanie grup...</string>
     <string name="loading_recent">Ładowanie ostatnich kontaktów...</string>
-    <string name="loading_resource_detail_info">Loading resource info...</string>
+    <string name="loading_resource_detail_info">Wczytywanie zasobów...</string>
     <string name="local_invisible_directory">Inne</string>
     <string name="local_profile_title">Mój profil lokalny</string>
     <string name="local_search_label">Wszystkie kontakty</string>
@@ -596,8 +596,8 @@ Aby dodać kontakt do listy ulubionych:
     <string name="notification_action_voicemail_play">Odtwórz</string>
     <string name="notification_new_voicemail_ticker">Nowa poczta głosowa od: %1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
-    <string name="online_no_network">Unable to connect to network</string>
-    <string name="online_search_hint">Search online for resources</string>
+    <string name="online_no_network">Nie można połączyć się z siecią</string>
+    <string name="online_search_hint">Wyszukaj zasoby online</string>
     <string name="openDialKeyboard">Klawiatura</string>
     <string name="open_contact">Wyświetl kontakt</string>
     <string name="option_delete_contact">Usuń kontakt</string>
@@ -698,7 +698,7 @@ Aby dodać kontakt do listy ulubionych:
     <string name="preview_contact_card_title">Przywróć kartę kontaktu</string>
     <string name="previous">poprzedni</string>
     <string name="private_num">Numer prywatny</string>
-    <string name="processing">Processing...</string>
+    <string name="processing">Przetwarzanie...</string>
     <string name="profile_display_name">Konfiguruj profil</string>
     <string name="progress_notifier_message" formatted="false">Przywracanie %s/%s: %s</string>
     <string name="quickcontact_missing_app">Nie znaleziono aplikacji do obsługi tego działania.</string>

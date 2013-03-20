@@ -29,7 +29,7 @@
     <string name="choose_recommend">Please choose whether or not to recommend</string>
     <string name="confirm_download_cancelation_dialog_message">Na pewno chcesz anulować pobieranie?</string>
     <string name="copy_install_log">Kopiuj do schowka</string>
-    <string name="current_version_text">Najnowsza wersja</string>
+    <string name="current_version_text">"Najnowsza wersja "</string>
     <string name="current_version_update_monthly_build">Aktualna wersja (Akt. do wersji miesięcznej)</string>
     <string name="daily_build">Dzienna</string>
     <string name="dialog_no">Nie</string>
@@ -92,12 +92,12 @@
     <string name="sdcard_is_not_present_dialog_body">Należy zamontować kartę SD by móc pobierać aktualizacje</string>
     <string name="sdcard_is_not_present_dialog_title">Karta SD nieznaleziona</string>
     <string name="send_install_log">Wyślij log z błędem</string>
-    <string name="send_install_log_error">Failed to send error log</string>
-    <string name="share_qq">Post it via Tencent weibo</string>
-    <string name="share_sina">Post it via Sina weibo</string>
-    <string name="share_update">Share system update info</string>
-    <string name="share_update_content_sign">I’ve updated MIUI to %1$s! My update user rank is %2$s. For detailed changelog, please visit %3$s</string>
-    <string name="share_update_content_unsign">I’ve updated MIUI to %1$s! For detailed changelog, please visit %2$s</string>
+    <string name="send_install_log_error">Nie można wysłać logu z błędem</string>
+    <string name="share_qq">Udostępnij przez Tencent</string>
+    <string name="share_sina">Udostępnij przez Sina</string>
+    <string name="share_update">Udostępnij informacje o aktualizacji</string>
+    <string name="share_update_content_sign">Zaktualizowano MIUI do %1$s! Ranking aktualizacji: %2$s. Changelog (po chińsku): %3$s</string>
+    <string name="share_update_content_unsign">Zaktualizowano MIUI do %1$s! Changelog (po chińsku): %2$s</string>
     <string name="sign_in_add_account">Aktywuj konto Xiaomi</string>
     <string name="sign_in_add_account_helper">Utwórz konto MIUI</string>
     <string name="sign_in_info">"Your update ranking is %1$s %2$s users have signed in for MIUI %3$s"</string>
@@ -129,8 +129,7 @@
     <string name="update_success_title">Instalacja aktualizacji zakończona!</string>
     <string name="upgrade_close">Zamknij</string>
     <string name="upgrade_kernel">Aktualny kernel wymaga aktualizacji</string>
-    <string name="upgrade_kernel_msg">"Aktualna wersja kernela nie pokrywa się z tą z romu MIUI. Możesz uaktualnić kernel ręcznie. Zapoznaj się z pomocą:
-"</string>
+    <string name="upgrade_kernel_msg">"Aktualna wersja kernela nie pokrywa się z tą z romu MIUI. Możesz uaktualnić kernel ręcznie. Zapoznaj się z pomocą: "</string>
     <string name="verify_and_apply_dialog_message">Weryfikacja MD5</string>
     <string name="verify_and_apply_dialog_title">Weryfikuj</string>
     <string name="view_install_log">Rejestr</string>
