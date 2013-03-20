@@ -14,7 +14,9 @@
         <item>Wyłączone</item>
     </string-array>
     <string-array name="pref_homepage_choices">
+        <item>Aktualna strona</item>
         <item>Strona startowa</item>
+        <item>Pusta strona</item>
         <item>Najczęstsze strony</item>
         <item>Inna</item>
     </string-array>
@@ -31,19 +33,19 @@
         <item>Duże</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
-        <item>Nigdy</item>
-        <item>Tylko przy Wi-Fi</item>
-        <item>Zawsze</item>
+        <item>"Nigdy. "</item>
+        <item>"Tylko przy Wi-Fi. "</item>
+        <item>"Zawsze. "</item>
     </string-array>
     <string-array name="pref_link_prefetch_choices">
-        <item>Nigdy</item>
-        <item>Tylko przy Wi-Fi</item>
-        <item>Zawsze</item>
+        <item>"Nigdy. "</item>
+        <item>"Tylko przy Wi-Fi. "</item>
+        <item>"Zawsze. "</item>
     </string-array>
     <string-array name="pref_video_preload_choices">
-        <item>Nigdy</item>
-        <item>Tylko przy Wi-Fi</item>
-        <item>Zawsze</item>
+        <item>"Nigdy. "</item>
+        <item>"Tylko przy Wi-Fi. "</item>
+        <item>"Zawsze. "</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Strona góra/dół</item>

@@ -3,6 +3,7 @@
   <string name="add_account_desc">Notatki mogą być synchronizowane z kontem Xiaomi. Zalogować teraz?</string>
   <string name="alert_edit_action_delete">Usuń</string>
   <string name="alert_edit_action_update">Aktualizuj</string>
+  <string name="alert_message_delete_folder">Potwierdzić usunięcie katalogu i zawartych w nim notatek?</string>
   <string name="alert_message_delete_folders">Potwierdzić usunięcie zaznaczonych %1$s katalogów?</string>
   <string name="alert_message_delete_folders_notes">Potwierdzić usunięcie zaznaczonych %1$s katalogów i %2$s notatek?</string>
   <string name="alert_message_delete_note">Potwierdzić usunięcie tej notatki?</string>
@@ -51,6 +52,7 @@
   <string name="menu_rename_folder">Zmień nazwę</string>
   <string name="menu_send_to_desktop">Dodaj na pulpit</string>
   <string name="menu_setting">Ustawienia</string>
+  <string name="menu_share">Udostępnij</string>
   <string name="menu_title_select_folder">Wybierz katalog</string>
   <string name="not_now">Nie teraz</string>
   <string name="note_alert_expired">Nieważne</string>

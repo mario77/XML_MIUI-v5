@@ -5,7 +5,7 @@
     <string name="altitude_unit">m</string>
     <string name="app_label">Kompas</string>
     <string name="calibrate_failed_no_location">Kalibracja nieudana: nie można uzyskać aktualnej pozycji geograficznej</string>
-	<string name="calibrate_failed_timeout">Kalibracja nieudana: przekroczono limit czasu serwera</string>
+    <string name="calibrate_failed_timeout">Kalibracja nieudana: przekroczono limit czasu serwera</string>
     <string name="calibrate_success">Kalibracja zakończona</string>
     <string name="cannot_get_location">Nie można określić lokalizacji</string>
     <string name="dialog_calibrat_altitude">Kalibracja wysokości za pomocą połączenia internetowego.</string>

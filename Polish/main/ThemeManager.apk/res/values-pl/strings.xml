@@ -103,13 +103,14 @@
     <string name="resource_ringtone_default">Dzwonki</string>
     <string name="resource_see_more">Więcej</string>
     <string name="resource_select">Zastosuj</string>
-    <string name="resource_server_out_of_service">Out of service, please try again later.</string>
+    <string name="resource_server_out_of_service">Usługa niedostępna. Spróbuj ponownie później.</string>
     <string name="resource_switch_account">Zamień</string>
     <string name="resource_system_title">Elementy online</string>
     <string name="resource_tip_select_ringtone">Nie wybrano dzwonka</string>
     <string name="resource_title">Szczegóły</string>
     <string name="resource_title_select_ringtone">Wybierz dzwonek</string>
     <string name="resource_update">Aktualizuj</string>
+    <string name="restore_default_theme_alert">Motyw nie został pobrany z oficjalnego marketu MIUI lub jest modyfikacją oficjalnego. Pobierz lub kup ponownie motyw z zasobów online MIUI.</string>
     <string name="sdcard_status_changed_dialog_message">"Kończenie działania. Otwórz aplikację ponownie aby odświeżyć zasoby."</string>
     <string name="sdcard_status_changed_dialog_title">Status SD zmieniony</string>
     <string name="short_ringtone_resource">Krótkie</string>
@@ -118,6 +119,7 @@
     <string name="theme_changed_message">Pomyślnie zastosowano!</string>
     <string name="theme_changing_dialog_title">Zastosowywanie zmian...</string>
     <string name="theme_component_title_alarm">Alarm</string>
+    <string name="theme_component_title_alarmstyle">Alarm (styl)</string>
     <string name="theme_component_title_all">Motywy</string>
     <string name="theme_component_title_audio_effect">Efekt dźwiękowy</string>
     <string name="theme_component_title_boot_animation">Anim. startowa</string>

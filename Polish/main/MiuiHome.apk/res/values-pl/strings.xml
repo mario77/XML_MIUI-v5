@@ -137,11 +137,11 @@
     <string name="processing">Przetwarzanie ...</string>
     <string name="reset_scene_prompt">Zostanie przywrócony domyślny motyw pulpitu</string>
     <string name="resource_alarm_default">Alarm</string>
-    <string name="resource_app_name">Resource Browser</string>
+    <string name="resource_app_name">Przeglądarka zasobów</string>
     <string name="resource_apply">Zastosuj</string>
     <string name="resource_buy">Kup</string>
     <string name="resource_can_not_selected">%1$s can not be selected!</string>
-    <string name="resource_default">Default ringtone</string>
+    <string name="resource_default">Domyślny dzwonek</string>
     <string name="resource_default_name">Resource</string>
     <string name="resource_delete_all">Are you sure to delete %1$d selected resources?</string>
     <string name="resource_delete_confirm">Are you sure to delete these resources?</string>
@@ -153,7 +153,7 @@
     <string name="resource_get_auth_exceed_max_limit_tips">Theme can not run on the current equipment with your account which is up to 10 mobile devices every year. Please try other Xiaomi accounts.</string>
     <string name="resource_get_auth_exceed_max_limit_title">Authorized exceeds the limit</string>
     <string name="resource_get_auth_missing">The theme is not downloaded from official market, please download similar ones from official market.</string>
-    <string name="resource_get_auth_retrieving">Retrieving authorization...</string>
+    <string name="resource_get_auth_retrieving">Uzyskiwanie autoryzacji...</string>
     <string name="resource_importing">Importing</string>
     <string name="resource_list_title">Latest selected</string>
     <string name="resource_local">Lokalnie %1$s</string>
@@ -162,8 +162,8 @@
     <string name="resource_notification_default">Powiadomienia</string>
     <string name="resource_online">Online %1$s</string>
     <string name="resource_price_format">(%1$s)</string>
-    <string name="resource_price_free">Free</string>
-    <string name="resource_price_unit">MI Credits</string>
+    <string name="resource_price_free">Darmowy</string>
+    <string name="resource_price_unit">MiKredyty</string>
     <string name="resource_ringtone_default">Dzwonki</string>
     <string name="resource_see_more">Więcej</string>
     <string name="select_photo">Zdjęcie</string>

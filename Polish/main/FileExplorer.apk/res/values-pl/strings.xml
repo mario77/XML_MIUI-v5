@@ -155,7 +155,7 @@
     <string name="operation_send">Wyślij</string>
     <string name="operation_show_sys">Pokaż ukryte pliki</string>
     <string name="operation_unfavorite">Usuń z Ulubionych</string>
-    <string name="pan_settting">Ustawienia MiDrive</string>
+    <string name="pan_settting">Ustawienia Kuaipan</string>
     <string name="paused">Wstrzymano</string>
     <string name="remote_management">FTP</string>
     <string name="rename_description">Zmiana nazwy, proszę czekać…</string>
@@ -174,7 +174,7 @@
     <string name="space_info">Pojemność: %1$s, Dostępne/Razem: %2$s</string>
     <string name="space_usage">Użycie</string>
     <string name="start_server">Uruchom FTP</string>
-    <string name="start_use_xiaomi_account">Zaloguj</string>
+    <string name="start_use_xiaomi_account">Zaloguj z Xiaomi</string>
 	<string name="stay_awake_summary">Ekran nie będzie gaszony podczas połączenia FTP</string>
     <string name="stay_awake_title">Zostaw włączony</string>
     <string name="stop_server">Zatrzymaj FTP</string>
@@ -183,7 +183,7 @@
     <string name="storage_usb">Pamięć USB</string>
     <string name="storage_warning">Karta SD niedostępna lub nie może być do odczytu</string>
     <string name="tab_category">Kategorie</string>
-    <string name="tab_networkdisk">MiDrive</string>
+    <string name="tab_networkdisk">Kuaipan</string>
     <string name="tab_phone">Telefon</string>
     <string name="toast_file_not_can_read">Plik nieczytelny.</string>
     <string name="trans_task">Transfer w sieci</string>
@@ -201,15 +201,15 @@
     <string name="ui_main_toast_operation_failed">Usuwanie ulubionych %1$s nieudane.</string>
     <string name="upload_failed">Kopiowanie nieudane!</string>
     <string name="upload_file_toolarge_message">"%1$d plików większych niż 300MB nie może zostać skopiowanych."</string>
-    <string name="upload_successful">Wysłanol</string>
+    <string name="upload_successful">Wysłano</string>
     <string name="uploading">Kopiowanie…</string>
     <string name="used">"Użyte: "</string>
     <string name="user_guide">Przewodnik</string>
-    <string name="user_guide_download_other_version">"You can even download Kuaipan to your PC or Mac"</string>
-    <string name="user_guide_kuaipan_copy">"Access your files on multiple devices by uploading to Kuaipan"</string>
-    <string name="user_guide_other_version">Download alternative versions of Kuaipan</string>
+    <string name="user_guide_download_other_version">"Możesz pobrać też klienta Kuaipan na komputer PC lub Mac"</string>
+    <string name="user_guide_kuaipan_copy">"Skorzystaj z dostępu do swoich plików na różnych urządzeniach z Kuaipan"</string>
+    <string name="user_guide_other_version">Pobierz Kuaipan dla komputerów i innych platform</string>
     <string name="user_guide_summary">Jak korzystać z MiDrive</string>
-    <string name="user_guide_upload_to_kuaipan">"From your phone, copy and paste to Kuaipan"</string> 
+    <string name="user_guide_upload_to_kuaipan">"Kopiuj i wklej do dysku w chmurze"</string> 
     <string name="utf8_summary">Domyślne kodowanie</string>
     <string name="utf8_title">UTF-8</string>
     <string name="waiting">Oczekiwanie…</string>

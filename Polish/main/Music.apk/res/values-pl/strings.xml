@@ -6,8 +6,8 @@
   <string name="add_to_playlist">Dodaj do playlisty</string>
   <string name="add_tracks">Dodaj utwory</string>
   <string name="album_artist_format" formatted="false">%s , %s</string>
-  <string name="album_display_settings">Pokaż album</string>
-  <string name="album_display_summary">Wyświetl okładkę albumu w widoku odtwarzacza</string>
+  <string name="album_display_settings">Wyświetl okładkę albumu</string>
+  <string name="album_display_summary">Wyświetlanie okładek albumów w widoku odtwarzacza</string>
   <string name="album_download">Pobierz okładki albumów</string>
   <string name="album_edit">Album</string>
   <string name="album_picker_not_found">Nie znaleziono galerii na urządzeniu</string>
@@ -19,8 +19,8 @@
   <string name="albumsongseparator">" 
 "</string>
   <string name="all_tracks">"Utwory "</string>
-  <string name="android_album_settings">Album Android</string>
-  <string name="android_album_summary">System automatycznie pobierze album i informacje o utworze</string>
+  <string name="android_album_settings">Okładki z plików audio</string>
+  <string name="android_album_summary">System automatycznie zastosuje okładki dołączone do plików audio</string>
   <string name="artist_albums">Wszystkie albumy</string>
   <string name="artist_details_format">%1$s, %2$s</string>
   <string name="artist_edit">Wykonawca</string>
@@ -42,7 +42,7 @@
   <string name="confirm">OK</string>
   <string name="correct_id3_by_internet">Korekta ID3 Online</string>
   <string name="correct_id3_failed">Korekta danych ID3 nieudana!</string>
-  <string name="correct_id3_not_support">Korekta danych ID3 nie jest wspierana przez ten typ pliku.</string>
+  <string name="correct_id3_not_support">Korekta danych ID3 nie jest wspierana przez ten typ pliku</string>
   <string name="correct_id3_open_other_connect">Włącz korektę danych ID3 przy użyciu danych mobilnych</string>
   <string name="correct_id3_settings">Korekta tagów ID3</string>
   <string name="correct_id3_start">Rozpocznij korektę danych ID3</string>
@@ -60,20 +60,20 @@
   <string name="deselect_all">Odznacz wszystko</string>
   <string name="download">Pobieranie</string>
   <string name="download_album_settings">Pobierz okładkę albumu</string>
-  <string name="download_album_summary">Włącz pobieranie okładek albumów.</string>
+  <string name="download_album_summary">Włącz pobieranie okładek albumów</string>
   <string name="download_all_album">Pobierz okładki albumów</string>
   <string name="download_all_avatar">Pobierz zdjęcia wykonawców</string>
   <string name="download_all_track">Pobierz wszystkie utwory</string>
   <string name="download_batch_start">Rozpocznij wszystko</string>
   <string name="download_lyric_settings">Pobierz teksty utworów</string>
-  <string name="download_lyric_summary">Włącz pobieranie tekstów utworów.</string>
+  <string name="download_lyric_summary">Włącz pobieranie tekstów utworów</string>
   <string name="download_processing">Pobieranie</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="edit_playlist_menu">Edytuj</string>
   <string name="empty_edit_hint">Informacje o utworze niedostępne</string>
-  <string name="emptyplaylist">Playlista jest pusta.</string>
+  <string name="emptyplaylist">Playlista jest pusta</string>
   <string name="enter_sleep_mode">Tryb uśpienia</string>
   <string name="equalizer">Equalizer</string>
   <string name="equalizer_delete">Usuń własne ustawienia equalizera</string>
@@ -106,14 +106,13 @@
   <string name="id3_edit_failed">Edycja metadanych nieudana</string>
   <string name="id3_modify_confirm_check">Zmodyfikować tag ID3?</string>
   <string name="id3_modify_confirm_text">Zapisz</string>
-  <string name="impunity_declaration">Muzyka online wykorzystuje usługę Baidu Online Music. Kliknij \"OK\" aby potwierdzić chęć korzystania, kliknij \"Anuluj\" by
-    wyjść.</string>
+  <string name="impunity_declaration">Muzyka online wykorzystuje usługę Baidu Online Music. Kliknij \"OK\" aby potwierdzić chęć korzystania, kliknij \"Anuluj\" by wyjść</string>
   <string name="impunity_declaration_title">Deklaracja</string>
   <string name="keep_quit_position_settings">Pamiętaj ostatni utwór</string>
   <string name="keep_quit_position_summary">Zapamiętuje ostatni odtwarzany utwór, który może zostać wznowiony po restarcie aplikacji</string>
   <string name="listen_to_music_online_settings">Muzyka online</string>
   <string name="listen_to_online_summary">Włącz odtwarzanie muzyki online</string>
-  <string name="load_album_artist_failed">Nie udało się załadować listy albumów. Spróbuj ponownie później.</string>
+  <string name="load_album_artist_failed">Nie udało się załadować listy albumów. Spróbuj ponownie później</string>
   <string name="load_album_artist_in_process">Ładowanie listy albumów</string>
   <string name="load_album_failed">Nie udało się załadować listy piosenek. Spróbuj ponownie później.</string>
   <string name="load_album_in_process">Ładowanie listy albumów...</string>
@@ -148,7 +147,7 @@
   <string name="more">Więcej</string>
   <string name="music_browser_label">Muzyka</string>
   <string name="music_filter">Filtrowanie plików</string>
-  <string name="music_filter_helper">W celu ukrycia plików, które nie są plikami muzyki zastosowano filtr rozmiaru 800KB.</string>
+  <string name="music_filter_helper">W celu ukrycia plików, które nie są plikami muzyki zastosowano filtr rozmiaru 800KB</string>
   <string name="music_open_other_connect">Download music using mobile internet connection</string>
   <string name="music_picker_title">Wybierz utwór</string>
   <string name="music_settings">Ustawienia</string>
@@ -158,7 +157,7 @@
   <string name="new_playlist">Nowa</string>
   <string name="new_playlist_name_template">Nowa playlista %d</string>
   <string name="no_effect">Płaski</string>
-  <string name="no_song_downloaded">No song can be downloaded.</string>
+  <string name="no_song_downloaded">Utwory nie mogły być pobrane.</string>
   <string name="not_selected">Wybierz utwór</string>
   <string name="notification_artist_album">"%2$s %1$s" </string>
   <string name="online_music">Muzyka online</string>
@@ -167,9 +166,9 @@
   <string name="overwrite_confirm">Nadpisz</string>
   <string name="play_all">Odtwórz wszystko</string>
   <string name="play_and_download">Pobieraj i odtwarzaj</string>
-  <string name="play_and_download_summary">Automatycznie odtwarzaj utwór pobrany online</string>
+  <string name="play_and_download_summary">Automatycznie odtwarzaj utwór pobierany online</string>
   <string name="play_selection">Odtwórz</string>
-  <string name="playback_failed">Odtwarzacz nie wspiera plików tego typu.</string>
+  <string name="playback_failed">Odtwarzacz nie wspiera plików tego typu</string>
   <string name="playback_failed_by_bad_file">%s nie może zostać odtworzony, format nie jest wspierany</string>
   <string name="playback_failed_by_network">%s nie może zostać odtworzony, sprawdź połączenie z siecią</string>
   <string name="playback_failed_no_title_by_bad_file">Utwór nie może zostać odtworzony, format nie jest wspierany lub plik nie istnieje.</string>
@@ -227,8 +226,7 @@
   <string name="shake_settings">Potrząśnięcie telefonem</string>
   <string name="shake_summary">Potrząśnięcie telefonem przełączy na następny utwór</string>
   <string name="shake_while_screen_on_title">Przy włączonym ekranie</string>
-  <string name="shake_while_screen_on_title_summary">Wstrząśnięcie telefonem zmienia utwór gdy ekran jest aktywny. Pozwala uniknąć przeskakiwania utworów podczas
-    chodzenia itp.</string>
+  <string name="shake_while_screen_on_title_summary">Wstrząśnięcie telefonem zmienia utwór gdy ekran jest aktywny. Pozwala uniknąć przeskakiwania utworów np. podczas chodzenia lub biegania</string>
   <string name="shuffle_all">Wszystko losowo</string>
   <string name="sort_by_album">Albumy</string>
   <string name="sort_by_artist">Wykonawcy</string>

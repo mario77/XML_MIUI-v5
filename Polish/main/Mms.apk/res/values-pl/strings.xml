@@ -2,6 +2,7 @@
 <resources>
     <string name="activity_not_found">Nie znaleziono programu do otwarcia załącznika</string>
     <string name="activity_not_found_uri">Nie znaleziono odpowiedniego programu</string>
+    <string name="add_attachment">Dołącz</string>
     <string name="add_bookmark">Ulubione</string>
     <string name="add_contact">Dodaj kontakt</string>
     <string name="add_festival">Polecane</string>
@@ -13,7 +14,7 @@
     <string name="add_private_contact">Dodaj prywatny kontakt</string>
     <string name="add_slide">Dodaj slajd</string>
     <string name="add_slide_hint">Wybierz, aby utworzyć nowy slajd.</string>
-    <string name="add_smiley">Emotki</string>
+    <string name="add_smiley">Emotki</string>   
     <string name="add_subject">Dodaj temat</string>
     <string name="add_timing">Czas</string>
     <string name="add_video">Dodaj film wideo</string>

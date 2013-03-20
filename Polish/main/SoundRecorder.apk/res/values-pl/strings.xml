@@ -41,6 +41,8 @@
     <string name="status_bar_recording_pause">"Nagrywanie wstrzymane. "</string>
     <string name="record_list">Lista nagrań</string>
     <string name="record_loading">Ładowanie nagrania, proszę czekać.</string>
+    <string name="record_name_hour">.</string>
+    <string name="record_name_minute">min</string>
     <string name="record_picker_title">Wybierz nagranie</string>
     <string name="record_saving">Zapisywanie nagrania, proszę czekać...</string>
     <string name="recording">Nagrywanie</string>

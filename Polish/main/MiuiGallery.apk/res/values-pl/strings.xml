@@ -114,6 +114,7 @@
     <string name="group_by_album">Album</string>
     <string name="group_by_faces">Osoby</string>
     <string name="group_by_location">Lokalizacja</string>
+    <string name="group_by_size">Rozmiar</string>
     <string name="group_by_tags">Tagi</string>
     <string name="group_by_time">Czas</string>
     <string name="height">Wysokość</string>
@@ -215,6 +216,8 @@
     <string name="select_video">Zaznacz film</string>
     <string name="send">Wyślij</string>
     <string name="send_multiple_files_hint_format">Wyślij wiele plików (%s)</string>
+    <string name="sending_image_title">Wyślij zdjęcie (%s)</string>
+    <string name="sending_video_title">Wyślij film (%s)</string>
     <string name="sepia">Sepia</string>
     <string name="set_hidden_album">Ukryj album</string>
     <string name="set_image">Ustaw zdjęcie jako</string>

@@ -547,7 +547,7 @@
   <string name="no_wifi_available_title">Brak połączenia Wi-Fi</string>
   <string name="not_a_valid_port">Numer portu powinien mieć wartość od 1000 do 65 534</string>
   <string name="not_allowed">Karta SIM nie pozwala na połączenia z tą siecią.</string>
-  <string name="not_connected_miui">Nie połączone</string>
+  <string name="not_connected_miui">Niepołączone</string>
   <string name="not_voice_capable">Voice calling not supported</string>
   <string name="notification_action_end_call">Rozłącz</string>
   <string name="notification_incoming_call">Połączenie przychodzące</string>
