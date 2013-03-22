@@ -156,11 +156,11 @@
 	<string name="task_backup_finished_local">Kopia udana</string>
 	<string name="task_canceled">Anulowane zadania</string>
 	<string name="task_canceled_all_local">Anuluj zadanie</string>
-	<string name="task_canceled_local">Następujące zadania $s zostały anulowane</string>
+	<string name="task_canceled_local">Następujące zadania %s zostały anulowane</string>
 	<string name="task_cloud_backup_cancel_dialog">"Kopia w trakcie Kliknij OK by anulować zadanie"</string>
 	<string name="task_failed">Nieudane zadania</string>
 	<string name="task_failed_all_local">Zadanie nieudane</string>
-	<string name="task_failed_local">Zadanie $s nie zostało zakończone</string>
+	<string name="task_failed_local">Zadanie %s nie zostało zakończone</string>
 	<string name="task_finished">Wykonano</string>
 	<string name="task_local_backup_cancel_dialog">"Kopia w trakcie Kliknij OK by anulować zadanie"</string>
 	<string name="task_pending">Oczekujące</string>

@@ -4,6 +4,12 @@
     <string name="data_usage_summary">Zaleca się wyłączenie przesyłu danych jeśli nie posiadasz pakietu danych internetowych. Inaczej operator może pobierać dodatkowe opłaty za transfer.</string>
     <string name="next">Dalej</string>
     <string name="other_service_label">Pozostałe usługi</string>
+    <string name="other_service_google_location">Lokalizacja w sieci</string>
+    <string name="other_service_google_location_use">Wyszukiwanie z Google</string>
+    <string name="other_service_google_location_use_summary">Zezwól Google na uzyskiwanie lokalizacji urządzenia aby poprawić wyszukiwanie i inne usługi</string>
+    <string name="other_service_google_location_use_help">"Zezwól usługom lokalizacji Google na pozyskiwanie anonimowych danych o położeniu. Dane mogą być zbierane nawet jeśli aplikacje nie są uruchomione. Aby zmienić ustawienia przejdź do Ustawienia > Usługi lokalizacyjne"</string>
+    <string name="other_service_permission_manager">Uprawnienia aplikacji</string>
+    <string name="other_service_permission_manager_summary">Monitorowanie bezpieczeństwa i prywatności użytkownika</string>
     <string name="other_service_location">Usługi lokalizacyjne</string>
     <string name="other_service_location_summary">Usługi lokalizacyjne pozwalają aplikacjom na uzyskiwanie szczegółowych danych o położeniu dzięki GPS</string>
     <string name="other_service_user_experience">Prześlij swoje spostrzeżenia</string>

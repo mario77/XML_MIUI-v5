@@ -292,6 +292,7 @@ Zezwól na autostartt？"</string>
     <string name="bluetooth_device_context_unpair">Rozłącz parę</string>
     <string name="bluetooth_device_details">Ustawienia urządzenia</string>
     <string name="bluetooth_device_name">Nazwa urządzenia</string>
+    <string name="bluetooth_device_searchable">Urządzenie widoczne</string>
     <string name="bluetooth_devices">Lista urządzeń</string>
     <string name="bluetooth_disable_profile_message">Spowoduje to wyłączenie profilu:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Urządzenie:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_disable_profile_title">Wyłączyć profil?</string>
@@ -651,6 +652,9 @@ Ilość przesyłanych danych może być różnie rozliczana przez telefon i oper
     <string name="device_cpu2_info">"2x"</string>
     <string name="device_cpu4_info">"4x"</string>
     <string name="device_default_name">Telefon Xiaomi</string>
+    <string name="device_edit_title">Zmień nazwę urządzenia</string>
+    <string name="device_name_input_hint">Wpisz nazwę urządzenia</string>
+    <string name="device_name_usage_point">Zezwalaj na wykrywanie urządzenia przez inne za pomocą Bluetooth.</string>
     <string name="device_info_default">Nieznany</string>
     <string name="device_info_label">Informacje o urządzeniu</string>
     <string name="device_info_not_available">Niedostępna</string>
