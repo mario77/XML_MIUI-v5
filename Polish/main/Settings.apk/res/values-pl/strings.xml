@@ -669,6 +669,7 @@ Ilość przesyłanych danych może być różnie rozliczana przez telefon i oper
     <string name="device_status_activity_title">Informacje o telefonie</string>
     <string name="device_status_summary">Numer telefonu, sygnał itd.</string>
     <string name="dialog_title_font_size">Rozmiar czcionki</string>
+    <string name="dirac_control">Dekodowanie Dirac</string>
     <string name="disableNetwork">disableNetwork</string>
     <string name="disable_overlays">Wyłącz nakładki HW</string>
     <string name="disable_overlays_summary">Zawsze używaj GPU do komponowania ekranu</string>

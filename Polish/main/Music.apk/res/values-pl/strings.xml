@@ -58,6 +58,8 @@
   <string name="delete_playlist_menu">Usuń</string>
   <string name="delete_song_desc">Z pamięci urządzenia zostaną trwale usunięte: %s</string>
   <string name="deselect_all">Odznacz wszystko</string>
+  <string name="dirac_enabled">Dirac Włączony</string>
+  <string name="dirac_disabled">Dirac Wyłączony</string>
   <string name="download">Pobieranie</string>
   <string name="download_album_settings">Pobierz okładkę albumu</string>
   <string name="download_album_summary">Włącz pobieranie okładek albumów</string>

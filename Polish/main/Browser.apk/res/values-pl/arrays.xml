@@ -14,9 +14,7 @@
         <item>Wyłączone</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Aktualna strona</item>
         <item>Strona startowa</item>
-        <item>Pusta strona</item>
         <item>Najczęstsze strony</item>
         <item>Inna</item>
     </string-array>

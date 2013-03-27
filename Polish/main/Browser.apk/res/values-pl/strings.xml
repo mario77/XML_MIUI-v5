@@ -174,6 +174,7 @@
     <string name="go_home">Strona główna</string>
     <string name="google_bookmarks">"Google: "</string>
     <string name="goto_dot">OK</string>
+    <string name="have_sent_bookmark_to_home_screen">Zakładka wysłana na pulpit</string>
     <string name="history">Historia</string>
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="homepage_set">Strona główna została ustawiona.</string>
@@ -185,8 +186,7 @@
     <string name="import_bookmarks_dialog_confirm_add">Dodać bieżące zakładki z tego urządzenia i rozpocząć synchronizację zakładek z kontem %s?</string>
     <string name="import_bookmarks_dialog_confirm_delete">Usunąć bieżące zakładki z tego urządzenia i rozpocząć synchronizację zakładek z kontem %s?</string>
     <string name="import_bookmarks_dialog_delete_select_account">Usuń bieżące zakładki z tego urządzenia i rozpocznij synchronizację z kontem Google.</string>
-    <string name="import_bookmarks_dialog_description">"Zakładki na tym urządzeniu nie są powiązane z kontem Google. Możesz je zapisać, dodając do konta. Jeśli nie chcesz ich synchronizować, po prostu
-        je usuń."</string>
+    <string name="import_bookmarks_dialog_description">"Zakładki na tym urządzeniu nie są powiązane z kontem Google. Możesz je zapisać, dodając do konta. Jeśli nie chcesz ich synchronizować, po prostu je usuń."</string>
     <string name="import_bookmarks_dialog_import">Dodaj zakładki z systemu Android do zakładek na koncie %s</string>
     <string name="import_bookmarks_dialog_remove">Usuń zakładki</string>
     <string name="import_bookmarks_dialog_select_add_account">Dodaj bieżące zakładki z tego urządzenia i rozpocznij synchronizację z kontem Google.</string>

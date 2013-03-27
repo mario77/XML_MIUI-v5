@@ -112,6 +112,7 @@
     <string name="edit_slide_activity">Edytuj slajd</string>
     <string name="edit_slideshow_activity">Edytuj pokaz slajdów</string>
     <string name="enable_password_protect">Włącz ochronę hasłem</string>
+    <string name="enable_visible_pattern_title">Wzór widoczny</string>
     <string name="enter_edit_mode">Usuwanie</string>
     <string name="error_code_label">"Kod błędu: "</string>
     <string name="error_state">Niekompletny stan</string>
@@ -163,6 +164,8 @@
     <string name="menu_preferences">Ustawienia</string>
     <string name="menu_unlock">Odblokuj wiadomość</string>
     <string name="menu_view_contact">Pokaż kontakt</string>
+    <string name="menu_new_manual">Wpisz numer ręcznie</string>
+    <string name="menu_pick_from_contact">Wybierz z kontaktów</string>
     <string name="message_class_label">"Klasa wiadomości: "</string>
     <string name="message_details_title">Szczegóły wiadomości</string>
     <string name="message_download_failed_title">Wiadomość nie została pobrana</string>
@@ -227,6 +230,7 @@
     <string name="notification_failed_multiple_title">Wiadomości nie zostały wysłane</string>
     <string name="notification_multiple">Liczba nieprzeczytanych wiadomości: %s.</string>
     <string name="notification_multiple_title">Nowe wiadomości</string>
+    <string name="number_add_hint">Wpisz numer by dodać do Prywatnego kontaktu</string>
     <string name="phrase_confirm_delete_message">Usunąć zwrot?</string>
     <string name="phrase_empty">No Phrase</string>
     <string name="phrase_from">Od %1s</string>

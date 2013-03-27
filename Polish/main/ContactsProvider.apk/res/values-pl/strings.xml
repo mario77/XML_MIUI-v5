@@ -16,4 +16,5 @@
     <string name="create_contact">Nowy kontakt</string>
     <string name="send_sms">Wyślij MMS/SMS</string>
     <string name="edit_contact">Dodaj do kontaktu</string>
+    <string name="call_log_provider_label">Rejestr połączeń</string>
 </resources>
