@@ -749,11 +749,11 @@ Aby dodać kontakt do listy ulubionych:
     <string name="resource_get_auth_retrieving">Autoryzacja...</string>
     <string name="resource_importing">Wczytywanie</string>
     <string name="resource_list_title">Ostatnie</string>
-    <string name="resource_local">Lokalnie %1$s</string>
+    <string name="resource_local">Lokalnie</string>
     <string name="resource_mute">Brak</string>
     <string name="resource_no_result">Brak wyników</string>
     <string name="resource_notification_default">Powiadomienia</string>
-    <string name="resource_online">Online %1$s</string>
+    <string name="resource_online">W sieci</string>
     <string name="resource_price_format">(%1$s)</string>
     <string name="resource_price_free">Darmowy</string>
     <string name="resource_price_unit">MiKredyty</string>

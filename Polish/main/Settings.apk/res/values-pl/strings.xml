@@ -654,7 +654,7 @@ Ilość przesyłanych danych może być różnie rozliczana przez telefon i oper
     <string name="device_default_name">Telefon Xiaomi</string>
     <string name="device_edit_title">Zmień nazwę urządzenia</string>
     <string name="device_name_input_hint">Wpisz nazwę urządzenia</string>
-    <string name="device_name_usage_point">Zezwalaj na wykrywanie urządzenia przez inne za pomocą Bluetooth.</string>
+    <string name="device_name_usage_point">Nazwa urządzenia zostanie użyta przy wykrywaniu Bluetooth.</string>
     <string name="device_info_default">Nieznany</string>
     <string name="device_info_label">Informacje o urządzeniu</string>
     <string name="device_info_not_available">Niedostępna</string>
@@ -1316,8 +1316,7 @@ Jesteś pewien by wyłączyć?"</string>
 
 Przejdź na wersję rozwojową MIUI aby korzystać z uprawnień ROOT."</string>
     <string name="perm_su_disabled_in_stable_download">Pobierz MIUI</string>
-    <string name="perm_su_enable_content">"Enabling it will allow apps to request ROOT permission.
-Note: Apps with the permission may cause system instability, even loss of personal data, system or hardware damage, please be cautions. Are you sure to enable it?"</string>
+    <string name="perm_su_enable_content">"Udzielanie uprawnień ROOT aplikacjom, może powodować niestabilność systemu, utratę danych osobistych lub uszkodzenie systemu. Wciśnij 'OK' aby aktywować uprawnienia ROOT."</string>
     <string name="perm_su_enable_dialog">%1$s próbuje uzyskać uprawnienia ROOT, które są obecnie wyłączone. Aktywuj uprawnienia ROOT w aplikacji Uprawnienia.</string>
     <string name="perm_su_enable_title">Uprawnienia ROOT</string>
     <string name="perm_su_switch">Uprawnienia ROOT</string>
@@ -2290,6 +2289,9 @@ Wybierz "<b>Wróć</b>, aby połączyć się z inną siecią Wi-Fi.</string>
     <string name="wimax_settings_summary">Konfiguruj sieć i modem 4G oraz zarządzaj nimi</string>
     <string name="window_animation_scale_title">Skala animacji okna</string>
     <string name="wireless_networks_settings_title">Sieci zwykłe i bezprzewodowe</string>
+    <string name="wps_category">Szybkie połączenia</string>
+    <string name="wps_connect_title">Przycisk WPS</string>
+    <string name="wps_connect_summary">Upewnij się, że router bezprzewodowy ma możliwość łączenia urządzeń za pomocą WPS.</string>
     <string name="xiaomi_account">Xiaomi</string>
     <string name="yes">Tak</string>
     <string name="zone_auto">Autom. strefa czasowa</string>  

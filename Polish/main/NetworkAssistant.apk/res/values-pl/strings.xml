@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="about">Informacje</string>
+  <string name="about">Monitor Danych</string>
   <string name="adjust_traffic_auto_adjust_hint">System wykorzystuje informacje od operatora do korekcji użycia danych. Konieczne jest ustawienie informacji o operatorze</string>
   <string name="adjust_traffic_auto_adjust_open_hint">Automatyczna korekta transmisji danych</string>
   <string name="adjust_traffic_auto_adjust_title">Automatyczna korekta</string>
@@ -54,7 +54,7 @@
   <string name="edit_frame_warning_title">"Ostrzeżenie o transmisji przy: "</string>
   <string name="finish_traffic_settings_hint">Ustawienia zapisane!</string>
   <string name="finish_traffic_settings_message">
-    "Wykorzystane dane: %s. Czy te dane są prawidłowe? 
+    "Wykorzystany limit danych: %s. Czy te dane są prawidłowe? 
     Jeśli nie, możesz je zmienić."
   </string>
   <string name="finish_traffic_settings_title">Dostosuj</string>
@@ -87,7 +87,7 @@
   <string name="notify_carrier_settings_title">Operator mobilny nie został zdefiniowany. Skonfigurować teraz?</string>
   <string name="notify_traffic_settings_cancel_hint">Powiadomienia i monitor transmisji danych zostanie wyłączony. Zakończyć?</string>
   <string name="notify_traffic_settings_title">Miesięczny plan transmisji danych nie został zdefiniowany. Skonfigurować teraz?</string>
-  <string name="overseas_menu_traffic_adjust">Dostosuj ręcznie</string>
+  <string name="overseas_menu_traffic_adjust">Dostosuj użycie danych</string>
   <string name="overseas_menu_traffic_settings">Limit transmisji danych</string>
   <string name="overseas_unknown_traffic_hint">Limit transmisji danych nie został ustalony. Skonfigurować teraz?</string>
   <string name="plate_traffic_already_used">Użyte</string>
@@ -99,12 +99,12 @@
   <string name="pref_connect_settings_enable_backgroung_hint">Zezwól na łączenie się z siecią aplikacji uruchomionych w tle</string>
   <string name="pref_connect_settings_exceed_limit">Wyłącz transmisję danych</string>
   <string name="pref_connect_settings_exceed_limit_hint">Powiadom i wyłącz transmisję danych jeśli przekroczono limit przesyłu</string>
-  <string name="pref_connect_settings_notify_in_statusbar">Pokaż inf. o użyciu danych</string>
+  <string name="pref_connect_settings_notify_in_statusbar">Pokaż użycie danych</string>
   <string name="pref_connect_settings_title">Połączenia z siecią</string>
   <string name="pref_network_speed_internal_title">Odświeżanie wskazań prędkości</string>
-  <string name="pref_network_speed_settings">Pokaż prędkość sieci</string>
+  <string name="pref_network_speed_settings">Pokaż prędkość transmisji</string>
   <string name="pref_network_status_bar">Pasek powiadomień i statusu</string>
-  <string name="pref_netwotk_speed_internal_summary">Odśwież prędkość sieci co %d sekund</string>
+  <string name="pref_netwotk_speed_internal_summary">Odśwież prędkość transmisji co %d sekund</string>
   <string name="pref_traffic_adjust_title">Korekta transmisji danych</string>
   <string name="pref_traffic_daily_limit_settings">Dzienne limity</string>
   <string name="pref_traffic_settings">Ustawienia</string>
@@ -139,9 +139,9 @@
   <string name="traffic_total">Razem %s</string>
   <string name="traffic_used_status">Użyte %s</string>
   <string name="unknown">unknown</string>
-  <string name="unknown_free_traffic_hint">"Jeśli nie znasz swojego limitu transmisji danych skontaktuj się w tym celu ze swoim operatorem"</string>
+  <string name="unknown_free_traffic_hint">"Jeśli nie znasz swojego limitu transmisji danych skontaktuj się w tym celu ze swoim operatorem. "</string>
   <string name="unknown_free_traffic_text">"Jaki mam limit transmisji danych?"</string>
-  <string name="unknown_free_traffic_title">Nieznany limit transmisji</string>
+  <string name="unknown_free_traffic_title">Nieznany limit transmisji?</string>
   <string name="unknown_location">Nieznana lokalizacja</string>
   <string name="unknown_traffic_hint">Nieznany limit transmisji danych, czy chcesz go teraz ustawić?</string>
   <string name="unknown_version">Nieznana wersja</string>
