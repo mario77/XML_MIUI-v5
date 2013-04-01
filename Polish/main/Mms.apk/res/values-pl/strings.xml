@@ -21,7 +21,7 @@
     <string name="adding_attachments">Poczekaj na zakończenie dodawania elementów do pokazu slajdów.</string>
     <string name="adding_attachments_title">Dodawanie załączników</string>
     <string name="adding_recipients">Dodawanie odbiorców…</string>
-    <string name="app_label">SMS/MMS</string>
+    <string name="app_label">SMS</string>
     <string name="attach_image">Zdjęcia</string>
     <string name="attach_record_sound">Nagraj dźwięki</string>
     <string name="attach_record_video">Nagraj film</string>
@@ -85,7 +85,7 @@
     <string name="database_corruption">Baza danych uszkodzona, naprawianie...</string>
     <string name="delete">Usuń</string>
     <string name="delete_bookmark">Nielubiane</string>
-    <string name="delete_message">Usuń wiadomość</string>
+    <string name="delete_message">Usuń</string>
     <string name="delete_phrase">Usuń zwrot</string>
     <string name="delete_subject">Usuń temat</string>
     <string name="delete_unlocked">Usuń zablokowane wiadomości</string>
@@ -160,9 +160,9 @@
     <string name="menu_delete_messages">Usuń wiadomości</string>
     <string name="menu_edit">Edytuj</string>
     <string name="menu_forward">Prześlij dalej</string>
-    <string name="menu_lock">Zablokuj wiadomość</string>
+    <string name="menu_lock">Zablokuj</string>
     <string name="menu_preferences">Ustawienia</string>
-    <string name="menu_unlock">Odblokuj wiadomość</string>
+    <string name="menu_unlock">Odblokuj</string>
     <string name="menu_view_contact">Pokaż kontakt</string>
     <string name="menu_new_manual">Wpisz numer ręcznie</string>
     <string name="menu_pick_from_contact">Wybierz z kontaktów</string>

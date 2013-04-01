@@ -49,7 +49,8 @@
     <string name="edit_blacklist">Edytuj czarną listę</string>
     <string name="edit_whitelist">Edytuj białą listę</string>
     <string name="emptylist_fwlog_call">Blokowane połączenia będą tutaj logowane</string>
-    <string name="emptylist_fwlog_ms">Blokowane wiadomości SMS i MMS będą tutaj logowane</string>
+    <string name="emptylist_fwlog_ms">"Blokowane wiadomości tekstowe
+i MMS będą tutaj rejestrowane"</string>
     <string name="enable_firewall">Filtrowanie połączeń</string>
     <string name="firewall_action">Akcje blokowania</string>
     <string name="firewall_log">Rejestr zapory</string>
@@ -85,7 +86,7 @@
     <string name="fw_keyword_filter_summary">Filtrowanie wiadomości w oparciu o słowa kluczowe</string>
     <string name="fw_keyword_list">Lista słów kluczowych</string>
     <string name="fw_keyword_list_hint">Wiadomości zawierające słowa kluczowe zostaną zablokowane</string>
-    <string name="fw_log_inf">Log</string>
+    <string name="fw_log_inf">Rejestr</string>
     <string name="fw_menu_new_blacklist_title">Dodaj do czarnej listy</string>
     <string name="fw_menu_new_manual">Dodaj numer</string>
     <string name="fw_menu_new_whitelist_title">Dodaj do białej listy</string>
