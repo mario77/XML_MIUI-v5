@@ -1233,4 +1233,12 @@ dotyczące konta %s"</string>
     <string name="default_audio_route_category_name">System</string>
     <string name="bluetooth_a2dp_audio_route_name">Dźwięk Bluetooth</string>
     <string name="media_route_chooser_grouping_done">Gotowe</string>
+    <string name="reboot_reboot">Uruchom ponownie</string>
+    <string name="reboot_recovery">Recovery</string>
+    <string name="reboot_bootloader">Bootloader</string>
+    <string name="reboot_bootmenu">Bootmenu</string>
+    <string name="reboot_fastboot">Fastboot</string>
+    <string name="reboot_download">Download</string>
+    <string name="reboot_progress">Ponowne uruchamianie…</string>
+    <string name="reboot_confirm">Telefon zostanie uruchomiony ponownie.</string>
 </resources>
