@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_app_name">Odtwarzacz MIUI</string>
+    <string name="about_developer_label">Developer</string>
+    <string name="about_developer_name">MIUI</string>
     <string name="about_title">O aplikacji</string>
     <string name="about_version">V4.0</string>
+    <string name="about_version_label">Wersja:</string>
     <string name="adjust_position_next_media_notice">Następny</string>
     <string name="adjust_position_prev_media_notice">Poprzedni</string>
     <string name="airkan_control_device_des">Możesz kontrolować odtwarzanie filmu przez przyciski na dole</string>

@@ -15,6 +15,7 @@
     <string name="apply_update_dialog_cancel_button">Anuluj</string>
     <string name="apply_update_dialog_update_button">Aktualizuj</string>
     <string name="apply_update_fail">Aktualizacja systemu nieudana</string>
+    <string name="apply_update_timer">Aktualizacja zakończona. Urządzenie zostanie uruchomione ponownie za %d sekund</string>
     <string name="apply_upload_info_message">Zastosować aktualizację?</string>
     <string name="apply_upload_info_message_manually">Wyłącz telefon i ręcznie uruchom w Recovery by zastosować aktualizację z SD w %s.</string>
     <string name="applying_rom_message">Instalacja ROMu</string>
@@ -81,8 +82,10 @@
     <string name="not_recommend">"Nie polecaj"</string>
     <string name="paused_queued_for_network">Oczekiwanie na połączenie z siecią</string>
     <string name="paused_queued_for_wifi">Oczekiwanie na połączenie z Wi-Fi</string>
-    <string name="previous">Poprzedni</string>
-	<string name="reboot_to_new_system">Uruchom ponownie</string>
+	<string name="previous">Poprzedni</string>
+    <string name="reboot_later">Uruchom ponownie później</string>
+    <string name="reboot_now">Uruchom ponownie teraz</string>
+    <string name="reboot_to_new_system">Uruchom ponownie</string>
     <string name="recommend">Poleć</string>
     <string name="recommend_comment_hint">Powód (opcjonalnie)</string>
     <string name="recommend_vote_title">MIUI Beta Team Poll</string>
@@ -93,6 +96,7 @@
     <string name="sdcard_is_not_present_dialog_title">Karta SD nieznaleziona</string>
     <string name="send_install_log">Wyślij log z błędem</string>
     <string name="send_install_log_error">Nie można wysłać logu z błędem</string>
+    <string name="share">Udostępnij</string>
     <string name="share_qq">Udostępnij przez Tencent</string>
     <string name="share_sina">Udostępnij przez Sina</string>
     <string name="share_update">Udostępnij informacje o aktualizacji</string>
@@ -109,11 +113,14 @@
     <string name="submit_fail">Nie udało się wysłać</string>
     <string name="submit_progress">Wysyłanie...</string>
     <string name="submit_success">Wysłano pomyślnie!</string>
+    <string name="system_backup_apply_helper">Urządzenie zostanie uruchomione ponownie po aktualizacji</string>
+    <string name="system_backup_ask">Pytaj ponownie</string>
     <string name="system_backup_button_text">Kopia danych</string>
     <string name="system_backup_cancel_text">Uruchom ponownie</string>
+    <string name="system_backup_download_helper">Urządzenie zostanie uruchomione ponownie po pobraniu i zainstalowaniu aktualizacji</string>
     <string name="system_backup_error_message">Błąd przy próbie kopii systemu</string>
+    <string name="system_backup_helper">Aktualizacja nie ma wpływu na dane użytkownika. Zaleca się jednak wykonanie kopii danych osobistych za pomocą aplikacji Kopia MIUI</string>
     <string name="system_backup_ok_text">Kopia</string>
-    <string name="sytemt_backup_helper">Aktualizacja nie ma wpływu na dane użytkownika. Zaleca się jednak wykonanie kopii danych osobistych za pomocą aplikacji Kopia MIUI</string>
     <string name="top_secret_build">Ściśle tajna wersja</string>
     <string name="update_comment_hint">(opcjonalne)</string>
     <string name="update_comment_title">Twoje komentarze</string>

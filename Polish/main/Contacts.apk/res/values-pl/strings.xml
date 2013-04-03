@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="account_container_title">Kontakt zapisany jest na poniższych kontach</string>
+      <string name="account_container_title">Kontakt zapisany jest na poniższych kontach</string>
     <string name="account_default">Telefon</string>
     <string name="account_phone">lokalnie, niesynchronizowany</string>
     <string name="account_sim">na SIM, niesynchronizowany</string>
@@ -134,6 +134,8 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="clearFrequentsProgress_title">Czyszczenie…</string>
     <string name="clear_default">Wyczyść wartość domyślną</string>
     <string name="click_close">Kliknij by zamknąć</string>
+    <string name="cloud_antispam_summary">Filtruj połączenia i wiadomości przez sieć mobilną lub Wi-Fi</string>
+    <string name="cloud_antispam_title">Zapora sieciowa</string>
     <string name="composer_failed_to_get_database_infomation">"Nie można pobrać informacji z bazy danych."</string>
     <string name="composer_has_no_exportable_contact">Brak kontaktów do kopiowania. Jeśli masz w telefonie kontakty, być może dostawcy danych nie zezwalają na ich eksport z telefonu.</string>
     <string name="composer_not_initialized">"The vCard composer didn't start properly."</string>
@@ -511,9 +513,9 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="multipleContactDeleteConfirmation">Usunięcie tego kontaktu spowoduje usunięcie danych z wielu kont.</string>
     <string name="multipleContactDeleteConfirmationDetail">Usunięcie \"%s\" spowoduje usunięcie danych z wielu kont.</string>
     <string name="my_phone_not_provider_bluetooth">my phone dont provider bluetooth</string>
-    <string name="my_phone_provider_bluetooth">my phone provider bluetooth</string>    
+    <string name="my_phone_provider_bluetooth">my phone provider bluetooth</string>
     <string name="nameLabelsGroup">Nazwa</string>
-    <string name="name_family">Nazwisko</string>
+    <string name="name_family">Nazwisko</string>    
     <string name="name_given">Imię</string>
     <string name="name_middle">Drugie imię</string>
     <string name="name_phonetic">Nazwisko (fonetycznie)</string>
@@ -609,6 +611,7 @@ Aby dodać kontakt do listy ulubionych:
     <string name="option_view_group">Wyświetl grupę</string>
     <string name="organizationLabelsGroup">Organizacja</string>
     <string name="organization_company_and_title">%2$s, %1$s</string>
+    <string name="other_contacts">Inne</string>
     <string name="other_phone">inne telefony</string>
     <string name="payphone">Telefon płatny</string>
     <string name="people">Osoby</string>
@@ -733,9 +736,9 @@ Aby dodać kontakt do listy ulubionych:
     <string name="resource_can_not_selected">%1$s nie może być zaznaczony!</string>
     <string name="resource_default">Domyślny dzwonek</string>
     <string name="resource_default_name">Element</string>
-    <string name="resource_delete_all">Czy chcesz usunąć %1$d elementów?</string>    
+    <string name="resource_delete_all">Czy chcesz usunąć %1$d elementów?</string>
     <string name="resource_delete_confirm">Usunąć te elementy?</string>    
-    <string name="resource_detail">Szczegóły</string>
+    <string name="resource_detail">Szczegóły</string>    
     <string name="resource_download">Pobierz</string>
     <string name="resource_downloaded_title">Pobrane elementy</string>
     <string name="resource_downloading">Pobieranie</string>
@@ -854,6 +857,7 @@ Aby dodać kontakt do listy ulubionych:
     <string name="splitConfirmation">Ten kontakt zostanie podzielony na wiele wpisów.</string>
     <string name="splitConfirmation_title">Podzielić kontakt?</string>
     <string name="starredList">Oznaczony gwiazdką</string>
+    <string name="starred_contacts">Ulubione</string>
     <string name="status_available">Dostępny</string>
     <string name="status_away">Nieobecny</string>
     <string name="status_busy">Zajęty</string>

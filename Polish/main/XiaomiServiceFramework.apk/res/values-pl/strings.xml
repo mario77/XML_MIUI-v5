@@ -34,6 +34,8 @@
     <string name="disable_find_device_error">%1$s, failed to disable locate device</string>
     <string name="email_already_be_used">Adres E-mail w użyciu</string>
     <string name="enable_find_device_error">%1$s, failed to enable locate device</string>
+    <string name="error_account_changed_title">Konto aktualne</string>
+    <string name="error_account_changed_summary">Konto zostało zaktualizowane</string>
     <string name="error_auth_summary">Account login error, please re-login</string>
     <string name="error_auth_title">Account error</string>
     <string name="error_common_summary">System error. Please try again later</string>

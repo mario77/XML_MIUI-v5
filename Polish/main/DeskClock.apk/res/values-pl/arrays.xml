@@ -38,4 +38,11 @@
         <item>5</item>
         <item>Wył</item>
     </string-array> 
+    <string-array name="alarm_repeat_type">
+        <item>Tylko raz</item>
+        <item>Codziennie</item>
+        <item>W dni robocze</item>
+        <item>Od poniedziałku do piątku</item>
+        <item>Własne</item>
+    </string-array>
 </resources>

@@ -85,6 +85,7 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="apn_auth_type_pap">PAP</string>
     <string name="apn_auth_type_pap_chap">PAP lub CHAP</string>
     <string name="apn_edit">Edytuj punkt dostępowy</string>
+    <string name="app_floating_window_dlg">Zezwól \"%1$s\" na wyświetlanie okien Pop-up</string>
     <string name="apn_general">Internet APN</string>
     <string name="apn_http_port">Port</string>
     <string name="apn_http_proxy">Proxy</string>
@@ -809,6 +810,7 @@ Niektóre aplikacje mogą przestać działać i wymagać aktualizacji przez prog
     <string name="finish_application">Zakończ aplikację</string>
     <string name="finish_button_label">Zakończ</string>
     <string name="firmware_version">Wersja Android</string>
+    <string name="floating_window_switch_label">Pokaż okna Pop-up</string>
     <string name="font_size_huge">Ogromna</string>
     <string name="font_size_large">Bardzo duża</string>
     <string name="font_size_medium">Duża</string>
@@ -1910,6 +1912,9 @@ Zaufaj aplikacji？"</string>
     <string name="usage_type_wifi_running">Działanie Wi-Fi</string>
     <string name="usb_connection_category">Połącz jako</string>
     <string name="usb_label_installer_cd">Instaluj narzędzia do transferu plików</string>
+    <string name="msd_driver_download">Pobierz sterownik</string>
+    <string name="msd_driver_windows_xp_download">Przejdź do http://miuiandroid.com/windows/ aby pobrać na PC</string>
+    <string name="msd_driver_mac_download">Przejdź do http://miuiandroid.com/mac/ aby pobrać na MAC</string>
     <string name="usb_msd_driver_installer_summary">Możesz pobrać instalator sterowników dla Windows i MacOS tutaj</string>
     <string name="usb_msd_driver_installer_title">Instalator sterowników (MSD)</string>
     <string name="usb_msd_summary">Przesył plików dla Windows i MacOS</string>
@@ -2104,7 +2109,7 @@ Zaufaj aplikacji？"</string>
     <string name="wifi_eap_user_cert">Certyfikat użytkownika</string>
     <string name="wifi_empty_list_wifi_off">Aby zobaczyć dostępne sieci, włącz obsługę Wi-Fi.</string>
     <string name="wifi_empty_list_wifi_on">Wyszukiwanie sieci Wi-Fi…</string>
-    <string name="wifi_enable">Unikaj słabych połączeń</string>
+    <string name="wifi_enable">Włącz Wi-Fi</string>
     <string name="wifi_enable_watchdog_service_summary">Nie łącz z Wi-Fi, jeśli połączenie jest słabe</string>
     <string name="wifi_error">Błąd</string>
     <string name="wifi_fail_to_scan">Nie można wyszukać sieci.</string>
