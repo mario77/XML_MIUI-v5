@@ -24,7 +24,7 @@
   <string name="alarm_notify_snooze_text">Alarm ustawiony na %s. Dotknij, aby anulować.</string>
   <string name="alarm_notify_text">Włącz drzemkę lub anuluj alarm.</string>
   <string name="alarm_repeat">Powtarzanie</string>
-  <string name="alarm_screen">Ustaw zmienny dzwonek</string>
+  <string name="alarm_screen">Motywy alarmu</string>
   <string name="alarm_settings">Dźwięki</string>
   <string name="alarm_vibrate">Wibracje</string>
   <string name="alarm_volume_summary">Ustaw głośność alarmów</string>
@@ -45,8 +45,8 @@
   <string name="day_concat">", "</string>
   <string name="days">%s dni</string>
   <string name="default_alarm_alert">Ustaw domyślny dzwonek</string>
-  <string name="default_alarm_screen">Ustaw domyślny zmienny dzwonek</string>
-  <string name="default_alarm_title">Ustaw domyślny dzwonek</string>
+  <string name="default_alarm_screen">Motyw alarmu</string>
+  <string name="default_alarm_title">Dzwonki i motywy</string>
   <string name="default_label">Alarm</string>
   <string name="default_ringtone_setting_title">Ustaw dzwonek domyślny</string>
   <string name="delelte_selected_timezone">Na pewno usunąć wybrane strefy czasowe?</string>
@@ -80,9 +80,9 @@
   <string name="holiday_data_update_failed">Check for update errors and please try again later.</string>
   <string name="holiday_data_update_succeed">Sprawdź aktualizację</string>
   <string name="holiday_data_updating">Odświeżanie...</string>
-  <string name="holiday_update_pref_invalidate_title">Odświeżanie danych o dniach roboczych (expired)</string>
+  <string name="holiday_update_pref_invalidate_title">Odśwież dane o dniach roboczych (nieważne)</string>
   <string name="holiday_update_pref_summary">Sprawdź aktualne dane o dniach roboczych</string>
-  <string name="holiday_update_pref_title">Odświeżanie danych o dniach roboczych</string>
+  <string name="holiday_update_pref_title">Odśwież dane o dniach roboczych</string>
   <string name="home_button_description">Program uruchamiający</string>
   <string name="hour">1 godzina</string>
   <string name="hour_unit">godz.</string>
@@ -91,10 +91,11 @@
   <string name="label">Etykieta</string>
   <string name="lap">Okrążenie</string>
   <string name="lap_num">Okr.</string>
-  <string name="legal_workday">Legal Workday</string>
-  <string name="legal_workday_invalidate">Data expired (Currently, alarm rings from Mon to Fri)</string>
-  <string name="legal_workday_invalidate_message">(Data expired. Update in Settings)</string>
-  <string name="legal_workday_message">(Alarm wyłączony podczas urlopu)</string>
+  <string name="legal_workday">Dni wolne od pracy</string>
+  <string name="legal_workday_invalidate">Dane są nieważne. Aktualnie alarm jest powtarzany od Pon. do Pią.</string>
+  <string name="legal_workday_invalidate_message">(Dane nieważne. Odśwież dane w Ustawieniach)</string>
+  <string name="legal_workday_message">"
+(tylko w Chinach)"</string>
   <string name="loading">Wczytywanie...</string>
   <string name="loading_resource_detail_info">Wczytywanie...</string>
   <string name="loading_ringtone">Wczytywanie dzwonka…</string>

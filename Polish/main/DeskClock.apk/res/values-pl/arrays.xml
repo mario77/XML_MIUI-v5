@@ -41,7 +41,7 @@
     <string-array name="alarm_repeat_type">
         <item>Tylko raz</item>
         <item>Codziennie</item>
-        <item>W dni robocze</item>
+        <item>W dni wolne od pracy</item>
         <item>Od poniedziałku do piątku</item>
         <item>Własne</item>
     </string-array>

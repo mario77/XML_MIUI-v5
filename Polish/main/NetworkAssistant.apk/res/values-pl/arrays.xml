@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="date_of_traffic">
-        <item>Transmisja danych od wczoraj</item>
-        <item>Transmisja danych dzisiaj</item>
-        <item>Transmisja danych w tym miesiącu</item>
+        <item>"Transmisja danych od wczoraj "</item>
+        <item>"Transmisja danych dzisiaj "</item>
+        <item>"Transmisja danych w tym miesiącu "</item>
     </string-array>
     <string-array name="date_of_app_all">
         <item>Wczoraj 2G/3G</item>

@@ -46,7 +46,7 @@
     <string name="mi_wallpaper">Tapeta Mi</string>
     <string name="mi_wallpaper_loading">Ładowanie tapet...</string>
     <string name="mi_wallpaper_title">Tapeta Mi</string>
-    <string name="online_no_network">Nie można połączyc się z siecią</string>
+    <string name="online_no_network">Nie można połączyć się z siecią</string>
     <string name="online_search_hint">Wyszukaj zasoby online</string>
     <string name="processing">Przetwarzanie...</string>
     <string name="resource_alarm_default">Alarm</string>

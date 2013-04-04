@@ -83,8 +83,8 @@
     <string name="paused_queued_for_network">Oczekiwanie na połączenie z siecią</string>
     <string name="paused_queued_for_wifi">Oczekiwanie na połączenie z Wi-Fi</string>
 	<string name="previous">Poprzedni</string>
-    <string name="reboot_later">Uruchom ponownie później</string>
-    <string name="reboot_now">Uruchom ponownie teraz</string>
+    <string name="reboot_later">Anuluj</string>
+    <string name="reboot_now">Uruchom ponownie</string>
     <string name="reboot_to_new_system">Uruchom ponownie</string>
     <string name="recommend">Poleć</string>
     <string name="recommend_comment_hint">Powód (opcjonalnie)</string>
@@ -113,7 +113,7 @@
     <string name="submit_fail">Nie udało się wysłać</string>
     <string name="submit_progress">Wysyłanie...</string>
     <string name="submit_success">Wysłano pomyślnie!</string>
-    <string name="system_backup_apply_helper">Urządzenie zostanie uruchomione ponownie po aktualizacji</string>
+    <string name="system_backup_apply_helper">"Urządzenie zostanie uruchomione ponownie po aktualizacji. "</string>
     <string name="system_backup_ask">Pytaj ponownie</string>
     <string name="system_backup_button_text">Kopia danych</string>
     <string name="system_backup_cancel_text">Uruchom ponownie</string>
