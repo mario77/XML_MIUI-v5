@@ -119,7 +119,7 @@
     <string name="system_backup_cancel_text">Uruchom ponownie</string>
     <string name="system_backup_download_helper">Urządzenie zostanie uruchomione ponownie po pobraniu i zainstalowaniu aktualizacji</string>
     <string name="system_backup_error_message">Błąd przy próbie kopii systemu</string>
-    <string name="system_backup_helper">Aktualizacja nie ma wpływu na dane użytkownika. Zaleca się jednak wykonanie kopii danych osobistych za pomocą aplikacji Kopia MIUI</string>
+    <string name="system_backup_helper">Aktualizacja nie ma wpływu na dane użytkownika. Zaleca się jednak wykonanie kopii danych osobistych za pomocą aplikacji Kopia MIUI.</string>
     <string name="system_backup_ok_text">Kopia</string>
     <string name="top_secret_build">Ściśle tajna wersja</string>
     <string name="update_comment_hint">(opcjonalne)</string>

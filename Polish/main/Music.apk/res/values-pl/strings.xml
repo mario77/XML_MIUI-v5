@@ -150,7 +150,7 @@
   <string name="music_browser_label">Muzyka</string>
   <string name="music_filter">Filtrowanie plików</string>
   <string name="music_filter_helper">W celu ukrycia plików, które nie są plikami muzyki zastosowano filtr rozmiaru 800KB</string>
-  <string name="music_open_other_connect">Download music using mobile internet connection</string>
+  <string name="music_open_other_connect">Pobieraj muzykę używając sieci mobilnej</string>
   <string name="music_picker_title">Wybierz utwór</string>
   <string name="music_settings">Ustawienia</string>
   <string name="network_error">Brak połączenia z siecią, sprawdź sieci</string>
