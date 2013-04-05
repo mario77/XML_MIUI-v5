@@ -20,7 +20,7 @@
   <string name="clear_effects">Usuń efekty</string>
   <string name="close">Zamknij</string>
   <string name="confirm_change_mode_title">Przełącz tryb</string>
-  <string name="confirm_change_to_expert_mode_message">Przełączyć na tryb eksperta?</string>
+  <string name="confirm_change_to_expert_mode_message">Przełączyć na tryb fotografa?</string>
   <string name="confirm_change_to_simple_mode_message">Przełączyć na tryb prosty?</string>
   <string name="confirm_location_message">Czy przywrócić domyślne ustawienia aparatu?</string>
   <string name="confirm_restore_message">Czy przywrócić domyślne ustawienia aparatu?</string>
@@ -51,7 +51,7 @@
   <string name="effect_none">Brak</string>
   <string name="effect_silly_faces">Śmieszne twarze</string>
   <string name="empty">" "</string>
-  <string name="enter_expert_mode_title">Tryb eksperta</string>
+  <string name="enter_expert_mode_title">Tryb fotografa</string>
   <string name="error_app_unsupported">Unsupported video resolution for this encoder type</string>
   <string name="error_app_unsupported_hfr_720p">W 720p można wykorzystać do 90FPS</string>
   <string name="error_app_unsupported_hfr_codec">Tylko kodek H264 może być wykorzystany jeśli HFR jest WŁ</string>
@@ -205,9 +205,9 @@
   <string name="pref_camera_picturesize_professional_entry_1920x1080">2MP (1920x1088)</string>
   <string name="pref_camera_picturesize_professional_entry_2048x1536">3MP (2048x1536)</string>
   <string name="pref_camera_picturesize_professional_entry_2592x1944">5MP (2592x1944)</string>
-  <string name="pref_camera_picturesize_professional_entry_3200x1800">5,8MP (3200x1800)</string>
+  <string name="pref_camera_picturesize_professional_entry_3200x1800">6MP (3264x1840)</string>
   <string name="pref_camera_picturesize_professional_entry_3264x1836">6MP (3264x1836)</string>
-  <string name="pref_camera_picturesize_professional_entry_3200x2400">8MP (3200X2400)</string>
+  <string name="pref_camera_picturesize_professional_entry_3200x2400">8MP (3264x2448)</string>
   <string name="pref_camera_picturesize_professional_entry_4208x3120">13MP (4208x3120)</string>
   <string name="pref_camera_picturesize_title">Rozmiar zdjęć</string>
   <string name="pref_camera_picturesize_title_simple_mode">Rozmiar zdjęć</string>
