@@ -13,7 +13,7 @@
     <string name="ok">OK</string>
     <string name="paste">Wklej</string>
     <string name="search_go">Szukaj</string>
-    <string name="selectAll">Wszystko</string>
+    <string name="selectAll">Zaznacz wszystko</string>
     <string name="unknownName">(Nieznany)</string>
     <string name="untitled">&lt;Bez tytułu></string>
     <string name="VideoView_error_button">OK</string>
