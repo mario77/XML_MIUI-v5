@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="emailAddressTypes">
-        <item>Dom</item>
+        <item>Strona domowa</item>
         <item>Praca</item>
         <item>Inne</item>
-        <item>Niestandardowy</item>
+        <item>Niestand.</item>
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
@@ -19,28 +19,28 @@
     <string-array name="organizationTypes">
         <item>Praca</item>
         <item>Inne</item>
-        <item>Niestandardowy</item>
+        <item>Niestand.</item>
     </string-array>
     <string-array name="phoneTypes">
-        <item>Dom</item>
-        <item>Komórka</item>
+        <item>Strona domowa</item>
+        <item>Komórkowy</item>
         <item>Praca</item>
-        <item>Faks w pracy</item>
-        <item>Faks domowy</item>
+        <item>Faks służbowy</item>
+        <item>Faks prywatny</item>
         <item>Pager</item>
-        <item>Inny</item>
-        <item>Niestandardowy</item>
+        <item>Inne</item>
+        <item>Niestand.</item>
     </string-array>
     <string-array name="postalAddressTypes">
-        <item>Dom</item>
-        <item>Praca</item>
-        <item>Inny</item>
-        <item>Niestandardowy</item>
-    </string-array>
-    <string-array name="imAddressTypes">
-        <item>Dom</item>
+        <item>Strona domowa</item>
         <item>Praca</item>
         <item>Inne</item>
-        <item>Niestandardowy</item>
+        <item>Niestand.</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Strona domowa</item>
+        <item>Praca</item>
+        <item>Inne</item>
+        <item>Niestand.</item>
     </string-array>
 </resources>
