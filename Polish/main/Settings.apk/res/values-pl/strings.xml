@@ -150,8 +150,8 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="auto_restore_title">Auto przywracanie</string>
     <string name="auto_startup_application_manage">Autostart</string>
     <string name="auto_startup_count">Zezwól %d aplikacji na autostart</string>
-    <string name="auto_startup_dialog_msg">"System MIUI zezwoli aplikacjom na autostart bez pytania. Może to prowadzić do nadmiernego użycia danych lub baterii.
-Zezwól na autostartt？"</string>
+    <string name="auto_startup_dialog_msg">"System MIUI zezwoli aplikacjom na automatyczny start bez pytania. Może to prowadzić do nadmiernego użycia danych lub baterii.
+Zezwolić aplikacji na autostart?"</string>
     <string name="automatic_brightness">Automatyczna</string>
     <string name="available_size">Dostępne: %s</string>
     <string name="awake">Czas aktywności urządzenia</string>
@@ -320,7 +320,7 @@ Zezwól na autostartt？"</string>
     <string name="bluetooth_dun_remember_choice">"Nie pytaj ponownie"</string>
     <string name="bluetooth_dun_request">DUN request</string>
     <string name="bluetooth_empty_list_bluetooth_off">Aby zobaczyć urządzenia, włącz moduł Bluetooth.</string>
-    <string name="bluetooth_enable">Włącz bluetooth</string>
+    <string name="bluetooth_enable">Włącz Bluetooth</string>
     <string name="bluetooth_enable_alphanumeric_pin">Kod PIN zawiera litery lub symbole</string>
     <string name="bluetooth_enter_passkey_msg">"Aby sparować z urządzeniem :&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>, wpisz wymagane hasło klucz urządzenia:"</string>
     <string name="bluetooth_enter_passkey_other_device">Może być również konieczne wpisanie tego klucza na drugim urządzeniu.</string>
@@ -421,9 +421,9 @@ Zezwól na autostartt？"</string>
     <string name="bluetooth_visibility_timeout">Czas widoczności</string>
     <string name="bluetooth_visibility_timeout_summary">Ustaw czas, przez jaki urządzenie będzie wykrywalne</string>
     <string name="breathing_light_color_summary">Kolor diody gdy otrzymano nowe powiadomienie</string>
-    <string name="breathing_light_color_title">" "</string>
+    <string name="breathing_light_color_title">" - Kolor LED "</string>
     <string name="breathing_light_freq_summary">Oczekiwanie między pulsowaniem diody LED</string>
-    <string name="breathing_light_freq_title">Częstość pulsowania diody LED</string>
+    <string name="breathing_light_freq_title">" - Częstość pulsowania LED"</string>
     <string name="brightness">Jasność ekranu</string>
     <string name="brightness_auto_adjust_off">Ręczny poziom jasności może być dostosowany przez ustawienie suwaka. Jasność ekranu pozostanie niezmieniona, niezależnie od warunków otoczenia.</string>
     <string name="brightness_auto_adjust_on">Automatyczna jasność może być dostosowana przez ustawienie suwaka. Jasność ekranu dostosuje się do warunków oświetleniowych otoczenia.</string>
@@ -451,6 +451,7 @@ Zezwól na autostartt？"</string>
     <string name="camera_key_action_title">Przycisk media</string>
     <string name="camera_key_action_toggle_title">Aktywacja przełącznika</string>
     <string name="cancel">Anuluj</string>
+    <string name="cancel_alert">Anulować alarm?</string>
     <string name="cant_sync_dialog_message">Synchronizacja tego elementu jest obecnie wyłączona. Aby zmienić ustawienie, tymczasowo włącz obsługę danych w tle i automatyczną synchronizację.</string>
     <string name="cant_sync_dialog_title">Nie można zsynchronizować ręcznie</string>
     <string name="carrier_enabled">Włącz/wyłącz APN</string>
@@ -663,7 +664,7 @@ Ilość przesyłanych danych może być różnie rozliczana przez telefon i oper
     <string name="device_internal_memory">Pamięć wew.</string>
     <string name="device_memory">Pamięć RAM</string>
     <string name="device_miui_version">Wersja MIUI</string>
-    <string name="device_name">Urządzenie</string>
+    <string name="device_name">Nazwa urządzenia</string>
     <string name="device_picker">Wybór urządzenia Bluetooth</string>
     <string name="device_sd_memory">Karta SD</string>
     <string name="device_status">Informacje o telefonie</string>
@@ -1297,7 +1298,7 @@ Jesteś pewien by wyłączyć?"</string>
     <string name="perm_privacy_app_launch">Launch</string>
     <string name="perm_privacy_app_log">Rejestr</string>
     <string name="perm_privacy_app_manage">Szczegóły</string>
-    <string name="perm_privacy_app_trust">Ufam aplikacji</string>
+    <string name="perm_privacy_app_trust">Zaufana aplikacja</string>
     <string name="perm_privacy_app_trust_dialog_content">MIUI nie będzie pytał o potwierdzenia operacji związanych z bezpieczeństwem i prywatnością od tej aplikacji.</string>
     <string name="perm_privacy_app_trust_dialog_title">Zaufaj aplikacji</string>
     <string name="perm_privacy_app_trust_summary">Zaufana</string>
@@ -1614,7 +1615,7 @@ Przejdź na wersję rozwojową MIUI aby korzystać z uprawnień ROOT."</string>
     <string name="search_wifi">WiFi</string>
     <string name="security_passwords_title">Hasła</string>
     <string name="security_privacy_settings_title">Bezpieczeństwo i prywatność</string>
-    <string name="security_relative">Security related</string>
+    <string name="security_relative">Bezpieczeństwo</string>
     <string name="security_settings_desc">Aplikacja ma dostęp do następujących elementów na telefonie:</string>
     <string name="security_settings_desc_multi">Aplikacja ma dostęp do tych elementów na telefonie. Aby poprawić wydajność i zmniejszyć użycie pamięci, aplikacja %1$s ma niektóre z tych uprawnień, bo działa wewnątrz tego samego procesu co %2$s:</string>
     <string name="security_settings_summary">Ustaw funkcję Moja lokalizacja, odblokowywanie ekranu, blokadę karty SIM, blokadę magazynu danych logowania.</string>
@@ -1762,7 +1763,7 @@ Pozostało prób :"</string>
     <string name="sync_calendar">Kalendarz</string>
     <string name="sync_contacts">Kontakty</string>
     <string name="sync_disabled">Synchronizacja jest wyłączona</string>
-    <string name="sync_enable">Włącz synchr.</string>
+    <string name="sync_enable">Włącz synchronizację</string>
     <string name="sync_enabled">Synchronizacja włączona</string>
     <string name="sync_error">Błąd synchronizacji</string>
     <string name="sync_failed">Błąd synchronizacji</string>

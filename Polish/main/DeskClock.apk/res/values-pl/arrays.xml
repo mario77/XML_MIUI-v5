@@ -45,4 +45,23 @@
         <item>Od poniedziałku do piątku</item>
         <item>Własne</item>
     </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 minuta</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>20 minut</item>
+        <item>25 minut</item>
+        <item>30 minut</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Wyłączone</item>
+        <item>1 minuta</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>15 minut</item>
+        <item>20 minut</item>
+        <item>25 minut</item>
+        <item>30 minut</item>
+    </string-array>
 </resources>

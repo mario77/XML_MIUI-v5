@@ -38,7 +38,7 @@
     <string name="add_xiaomi_account_warning">Zaloguj się najpierw do konta Xiaomi</string>
     <string name="added_to_bookmarks">Dodano do zakładek.</string>
     <string name="allow">Zezwól</string>
-    <string name="application_name">Internet</string>
+    <string name="application_name">Internet</string>    
     <string name="autofill_profile_editor_address_line_1">Adres, wiersz 1</string>
     <string name="autofill_profile_editor_address_line_1_hint">Adres, skrzynka pocztowa, adres korespondencyjny</string>
     <string name="autofill_profile_editor_address_line_2">Adres, wiersz 2</string>
@@ -87,8 +87,7 @@
     <string name="bookmarks_search">Przeglądarka</string>
     <string name="browserFrameFileErrorLabel">Problem z plikiem</string>
     <string name="browserFrameFormResubmitLabel"/>
-    <string name="browserFrameFormResubmitMessage">"Strona, którą próbujesz wyświetlić, zawiera przesłane dane („POSTDATA”). Jeśli wyślesz je ponownie, wszelkie operacje wykonane przez formularz na
-        tej stronie (np. wyszukiwanie lub zakup online) zostaną powtórzone."</string>
+    <string name="browserFrameFormResubmitMessage">"Strona, którą próbujesz wyświetlić, zawiera przesłane dane („POSTDATA”). Jeśli wyślesz je ponownie, wszelkie operacje wykonane przez formularz na tej stronie (np. wyszukiwanie lub zakup online) zostaną powtórzone."</string>
     <string name="browserFrameNetworkErrorLabel">Problem z połączeniem</string>
     <string name="browser_bookmarks_page_bookmarks_text">Zakładki</string>
     <string name="browser_history">Ostatnio odwiedzane strony</string>
@@ -161,10 +160,8 @@
     <string name="geolocation_permissions_prompt_message">%s chce znać Twoją lokalizację</string>
     <string name="geolocation_permissions_prompt_remember">Zapamiętaj ustawienie</string>
     <string name="geolocation_permissions_prompt_share">Udostępnij lokalizację</string>
-    <string name="geolocation_permissions_prompt_toast_allowed">Ta witryna może uzyskać dostęp do informacji o Twojej lokalizacji. Zmień to ustawienie na ekranie Ustawienia > Zaawansowane >
-        Witryna.</string>
-    <string name="geolocation_permissions_prompt_toast_disallowed">Ta witryna nie może uzyskać dostępu do informacji o Twojej lokalizacji. Zmień to ustawienie w menu Ustawienia > Zaawansowane >
-        Witryna.</string>
+    <string name="geolocation_permissions_prompt_toast_allowed">Ta witryna może uzyskać dostęp do informacji o Twojej lokalizacji. Zmień to ustawienie na ekranie Ustawienia > Zaawansowane > Witryna.</string>
+    <string name="geolocation_permissions_prompt_toast_disallowed">Ta witryna nie może uzyskać dostępu do informacji o Twojej lokalizacji. Zmień to ustawienie w menu Ustawienia > Zaawansowane > Witryna.</string>
     <string name="geolocation_settings_page_dialog_cancel_button">Anuluj</string>
     <string name="geolocation_settings_page_dialog_message">Anulować dostęp tej witryny do informacji o lokalizacji?</string>
     <string name="geolocation_settings_page_dialog_ok_button">OK</string>
@@ -179,6 +176,7 @@
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="homepage_set">Strona główna została ustawiona.</string>
     <string name="http">http://</string>
+    <string name="in_incognito">Tryb Incognito jest aktywny. Historia przeglądania nie zostanie zachowana.</string>
     <string name="import_bookmark">Importuj zakładki</string>
     <string name="import_bookmark_failure">Nie udało się przywrócić zakładek!</string>
     <string name="import_bookmark_sucess">Zakładki przywrócone!</string>
@@ -225,6 +223,7 @@
     <string name="new_tab">Nowa karta</string>
     <string name="no_subfolders">Brak podfolderów</string>
     <string name="not_remind_again">Nie przypominaj więcej</string>
+    <string name="notif_install_successful">Pobieranie udane</string>
     <string name="ok">OK</string>
     <string name="open_all_bookmarks">Otwórz</string>
     <string name="open_all_in_new_window">Otwórz wszystkie w nowych kartach</string>
@@ -433,6 +432,7 @@
     <string name="tab_history">Historia</string>
     <string name="tab_most_visited">Popularne</string>
     <string name="tab_opened_background">Karta otworzona w tle.</string>
+    <string name="tab_opened_background_in_incognito">Karta Incognito otworzona w tle.</string>
     <string name="tab_quicklinks">Linki</string>
     <string name="tab_snapshots">Zapisane strony</string>
     <string name="tab_yellowpage">Katalogi</string>

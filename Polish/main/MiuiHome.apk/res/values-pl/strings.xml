@@ -63,6 +63,7 @@
     <string name="gadget_clock_22_label">Zegar 2x2</string>
     <string name="gadget_clock_24_label">Zegar 2x4</string>
     <string name="gadget_error_text">Problem z ładowaniem widżetu</string>
+    <string name="gadget_google_search_label">Wyszukiwanie Google</string>
     <string name="gadget_load_error">Błąd ładowania widżetu...</string>
     <string name="gadget_photo_22_label">Zdjęcie 2x2</string>
     <string name="gadget_photo_24_label">Zdjęcie 2x4</string>
@@ -84,6 +85,8 @@
     <string name="group_live_folders">Katalogi</string>
     <string name="group_shortcuts">Skróty</string>
     <string name="guide_tips_editing_mode">Przesuń widżet i opuść na ekran</string>
+    <string name="guide_install_app_msg">Aplikacja niezainstalowana. Przejść do Google Play aby wyszukać aplikacje?</string>
+    <string name="guide_install_app_title">Zainstaluj aplikację</string>
     <string name="home_indicator">bottom_point</string>
     <string name="install">Instaluj</string>
     <string name="invalid_contact_shortcut">Nieprawidłowy skrót kontaktu</string>
@@ -167,6 +170,7 @@
     <string name="resource_ringtone_default">Dzwonki</string>
     <string name="resource_see_more">Więcej</string>
     <string name="select_photo">Zdjęcie</string>
+    <string name="select_frame">Ramka</string>
     <string name="sharedUserId"/>
     <string name="sort_by_abc">Sortuj alfabetycznie</string>
     <string name="sort_by_frequency">Sortuj po wykorzystaniu</string>

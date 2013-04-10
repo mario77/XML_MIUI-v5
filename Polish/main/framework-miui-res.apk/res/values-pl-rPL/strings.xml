@@ -16,6 +16,7 @@
   <string name="contact_carrier_message">Please contact carrier if any questions</string>
   <string name="day_of_month">" %d"</string>
   <string name="delete">Usuń</string>
+  <string name="device_xiaomi">Telefon Xiaomi</string>
   <string name="emergency_call_string">Alarmowe</string>
   <string name="error_forbidden">Wystąpił problem z kontem. Synchronizacja wyłączona.</string>
   <string name="error_not_acceptable">Wystąpił problem z serwerem. Synchronizacja wyłączona.</string>
@@ -72,6 +73,7 @@
   <string name="memory_clear_nothing_result">Pamięć została już zwolniona</string>
   <string name="memory_clear_result">"Zwolniono: %1$s pamięci | Wolne: %2$s."</string>
   <string name="miui_copyright_title">Prawa autorskie</string>
+  <string name="miui_device_name">Android</string>
   <string name="miui_mibi_license_title">Umowa użytkownika Mi Kredyty</string>
   <string name="miui_privacy_policy_title">Polityka prywatności</string>
   <string name="miui_unlockscreen_password_wrong">Spróbuj ponownie</string>

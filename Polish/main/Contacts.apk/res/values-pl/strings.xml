@@ -7,7 +7,7 @@
     <string name="account_type_format">Kontakt %1$s</string>
     <string name="actionIncomingCall">Przychodzące</string>
     <string name="action_menu_overflow_description">Więcej opcji</string>
-    <string name="activity_title_confirm_add_detail">Dodaj do kontaktu</string>
+    <string name="activity_title_confirm_add_detail">Dodaj do kontaktów</string>
     <string name="activity_title_contacts_filter">Kontakty do wyświetlenia</string>
     <string name="activity_title_settings">Ustawienia</string>
     <string name="addPeopleToGroup">Aby dodać kontakty edytuj grupy.</string>
@@ -267,7 +267,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="device_paired_dialog_title">Urządzenie sparowane. Przetwarzanie kontaktów...</string>
     <string name="device_pairing_dialog_message">You may need to confirm on the other phone</string>
     <string name="device_pairing_dialog_title">Parowanie urządzenia</string>
-    <string name="device_version_header_bluetooth">Włącz bluetooth</string>
+    <string name="device_version_header_bluetooth">Włącz Bluetooth</string>
     <string name="device_version_header_no_bluetooth">Przywróć kontakty z SIM</string>
     <string name="device_version_title">Wybierz wersję urządzenia</string>
     <string name="dialerDialpadHintText">Dodaj połączenie</string>

@@ -26,7 +26,7 @@
     <string name="sim_card_detection_status_absent">Karta SIM niewykryta. Włóż kartę SIM i uruchom ponownie.</string>
     <string name="traffic_protection_label">Ochrona danych mobilnych</string>
     <string name="traffic_protection_summary">System przypomni kiedy zostanie osiągnięty limit transmisji danych w Twoim planie taryfowym.</string>
-    <string name="traffic_protection_text_hint">Wprowadź obecny limit transmisji danych.</string>
+    <string name="traffic_protection_text_hint">Wprowadź obecny limit transmisji.</string>
     <string name="traffic_protection_unknown"><u>"Nie znam limitu. Wprowadzę później."</u></string>
     <string name="use_data">Przesył danych włączony</string>
 </resources>

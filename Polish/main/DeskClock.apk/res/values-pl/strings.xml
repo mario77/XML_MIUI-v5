@@ -6,7 +6,7 @@
   <string name="alarm_alert_dismiss_text">Wyłącz</string>
   <string name="alarm_alert_snooze_set">Drzemka przez %d min.</string>
   <string name="alarm_alert_snooze_text">Drzemka</string>
-  <string name="alarm_ascending_mode_summary">Narastanie dźwięku do poziomu ustawionej głośności alarmów.</string>
+  <string name="alarm_ascending_mode_summary">Narastanie dźwięku do poziomu ustawionej głośności alarmów</string>
   <string name="alarm_ascending_mode_title">Narastanie alarmu</string>
   <string name="alarm_button_description">Alarmy</string>
   <string name="alarm_count">Ilość powtórzeń przed wyciszeniem</string>
@@ -17,6 +17,7 @@
   <string name="alarm_duration_summary">Powtarzanie alarmu co %d min</string>
   <string name="alarm_duration_title">Powtarzanie alarmów</string>
   <string name="alarm_in_silent_mode_title">Alarm w trybie cichym</string>
+  <string name="alarm_in_silent_mode_summary">Dźwięk alarmu będzie słyszalny w trybie cichym</string>
   <string name="alarm_klaxon_service_desc">Usługa odtwarzania dźwięku alarmów ustawionych w zegarze</string>
   <string name="alarm_label_hint">Wpisz etykietę dla alarmu</string>
   <string name="alarm_list_title">Alarmy</string>
@@ -34,6 +35,9 @@
   <string name="all_resources">All</string>
   <string name="analog_gadget">Zegar analogowy</string>
   <string name="app_label">Zegar</string>
+  <string name="auto_silence_never">Wyłączone</string>
+  <string name="auto_silence_summary">Alarm będzie wyciszany po upłyqiw %d minut</string>
+  <string name="auto_silence_title">Wyciszenie alarmu</string>
   <string name="battery_charging_level">%d%%</string>
   <string name="cancel">Anuluj</string>
   <string name="clock_instructions">Wybierz zegar</string>
@@ -145,9 +149,11 @@
   <string name="set_alarm">Ustaw alarm</string>
   <string name="settings">Ustawienia</string>
   <string name="show_clock">Pokaż zegar</string>
+  <string name="shutdown_alarm_disable_summary">Wyłącz alarm</string>
   <string name="shutdown_alarm_enable_summary">Alarm aktywny</string>
   <string name="shutdown_alarm_title">Alarm na wyłączeniu</string>
   <string name="silent_alarm_summary">Cichy</string>
+  <string name="snooze_duration_title">Czas drzemki</string>
   <string name="snooze_confirm_cancel">Anuluj drzemkę</string>
   <string name="snooze_confirm_message"> "Drzemka przedłużona. Następny alarm o %s. 
 Możesz także anulować alarm." </string>

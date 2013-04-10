@@ -24,7 +24,8 @@
     <string name="account_settings_category_delete_account">Usuń konto</string>
     <string name="account_settings_data_usage">Wykorzystanie transmisji danych</string>
     <string name="account_settings_default_label">Domyślne konto</string>
-    <string name="account_settings_default_summary">Domyślnie wysyłaj wiadomości e-mail z tego konta</string>
+    <string name="account_settings_default_summary">"Domyślnie wysyłaj wiadomości
+e-mail z tego konta"</string>
     <string name="account_settings_delete_account_label">Usuń konto</string>
     <string name="account_settings_description_label">Nazwa konta</string>
     <string name="account_settings_edit_quick_responses_label">Szybkie odpowiedzi</string>
@@ -68,7 +69,8 @@
     <string name="account_setup_basic_description_label">Nazwa konta (opcjonalnie)</string>
     <string name="account_setup_basic_label">Podaj dane do konta %s :</string>
     <string name="account_setup_basic_name_label">Imię (opcjonalnie)</string>
-    <string name="account_setup_basics_default_label">Domyślnie wysyłaj wiadomości e-mail z tego konta</string>
+    <string name="account_setup_basics_default_label">"Domyślnie wysyłaj wiadomości
+e-mail z tego konta"</string>
     <string name="account_setup_basics_email_label">Adres e-mail</string>
     <string name="account_setup_basics_exchange_title">Dodaj konto Exchange</string>
     <string name="account_setup_basics_exchange_title_alternate">Dodaj konto Exchange ActiveSync</string>
@@ -139,7 +141,8 @@
     <string name="account_setup_names_user_name_empty_error">"To pole nie może być puste."</string>
     <string name="account_setup_names_user_name_label">Twoja nazwa (wyświetlana w wiadomościach wychodzących)</string>
     <string name="account_setup_options_background_attachments_label">Automatycznie pobieraj załączniki, gdy połączono z siecią Wi-Fi</string>
-    <string name="account_setup_options_default_label">Domyślnie wysyłaj wiadomości e-mail z tego konta</string>
+    <string name="account_setup_options_default_label">"Domyślnie wysyłaj wiadomości
+e-mail z tego konta"</string>
     <string name="account_setup_options_headline">Opcje konta</string>
     <string name="account_setup_options_mail_check_frequency_10min">Co 10 minut</string>
     <string name="account_setup_options_mail_check_frequency_15min">Co 15 minut</string>

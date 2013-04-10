@@ -53,7 +53,9 @@
   <string name="menu_send_to_desktop">Dodaj na pulpit</string>
   <string name="menu_setting">Ustawienia</string>
   <string name="menu_share">Udostępnij</string>
+  <string name="menu_stick">Przypnij</string>
   <string name="menu_title_select_folder">Wybierz katalog</string>
+  <string name="menu_unstick">Odepnij</string>
   <string name="not_now">Nie teraz</string>
   <string name="note_alert_expired">Nieważne</string>
   <string name="note_link_email">Wyślij E-mail</string>

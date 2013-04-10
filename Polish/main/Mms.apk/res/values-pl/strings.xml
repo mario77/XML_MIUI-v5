@@ -213,6 +213,7 @@
     <string name="mx_offline">Rozłączono</string>
     <string name="mx_online">Połączono</string>
     <string name="mx_reactivate">Reaktywuj wiadomości w chmurze</string>
+    <string name="mx_recommend_msg">Wysyłaj darmowe SMS korzystając z wiadomości w chmurze</string>
     <string name="mx_warning_notice">W celu aktywacji wiadomości w chmurze zostanie wysłany SMS. Opłata za SMS zgodnie z taryfą operatora</string>
     <string name="need_download">Oczekiwanie na synchronizację...</string>
     <string name="new_message">Nowa wiadomość</string>
