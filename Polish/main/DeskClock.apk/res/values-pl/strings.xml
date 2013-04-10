@@ -36,7 +36,7 @@
   <string name="analog_gadget">Zegar analogowy</string>
   <string name="app_label">Zegar</string>
   <string name="auto_silence_never">Wyłączone</string>
-  <string name="auto_silence_summary">Alarm będzie wyciszany po upłyqiw %d minut</string>
+  <string name="auto_silence_summary">Alarm będzie wyciszany po upływie %d minut</string>
   <string name="auto_silence_title">Wyciszenie alarmu</string>
   <string name="battery_charging_level">%d%%</string>
   <string name="cancel">Anuluj</string>
