@@ -73,6 +73,7 @@
   <string name="group_by_location">Lokalizacji</string>
   <string name="group_by_tags">Tagach</string>
   <string name="group_by_time">Czasie</string>
+  <string name="hand_night_exit_button_text">Wyjdź z trybu nocnego</string>
   <string name="hdr_exit_button_text">Wyjdź z trybu HDR</string>
   <string name="height">Wysokość</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
@@ -162,6 +163,7 @@
   <string name="pref_camera_focusmode_entry_macro">Makro</string>
   <string name="pref_camera_focusmode_entry_normal">Ręczny</string>
   <string name="pref_camera_focusmode_title">Tryb ostrości</string>
+  <string name="pref_camera_hand_night_title">Tryb nocny</string>
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
@@ -348,6 +350,7 @@
   <string name="show_videos_only">Pokaż filmy</string>
   <string name="simple_mode_button_text_audio_capture">Zamknij rejestrator dźwięku</string>
   <string name="simple_mode_button_text_color_effect">Zamknij filtr</string>
+  <string name="simple_mode_button_text_hand_night">Zamknij tryb nocny</string>
   <string name="simple_mode_button_text_hdr">Zamknij tryb HDR</string>
   <string name="simple_mode_button_text_panorama">Zamknij panoramę</string>
   <string name="simple_mode_button_text_slow_video">Zamknij tryb poklatkowy</string>
