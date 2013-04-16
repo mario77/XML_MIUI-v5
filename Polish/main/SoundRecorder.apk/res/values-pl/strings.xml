@@ -13,10 +13,10 @@
     <string name="delete">Usuń</string>
     <string name="delete_dialog_message">Usunąć aktualne nagranie?</string>
     <string name="deleting_message">Usuwanie...</string>
-    <string name="dialog_content_storage_full">Due to lack of storage space, the recording was forced to stop and clean up unnecessary files through the File Manager, now open?</string>
+    <string name="dialog_content_storage_full">Niewystarczająca ilość miejsca w pamięci. Nagrywanie zostało zatrzymane. Otworzyć Menedżer Plików aby zwolnić miejsce?</string>
     <string name="dialog_play">Odtwórz</string>
     <string name="dialog_send">Wyślij</string>
-    <string name="dialog_title_storage_full">The lack of storage space, now clean up?</string>
+    <string name="dialog_title_storage_full">Brak miejsca na nagranie.</string>
     <string name="dialog_warning">Ostrzeżenie</string>
     <string name="error_app_internal">Błąd wewnętrzny aplikacji</string>
     <string name="error_app_internal_title">Błąd aplikacji</string>
@@ -25,9 +25,9 @@
     <string name="fm_record">Nagrania z FM (%d)</string>
     <string name="hour">%d godzin</string>
     <string name="insert_sd_card">Karta SD wymagana</string>
-    <string name="low_battery_error">Cell phone battery has less than 5%, in order to ensure that the recordings are not lost, the recording has been stopped and saved.Unexpected shutdown may result in recording lost, it is recommended that the recording when fully charged.</string>
+    <string name="low_battery_error">Bateria jest bliska wyczerpaniu. Nagrywanie zostało zatrzymane aby zapobiec utracie danych.</string>
  	<string name="low_battery_message_title">Niski poziom ładowania</string>
-    <string name="low_battery_warning">Unexpected shutdown may result in recording lost, it is recommended that the recording when fully charged.</string>
+    <string name="low_battery_warning">Niespodziewane wyłączenie może powodować utratę danych nagrania. Zalecane jest nagrywanie przy pełnej baterii.</string>
     <string name="mark_now">(Aktualne)</string>
     <string name="max_length_reached">Osiągnięta maksymalna długość nagrania</string>
     <string name="menu_settings">Ustawienia</string>

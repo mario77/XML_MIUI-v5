@@ -77,6 +77,7 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="android_beam_off_summary">Wyłączone</string>
     <string name="android_beam_on_summary">Gotowy do przesyłania treści aplikacji przez NFC</string>
     <string name="android_beam_settings_title">Android Beam</string>
+    <string name="android_beam_witch_label">Włącz Android Beam</string>
     <string name="animator_duration_scale_title">Skala długości animacji</string>
     <string name="apn_apn">APN</string>
     <string name="apn_auth_type">Typ uwierzytelniania</string>
