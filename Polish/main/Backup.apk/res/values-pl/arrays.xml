@@ -8,11 +8,10 @@
         <item>Przeglądarka</item>
         <item>Menedżer plików</item>
         <item>Galeria</item>
-        <item>Uprawnienia</item> 
+        <item>Uprawnienia</item>
+        <item>Pogoda</item>
         <item>Aparat</item>
         <item>Monitor danych</item>
-        <item>Dane pogodowe</item>
-        <item>Pogoda</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Kontakty</item>
@@ -26,7 +25,7 @@
         <item>Notatki</item>
         <item>Firewall</item>
         <item>Konto</item>
-	</string-array>
+   </string-array>
     <string-array name="app_type_desc">
         <item>(Dane)</item>
         <item>(Aplikacje)</item>

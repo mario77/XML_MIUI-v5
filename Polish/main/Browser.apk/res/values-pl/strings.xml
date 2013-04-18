@@ -426,6 +426,7 @@
     <string name="ssl_untrusted">"Certyfikat nie pochodzi od zaufanego urzędu."</string>
     <string name="ssl_warnings_header">Są problemy z certyfikatem zabezpieczeń tej strony.</string>
     <string name="stop">Zatrzymaj</string>
+    <string name="stop_loading">Zatrzymaj ładowanie</string>
     <string name="stopping">Trwa zatrzymywanie…</string>
     <string name="tab_bookmarks">Zakładki</string>
     <string name="tab_closed">Karta zamknięta.</string>

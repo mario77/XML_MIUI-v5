@@ -81,7 +81,7 @@
     <string name="copy_message_text">Kopiuj tekst wiadomości</string>
     <string name="copy_to_sdcard">Zapisz załącznik</string>
     <string name="copy_to_sdcard_fail">"Nie można zapisać załącznika"</string>
-    <string name="copy_to_sdcard_success">Załącznik zapisany jako %s</string>
+    <string name="copy_to_sdcard_success">Załącznik zapisany.</string>
     <string name="database_corruption">Baza danych uszkodzona, naprawianie...</string>
     <string name="delete">Usuń</string>
     <string name="delete_bookmark">Nielubiane</string>

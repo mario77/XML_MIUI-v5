@@ -1291,8 +1291,9 @@ Jesteś pewien by wyłączyć?"</string>
     <string name="perm_log_clear_title">Wyczyść rejestr</string>
     <string name="perm_monitored_app">Monitorowane aplikacje (%1$d)</string>
     <string name="perm_notice">Powiadomienie bezpieczeństwa</string>
-    <string name="perm_operating">Operating...</string>
-    <string name="perm_optimize">Optimizz</string>
+    <string name="perm_operating">Przetważanie...</string>
+    <string name="perm_optimize">Optymalizowanie</string>
+    <string name="perm_privacy_app_count_trust_summary">Zaufana</string>
     <string name="perm_privacy_app_count">%1$d uprawnień</string>
     <string name="perm_privacy_app_finish">Gotowe</string>
     <string name="perm_privacy_app_installed">Instalacja zakończona!</string>

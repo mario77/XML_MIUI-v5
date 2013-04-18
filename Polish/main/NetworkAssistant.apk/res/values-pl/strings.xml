@@ -93,7 +93,7 @@
   <string name="plate_traffic_already_used">Użyte</string>
   <string name="plate_traffic_exceed">Przekroczone</string>
   <string name="plate_traffic_remain">Pozostało</string>
-  <string name="powered_by">Pomoc techniczą zapewnia WALL-E</string>
+  <string name="powered_by">" "</string>
   <string name="pref_category_adjust_traffic">Ustawienia transmisji danych</string>
   <string name="pref_connect_settings_enable_backgroung">Włącz dane w tle</string>
   <string name="pref_connect_settings_enable_backgroung_hint">Zezwól na łączenie się z siecią aplikacji uruchomionych w tle</string>
@@ -136,8 +136,8 @@
   <string name="traffic_settings_error">There is an error in your settings for monthly free traffic. According to your settings and operator SMS, your monthly free traffic is: %1$s and remaining traffic is: %2$s.</string>
   <string name="traffic_suffix">Dane</string>
   <string name="traffic_suffix_with_uint">Użycie danych (MB)</string>
-  <string name="traffic_total">Razem %s</string>
-  <string name="traffic_used_status">Użyte %s</string>
+  <string name="traffic_total">%s (razem)</string>
+  <string name="traffic_used_status">%s (użyte)</string>
   <string name="unknown">unknown</string>
   <string name="unknown_free_traffic_hint">"Jeśli nie znasz swojego limitu transmisji danych skontaktuj się w tym celu ze swoim operatorem. "</string>
   <string name="unknown_free_traffic_text">"Jaki mam limit transmisji danych?"</string>

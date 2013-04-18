@@ -6,6 +6,7 @@
   <string name="add_to_cloud_album">Dodaj do chmury</string>
   <string name="add_to_cloud_fail_too_many_items">Za dużo zaznaczonych elementów. Nie można usunąć.</string>
   <string name="add_to_cloud_folder">Dodaj do katalogu w chmurze</string>
+  <string name="action_fail_unknown_error">Operacja nieudana z powodu nieznanego błędu.</string>
   <string name="albums">Albumy</string>
   <string name="alert">Uwaga</string>
   <string name="alert_message_initial_cloud">System wyśle automatycznie stare i nowe zdjęcia, a także zrzuty ekranu tylko przy połączeniu Wi-Fi.</string>
@@ -32,8 +33,7 @@
   <string name="cleaning_cache">Czyszczenie pamięci podręcznej...</string>
   <string name="clear_thumbnail_cache">Wyczyść pamięć podręczną</string>
   <string name="clear_thumbnail_cache_confirm">Pamięć podręczna zostanie usunięta. Galeria ponownie przeskanuje pliki multimedialne i odtworzy miniaturki zdjęć.</string>
-  <string name="clear_thumbnail_cache_summary">Przeglądanie galerii generuje miniaturki zdjęć. Usunięcie pamięci podręcznej może zwolnić miejsce w pamięci
-    wewnętrznej.</string>
+  <string name="clear_thumbnail_cache_summary">Przeglądanie galerii generuje miniaturki zdjęć. Usunięcie pamięci podręcznej może zwolnić miejsce w pamięci wewnętrznej.</string>
   <string name="click_to_enter_camera">Otwórz Aparat</string>
   <string name="close">Zamknij</string>
   <string name="cloud_album_more_settings">Albumy online</string>

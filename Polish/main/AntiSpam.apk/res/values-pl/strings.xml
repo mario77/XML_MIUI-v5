@@ -10,12 +10,12 @@
     <string name="act_action_reject_mute">Odrzuć połączenia, wycisz wiadomości</string>
     <string name="act_action_reject_reject">Odrzuć połączenia i wiadomości</string>
     <string name="act_call">Opcje blokowania połączeń</string>
-    <string name="act_del_ms">"Odrzuć wiadomości"</string>
+    <string name="act_del_ms">"Nie pokazuj wiadomości"</string>
     <string name="act_del_ms_summary">Blokowane wiadomości nie pojawią się w rejestrze otrzymanych wiadomości</string>
-    <string name="act_hangup_call">Odrzuć połączenia</string>
+    <string name="act_hangup_call">Odrzuć natychmiast połączenia</string>
     <string name="act_hangup_call_summary">Blokowane połączenia nie pojawią się w rejestrze połączeń</string>
     <string name="act_ignore_call">"Nie rejestruj połączeń"</string>
-    <string name="act_ignore_ms">Domyślnie</string>
+    <string name="act_ignore_ms">Ignoruj powiadomienia</string>
     <string name="act_ms">Opcje blokowania wiadomości</string>
     <string name="act_mute_call">Wycisz połączenia</string>
     <string name="act_mute_call_summary">Bez powiadomień i wibracji. Połączenia zostaną zapisane w rejestrze połączeń</string>
@@ -46,6 +46,7 @@
     <string name="context_call">Połącz</string>
     <string name="context_ms">Wyślij SMS</string>
     <string name="context_new_contact">Nowy kontakt</string>
+    <string name="custom_mark_category">Własne</string>
     <string name="edit_blacklist">Edytuj czarną listę</string>
     <string name="edit_whitelist">Edytuj białą listę</string>
     <string name="emptylist_fwlog_call">Blokowane połączenia będą tutaj logowane</string>
@@ -80,8 +81,8 @@ i MMS będą tutaj rejestrowane"</string>
     <string name="fw_import_ms">Importuj wszystkie wiadomości</string>
     <string name="fw_import_whitelist">Wczytaj białą listę</string>
     <string name="fw_import_whitelist_confirm">Wczytać do białej listy %d zaznaczonych numerów?</string>
-    <string name="fw_in_blacklist" formatted="false">Numer: %s już istnieje na czarnej liście</string>
-    <string name="fw_in_whitelist" formatted="false">Numer: %s już istnieje na białej liście</string>
+    <string name="fw_in_blacklist">Numer: %s już istnieje na czarnej liście</string>
+    <string name="fw_in_whitelist">Numer: %s już istnieje na białej liście</string>
     <string name="fw_keyword_filter">Filtrowanie wiadomości</string>
     <string name="fw_keyword_filter_summary">Filtrowanie wiadomości w oparciu o słowa kluczowe</string>
     <string name="fw_keyword_list">Lista słów kluczowych</string>
@@ -109,6 +110,8 @@ i MMS będą tutaj rejestrowane"</string>
     <string name="fw_whitelist">Biała lista</string>
     <string name="fw_whitelist_hint">Numery z białej listy nie zostaną zablokowane przy połączeniach i wiadomościach</string>
     <string name="log_count">(%d)</string>
+    <string name="mark_number_dialog_maintitle">Zaznacz i zapisz nieznany numer</string>
+    <string name="mark_number_dialog_subtitle">Opracowano w Sogou</string>
     <string name="member_firewall_log" formatted="false">Połączenia: %d, SMS: %d</string>
     <string name="menu_edit">Edytuj</string>
     <string name="mms_log_tab_title">SMS</string>
@@ -131,5 +134,10 @@ i MMS będą tutaj rejestrowane"</string>
     <string name="save_button">Zapisz</string>
     <string name="show_firewall_notification">Ikona powiadomień</string>
     <string name="show_notification">Wszystkie powiadomienia</string>
+    <string name="smart_antispam">Wykryto nieznany numer</string>
+    <string name="turn_on_smart_antispam_hint">Numery będą identyfikowane.</string>
+    <string name="turn_on_smart_antispam_summary_off">Wykorzystuje lokalną bazę danch numerów</string>
+    <string name="turn_on_smart_antispam_summary_on">Działa tylko przy Wi-Fi i sieci 3G</string>
+    <string name="turn_on_smart_antispam_title">Identyfikuj nieznane numery</string>
     <string name="whitelist_tab_title">Biała lista</string>
 </resources>

@@ -184,6 +184,7 @@
   <string name="playlist_recently_played">Ostatnie</string>
   <string name="playlist_renamed_message">Zmieniono nazwę playlisty.</string>
   <string name="playlists_title">"Playlisty "</string>
+  <string name="powered_by">Opracowane przez</string>
   <string name="queue">Bieżąca playlista</string>
   <string name="quit_player">Zakończ</string>
   <string name="quit_warining">Odtwarzacz zakończy odtwarzanie po %d minutach</string>
@@ -199,6 +200,7 @@
   <string name="rename_album_menu">Zmień nazwę</string>
   <string name="rename_artist_menu">Zmień nazwę wykonawcy</string>
   <string name="rename_playlist_menu">Zmień nazwę</string>
+  <string name="retry">Ponów</string>
   <string name="ringtone_menu">Ustaw jako dzwonek telefonu</string>
   <string name="ringtone_set">\"%s\" ustawiony jako dzwonek telefonu.</string>
   <string name="save">Zapisz</string>
