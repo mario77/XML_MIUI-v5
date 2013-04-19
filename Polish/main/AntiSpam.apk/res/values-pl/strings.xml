@@ -134,10 +134,10 @@ i MMS będą tutaj rejestrowane"</string>
     <string name="save_button">Zapisz</string>
     <string name="show_firewall_notification">Ikona powiadomień</string>
     <string name="show_notification">Wszystkie powiadomienia</string>
-    <string name="smart_antispam">Wykryto nieznany numer</string>
-    <string name="turn_on_smart_antispam_hint">Numery będą identyfikowane.</string>
-    <string name="turn_on_smart_antispam_summary_off">Wykorzystuje lokalną bazę danch numerów</string>
-    <string name="turn_on_smart_antispam_summary_on">Działa tylko przy Wi-Fi i sieci 3G</string>
+    <string name="smart_antispam">Nieznane numery</string>
+    <string name="turn_on_smart_antispam_hint">Identyfikowanie numerów</string>
+    <string name="turn_on_smart_antispam_summary_off">Wykorzystuje lokalną bazę danych numerów</string>
+    <string name="turn_on_smart_antispam_summary_on">Działa przy Wi-Fi i 3G</string>
     <string name="turn_on_smart_antispam_title">Identyfikuj nieznane numery</string>
     <string name="whitelist_tab_title">Biała lista</string>
 </resources>

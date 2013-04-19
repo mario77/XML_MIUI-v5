@@ -86,7 +86,6 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="apn_auth_type_pap">PAP</string>
     <string name="apn_auth_type_pap_chap">PAP lub CHAP</string>
     <string name="apn_edit">Edytuj punkt dostępowy</string>
-    <string name="app_floating_window_dlg">Zezwól \"%1$s\" na wyświetlanie okien Pop-up</string>
     <string name="apn_general">Internet APN</string>
     <string name="apn_http_port">Port</string>
     <string name="apn_http_proxy">Proxy</string>
@@ -115,6 +114,9 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="app_factory_reset">Odinstaluj aktualizacje</string>
     <string name="app_factory_reset_dlg_text">Wszystkie aktualizacje tej aplikacji systemowej Androida zostaną odinstalowane.</string>
     <string name="app_factory_reset_dlg_title">Odinstalować aktualizacje?</string>
+    <string name="app_floating_window_dlg">Zezwól \"%1$s\" na wyświetlanie okien Pop-up</string>
+    <string name="app_floating_window_dlg_enable">"Aktywacja okien Pop-up dla aplikacji %1$s wymaga jej ponownego uruchomienia. Na pewno włączyć?"</string>
+    <string name="app_floating_window_dlg_disable">"Wyłączenie pokazywania okien Pop-up dla %1$s zatrzyma aplikację. Na pewno wyłączyć?"</string>
     <string name="app_forward_locked">Aplikacja jest zabezpieczona przed kopiowaniem.</string>
     <string name="app_install_location_summary">Zmień preferowaną lokalizację instalacji nowych aplikacji.</string>
     <string name="app_install_location_title">Preferowana lokalizacja instalacji</string>
@@ -677,7 +679,7 @@ Ilość przesyłanych danych może być różnie rozliczana przez telefon i oper
     <string name="disable_overlays">Wyłącz nakładki HW</string>
     <string name="disable_overlays_summary">Zawsze używaj GPU do komponowania ekranu</string>
     <string name="disable_power_key_long_press_under_keyguard">Wyłącz na ekranie blokady</string>
-    <string name="disable_text">Dezaktywuj</string>
+    <string name="disable_text">Wyłącz</string>
     <string name="disabled">Wyłączone</string>
     <string name="disconnect">Rozłącz</string>
     <string name="display_font_size_label">Rozmiar czcionki:</string>
@@ -813,6 +815,7 @@ Niektóre aplikacje mogą przestać działać i wymagać aktualizacji przez prog
     <string name="finish_button_label">Zakończ</string>
     <string name="firmware_version">Wersja Android</string>
     <string name="floating_window_switch_label">Pokaż okna Pop-up</string>
+    <string name="floating_window_switch_label_disable">Ukryj okna Pop-up</string>
     <string name="font_size_huge">Ogromna</string>
     <string name="font_size_large">Bardzo duża</string>
     <string name="font_size_medium">Duża</string>
@@ -1688,6 +1691,7 @@ Przejdź na wersję rozwojową MIUI aby korzystać z uprawnień ROOT."</string>
     <string name="sim_lock_settings">Ustawienia blokady karty SIM</string>
     <string name="sim_lock_settings_category">Ustaw blokadę SIM</string>
     <string name="sim_lock_settings_title">Blokada karty SIM</string>
+    <string name="sim_management_title">Zarządzanie SIM</string>
     <string name="sim_pin_attempts">"
 Pozostało prób :"</string>
     <string name="sim_pin_change">Zmień PIN do karty SIM</string>

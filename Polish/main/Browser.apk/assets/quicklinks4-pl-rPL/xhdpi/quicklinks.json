@@ -1,10 +1,10 @@
 {
     "quicklinks":[
-        {
-            "title":"Google",
-            "url":"http://www.google.com/",
-            "thumbnail":"google.png",
-            "logobg":"bg06.9.png",
+         {
+            "title":"MIUIPolska",
+            "url":"http://miuipolska.pl",
+            "thumbnail":"miui-polska.png",
+            "logobg":"bg10.9.png",
             "favicon":""
         },
         {
@@ -12,6 +12,13 @@
             "url":"http://Android.com.pl/",
             "thumbnail":"androidcompl.png",
             "logobg":"bg06.9.png",
+            "favicon":""
+        },
+         {
+            "title":"miuiandroid",
+            "url":"http://miuiandroid.com",
+            "thumbnail":"miui-android.png",
+            "logobg":"bg10.9.png",
             "favicon":""
         },
         {
@@ -25,35 +32,28 @@
             "title":"Youtube",
             "url":"http://www.youtube.com/",
             "thumbnail":"youtube.png",
-            "logobg":"bg07.9.png",
+            "logobg":"bg06.9.png",
             "favicon":""
         },
         {
-            "title":"MIUIPolska",
-            "url":"http://miuipolska.pl",
-            "thumbnail":"miui-polska.png",
-            "logobg":"bg10.9.png",
-            "favicon":""
-        },
-        {
-            "title":"miuiandroid",
-            "url":"http://miuiandroid.com",
-            "thumbnail":"miui-android.png",
-            "logobg":"bg10.9.png",
+            "title":"Google",
+            "url":"http://www.google.com/",
+            "thumbnail":"google.png",
+            "logobg":"bg06.9.png",
             "favicon":""
         },
         {
             "title":"Antyweb",
             "url":"http://antyweb.pl",
-            "thumbnail":"tantyweb.png",
-            "logobg":"bg01.9.png",
+            "thumbnail":"antyweb.png",
+            "logobg":"bg06.9.png",
             "favicon":""
         },
         {
-            "title":"ak74",
-            "url":"http://www.ak74.pl/",
-            "thumbnail":"thumb_ebay.png",
-            "logobg":"bg09.9.png",
+            "title":"Wikipedia",
+            "url":"http://pl.wikipedia.org/",
+            "thumbnail":"thumb_wikipedia.png",
+            "logobg":"bg06.9.png",
             "favicon":""
         },
         {
@@ -67,21 +67,21 @@
             "title":"SpidersWeb",
             "url":"http://spidersweb.pl/",
             "thumbnail":"spidersweb.png",
-            "logobg":"bg05.9.png",
+            "logobg":"bg06.9.png",
             "favicon":""
         },
         {
             "title":"Twitter MIUIPolska",
             "url":"http://www.twitter.com/miuipolskapl",
             "thumbnail":"tw.png",
-            "logobg":"bg03.9.png",
+            "logobg":"bg06.9.png",
             "favicon":""
         },
         {
             "title":"Facebook MIUIPolska",
             "url":"http://www.facebook.pl/miuipolska",
             "thumbnail":"fb.png",
-            "logobg":"bg03.9.png",
+            "logobg":"bg06.9.png",
             "favicon":""
         }
     ]
