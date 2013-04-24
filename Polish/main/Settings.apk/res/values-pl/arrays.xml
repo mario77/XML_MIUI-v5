@@ -327,7 +327,14 @@
         <item>Biały</item>
         <item>Fioletowy</item>
     </string-array>
-    <string-array name="back_long_press_timeout">
+        <string-array name="screen_key_long_press_action">
+        <item>Brak funkcji</item>
+        <item>Ostatnie aplikacje</item>
+        <item>Asystent Głosowy (chiński)</item>
+        <item>Google Now</item>
+        <item>Wymuś zamknięcie aplikacji</item>
+    </string-array>
+    <string-array name="screen_key_long_press_timeout">
         <item>0,5 sekundy</item>
         <item>1 sekunda</item>
         <item>1,5 sekundy</item>

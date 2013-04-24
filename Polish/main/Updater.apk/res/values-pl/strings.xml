@@ -78,7 +78,7 @@
     <string name="no_updatecheck_executed">Nie przeprowadzono sprawdzania aktualizacji</string>
     <string name="no_updates_found">Nie znaleziono aktualizacji</string>
     <string name="no_updates_warning">Nie znaleziono aktualizacji</string>
-    <string name="no_updates_warning2">Nie znaleziono aktualizacji! Pozdrowienia. Acid</string>
+    <string name="no_updates_warning2">Nie znaleziono aktualizacji!</string>
     <string name="not_recommend">"Nie polecaj"</string>
     <string name="paused_queued_for_network">Oczekiwanie na połączenie z siecią</string>
     <string name="paused_queued_for_wifi">Oczekiwanie na połączenie z Wi-Fi</string>

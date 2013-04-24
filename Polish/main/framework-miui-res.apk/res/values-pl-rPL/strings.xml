@@ -136,7 +136,11 @@
   <string name="short_pukcode_error_msg">Wpisz co najmniej 8 znaków</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_changed_reactivate_notice">Aktualna karta SIM nie jest aktywna. Wymagany jest SMS by aktywować Usługi synchronizacji. Aktywować teraz?</string>
-   <string name="sync_one_time_sync">Dotknij by zsynchronizować (%1$s)</string>
+  <string name="sim_unavailable">Karta SIM niedostępna</string>
+  <string name="sim_locked">Karta SIM zablokowana</string>
+  <string name="sim_not_ready">Karta SIM w użyciu. Spróbuj ponownie.</string>
+  <string name="sim_in_airplane_mode">Wyłącz tryb samolotowy.</string>
+  <string name="sync_one_time_sync">Dotknij by zsynchronizować (%1$s)</string>
   <string name="text_pastelist">Schowek</string>
   <string name="today">Dzisiaj</string>
   <string name="tomorrow">Jutro</string>

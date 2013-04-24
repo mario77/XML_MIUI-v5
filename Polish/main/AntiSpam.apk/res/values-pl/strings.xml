@@ -110,8 +110,8 @@ i MMS będą tutaj rejestrowane"</string>
     <string name="fw_whitelist">Biała lista</string>
     <string name="fw_whitelist_hint">Numery z białej listy nie zostaną zablokowane przy połączeniach i wiadomościach</string>
     <string name="log_count">(%d)</string>
-    <string name="mark_number_dialog_maintitle">Zaznacz i zapisz nieznany numer</string>
-    <string name="mark_number_dialog_subtitle">Opracowano w Sogou</string>
+    <string name="mark_number_dialog_maintitle">Oznacz nieznany numer</string>
+    <string name="mark_number_dialog_subtitle">" "</string>
     <string name="member_firewall_log" formatted="false">Połączenia: %d, SMS: %d</string>
     <string name="menu_edit">Edytuj</string>
     <string name="mms_log_tab_title">SMS</string>

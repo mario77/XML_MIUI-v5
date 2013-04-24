@@ -4,7 +4,7 @@
             "title":"MIUIPolska",
             "url":"http://miuipolska.pl",
             "thumbnail":"miui-polska.png",
-            "logobg":"bg10.9.png",
+            "logobg":"bg06.9.png",
             "favicon":""
         },
         {
@@ -17,8 +17,8 @@
          {
             "title":"miuiandroid",
             "url":"http://miuiandroid.com",
-            "thumbnail":"miui-android.png",
-            "logobg":"bg10.9.png",
+            "thumbnail":"miuiandroid.png",
+            "logobg":"bg06.9.png",
             "favicon":""
         },
         {

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<resources><!-- Tlumaczenie PL by ACID .:forum.android.com.pl:..-->
+<resources>
     <string name="app_name">Usługi SIM</string>
     <string name="menu_end_session">Koniec sesji</string>
     <string name="help">Pomoc</string>

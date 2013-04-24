@@ -55,10 +55,10 @@
   <string name="confirm_delete_folders_and_pictures">Usunąć %s?</string>
   <string name="confirm_delete_folders_including" formatted="false">%s katalogów (włączając %s)</string>
   <string name="confirm_delete_including_null">0 szt.</string>
-  <string name="confirm_delete_items">%s elementów</string>
+  <string name="confirm_delete_items">%s </string>
   <string name="confirm_delete_pictures">%s zdjęć</string>
   <string name="confirm_delete_system_album">%s jest albumem systemowym, na pewno usunąć?</string>
-  <string name="confirm_delete_videos">%s filmów</string>
+  <string name="confirm_delete_videos">%s  filmów</string>
   <string name="contact_photo">Zdjęcie kontaktu</string>
   <string name="contrast">Kontrast</string>
   <string name="create_new_cloud_folder">Utwórz nowy katalog w chmurze</string>

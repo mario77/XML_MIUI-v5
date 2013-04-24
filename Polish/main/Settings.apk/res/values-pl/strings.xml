@@ -115,8 +115,8 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="app_factory_reset_dlg_text">Wszystkie aktualizacje tej aplikacji systemowej Androida zostaną odinstalowane.</string>
     <string name="app_factory_reset_dlg_title">Odinstalować aktualizacje?</string>
     <string name="app_floating_window_dlg">Zezwól \"%1$s\" na wyświetlanie okien Pop-up</string>
-    <string name="app_floating_window_dlg_enable">"Aktywacja okien Pop-up dla aplikacji %1$s wymaga jej ponownego uruchomienia. Na pewno włączyć?"</string>
     <string name="app_floating_window_dlg_disable">"Wyłączenie pokazywania okien Pop-up dla %1$s zatrzyma aplikację. Na pewno wyłączyć?"</string>
+    <string name="app_floating_window_dlg_enable">"Aktywacja okien Pop-up dla aplikacji %1$s wymaga jej ponownego uruchomienia. Na pewno włączyć?"</string>
     <string name="app_forward_locked">Aplikacja jest zabezpieczona przed kopiowaniem.</string>
     <string name="app_install_location_summary">Zmień preferowaną lokalizację instalacji nowych aplikacji.</string>
     <string name="app_install_location_title">Preferowana lokalizacja instalacji</string>
@@ -158,7 +158,8 @@ Zezwolić aplikacji na autostart?"</string>
     <string name="automatic_brightness">Automatyczna</string>
     <string name="available_size">Dostępne: %s</string>
     <string name="awake">Czas aktywności urządzenia</string>
-    <string name="back_long_press">Przycisk powrotu</string>
+    <string name="back_key">Przycisk Powrotu</string>
+    <string name="back_long_press">Przycisk Powrotu</string>
     <string name="back_long_press_timeout">Czas przytrzymania</string>
     <string name="background_data">Dane w tle</string>
     <string name="background_data_dialog_message">Wyłączenie obsługi danych w tle wydłuża czas pracy baterii i ogranicza transmisję danych. Niektóre aplikacje mogą nadal używać połączenia transmisji danych w tle.</string>
@@ -241,7 +242,6 @@ Zezwolić aplikacji na autostart?"</string>
     <string name="battery_stats_charging_label">Ładowanie</string>
     <string name="battery_stats_duration">%1$s od odłączenia</string>
     <string name="battery_stats_gps_on_label">GPS włączony</string>
-    <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
     <string name="battery_stats_on_battery">%1$s na baterii</string>
     <string name="battery_stats_phone_signal_label">Sygnał sieci komórkowej</string>
     <string name="battery_stats_screen_on_label">Ekran włączony</string>
@@ -281,6 +281,7 @@ Zezwolić aplikacji na autostart?"</string>
     <string name="bluetooth_connection_dialog_text">Czy chcesz nawiązać połączenie z urządzeniem „%1$s”?</string>
     <string name="bluetooth_connection_notif_message">Dotknij, aby połączyć się z urządzeniem „%1$s”.</string>
     <string name="bluetooth_connection_permission_request">Żądanie nawiązania połączenia Bluetooth</string>
+    <string name="bluetooth_default_name">Telefon Xiaomi</string>
     <string name="bluetooth_device">Urządzenie Bluetooth bez nazwy</string>
     <string name="bluetooth_device_advanced_enable_opp_title">Zezwalaj na odbieranie plików</string>
     <string name="bluetooth_device_advanced_online_mode_summary">Połącz z urządzeniem Bluetooth</string>
@@ -658,8 +659,6 @@ Ilość przesyłanych danych może być różnie rozliczana przez telefon i oper
     <string name="device_cpu4_info">"4x"</string>
     <string name="device_default_name">Telefon Xiaomi</string>
     <string name="device_edit_title">Zmień nazwę urządzenia</string>
-    <string name="device_name_input_hint">Wpisz nazwę urządzenia</string>
-    <string name="device_name_usage_point">Nazwa urządzenia zostanie użyta przy wykrywaniu Bluetooth.</string>
     <string name="device_info_default">Nieznany</string>
     <string name="device_info_label">Informacje o urządzeniu</string>
     <string name="device_info_not_available">Niedostępna</string>
@@ -668,17 +667,23 @@ Ilość przesyłanych danych może być różnie rozliczana przez telefon i oper
     <string name="device_memory">Pamięć RAM</string>
     <string name="device_miui_version">Wersja MIUI</string>
     <string name="device_name">Nazwa urządzenia</string>
+    <string name="device_name_input_hint">Wpisz nazwę urządzenia</string>
+    <string name="device_name_usage_point">Nazwa urządzenia zostanie użyta przy wykrywaniu Bluetooth.</string>
     <string name="device_picker">Wybór urządzenia Bluetooth</string>
     <string name="device_sd_memory">Karta SD</string>
     <string name="device_status">Informacje o telefonie</string>
     <string name="device_status_activity_title">Informacje o telefonie</string>
     <string name="device_status_summary">Numer telefonu, sygnał itd.</string>
+    <string name="dialog_title_entryvalues_dolby_control">Kontrola Dolby Mobile</string>
     <string name="dialog_title_font_size">Rozmiar czcionki</string>
     <string name="dirac_control">Dekodowanie Dirac</string>
+    <string name="dirac_mode_earbuds">Słuchawki dokanałowe</string>
+    <string name="dirac_mode_earphones">Słuchawki nauszne</string>
+    <string name="dirac_mode_off">Dirac Wył</string>
     <string name="disableNetwork">disableNetwork</string>
     <string name="disable_overlays">Wyłącz nakładki HW</string>
     <string name="disable_overlays_summary">Zawsze używaj GPU do komponowania ekranu</string>
-    <string name="disable_power_key_long_press_under_keyguard">Wyłącz na ekranie blokady</string>
+    <string name="disable_power_key_long_press_under_keyguard">Przycisk Zasilania</string>
     <string name="disable_text">Wyłącz</string>
     <string name="disabled">Wyłączone</string>
     <string name="disconnect">Rozłącz</string>
@@ -770,7 +775,7 @@ Ilość przesyłanych danych może być różnie rozliczana przez telefon i oper
     <string name="enable_back_long_press">Zamykanie aplikacji</string>
     <string name="enable_compatibility">Skaluj aplikację</string>
     <string name="enable_drive_mode">Tryb samochodowy</string>
-    <string name="enable_snapshot_screenlock">Zrzut na ekranie blokady</string>
+    <string name="enable_snapshot_screenlock">Zrzut ekranu</string>
     <string name="enable_text">Włącz</string>
     <string name="enable_traces_dialog_title">Wybierz włączone ślady</string>
     <string name="enable_traces_summary_all">Wszystkie ślady są włączone</string>
@@ -869,6 +874,7 @@ Niektóre aplikacje mogą przestać działać i wymagać aktualizacji przez prog
     <string name="help_url_wifi"/>
     <string name="hidden_ssid_label">Ukryte SSID:</string>
     <string name="history_details_title">Historia – szczegóły</string>
+    <string name="home_key">Przycisk Home</string>
     <string name="ime_security_warning">Ta metoda wprowadzania może gromadzić cały wpisywany tekst, w tym dane osobiste w postaci haseł i numerów kart kredytowych. Pochodzi ona z aplikacji %1$s. Użyć jej?</string>
     <string name="immediately_destroy_activities">Nie zachowuj działań</string>
     <string name="immediately_destroy_activities_summary">Przerwij każde działanie, gdy użytkownik je porzuci</string>
@@ -1066,6 +1072,13 @@ Aby usunąć muzykę, zdjęcia i inne dane użytkownika, należy wymazać "<b>no
     <string name="master_clear_personal_data_sdcard">"Wymazać wszystkie Twoje informacje osobiste i sformatować kartę SD? Tej czynności nie można cofnąć"</string>
     <string name="master_clear_summary">Wymazuje wszystkie dane w telefonie</string>
     <string name="master_clear_title">Ustawienia fabryczne</string>
+    <string name="mdb_entering">Entering</string>
+    <string name="mdb_restore_cancel">Cancel</string>
+    <string name="mdb_restore_info1">"Will restore your phone's data"</string>
+    <string name="mdb_restore_info2">"Please don't break usb connection"</string>
+    <string name="mdb_restore_label">Mdb Restore</string>
+    <string name="mdb_restore_mode">Restore Mode</string>
+    <string name="mdb_usb_disconnection_exit">USB disconnected, abort restoring</string>
     <string name="media_button">Przycisk multimedialny</string>
     <string name="media_format_button_text">Wyczyść nośnik USB</string>
     <string name="media_format_desc">Wymazać cały nośnik USB? Utracisz <b>wszystkie</b> zapisane dane.</string>
@@ -1110,11 +1123,14 @@ Aby usunąć muzykę, zdjęcia i inne dane użytkownika, należy wymazać "<b>no
     <string name="move_app_to_internal">Przenieś do telefonu</string>
     <string name="move_app_to_sdcard">Przenieś na nośnik USB</string>
     <string name="moving">Przenoszenie</string>
+    <string name="msd_driver_download">Pobierz sterownik</string>
+    <string name="msd_driver_mac_download">Przejdź do http://miuiandroid.com/mac/ aby pobrać na MAC</string>
+    <string name="msd_driver_windows_xp_download">Przejdź do http://miuiandroid.com/windows/ aby pobrać na PC</string>
     <string name="msd_help_summary">"Problemy z podłączeniem pamięci wewnętrznej urządzenia do PC? 
 Wybierz swój system operacyjny:"</string>
     <string name="msd_help_title">Pomoc</string>
     <string name="msd_install">Zainstaluj sterownik</string>
-    <string name="msd_install_finish">OK</string>
+ <string name="msd_install_finish">OK</string>
     <string name="msd_install_next">Dalej</string>
     <string name="msd_install_retry_linux">"Jeśli komputer nie wykrywa MI 2
 na systemie Ubuntu 12.xx wykonaj polecenia tego poradnika:
@@ -1125,7 +1141,7 @@ już wbudowany tryb MTP.
 Wystarczy podłączyć urządzenie do USB
 
 Acid"</string>
- <string name="msd_install_retry_mac">"If the computer did not detect MI 2 properly,
+    <string name="msd_install_retry_mac">"If the computer did not detect MI 2 properly,
 Try the following:
 "<li>"Do a computer search for
 Android File Transfer
@@ -1139,11 +1155,11 @@ spróbuj:
 spróbuj:
 "<li>Odłączyć MI 2 od USB i ponownie podłączyć do PC.</li>"
 "<li>Przeinstalować sterownik</li></string>
-    <string name="msd_install_status_done">Sterownik zainstalowany</string>
+    <string name="msd_install_status_done">Sterownik zainstalowany</string>  
     <string name="msd_install_status_undo">Zainstaluj sterownik</string>
     <string name="msd_install_succeed">Sterownik zainstalowany</string>
     <string name="msd_install_windows_xp_step_2_1">"1.Jeśli pojawi się Kreator dodawania sprzętu, 
-postępuj zgodnie z podanymi krokami"</string>  
+postępuj zgodnie z podanymi krokami"</string>
     <string name="multi_sim_settings_summary">Set up Multi Sim Settings for Voice, Data and SMS</string>
     <string name="multi_sim_settings_title">Multi Sim Settings</string>
     <string name="multi_touch_points_category_title">Punkty Multi-touch</string>
@@ -1296,8 +1312,8 @@ Jesteś pewien by wyłączyć?"</string>
     <string name="perm_notice">Powiadomienie bezpieczeństwa</string>
     <string name="perm_operating">Przetważanie...</string>
     <string name="perm_optimize">Optymalizowanie</string>
-    <string name="perm_privacy_app_count_trust_summary">Zaufana</string>
     <string name="perm_privacy_app_count">%1$d uprawnień</string>
+    <string name="perm_privacy_app_count_trust_summary">Zaufana</string>
     <string name="perm_privacy_app_finish">Gotowe</string>
     <string name="perm_privacy_app_installed">Instalacja zakończona!</string>
     <string name="perm_privacy_app_launch">Launch</string>
@@ -1382,14 +1398,14 @@ Przejdź na wersję rozwojową MIUI aby korzystać z uprawnień ROOT."</string>
     <string name="pref_operational_key">Przyciski nawigacyjne</string>
     <string name="pref_volume_category_title">Przycisk głośności</string>
     <string name="pref_volume_wake_summary">Naciśnięcie przycisków głośności wybudza urządzenie.</string>
-    <string name="pref_volume_wake_title">Wybudzenie</string>
+    <string name="pref_volume_wake_title">Wybudzenie urządzenia</string>
     <string name="preference_change_password_title">Zmień hasło</string>
-    <string name="preferred_media_app_summary">Wybierz aplikację muzyki</string>
     <string name="preferred_launcher_title">Domyślny Launcher</string>
-    <string name="preferred_launcher_warning_title">Zamiana standardowego launchera</string>
     <string name="preferred_launcher_warning_message">Zamiana domyślnego launchera może powodować większe użycie zasobów. Kontynuować?</string>
     <string name="preferred_launcher_warning_replace">Zamień launcher</string>
+    <string name="preferred_launcher_warning_title">Zamiana standardowego launchera</string>
     <string name="preferred_launcher_warning_use_system">Użyj domyślnego</string>
+    <string name="preferred_media_app_summary">Wybierz aplikację muzyki</string>
     <string name="privacy_mode_enable_sum">Ukryj rejestr połączeń, wiadomości i inne dane podczas korzystania z trybu poufnego</string>
     <string name="privacy_mode_enable_title">Tryb poufny</string>
     <string name="privacy_protect_title">Prywatność</string>
@@ -1537,6 +1553,7 @@ Przejdź na wersję rozwojową MIUI aby korzystać z uprawnień ROOT."</string>
     <string name="runningservicedetails_stop_dlg_title">Czy zatrzymać usługę systemową?</string>
     <string name="runningservices_settings_summary">Wyświetl i kontroluj obecnie uruchomione usługi</string>
     <string name="runningservices_settings_title">Uruchomione usługi</string>
+    <string name="safe_relative">Powiązane z bezpieczeństwem</string>
     <string name="scan_list_label">Wyniki skanowania:</string>
     <string name="screen">Wyświetlacz</string>
     <string name="screen_button_custom">Ustawienia pozycji przycisków</string>
@@ -1544,6 +1561,9 @@ Przejdź na wersję rozwojową MIUI aby korzystać z uprawnień ROOT."</string>
     <string name="screen_color_temperature_adjust">Temperatura kolorów</string>
     <string name="screen_compatibility_label">Zgodność z ekranem</string>
     <string name="screen_compatibility_text">Aplikacja może nie być przystosowana do ekranu Twojego urządzenia. Tutaj możesz ją skonfigurować do obsługi ekranu.</string>
+    <string name="screen_key_long_press">Przytrzymanie przycisków</string>
+    <string name="screen_key_long_press_action">Akcja dla przytrzymania</string>
+    <string name="screen_key_long_press_timeout">Czas przytrzymania</string>
     <string name="screen_on_proximity_sensor_summary">Zapobiegaj aktywacji funkcji telefonu gdy urządzenie jest w kieszeni (używa czujnika zbliżeniowego). Wyłącz jeśli występują problemy z ekranem blokady.</string>
     <string name="screen_on_proximity_sensor_title">Przypadkowe użycie</string>
     <string name="screen_saturation_adjust">Nasycenie kolorów</string>
@@ -1665,6 +1685,7 @@ Przejdź na wersję rozwojową MIUI aby korzystać z uprawnień ROOT."</string>
     <string name="show_password">Hasła są widoczne</string>
     <string name="show_password_summary"/>
     <string name="show_rounded_corners">Pokaż zaokrąglone rogi</string>
+    <string name="show_rounded_corners_summary">Wymagane jest ponowne uruchomienie aby zastosować efekt</string>
     <string name="show_running_services">Pokaż działające usługi</string>
     <string name="show_screen_updates">Pokaż zmiany powierzchni</string>
     <string name="show_screen_updates_summary">Podświetlaj całe aktualizowane powierzchnie okien</string>
@@ -1852,15 +1873,16 @@ Zaufaj aplikacji？"</string>
     <string name="tts_general_section_title">Ogólne</string>
     <string name="tts_install_data_summary">Zainstaluj dane głosowe wymagane dla syntezy mowy</string>
     <string name="tts_install_data_title">Zainstaluj dane głosowe</string>
-    <string name="tts_notif_engine_install_message">Najpierw włącz nowy mechanizm.</string>
+    <string name="tts_notif_engine_install_message">Najpierw włącz nowy mechanizm.</string>   
     <string name="tts_notif_engine_install_title">Zainstalowano mechanizm syntezy mowy</string>
     <string name="tts_play_example_summary">Odtwórz krótką prezentację syntezy mowy</string>
-    <string name="tts_play_example_title">Posłuchaj przykładu</string>   
+    <string name="tts_play_example_title">Posłuchaj przykładu</string>
     <string name="tts_settings">Przetwarzanie tekstu na mowę</string>
     <string name="tts_settings_changed_demo">Ustawienia zostały zmienione. Oto przykład aktualnie skonfigurowanego brzmienia.</string>
     <string name="tts_settings_title">Przetwarzanie tekstu na mowę</string>
     <string name="turn_off_radio">Wyłącz radio</string>
     <string name="turn_on_radio">Włącz radio</string>
+    <string name="under_keyguard">Na ekranie blokady</string>
     <string name="uninstall_text">Odinstaluj</string>
     <string name="unknown">Nieznana</string>
     <string name="unlock_backup_info_summary">Wybierz sposób odblokowania w przypadku, gdy Face Unlock Cię nie rozpozna.</string>
@@ -1919,9 +1941,6 @@ Zaufaj aplikacji？"</string>
     <string name="usage_type_wifi_running">Działanie Wi-Fi</string>
     <string name="usb_connection_category">Połącz jako</string>
     <string name="usb_label_installer_cd">Instaluj narzędzia do transferu plików</string>
-    <string name="msd_driver_download">Pobierz sterownik</string>
-    <string name="msd_driver_windows_xp_download">Przejdź do http://miuiandroid.com/windows/ aby pobrać na PC</string>
-    <string name="msd_driver_mac_download">Przejdź do http://miuiandroid.com/mac/ aby pobrać na MAC</string>
     <string name="usb_msd_driver_installer_summary">Możesz pobrać instalator sterowników dla Windows i MacOS tutaj</string>
     <string name="usb_msd_driver_installer_title">Instalator sterowników (MSD)</string>
     <string name="usb_msd_summary">Przesył plików dla Windows i MacOS</string>
@@ -2002,7 +2021,9 @@ Zaufaj aplikacji？"</string>
     <string name="virus_scan_app_waiting">Oczekiwanie</string>
     <string name="virus_scanner_auto_update">Autom. aktualizacja</string>
     <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
+    <string name="virus_scanner_kinsoft_provider">Skaner antywirusowy</string>
     <string name="virus_scanner_lib_already_latest">Baza wirusów aktualna</string>
+    <string name="virus_scanner_lib_update_failed">Aktualizacja bazy wirusów nieudana</string>
     <string name="virus_scanner_lib_updating">Aktualizacja bazy...</string>
     <string name="virus_scanner_manual_update">Aktualizacja ręczna</string>
     <string name="virus_scanner_provider">Security provided by %s</string>
@@ -2303,8 +2324,8 @@ Wybierz "<b>Wróć</b>, aby połączyć się z inną siecią Wi-Fi.</string>
     <string name="window_animation_scale_title">Skala animacji okna</string>
     <string name="wireless_networks_settings_title">Sieci zwykłe i bezprzewodowe</string>
     <string name="wps_category">Szybkie połączenia</string>
-    <string name="wps_connect_title">Przycisk WPS</string>
     <string name="wps_connect_summary">Upewnij się, że router bezprzewodowy ma możliwość łączenia urządzeń za pomocą WPS.</string>
+    <string name="wps_connect_title">Przycisk WPS</string>
     <string name="xiaomi_account">Xiaomi</string>
     <string name="yes">Tak</string>
     <string name="zone_auto">Autom. strefa czasowa</string>  

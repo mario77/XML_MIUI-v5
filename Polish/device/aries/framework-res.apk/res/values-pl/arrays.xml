@@ -65,11 +65,11 @@
         <item>300</item>
         <item>1100</item>
         <item>3000</item>
-        <item>12000</item>
+        <item>10000</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLcdBacklightValues">
         <item>6</item>
-        <item>10</item>
+        <item>15</item>
         <item>30</item>
         <item>50</item>
         <item>80</item>

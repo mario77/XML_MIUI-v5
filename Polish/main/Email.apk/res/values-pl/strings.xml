@@ -513,7 +513,7 @@ DW: %4$s
     <string name="refresh_action">Odśwież</string>
     <string name="remove_star_action">Usuń oznaczenie gwiazdką</string>
     <string name="reply_action">Odpowiedz</string>
-    <string name="reply_all_action">Odpowiedz wszystkim</string>
+    <string name="reply_all_action">Odp. wszyst.</string>
     <string name="require_manual_sync_message">Synchronizacja w tle z tym kontem jest podczas roamingu wyłączona.</string>
     <string name="retry_in_1min">1 min</string>
     <string name="retry_in_2min">2 min</string>
