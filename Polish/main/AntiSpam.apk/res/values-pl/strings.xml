@@ -137,7 +137,7 @@ i MMS będą tutaj rejestrowane"</string>
     <string name="smart_antispam">Nieznane numery</string>
     <string name="turn_on_smart_antispam_hint">Identyfikowanie numerów</string>
     <string name="turn_on_smart_antispam_summary_off">Wykorzystuje lokalną bazę danych numerów</string>
-    <string name="turn_on_smart_antispam_summary_on">Działa przy Wi-Fi i 3G</string>
+    <string name="turn_on_smart_antispam_summary_on">Działa przy połączeniu Wi-Fi i 3G</string>
     <string name="turn_on_smart_antispam_title">Identyfikuj nieznane numery</string>
     <string name="whitelist_tab_title">Biała lista</string>
 </resources>
