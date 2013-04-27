@@ -49,16 +49,16 @@
   <string name="cloud_tab_all">Wszystkie</string>
   <string name="cloud_tab_locations">Lokalizacje</string>
   <string name="cloudfolder_already_exists">Katalog w chmurze już istnieje</string>
-  <string name="confirm_delete">Usunąć %s elementów?</string>
+  <string name="confirm_delete">Na pewno usunąć %s?</string>
   <string name="confirm_delete_album" formatted="false">Usunąć %s albumów (%s zdjęć)?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">Na pewno chcesz usunąć %s zdjęć w %s albumach?</string>
-  <string name="confirm_delete_folders_and_pictures">Usunąć %s?</string>
+  <string name="confirm_delete_folders_and_pictures">Na pewno usunąć %s?</string>
   <string name="confirm_delete_folders_including" formatted="false">%s katalogów (włączając %s)</string>
   <string name="confirm_delete_including_null">0 szt.</string>
-  <string name="confirm_delete_items">%s </string>
+  <string name="confirm_delete_items">%s</string>
   <string name="confirm_delete_pictures">%s zdjęć</string>
   <string name="confirm_delete_system_album">%s jest albumem systemowym, na pewno usunąć?</string>
-  <string name="confirm_delete_videos">%s  filmów</string>
+  <string name="confirm_delete_videos">%s filmów</string>
   <string name="contact_photo">Zdjęcie kontaktu</string>
   <string name="contrast">Kontrast</string>
   <string name="create_new_cloud_folder">Utwórz nowy katalog w chmurze</string>
