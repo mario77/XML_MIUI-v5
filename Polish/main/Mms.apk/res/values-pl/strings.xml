@@ -199,6 +199,9 @@
 	<string name="mx_activate_hint_malformed_info">Operacja przerwana. Wymagana jest ponowna aktywacja wiadomości w chmurze. Aktywować teraz?</string>
 	<string name="mx_activate_hint_server">Błąd serwera aktywacji wiadomości w chmurze. Aktywować teraz?</string>
 	<string name="mx_activate_hint_sim_change">Zmiana karty SIM wykryta. Należy ponownie aktywować wiadomości w chmurze. Aktywować teraz?</string>
+    <string name="mx_activate_int_hint_malformed_info">Error processing request. An international SMS is required to reactivate Cloud Messaging. Would you like to activate it now?</string>
+    <string name="mx_activate_int_hint_server">Activation with server failed for Cloud Messaging, an international SMS is required to reactivate Cloud Messaging. Would you like to activate it now?</string>
+    <string name="mx_activate_int_hint_sim_change">SIM card state changed. An international SMS is required to reactivate Cloud Messaging. Would you like to activate it now?</string>
 	<string name="mx_auto_resend_mms">Wyślij jako MMS</string>
 	<string name="mx_auto_resend_mms_summary">Wyślij jako MMS gdy wiadomości w chmurze są niedostępne.</string>
     <string name="mx_auto_resend_sms">Wyślij jako SMS</string>

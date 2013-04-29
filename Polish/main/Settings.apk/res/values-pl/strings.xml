@@ -455,7 +455,7 @@ Zezwolić aplikacji na autostart?"</string>
     <string name="camera_key_action_title">Przycisk media</string>
     <string name="camera_key_action_toggle_title">Aktywacja przełącznika</string>
     <string name="cancel">Anuluj</string>
-    <string name="cancel_alert">Anulować alarm?</string>
+    <string name="cancel_alert">Odrzucić zmiany?</string>
     <string name="cant_sync_dialog_message">Synchronizacja tego elementu jest obecnie wyłączona. Aby zmienić ustawienie, tymczasowo włącz obsługę danych w tle i automatyczną synchronizację.</string>
     <string name="cant_sync_dialog_title">Nie można zsynchronizować ręcznie</string>
     <string name="carrier_enabled">Włącz/wyłącz APN</string>

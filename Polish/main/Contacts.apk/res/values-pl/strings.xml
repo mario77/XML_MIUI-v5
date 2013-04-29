@@ -799,6 +799,7 @@ Aby dodać kontakt do listy ulubionych:
     <string name="separatorJoinAggregateSuggestions">Sugerowane kontakty</string>
     <string name="service_provider">Dostawca usług</string>
     <string name="set_default">Ustaw jako wartość domyślną</string>
+    <string name="set_photo_failed_msg">Nie udało się ustawić zdjęcia kontaktu</string>
     <string name="share_error">Tego kontaktu nie można udostępniać.</string>
     <string name="share_via">Udostępnij kontakt przez</string>
     <string name="share_visible_contacts">Udostępnij widoczne kontakty</string>

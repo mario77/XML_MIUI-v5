@@ -135,6 +135,7 @@
   <string name="short_pincode_error_msg">Wpisz 4–8 znaków</string>
   <string name="short_pukcode_error_msg">Wpisz co najmniej 8 znaków</string>
   <string name="sim_account_name">SIM</string>
+  <string name="sim_changed_reactivate_int_notice">Aktualna karta SIM nie jest aktywna. Wymagany jest SMS by aktywować Usługi synchronizacji. Aktywować teraz?</string>
   <string name="sim_changed_reactivate_notice">Aktualna karta SIM nie jest aktywna. Wymagany jest SMS by aktywować Usługi synchronizacji. Aktywować teraz?</string>
   <string name="sim_unavailable">Karta SIM niedostępna</string>
   <string name="sim_locked">Karta SIM zablokowana</string>

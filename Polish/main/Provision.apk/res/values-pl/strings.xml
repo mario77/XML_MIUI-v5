@@ -2,6 +2,7 @@
 <resources>
     <string name="continues"><u>Kontynuacja</u></string>
     <string name="data_usage_summary">Zaleca się wyłączenie przesyłu danych jeśli nie posiadasz pakietu danych internetowych. Inaczej operator może pobierać dodatkowe opłaty za transfer.</string>
+    <string name="default_gprs_sim_name">Wprowadź limit transmisji danych dla \"%s\"</string>
     <string name="next">Dalej</string>
     <string name="other_service_label">Pozostałe usługi</string>
     <string name="other_service_google_location">Lokalizacja w sieci</string>
