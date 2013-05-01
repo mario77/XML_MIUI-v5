@@ -18,6 +18,6 @@
     <string name="notification_ticker">Prośba o wysyłanie anonimowych informacji</string>
     <string name="notification_title">Statystyki MIUI</string>
     <string name="notification_desc">Włącz przesyłanie anonimowych danych.</string>
-    <string name="main_link">&lt;a href=http://miuiandroid.com/miui-stats-opt-in-information/>Dowiedz się więcej&lt;/a></string>
+    <string name="main_link">&lt;a href=http://miuiandroid.com/community>Dowiedz się więcej&lt;/a></string>
     <string name="preview_title">Podgląd</string>
 </resources>

@@ -32,7 +32,7 @@
   <string name="alarm_volume_title">Głośność alarmu</string>
   <string name="alarmclock_empty_text">Brak alarmów</string>
   <string name="alert">Dzwonek</string>
-  <string name="all_resources">All</string>
+  <string name="all_resources">Wszystkie</string>
   <string name="analog_gadget">Zegar analogowy</string>
   <string name="app_label">Zegar</string>
   <string name="auto_silence_never">Wyłączone</string>
@@ -58,8 +58,8 @@
   <string name="delete_alarm">Usuń alarm</string>
   <string name="delete_alarm_confirm">Usunąć alarm?</string>
   <string name="delete_timezone_title">Usuń strefy czasowe</string>
-  <string name="description_author">Author:</string>
-  <string name="description_designer">Projektantr:</string>
+  <string name="description_author">Autor:</string>
+  <string name="description_designer">Projektant:</string>
   <string name="description_download">Pobrane:</string>
   <string name="description_size">Rozmiar:</string>
   <string name="description_summary">Informacje:</string>
@@ -120,7 +120,7 @@
   <string name="online_search_hint">Wyszukaj zasoby online</string>
   <string name="pause">Pauza</string>
   <string name="processing">Przetwarzanie ...</string>
-  <string name="remind_ringtone">Dzwonek przypomnienia</string>
+  <string name="remind_ringtone">Dźwięk powiadomienia</string>
   <string name="reset">Reset</string>
   <string name="resource_get_auth_retrieving">Uzyskiwanie autoryzacji...</string>
   <string name="resource_importing">Wczytywanie</string>
@@ -167,8 +167,8 @@ Możesz także anulować alarm." </string>
   <string name="timer_continue">Kontynuuj</string>
   <string name="timer_got_it">Ok</string>
   <string name="timer_hour">G</string>
-  <string name="timer_message">Minutnik na %1$d minut</string>
-  <string name="timer_message_with_hour">Minutnik ustawiony na %1$d godzin %2$d minut</string>
+  <string name="timer_message">" Czas %1$d minut upłynął "</string>
+  <string name="timer_message_with_hour">" Czas %1$d godzin %2$d upłynął "</string>
   <string name="timer_minute">M</string>
   <string name="timer_start_alarm">Czas upłynął</string>
   <string name="timer_title">Minutnik</string>

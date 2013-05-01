@@ -135,7 +135,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="clear_default">Wyczyść wartość domyślną</string>
     <string name="click_close">Kliknij by zamknąć</string>
     <string name="cloud_antispam_summary">Filtruj połączenia i wiadomości przez sieć mobilną lub Wi-Fi</string>
-    <string name="cloud_antispam_title">Zapora sieciowa</string>
+    <string name="cloud_antispam_title">Filtrowanie numerów</string>
     <string name="composer_failed_to_get_database_infomation">"Nie można pobrać informacji z bazy danych."</string>
     <string name="composer_has_no_exportable_contact">Brak kontaktów do kopiowania. Jeśli masz w telefonie kontakty, być może dostawcy danych nie zezwalają na ich eksport z telefonu.</string>
     <string name="composer_not_initialized">"The vCard composer didn't start properly."</string>

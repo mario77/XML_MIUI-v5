@@ -434,6 +434,7 @@ Zezwolić aplikacji na autostart?"</string>
     <string name="brightness_summary">Dostosuj jasność ekranu</string>
     <string name="bssid_label">BSSID:</string>
     <string name="build_number">Numer kompilacji</string>
+    <string name="build_author">Autor ROMu</string>
     <string name="builtin_keyboard_settings_summary">Ustawienia klawiatury fizycznej</string>
     <string name="builtin_keyboard_settings_title">Klawiatura fizyczna</string>
     <string name="button_light_timeout">Czas podświetlenia przycisków</string>
