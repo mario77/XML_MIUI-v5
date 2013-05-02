@@ -31,12 +31,12 @@
   <string-array name="gadget_weather_image">
         <item>Przejrzyście</item>
         <item>Pochmurnie</item>
-        <item>Yin</item>
+        <item>Zamglenia</item>
         <item>Mglisto</item>
         <item>Ulewny deszcz</item>
-        <item>Burza</item>
+        <item>Ulewa</item>
         <item>Burza z ulewą</item>
-        <item>Burza z piorunami</item>
+        <item>Burza</item>
         <item>Deszcze</item>
         <item>Ulewy</item>
         <item>Przelotne deszcze</item>
@@ -49,8 +49,9 @@
         <item>Śnieżnie</item>
         <item>Burza piaskowa</item>
         <item>Zadyma</item>
-        <item>Pyliście i wilgotno</item>
-        <item>Jansa</item> 
+        <item>Pyliście</item>
+        <item>Burza piaskowa</item> 
+        <item>Grad</item>
         <item>Burza z gradem</item>
     </string-array>
 </resources>

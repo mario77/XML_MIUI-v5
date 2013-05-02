@@ -109,13 +109,11 @@
     <string name="micloud_reg_new">Nowe</string>
     <string name="micloud_resend_active_email">Wyślij ponownie E-mail aktywacyjny</string>
     <string name="micloud_use_existing">Istniejące</string>
-    <string name="micloud_val_sms_alert">Wysłać wiadomość SMS aby potwierdzić numer telefonu?</string>
     <string name="micloud_via_int_sms_alert">Na telefon zostanie wysłany SMS. Koszt SMS wg. taryfy operatora</string>
     <string name="micloud_via_sms_alert">Zostanie wysłany SMS aby zweryfikować numer telefonu. Kontynuować?</string>
     <string name="micloud_welcome_skip_login"><u>Pomiń krok</u></string>
     <string name="mili_center">Mi Kredyty</string>
     <string name="next">Dalej</string>
-    <string name="no_sim">Karta SIM nieznaleziona, nie można synchronizować</string>
     <string name="order_price">%1$s Mi Kredytów</string>
     <string name="other_settings">Usługi lokalizacyjne</string>
     <string name="password">Hasło</string>
@@ -153,21 +151,13 @@
     <string name="prev">Wstecz</string>
     <string name="progress_connecting">Łączenie...</string>
     <string name="progress_creating">Retrieving order information...</string>
-    <string name="progress_error_common">Recharge failed. Please try again later.</string>
-    <string name="progress_error_network">Fail to connect to network. Please check network status.</string>
-    <string name="progress_error_server">Server error. Please try again later.</string>
-    <string name="progress_error_title">Recharge failed</string>
-    <string name="progress_error_waiting">Still not reflected. Please try again later.</string>
     <string name="progress_loading">Processing...</string>
     <string name="progress_paytool_creating">Generating %1$s order...</string>
     <string name="progress_paytool_installing">Installing %1$s mobile security plugin...</string>
     <string name="progress_prepaid_creating">Generating recharge order...</string>
     <string name="progress_querying">Processing recharge inquiry…</string>
     <string name="progress_submit_hint">Recharge will be reflected within 3 minutes</string>
-    <string name="progress_submit_summary">Recharging: %1$s RMB</string>
     <string name="progress_submit_title">Request submitted, verifying</string>
-    <string name="progress_success_summary">Account balance: %1$s Mi Credits</string>
-    <string name="progress_success_title">%1$s Mi Credit recharge complete</string>
     <string name="progress_warning_contact_server">"Still not reflected. 
 1. Please contact customer service in Shenzhou：%1$s 
 2. Please provide the serial number: %2$s"</string>

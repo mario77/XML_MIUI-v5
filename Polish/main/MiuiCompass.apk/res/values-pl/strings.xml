@@ -16,8 +16,8 @@
     <string name="direction_west">W</string>
     <string name="getting_location">Określanie lokalizacji...</string>
     <string name="latitude">Szer.</string>
-    <string name="location_east">E</string>
-    <string name="location_north">N</string>
+    <string name="location_east">Szerokość</string>
+    <string name="location_north">Długość</string>
     <string name="location_south">S</string>
     <string name="location_west">W</string>
     <string name="longitude">Dług.</string>

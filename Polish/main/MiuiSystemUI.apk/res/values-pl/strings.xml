@@ -96,8 +96,6 @@
     <string name="ext_media_nomedia_notification_message">Nośnik USB odłączony.</string>
     <string name="ext_media_nomedia_notification_title">Usunięto nośnik USB</string>
     <string name="ext_media_mountable_notification_title">Nośnik USB podłączony</string>
-    <string name="ext_media_mountable_notification_message">Pamięć USB podłączona. Możesz uzyskać dostęp przez Menedżer Plików</string>
-    <string name="ext_media_safe_remove">Odłącz bezpiecznie pamięć</string>
     <string name="ext_media_safe_unmount_notification_message">Możesz bezpiecznie odłączyć nośnik USB.</string>
     <string name="ext_media_safe_unmount_notification_title">Bezpieczne odłączenie nośnika USB</string>
     <string name="ext_media_unmountable_notification_message">Nośnik USB uszkodzony. Być może trzeba przeprowadzić formatowanie.</string>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+	<string name="about_to_receive">Otrzymywanie</string>
     <string name="about_to_send">Aktywowanie...</string>
     <string name="app_name">Transfer</string>
     <string name="button_last">Rozpocznij</string>
@@ -41,7 +42,7 @@
     <string name="noti_receiving">%1$s:Otrzymywanie %2$d/%3$d plików</string>
     <string name="noti_sending">%1$s:Wysyłanie %2$d/%3$d file(s)</string>
     <string name="noti_wait_receive">Oczekiwanie...</string>
-    <string name="noti_wait_send">"Waiting to receive, please ensure sender has enabled connection and can send file(s) "</string>
+    <string name="noti_wait_send">"Oczekiwanie. Upewnij się, że nadawca jest połączony i może wysyłać pliki"</string>
     <string name="ok">Gotowe</string>
     <string name="operation_delete">Usuń</string>
     <string name="operation_goto_folder">Go to file directory</string>
