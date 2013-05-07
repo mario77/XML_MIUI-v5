@@ -63,6 +63,9 @@
   <string name="notealert_ok">OK</string>
   <string name="notelist_menu_new">Dodaj</string>
   <string name="notelist_string_info">...</string>
+  <string name="notify_alarm_action_mute">Wycisz</string>
+  <string name="notify_alarm_action_view">Pokaż</string>
+  <string name="notify_alarm_title">Przypomnienie</string>
   <string name="pref_desc_mode_grid">Siatka</string>
   <string name="pref_desc_mode_list">Lista</string>
   <string name="pref_title_data_export">Kopiowanie notatek</string>

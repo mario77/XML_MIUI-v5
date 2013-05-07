@@ -43,6 +43,7 @@
   <string name="clock_instructions">Wybierz zegar</string>
   <string name="close_alarm">Wyłącz alarm</string>
   <string name="common_settings">Ustawienia</string>
+  <string name="confirm_abort">Odrzuć</string>
   <string name="control_set_alarm">Ustaw alarm</string>
   <string name="control_set_alarm_with_existing">Alarm ustawiony: %s</string>
   <string name="day">1 dzień</string>
@@ -87,6 +88,8 @@
   <string name="holiday_update_pref_invalidate_title">Odśwież dane o dniach roboczych (nieważne)</string>
   <string name="holiday_update_pref_summary">Sprawdź aktualne dane o dniach roboczych</string>
   <string name="holiday_update_pref_title">Odśwież dane o dniach roboczych</string>
+  <string name="holiday_update_summary">Sprawdź aktualizację</string>
+  <string name="holiday_update_title">Wymaga połączenia z siecią</string>
   <string name="home_button_description">Program uruchamiający</string>
   <string name="hour">1 godzina</string>
   <string name="hour_unit">godz.</string>

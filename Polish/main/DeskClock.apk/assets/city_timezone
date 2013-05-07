@@ -1,85 +1,85 @@
 0	Asia/Shanghai	Pekin, Chiny	中国, 北京	中國, 北京	beijing
-1	Pacific/Majuro	Majuro, Marshall Islands	马绍尔群岛共和国, 马朱罗	馬紹爾群島共和國, 馬朱羅	mazhuluo
-2	Pacific/Midway	Midway Island, U.S.A.	美国, 中途岛	美國, 中途島	zhongtudao
+1	Pacific/Majuro	Majuro, Wyspy Marshala	马绍尔群岛共和国, 马朱罗	馬紹爾群島共和國, 馬朱羅	mazhuluo
+2	Pacific/Midway	Wyspy Midway, U.S.A.	美国, 中途岛	美國, 中途島	zhongtudao
 3	Pacific/Honolulu	Honolulu, U.S.A.	美国, 火奴鲁鲁	美國, 火奴魯魯	huonululu
 4	America/Anchorage	Anchorage, U.S.A.	美国, 安克雷奇	美國, 安克雷奇	ankeleiqi
 5	America/Los_Angeles	Los Angeles, U.S.A.	美国, 洛杉矶	美國, 洛杉磯	luoshanji
-6	America/Tijuana	Tijuana, Mexico	墨西哥, 提华纳	墨西哥, 提華納	tihuana
+6	America/Tijuana	Tijuana, Meksyk	墨西哥, 提华纳	墨西哥, 提華納	tihuana
 7	America/Phoenix	Phoenix, U.S.A.	美国, 凤凰城	美國, 鳳凰城	fenghuangcheng
-8	America/Chihuahua	Chihuahua, Mexico	墨西哥, 奇瓦瓦	墨西哥, 奇瓦瓦	qiwawa
+8	America/Chihuahua	Chihuahua, Meksyk	墨西哥, 奇瓦瓦	墨西哥, 奇瓦瓦	qiwawa
 9	America/Denver	Denver, U.S.A.	美国, 丹佛	美國, 丹佛	danfo
-10	America/Costa_Rica	San José, Costa Rica	哥斯达黎加, 圣何塞	哥斯達黎加, 聖何塞	shenghesai
+10	America/Costa_Rica	San José, Kostaryka	哥斯达黎加, 圣何塞	哥斯達黎加, 聖何塞	shenghesai
 11	America/Chicago	Chicago, U.S.A.	美国, 芝加哥	美國, 芝加哥	zhijiage
-12	America/Mexico_City	Mexico City, Mexico	墨西哥, 墨西哥城	墨西哥, 墨西哥城	moxigecheng
-13	America/Regina	Regina, Canada	加拿大, 里贾纳	加拿大, 裏賈納	lijiana
-14	America/Bogota	Bogotá, Colombia	哥伦比亚, 波哥大	哥倫比亞, 波哥大	bogeda
-15	America/New_York	New York, U.S.A.	美国, 纽约	美國, 紐約	niuyue
-16	America/Caracas	Caracas, Venezuela	委内瑞拉, 加拉加斯	委內瑞拉, 加拉加斯	jialajiasi
+12	America/Mexico_City	Mexico City, Meksyk	墨西哥, 墨西哥城	墨西哥, 墨西哥城	moxigecheng
+13	America/Regina	Regina, Kanada	加拿大, 里贾纳	加拿大, 裏賈納	lijiana
+14	America/Bogota	Bogotá, Kolumbia	哥伦比亚, 波哥大	哥倫比亞, 波哥大	bogeda
+15	America/New_York	Nowy York, U.S.A.	美国, 纽约	美國, 紐約	niuyue
+16	America/Caracas	Caracas, Wenezuela	委内瑞拉, 加拉加斯	委內瑞拉, 加拉加斯	jialajiasi
 17	America/Barbados	Bridgetown, Barbados	巴巴多斯, 布里奇顿	巴巴多斯, 布裏奇頓	buliqidun
-18	America/Halifax	Halifax, Canada	加拿大, 哈里法克斯	加拿大, 哈裏法克斯	halifakesi
-19	America/Manaus	Manaus, Brazil	巴西, 马瑙斯	巴西, 馬瑙斯	manaosi
+18	America/Halifax	Halifax, Kanada	加拿大, 哈里法克斯	加拿大, 哈裏法克斯	halifakesi
+19	America/Manaus	Manaus, Brazylia	巴西, 马瑙斯	巴西, 馬瑙斯	manaosi
 20	America/Santiago	Santiago, Chile	智利, 圣地亚哥	智利, 聖地亞哥	shengdiyage
-21	America/St_Johns	St. John's, Canada	加拿大, 圣约翰	加拿大, 聖約翰	shengyuehan
-22	America/Sao_Paulo	São Paulo, Brazil	巴西, 圣保罗	巴西, 聖保羅	shengbaoluo
+21	America/St_Johns	St. John's, Kanada	加拿大, 圣约翰	加拿大, 聖約翰	shengyuehan
+22	America/Sao_Paulo	São Paulo, Brazylia	巴西, 圣保罗	巴西, 聖保羅	shengbaoluo
 23	America/Argentina/Buenos_Aires	Buenos Aires, Argentina	阿根廷, 布宜诺斯艾利斯	阿根廷, 布宜諾斯艾利斯	buyinuosiailisi
 24	America/Godthab	Nuuk, Greenland	格陵兰, 努克	格陵蘭, 努克	nuke
 25	America/Montevideo	Montevideo, Uruguay	乌拉圭, 蒙得维的亚	烏拉圭, 蒙得維的亞	mengdeweideya
 26	Atlantic/South_Georgia	King Edward Point, South Georgia	南乔治亚岛, 爱德华国王	南喬治亞島, 愛德華國王	aidehuaguowang
-27	Atlantic/Azores	Azores, Portugal	葡萄牙, 亚述尔群岛	葡萄牙, 亞述爾群島	yashuerqundao
+27	Atlantic/Azores	Azory, Portugalia	葡萄牙, 亚述尔群岛	葡萄牙, 亞述爾群島	yashuerqundao
 28	Atlantic/Cape_Verde	Praia, Cape Verde	佛得角, 普拉亚	佛得角, 普拉亞	pulaya
-29	Africa/Casablanca	Casablanca, Morocco	摩洛哥, 卡萨布兰卡	摩洛哥, 卡薩布蘭卡	kasabulanka
-30	Europe/London	London, England	英国, 伦敦	英國, 倫敦	lundun
-31	Europe/Amsterdam	Amsterdam, Netherlands	荷兰, 阿姆斯特丹	荷蘭, 阿姆斯特丹	amusitedan
+29	Africa/Casablanca	Casablanca, Maroko	摩洛哥, 卡萨布兰卡	摩洛哥, 卡薩布蘭卡	kasabulanka
+30	Europe/London	Londyn, Wielka Brytania	英国, 伦敦	英國, 倫敦	lundun
+31	Europe/Amsterdam	Amsterdam, Holandia	荷兰, 阿姆斯特丹	荷蘭, 阿姆斯特丹	amusitedan
 32	Europe/Belgrade	Belgrade, Serbia	塞尔维亚, 贝尔格莱德	塞爾維亞, 貝爾格萊德	beiergelaide
-33	Europe/Brussels	Brussels, Belgium	比利时, 布鲁塞尔	比利時, 布魯塞爾	bulusaier
-34	Europe/Sarajevo	Sarajevo, Bosnia and Herzegovina	波斯尼亚和黑塞哥维那, 萨拉热窝	波斯尼亞和黑塞哥維那, 薩拉熱窩	salarewo
+33	Europe/Brussels	Bruksela, Belgia	比利时, 布鲁塞尔	比利時, 布魯塞爾	bulusaier
+34	Europe/Sarajevo	Sarajevo, Bośnia i Hercegowina	波斯尼亚和黑塞哥维那, 萨拉热窝	波斯尼亞和黑塞哥維那, 薩拉熱窩	salarewo
 35	Africa/Windhoek	Windhoek, Namibia	纳米比亚, 温得和克	納米比亞, 溫得和克	wendeheke
-36	Africa/Brazzaville	Brazzaville, Congo	刚果, 布拉柴维尔	剛果, 布拉柴維爾	bulachaiweier
-37	Asia/Amman	Amman, Jordan	黎巴嫩, 安曼	黎巴嫩, 安曼	anman
-38	Europe/Athens	Athens, Greece	希腊, 雅典	希臘, 雅典	yadian
-39	Asia/Beirut	Beirut, Lebanon	黎巴嫩, 贝鲁特	黎巴嫩, 貝魯特	beilute
-40	Africa/Cairo	Cairo, Egypt	埃及, 开罗	埃及, 開羅	kailuo
-41	Europe/Helsinki	Helsinki, Finland	芬兰, 赫尔辛基	芬蘭, 赫爾辛基	heerxinji
-42	Asia/Jerusalem	Jerusalem, Israel	以色列, 耶路撒冷	以色列, 耶路撒冷	yelusaleng
-43	Europe/Minsk	Minsk, Belarus	白俄罗斯, 明斯克	白俄羅斯, 明斯克	mingsike
+36	Africa/Brazzaville	Brazzaville, Kongo	刚果, 布拉柴维尔	剛果, 布拉柴維爾	bulachaiweier
+37	Asia/Amman	Amman, Jordania	黎巴嫩, 安曼	黎巴嫩, 安曼	anman
+38	Europe/Athens	Ateny, Grecja	希腊, 雅典	希臘, 雅典	yadian
+39	Asia/Beirut	Bejrut, Libia	黎巴嫩, 贝鲁特	黎巴嫩, 貝魯特	beilute
+40	Africa/Cairo	Kair, Egipt	埃及, 开罗	埃及, 開羅	kailuo
+41	Europe/Helsinki	Helsinki, Finlandia	芬兰, 赫尔辛基	芬蘭, 赫爾辛基	heerxinji
+42	Asia/Jerusalem	Jerusalem, Izrael	以色列, 耶路撒冷	以色列, 耶路撒冷	yelusaleng
+43	Europe/Minsk	Mińsk, Białoruś	白俄罗斯, 明斯克	白俄羅斯, 明斯克	mingsike
 44	Africa/Harare	Harare, Zimbabwe	津巴布韦, 哈拉雷	津巴布韋, 哈拉雷	halalei
-45	Asia/Baghdad	Baghdad, Iraq	伊拉克, 巴格达	伊拉克, 巴格達	bageda
-46	Europe/Moscow	Moscow, Russia	俄罗斯, 莫斯科	俄羅斯, 莫斯科	mosike
-47	Asia/Kuwait	Kuwait City, Kuwait	科威特, 科威特城	科威特, 科威特城	keweitecheng
-48	Africa/Nairobi	Nairobi, Kenya	肯尼亚, 内罗毕	肯尼亞, 內羅畢	neiluobi
+45	Asia/Baghdad	Bagdad, Irak	伊拉克, 巴格达	伊拉克, 巴格達	bageda
+46	Europe/Moscow	Moskwa, Rosja	俄罗斯, 莫斯科	俄羅斯, 莫斯科	mosike
+47	Asia/Kuwait	Kuwait City, Kuwejt	科威特, 科威特城	科威特, 科威特城	keweitecheng
+48	Africa/Nairobi	Nairobi, Kenia	肯尼亚, 内罗毕	肯尼亞, 內羅畢	neiluobi
 49	Asia/Tehran	Tehran, Iran	伊朗, 德黑兰	伊朗, 德黑蘭	deheilan
-50	Asia/Baku	Baku, Azerbaijan	阿塞拜疆, 巴库	阿塞拜疆, 巴庫	baku
+50	Asia/Baku	Baku, Azerbejdżan	阿塞拜疆, 巴库	阿塞拜疆, 巴庫	baku
 51	Asia/Tbilisi	Tbilisi, Georgia	格鲁吉亚, 第比利斯	格魯吉亞, 第比利斯	dibilisi
 52	Asia/Yerevan	Yerevan, Armenia	亚美尼亚, 埃里温	亞美尼亞, 埃裏溫	ailiwen
 53	Asia/Dubai	Dubai, U.A.E.	阿联酋, 迪拜	阿聯酋, 迪拜	dibai
-54	Asia/Kabul	Kabul, Afghanistan	阿富汗, 喀布尔	阿富汗, 喀布爾	kabuer
+54	Asia/Kabul	Kabul, Afganistan	阿富汗, 喀布尔	阿富汗, 喀布爾	kabuer
 55	Asia/Karachi	Karachi, Pakistan	巴基斯坦, 卡拉奇	巴基斯坦, 卡拉奇	kalaqi
 56	Asia/Oral	Oral, Kazakhstan	哈萨克斯坦, 乌拉尔	哈薩克斯坦, 烏拉爾	wulaer
 57	Asia/Yekaterinburg	Yekaterinburg, Russia	俄罗斯, 叶卡捷林堡	俄羅斯, 葉卡捷林堡	yekajielinbao
-58	Asia/Calcutta	Kolkata, India	印度, 加尔各答	印度, 加爾各答	jiaergeda
+58	Asia/Calcutta	Kolkuta, Indie	印度, 加尔各答	印度, 加爾各答	jiaergeda
 59	Asia/Colombo	Colombo, Sri Lanka	斯里兰卡, 科伦坡	斯裏蘭卡, 科倫坡	kelunpo
-60	Asia/Katmandu	Kathmandu, Nepal	尼泊尔, 加德满都	尼泊爾, 加德滿都	jiademandou
+60	Asia/Katmandu	Katmandu, Nepal	尼泊尔, 加德满都	尼泊爾, 加德滿都	jiademandou
 61	Asia/Almaty	Almaty, Kazakhstan	哈萨克斯坦, 阿拉木图	哈薩克斯坦, 阿拉木圖	alamutu
 62	Asia/Rangoon	Yangon, Myanmar	缅甸, 仰光	緬甸, 仰光	yangguang
-63	Asia/Krasnoyarsk	Krasnoyarsk, Russia	俄罗斯, 克拉斯诺亚尔斯克	俄羅斯, 克拉斯諾亞爾斯克	kelasinuoyaersike
-64	Asia/Bangkok	Bangkok, Thailand	泰国, 曼谷	泰國, 曼谷	mangu
+63	Asia/Krasnoyarsk	Krasnoyarsk, Rosja	俄罗斯, 克拉斯诺亚尔斯克	俄羅斯, 克拉斯諾亞爾斯克	kelasinuoyaersike
+64	Asia/Bangkok	Bangkok, Tajlandia	泰国, 曼谷	泰國, 曼谷	mangu
 65	Asia/Hong_Kong	Hong Kong, Chiny	中国, 香港	中國, 香港	xianggang
-66	Asia/Irkutsk	Irkutsk, Russia	俄罗斯, 伊尔库茨克	俄羅斯, 伊爾庫茨克	yierkucike
-67	Asia/Kuala_Lumpur	Kuala Lumpur, Malaysia	马来西亚, 吉隆坡	馬來西亞, 吉隆坡	jilongpo
+66	Asia/Irkutsk	Irkuck, Rosja	俄罗斯, 伊尔库茨克	俄羅斯, 伊爾庫茨克	yierkucike
+67	Asia/Kuala_Lumpur	Kuala Lumpur, Malezja	马来西亚, 吉隆坡	馬來西亞, 吉隆坡	jilongpo
 68	Australia/Perth	Perth, Australia	澳大利亚, 佩思	澳大利亞, 佩思	peisi
-69	Asia/Taipei	Taipei	台北	臺北	taibei
-70	Asia/Seoul	Seoul, South Korea	南韩, 首尔	南韓, 首爾	shouer
-71	Asia/Tokyo	Tokyo, Japan	日本, 东京	日本, 東京	dongjing
-72	Asia/Yakutsk	Yakutsk, Russia	俄罗斯, 雅库茨克	俄羅斯, 雅庫茨克	yakucike
+69	Asia/Taipei	Taipei, Tajwan	台北,	臺北	taibei
+70	Asia/Seoul	Seoul, Południowa Korea	南韩, 首尔	南韓, 首爾	shouer
+71	Asia/Tokyo	Tokyo, Japonia	日本, 东京	日本, 東京	dongjing
+72	Asia/Yakutsk	Yakutsk, Rosja	俄罗斯, 雅库茨克	俄羅斯, 雅庫茨克	yakucike
 73	Australia/Adelaide	Adelaide, Australia	澳大利亚, 阿德莱德	澳大利亞, 阿德萊德	adelaide
 74	Australia/Darwin	Darwin, Australia	澳大利亚, 达尔文	澳大利亞, 達爾文	daerwen
 75	Australia/Brisbane	Brisbane, Australia	澳大利亚, 布里斯班	澳大利亞, 布裏斯班	bulisiban
 76	Australia/Hobart	Hobart, Australia	澳大利亚, 霍巴特	澳大利亞, 霍巴特	huobate
 77	Australia/Sydney	Sydney, Australia	澳大利亚, 悉尼	澳大利亞, 悉尼	xini
-78	Asia/Vladivostok	Vladivostok, Russia	俄罗斯, 符拉迪沃斯托克	俄羅斯, 符拉迪沃斯托克	fuladiwosituoke
+78	Asia/Vladivostok	Władywostok, Rosja	俄罗斯, 符拉迪沃斯托克	俄羅斯, 符拉迪沃斯托克	fuladiwosituoke
 79	Pacific/Guam	Guam, Guam	关岛, 关岛	關島, 關島	guandao
-80	Asia/Magadan	Magadan, Russia	俄罗斯, 马加丹	俄羅斯, 馬加丹	majiadan
-81	Pacific/Auckland	Auckland, New Zealand	新西兰, 奥克兰	新西蘭, 奧克蘭	aokelan
+80	Asia/Magadan	Magadan, Rosja	俄罗斯, 马加丹	俄羅斯, 馬加丹	majiadan
+81	Pacific/Auckland	Auckland, Nowa Zelandia	新西兰, 奥克兰	新西蘭, 奧克蘭	aokelan
 82	Pacific/Fiji	Suva, Fiji	斐济, 苏瓦	斐濟, 蘇瓦	suwa
 83	Pacific/Tongatapu	Nukualofa, Tonga	汤加共和国, 努库阿洛法	湯加共和國, 努庫阿洛法	nukualuofa
 84	Asia/Shanghai	Shanghai, Chiny	中国, 上海	中國, 上海	shanghai
@@ -169,7 +169,7 @@
 168	Australia/Brisbane	Canberra, Australia	澳大利亚, 堪培拉	澳大利亞, 堪培拉	kanpeila
 169	Asia/Beirut	Cape Town, RPA	南非, 开普敦	南非, 開普敦	kaipudun
 170	America/Chicago	Columbus, U.S.A.	美国, 哥伦布	美國, 哥倫布	gelunbu
-171	Europe/London	Copenhagen, Denmark	丹麦, 哥本哈根	丹麥, 哥本哈根	gebenhagen
+171	Europe/London	Kopenhaga, Dania	丹麦, 哥本哈根	丹麥, 哥本哈根	gebenhagen
 172	America/Mexico_City	Dallas, U.S.A.	美国, 达拉斯	美國, 達拉斯	dalasi
 173	Europe/Minsk	Dar es Salaam, Tanzania	坦桑尼亚, 达累斯萨拉姆	坦桑尼亞, 達累斯薩拉姆	daleisisalamu
 174	America/Mexico_City	Detroit, U.S.A.	美国, 底特律	美國, 底特律	ditelu

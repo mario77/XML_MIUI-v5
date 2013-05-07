@@ -18,10 +18,10 @@
     <timezone id="America/Caracas">Wenezuela</timezone>
     <timezone id="America/Barbados">Czas Atlantycki (Barbados)</timezone>
     <timezone id="America/Halifax">Czas Atlantycki (Canada)</timezone>
-    <timezone id="America/Manaus">Manaus</timezone>
+    <timezone id="America/Manaus">Manau</timezone>
     <timezone id="America/Santiago">Santiago</timezone>
-    <timezone id="America/St_Johns">Newfoundland</timezone>
-    <timezone id="America/Sao_Paulo">Brasilia</timezone>
+    <timezone id="America/St_Johns">Nowa Fundlandia</timezone>
+    <timezone id="America/Sao_Paulo">Brazylia</timezone>
     <timezone id="America/Argentina/Buenos_Aires">Buenos Aires</timezone>
     <timezone id="America/Godthab">Grenlandia</timezone>
     <timezone id="America/Montevideo">Montevideo</timezone>

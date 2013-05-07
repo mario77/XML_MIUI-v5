@@ -1693,7 +1693,7 @@ Przejdź na wersję rozwojową MIUI aby korzystać z uprawnień ROOT."</string>
     <string name="show_touches">Pokaż dotknięcia</string>
     <string name="show_touches_summary">Potwierdzenia wizualne po dotknięciu</string>
     <string name="silent_mode_title">Tryb cichy</string>
-    <string name="sim_absent">No SIM/RUIM</string>
+    <string name="sim_absent">Brak SIM</string>
     <string name="sim_bad_pin">Błędny kod PIN</string>
     <string name="sim_change_failed">"Nie można zmienić kodu PIN. Wpisany kod PIN może być błędny."</string>
     <string name="sim_change_failed_enable_sim_lock">Nie udało się zmienić SIM/RUIM PIN. Enable SIM/RUIM LOCK.</string>
@@ -1717,14 +1717,16 @@ Przejdź na wersję rozwojową MIUI aby korzystać z uprawnień ROOT."</string>
     <string name="sim_pin_attempts">"
 Pozostało prób :"</string>
     <string name="sim_pin_change">Zmień PIN do karty SIM</string>
-    <string name="sim_pin_disabled">PIN1 Disabled!</string>
-    <string name="sim_pin_enabled">PIN1 Enabled!</string>
+    <string name="sim_pin_disabled">PIN1 zablokowane!</string>
+    <string name="sim_pin_enabled">PIN1 odblokowane!</string>
     <string name="sim_pin_toggle">Zablokuj kartę SIM</string>
     <string name="sim_pins_dont_match">Kody PIN nie są identyczne.</string>
     <string name="sim_reenter_new">Wpisz ponownie nowy kod PIN</string>
+    <string name="sim_status_title">Status SIM</string>
     <string name="skip_button_label">Anuluj</string>
     <string name="skip_label">Pomiń</string>
     <string name="skip_step">Pomiń krok</string>
+    <string name="slot_status_title">IMEI</string>
     <string name="small_font">Mały</string>
     <string name="sms_delivered_sound_dialog_title">Wybierz dźwięk dostarczenia SMS</string>
     <string name="sms_delivered_sound_title">Dźwięk dostarczenia SMS</string>
