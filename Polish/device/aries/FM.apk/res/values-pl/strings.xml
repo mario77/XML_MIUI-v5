@@ -43,8 +43,6 @@
     <string name="sel_audio_output">Wyjście dźwięku</string>
     <string name="auto_select_af">Dostosowanie częstotliwości</string>
     <string name="auto_select_af_summary">Dostosowuje do bliskich częstotliwości tej samej stacji gdy sygnał staje się słaby</string>
-    <string name="revert_to_fac">Przywróć domyślne</string>
-    <string name="settings_revert_confirm_title">Potwierdź przywracanie ustawień domyślnych</string>
     <string name="settings_revert_confirm_msg">Wszystkie ustawienia zostaną usunięte, w tym zapisane stacje</string>
     <string name="settings_revert_defaults_title">Przywracanie ustawień domyślnych</string>
     <string name="audio_type_stereo">Stereo</string>
@@ -113,7 +111,6 @@
     <string name="toast_delete_station">Usunięto %sMHz.</string>
     <string name="msg_noantenna_message">Podłącz słuchawki przed użyciem radia FM.</string>
     <string name="exit_fm">Wyjdź</string>
-    <string name="msg_unable_start_fm_title">Nie można uruchomić radia FM</string>
     <string name="toast_sleep_mode">Wyłączenie FM za %s</string>
     <string name="status_recording">%s</string>
     <string name="status_recording_time">(Nagrywanie:%s)</string>
@@ -122,6 +119,4 @@
     <string name="record_error_unknown">Nagrywanie zatrzymane. Nieznany błąd.</string>
     <string name="record_sucess">Pomyślnie zakończono nagrywanie</string>
     <string name="record_fail">Nagrywanie nieudane</string>
-    <string name="menu_exit">Zamknij radio</string>
-    <string name="menu_jump">Przełącz na radio</string>
 </resources>

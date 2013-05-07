@@ -20,9 +20,9 @@ Opuść na chwilę widok" </string>
   <string name="cannot_connect_camera">"Nie można nawiązać połączenia z aparatem."</string>
   <string name="clear_effects">Usuń efekty</string>
   <string name="close">Zamknij</string>
-  <string name="confirm_change_mode_title">Przełącz tryb</string>
-  <string name="confirm_change_to_expert_mode_message">Przełączyć na tryb fotografa?</string>
-  <string name="confirm_change_to_simple_mode_message">Przełączyć na tryb prosty?</string>
+  <string name="confirm_change_mode_title">Przełącz widok funkcji aparatu</string>
+  <string name="confirm_change_to_expert_mode_message">Przełączyć na zaawansowany widok funkcji aparatu?</string>
+  <string name="confirm_change_to_simple_mode_message">Przełączyć na uproszczony widok funkcji aparatu?</string>
   <string name="confirm_location_message">Czy przywrócić domyślne ustawienia aparatu?</string>
   <string name="confirm_restore_message">Czy przywrócić domyślne ustawienia aparatu?</string>
   <string name="confirm_restore_title">Przywróć wartości domyślne</string>
@@ -52,7 +52,6 @@ Opuść na chwilę widok" </string>
   <string name="effect_none">Brak</string>
   <string name="effect_silly_faces">Śmieszne twarze</string>
   <string name="empty">" "</string>
-  <string name="enter_expert_mode_title">Tryb fotografa</string>
   <string name="error_app_unsupported">Unsupported video resolution for this encoder type</string>
   <string name="error_app_unsupported_hfr_720p">W 720p można wykorzystać do 90FPS</string>
   <string name="error_app_unsupported_hfr_codec">Tylko kodek H264 może być wykorzystany jeśli HFR jest WŁ</string>
@@ -109,8 +108,8 @@ Opuść na chwilę widok" </string>
   <string name="path">Ścieżka</string>
   <string name="people">Osoby</string>
   <string name="pref_advanced_functions">Zaawansowane funkcje</string>
-  <string name="pref_advanced_settings">Zaawansowane</string>
-  <string name="pref_camcorder_settings_category">Ustawienia Aparatu</string>
+  <string name="pref_advanced_settings">Ustawienia aparatu</string>
+  <string name="pref_camcorder_settings_category">Ustawienia aparatu</string>
   <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">AE-Bracket</string>
   <string name="pref_camera_ae_bracket_hdr_entry_hdr">HDR</string>
   <string name="pref_camera_ae_bracket_hdr_entry_off">Wył</string>
@@ -134,7 +133,6 @@ Opuść na chwilę widok" </string>
   <string name="pref_camera_coloreffect_entry_posterize">Posteryzacja</string>
   <string name="pref_camera_coloreffect_entry_sepia">Sepia</string>
   <string name="pref_camera_coloreffect_title">Efekty</string>
-  <string name="pref_camera_coloreffect_title_simple_mode">Filtry</string>
   <string name="pref_camera_contrast_entry_level0">Poziom 0</string>
   <string name="pref_camera_contrast_entry_level1">Poziom 1</string>
   <string name="pref_camera_contrast_entry_level10">Poziom 10</string>
@@ -173,8 +171,6 @@ Opuść na chwilę widok" </string>
   <string name="pref_camera_histogram_entry_disable">Wył</string>
   <string name="pref_camera_histogram_entry_enable">Wł</string>
   <string name="pref_camera_histogram_title">Histogram</string>
-  <string name="pref_camera_id_entry_back">Tył</string>
-  <string name="pref_camera_id_entry_front">Przód</string>
   <string name="pref_camera_id_title">Wybierz kamerę</string>
   <string name="pref_camera_iso_entry_auto">Automatycznie</string>
   <string name="pref_camera_iso_entry_iso100">ISO100</string>
@@ -305,7 +301,7 @@ Opuść na chwilę widok" </string>
   <string name="pref_grp_capture_settings">Preferencje fotografowania</string>
   <string name="pref_grp_picture_settings">Ustawienia zdjęć</string>
   <string name="pref_grp_restore_settings">Przywracanie ustawień</string>
-  <string name="pref_settings_mode">Tryb aparatu</string>
+  <string name="pref_settings_mode">Opcje wyświetlania</string>
   <string name="pref_video_continuous_focus">Ciągły autofokus</string>
   <string name="pref_video_continuous_focus_entry_off">Wył</string>
   <string name="pref_video_continuous_focus_entry_on">Wł</string>
@@ -337,7 +333,6 @@ Opuść na chwilę widok" </string>
   <string name="pref_video_time_lapse_frame_interval_entry_90">3 sekundy przerwy (90x)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 sekund przerwy (900x)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Time Lapse (odstęp czasu)</string>
-  <string name="preference_simple_mode_title">Tryb prosty</string>
   <string name="preparing_sd">Przygotowanie pamięci wewnętrznej...</string>
   <string name="record_back_pressed_hint">Naciśnij ponownie aby zatrzymać nagrywanie</string>
   <string name="resume_playing_message">Wznowić odtwarzanie od %s ?</string>
@@ -363,12 +358,12 @@ Opuść na chwilę widok" </string>
   <string name="show_on_map">Pokaż na mapie</string>
   <string name="show_videos_only">Pokaż filmy</string>
   <string name="simple_mode_button_text_audio_capture">Zamknij rejestrator dźwięku</string>
-  <string name="simple_mode_button_text_color_effect">Zamknij filtr</string>
+  <string name="simple_mode_button_text_color_effect">Zamknij efekty</string>
   <string name="simple_mode_button_text_hand_night">Zamknij tryb nocny</string>
   <string name="simple_mode_button_text_hdr">Zamknij tryb HDR</string>
   <string name="simple_mode_button_text_panorama">Zamknij panoramę</string>
   <string name="simple_mode_button_text_slow_video">Zamknij tryb poklatkowy</string>
-  <string name="simple_mode_title">Tryb prosty</string>
+  <string name="simple_mode_title">Uproszczone wyświetlanie</string>
   <string name="skip">Pomiń</string>
   <string name="slideshow">Pokaz slajdów</string>
   <string name="snapshot_lower_than_video">Video snapshot size is lower than video size. Capping the video size. Please select a resolution higher or equal to the current
