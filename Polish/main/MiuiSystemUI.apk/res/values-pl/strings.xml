@@ -100,7 +100,7 @@
     <string name="ext_media_safe_unmount_notification_title">Bezpieczne odłączenie nośnika USB</string>
     <string name="ext_media_unmountable_notification_message">Nośnik USB uszkodzony. Być może trzeba przeprowadzić formatowanie.</string>
     <string name="ext_media_unmountable_notification_title">Nośnik USB uszkodzony</string>
-    <string name="gps_notification_found_text">Ustalanie lokalizacji GPS</string>
+    <string name="gps_notification_found_text">Lokalizacja ustalona przez GPS</string>
     <string name="gps_notification_searching_text">Wyszukiwanie GPS</string>
     <string name="invalid_charger">"Ładowanie USB nie jest wspierane. Używaj tylko ładowarki od producenta."</string>
     <string name="key_position_custom">Pozycja przycisków</string>

@@ -6,8 +6,7 @@
 "</string>
     <string name="active_xiaomi_account_title">Aktywuj konto Xiaomi</string>
     <string name="app_name">Aktualizacje</string>
-    <string name="apply_buddy_update_info_message">"Wybierz 'Instaluj' aby rozpocząć instalację aktualizacji. Gdy proces zostanie zakończony uruchom telefon ponownie. 
-    W przypadku Xiaomi MI-1 lub MI-2 telefon uruchomi się na drugim systemie."</string>
+    <string name="apply_buddy_update_info_message">"Wybierz 'Instaluj' aby rozpocząć aktualizację. Gdy proces zostanie zakończony telefon uruchomi się ponownie na drugim systemie."</string>
     <string name="apply_existing_update_md5error_title">MD5 się nie zgadza.</string>
     <string name="apply_later_button_text">Anuluj</string>
     <string name="apply_now_button_text">Instaluj</string>
@@ -15,7 +14,8 @@
     <string name="apply_update_dialog_cancel_button">Anuluj</string>
     <string name="apply_update_dialog_update_button">Aktualizuj</string>
     <string name="apply_update_fail">Aktualizacja systemu nieudana</string>
-    <string name="apply_update_timer">Aktualizacja zakończona. Urządzenie zostanie uruchomione ponownie za %d sekund</string>
+    <string name="apply_update_timer">"Aktualizacja systemu zakończona. 
+Ponowne uruchomienie za: %d sekund."</string>
     <string name="apply_upload_info_message">Zastosować aktualizację?</string>
     <string name="apply_upload_info_message_manually">Wyłącz telefon i ręcznie uruchom w Recovery by zastosować aktualizację z SD w %s.</string>
     <string name="applying_rom_message">Instalacja ROMu</string>
@@ -42,7 +42,7 @@
     <string name="downloading_description">Pobieranie...</string>
     <string name="emegency_build">Kompilacja:</string>
     <string name="exception_while_downloading">Błąd pobierania aktualizacji</string>
-    <string name="expect">Expectations</string>
+    <string name="expect">Oczekiwania</string>
     <string name="experimental_build">Wersja eksperymentalna</string>
     <string name="file_not_found_error_message">Plik nieznaleziony</string>
     <string name="finish">Finish</string>

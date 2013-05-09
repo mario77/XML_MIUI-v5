@@ -15,7 +15,7 @@
   <string name="attachment_camera">Aparat</string>
   <string name="attachment_contact">Kontakt</string>
   <string name="attachment_gallery">Galeria</string>
-  <string name="button_new_note">Nowa notatka</string>
+  <string name="button_new_note">Utwórz</string>
   <string name="call_record_folder_name">Notatki połączeń</string>
   <string name="close">Zamknij</string>
   <string name="default_folder_name">Notatki</string>
@@ -39,7 +39,7 @@
   <string name="hint_foler_name">Wpisz nazwę</string>
   <string name="info_note_enter_desktop">Notka dodana na pulpit</string>
   <string name="login_sync">Login &amp; sync</string>
-  <string name="menu_create_folder">Nowy Katalog</string>
+  <string name="menu_create_folder">Utwórz katalog</string>
   <string name="menu_delete">Usuń</string>
   <string name="menu_discard">Odrzuć</string>
   <string name="menu_folder_change_name">Zmień nazwę katalogu</string>
@@ -83,6 +83,6 @@
   <string name="success_sdcard_export">Eksport udany</string>
   <string name="time_picker_dialog_title">Czas przypomnienia</string>
   <string name="toast_message_add_image_fail">Nie udało się wstawić obrazka!</string>
-  <string name="widget_havenot_content">No associated note found. Click to create associated note. Resize by long click and drag to edge.</string>
+  <string name="widget_havenot_content">Brak powiązanej notatki. Dotknij aby utworzyć nową notatkę. Naciśnij długo na widżet aby móc zmieniać rozmiar.</string>
   <string name="widget_under_visit_mode">Tryb prywatny, nie można wyświetlić zawartości</string>
 </resources>
