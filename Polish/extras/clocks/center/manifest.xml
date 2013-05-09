@@ -98,5 +98,5 @@
 		</Group>
 	</Group>
     <!-- 触发点击事件 -->
-    <Button name="clock_button" x="#view_width/2-#time.actual_w" y="74" w="#time.actual_w" h="#time.actual_h/2+138"/>
+    <Button name="clock_button" x="#view_width/2" y="74" w="#time.actual_w" h="#time.actual_h/2+138"/>
 </clock>

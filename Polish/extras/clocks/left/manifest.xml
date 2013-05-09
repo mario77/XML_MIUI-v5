@@ -91,10 +91,10 @@
 			<Text textExp="ifelse(eqs(@language,'zh_CN'),@weather_description,eqs(@language,'zh_TW'),@weather_description_zh_TW,@weather_description_en)" x="#view_width-44-#Temp.text_width-20" y="296" align="left" size="32" alignV="center" color="#ffffff" alpha="234"/>
 		</Group>
 		<Group visibility="not(#show_weather)">
-			<DateTime x="39" y="254+4" align="left" alignV="center" color="#000000" alpha="25" size="32" format="@long_date_time"/>
-			<DateTime x="39" y="254" align="left" alignV="center" color="#ffffff" alpha="234" size="32" format="@long_date_time"/>
-			<DateTime x="39" y="296+4" align="left" alignV="center" color="#000000" alpha="25" size="32" format="EEEE"/>
-			<DateTime x="39" y="296" align="left" alignV="center" color="#ffffff" alpha="234" size="32" format="EEEE"/>
+			<DateTime x="47" y="254+4" align="left" alignV="center" color="#000000" alpha="25" size="32" format="@long_date_time"/>
+			<DateTime x="47" y="254" align="left" alignV="center" color="#ffffff" alpha="234" size="32" format="@long_date_time"/>
+			<DateTime x="47" y="296+4" align="left" alignV="center" color="#000000" alpha="25" size="32" format="EEEE"/>
+			<DateTime x="47" y="296" align="left" alignV="center" color="#ffffff" alpha="234" size="32" format="EEEE"/>
 		</Group>
 	</Group>
     <!-- 触发点击事件 -->
