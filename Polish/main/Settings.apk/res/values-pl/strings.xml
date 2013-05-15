@@ -1199,6 +1199,7 @@ postępuj zgodnie z podanymi krokami"</string>
     <string name="owner_info_settings_edit_text_hint">Wpisz tekst do wyświetlenia na ekranie blokady.</string>
     <string name="owner_info_settings_summary"/>
     <string name="owner_info_settings_title">Informacje o właścicielu</string>
+    <string name="osb_settings">Klawisze ekranowe</string>
     <string name="packages_subtitle">Dołączone pakiety</string>
     <string name="password_guard">Zabezpieczenia</string>
     <string name="percentage">%d%%</string>
@@ -1232,7 +1233,7 @@ postępuj zgodnie z podanymi krokami"</string>
     <string name="perm_hips_desc">Monitorowanie %1$d aplikacji</string>
     <string name="perm_hips_desc1">Monitorowanie aplikacji</string>
     <string name="perm_hips_desc2">Monitorowanie %1$d aplikacji</string>
-    <string name="perm_hips_disable_content">"Wyłaczenie tej funkcji spowoduje, że MIUI nie będzie monitorował działania aplikacji.
+    <string name="perm_hips_disable_content">"Wyłączenie tej funkcji spowoduje, że MIUI nie będzie monitorował działania aplikacji.
 Jesteś pewien by wyłączyć?"</string>
     <string name="perm_hips_disable_title">Uprawnienia</string>
     <string name="perm_hips_end_call">hang up current call</string>
