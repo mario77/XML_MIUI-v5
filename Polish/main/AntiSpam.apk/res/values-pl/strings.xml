@@ -65,12 +65,12 @@ i MMS będą tutaj rejestrowane"</string>
     <string name="fw_all_day">Cały dzień</string>
     <string name="fw_blacklist">Czarna lista</string>
     <string name="fw_blacklist_hint">Numery z czarnej listy zostaną zablokowane przy połączeniach i wiadomościach</string>
-    <string name="fw_blocked">Połączenie zablokowane</string>
+    <string name="fw_blocked">Zablokowane</string>
     <string name="fw_blocked_count" formatted="false">Połączeń: %d, SMS: %d.</string>
     <string name="fw_call" formatted="false">Czas połączeń: %s (%d)</string>
-    <string name="fw_call_imported">Importuj z rejestru połączeń</string>
-    <string name="fw_call_muted">Połączenie wyciszone</string>
-    <string name="fw_call_rejected">Połączenie odrzucone</string>
+    <string name="fw_call_imported">Z rejestru połączeń</string>
+    <string name="fw_call_muted">Wyciszone</string>
+    <string name="fw_call_rejected">Odrzucone</string>
     <string name="fw_clear_all_keyword">Wyczyść wszystkie słowa kluczowe</string>
     <string name="fw_clear_blacklist">Wyczyść czarną listę</string>
     <string name="fw_clear_whitelist">Wyczyść białą listę</string>

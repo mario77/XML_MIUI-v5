@@ -24,7 +24,8 @@
     <string name="bind">Autoryzuj</string>
     <string name="bind_description">Zezwól na synchronizację z kontaktami</string>
     <string name="bind_sina_weibo">Autoryzuj Sina Weibo</string>
-    <string name="bind_weibo_description">Znajdź kontakty z telefonu, znajomych i inne informacje z pomocą swojego konta</string>
+    <string name="bind_weibo_description">"Znajdź kontakty z telefonu i znajomych za pomocą Wiebo.
+    UWAGA: aplikacja nie działa w Europie."</string>
     <string name="binded">Powiązany</string>
     <string name="binding_behavior_error">Błąd!</string>
     <string name="btn_activate">Aktywuj</string>
