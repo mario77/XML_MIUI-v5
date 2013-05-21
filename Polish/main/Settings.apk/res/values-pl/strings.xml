@@ -462,6 +462,7 @@ Zezwolić aplikacji na autostart?"</string>
     <string name="carrier_enabled">Włącz/wyłącz APN</string>
     <string name="carrier_enabled_summaryOff">APN wyłączona</string>
     <string name="carrier_enabled_summaryOn">APN włączona</string>
+    <string name="carrier_settings">Nazwa operatora</string>
     <string name="cdma_security_settings_summary">Ustaw funkcję Moja lokalizacja, odblokowywanie ekranu, blokadę magazynu danych logowania</string>
     <string name="cell_broadcast_settings">Transmisje komórkowe</string>
     <string name="cell_broadcast_settings_summary">Wybierz typy alertów o zagrożeniu, które chcesz wyświetlić.</string>
