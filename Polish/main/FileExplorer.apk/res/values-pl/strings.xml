@@ -77,6 +77,7 @@
     <string name="empty_dir_title">Puste katalogi</string>
     <string name="enable_sd_card">Karta SD jest niedostępna</string>
     <string name="error_info_cant_send_folder">Wysyłanie katalogu nieudane</string>
+    <string name="error_open_file_failed_no_app_found">Brak aplikacji do otwarcia pliku</string>
     <string name="fail_to_create_folder">Utworzenie katalogu nieudane, katalog już istnieje</string>
     <string name="fail_to_rename">Zmiana nazwy pliku lub katalogu nieudana, nazwa już istnieje</string>
     <string name="favorite_photo">Zdjęcie</string>

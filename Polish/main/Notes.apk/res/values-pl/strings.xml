@@ -8,8 +8,10 @@
   <string name="alert_message_delete_note">Potwierdzić usunięcie tej notatki?</string>
   <string name="alert_message_delete_notes">Potwierdzić usunięcie wybranych %1$s notatek?</string>
   <string name="alert_message_discard_changes">Odrzucić zmiany?</string>
+  <string name="alert_message_edit_anyway">Notatka zawiera nieobsługiwaną treść. Edycja może spowodować utratę danych.</string>
   <string name="alert_title_delete">Usuń zaznaczone notatki</string>
   <string name="alert_title_discard">Odrzuć</string>
+  <string name="alert_title_edit_anyway">Potwierdź chęć edycji notatki.</string>
   <string name="app_name">Notatki</string>
   <string name="app_widget">Notatki</string>
   <string name="attachment_camera">Aparat</string>
@@ -26,7 +28,8 @@
   <string name="error_note_not_exist">Notatka nie istnieje</string>
   <string name="error_sdcard_export">Eksport nieudany, sprawdź kartę SD</string>
   <string name="error_sdcard_unmounted">Karta SD zajęta</string>
-  <string name="error_widget_exist_for_send_to_desktop">Notatka jest już umieszczona na pulpicie</string>
+  <string name="error_unsupport_content">This note contains unsupported content, click to upgrade system</string>
+  <string name="error_widget_exist_for_send_to_desktop">Notatka znajduje się już na pulpicie</string>
   <string name="failed_sdcard_export">Eksport nieudany</string>
   <string name="file_name_txt_format">notes_%s.txt</string>
   <string name="file_path">/MIUI/notes/</string>

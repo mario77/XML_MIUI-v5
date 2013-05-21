@@ -20,9 +20,11 @@
   <string name="christmas_day">Boże Narodzenie</string>
   <string name="clear_and_bright"/>
   <string name="cold_dews"/>
-  <string name="contact_carrier_message">Please contact carrier if any questions</string>
+  <string name="contact_carrier_message">Skontaktuj się z operatorem w razie pytań.</string>
   <string name="day_of_month">" %d"</string>
+  <string name="days">dni</string>
   <string name="delete">Usuń</string>
+  <string name="deprecated_alarm_message_12_hour_formate"/>
   <string name="device_xiaomi">Telefon Xiaomi</string>
   <string name="emergency_call_string">Alarmowe</string>
   <string name="error_forbidden">Wystąpił problem z kontem. Synchronizacja wyłączona.</string>
@@ -30,7 +32,7 @@
   <string name="error_title">Błąd synchronizacji dla %s</string>
   <string name="error_unauthorized">Zbyt dużo niepowodzeń w aktywacji konta. Synchronizacja wyłączona.</string>
   <string name="every_day">Codziennie</string>
-  <string name="experimental_validate">Validate</string>
+  <string name="experimental_validate">Weryfikuj</string>
   <string name="experimental_validate_fail">Weryfikacja nieudana, spróbuj ponownie</string>
   <string name="experimental_validate_password">Hasło</string>
   <string name="experimental_validate_progress">Weryfikacja...</string>
@@ -43,15 +45,13 @@
   <string name="find_device_turn_off_flight_mode">Wyłącz Tryb Samolotowy</string>
   <string name="find_device_turn_off_flight_mode_instructions">"Urządzenie zablokowane. Wyłącz Tryb Samolotowy"</string>
   <string name="firewall_setting">Firewall</string>
-  <string name="first_back_long_press_message">"Chcesz włączyć funkcję kończenia działania aplikacji przez długie naciśnięcie przycisku powrotu? Włącz w Ustawienia >
-    System > Przyciski sprzętowe"</string>
+  <string name="first_back_long_press_message">"Chcesz włączyć funkcję kończenia działania aplikacji przez długie naciśnięcie przycisku powrotu? Włącz w Ustawienia > System > Przyciski sprzętowe"</string>
   <string name="fm_record_smaple_prefix_miui">RadioFM</string>
   <string name="fools_day">"Prima Aprilis"</string>
   <string name="force_exit_message">Pomyślnie zatrzymano \"%1$s\"</string>
   <string name="forget_password_string">Zapomniane hasło</string>
   <string name="format_time_in_12_hours">%1$s %2$s</string>
-  <string name="global_action_privacy_mode_dialog_message">W trybie poufnym połączenia, notatki i wiadomości tekstowe będą ukryte, a ustawienia pulpitu nie będą
-    edytowalne.</string>
+  <string name="global_action_privacy_mode_dialog_message">W trybie poufnym połączenia, notatki i wiadomości tekstowe będą ukryte, a ustawienia pulpitu nie będą edytowalne.</string>
   <string name="global_action_toggle_privacy_mode">Poufny</string>
   <string name="grain_buds"/>
   <string name="grain_in_ear"/>
@@ -64,6 +64,7 @@
   <string name="group_name_friends">Znajomi</string>
   <string name="heavy_snow">Śnieżyce</string>
   <string name="hoar_frost_falls"/>
+  <string name="hours">%d godzin</string>
   <string name="incorrect_pincode">Kod PIN niepoprawny</string>
   <string name="incorrect_pincode_remaining_attempts">Kod PIN nieprawidłowy. Pozostało: %d prób</string>
   <string name="incorrect_pukcode">Kod PUK nieprawidłowy.</string>
@@ -123,6 +124,7 @@
   <string name="miui_unlockscreen_password_wrong">Spróbuj ponownie</string>
   <string name="miui_user_agreement_title">Umowa użytkownika</string>
   <string name="miui_user_manual_title">Podręcznik użytkownika</string>
+  <string name="minutes">%d minut</string>
   <string name="month_of_april">Kwi</string>
   <string name="month_of_august">Śie</string>
   <string name="month_of_december">Gru</string>
@@ -153,19 +155,18 @@
   <string name="perm_tigger_toggle_dspt">Zezwolenie na aktywację przełączników paska powiadomień</string>
   <string name="perm_tigger_toggle_lab">Aktywacja przełączników</string>
   <string name="perm_use_find_device">Lokalizacja urządzenia</string>
-  <string name="permdesc_accessNote">Allows the app to read and modify your notes stored on your phone. Malicious applications can use this to send your notes to other
-    people or erase all your notes.</string>
+  <string name="permdesc_accessNote">Allows the app to read and modify your notes stored on your phone. Malicious applications can use this to send your notes to other people or erase all your notes.</string>
   <string name="permlab_accessNote">Access your notes</string>
   <string name="pin_operation_failed">Operacja nieudana</string>
   <string name="pincode_set_to_default_msg">Kod PIN ustawiony jest na 1234. Zresetuj PIN tutaj.</string>
   <string name="private_num">Numer prywatny</string>
-  <string name="puk_operation_failed">PUK operation failed.</string>
+  <string name="puk_operation_failed">Operacja PUK nieudana.</string>
   <string name="reboot_confirm">Telefon zostanie uruchomiony ponownie</string>
+  <string name="reboot_confirm_title">Uruchomić ponownie telefon?</string>
   <string name="reboot_progress">Ponowne uruchamianie...</string>
   <string name="return_to_me_message">Jeśli telefon zostanie znaleziony, proszę o zwrot.</string>
   <string name="reverse_all">Wyczyść wszystko</string>
-  <string name="safetylegal_activity_unreachable">Telefon nie jest podłączony do usługi danych. Aby wyświetlić informację, przejdź do %s z komputera podłączonego do
-    internetu.</string>
+  <string name="safetylegal_activity_unreachable">Telefon nie jest podłączony do usługi danych. Aby wyświetlić informację, przejdź do %s z komputera podłączonego do internetu.</string>
   <string name="screen_button_notification_text">"Naciśnij 'Home'+'Power' aby aktywować"</string>
   <string name="screen_button_notification_title">Przyciski ekranowe wyłączone</string>
   <string name="screen_on_proximity_sensor_hint">"Naciśnij 'Back' + 'Vol-up' aby wyjść. Info: Ustawienia Systemu - Wyświetlacz"</string>
@@ -183,6 +184,7 @@
   <string name="share">Udostępnij</string>
   <string name="short_pincode_error_msg">Wpisz 4–8 znaków</string>
   <string name="short_pukcode_error_msg">Wpisz co najmniej 8 znaków</string>
+  <string name="shutdown_confirm_title">Wyłączyć telefon?</string>
   <string name="sim_account_name">SIM</string>
   <string name="sim_changed_reactivate_int_notice">Aktualna karta SIM nie jest aktywna. Wymagany jest SMS by aktywować Usługi synchronizacji. Aktywować teraz?</string>
   <string name="sim_changed_reactivate_notice">Aktualna karta SIM nie jest aktywna. Wymagany jest SMS by aktywować Usługi synchronizacji. Aktywować teraz?</string>

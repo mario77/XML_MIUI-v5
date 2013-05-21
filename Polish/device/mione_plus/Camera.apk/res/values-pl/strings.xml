@@ -18,6 +18,8 @@ Opuść na chwilę widok" </string>
   <string name="can_not_play_video">Aby odtworzyć wideo odblokuj ekran</string>
   <string name="cancel">Anuluj</string>
   <string name="cannot_connect_camera">"Nie można nawiązać połączenia z aparatem."</string>
+  <string name="cannot_connect_camera_once">"Nie można nawiązać połączenia z aparatem, uruchom ponownie aplikację"</string>
+  <string name="cannot_connect_camera_twice">"Nie można nawiązać połączenia z aparatem, uruchom ponownie telefon"</string>
   <string name="clear_effects">Usuń efekty</string>
   <string name="close">Zamknij</string>
   <string name="confirm_change_mode_title">Przełącz widok funkcji aparatu</string>

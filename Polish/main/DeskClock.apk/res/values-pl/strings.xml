@@ -167,6 +167,7 @@ Możesz także anulować alarm." </string>
   <string name="stopwatch_title">Stoper</string>
   <string name="system_time_setting">Ustawienia</string>
   <string name="time">Godzina</string>
+  <string name="timer_alert_alert_silenced">Minutnik zatrzymany po %d minutach.</string>
   <string name="timer_continue">Kontynuuj</string>
   <string name="timer_got_it">Ok</string>
   <string name="timer_hour">G</string>
