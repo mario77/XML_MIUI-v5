@@ -116,7 +116,6 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     <string name="app_factory_reset_dlg_title">Odinstalować aktualizacje?</string>
     <string name="app_floating_window_dlg">Zezwól \"%1$s\" na wyświetlanie okien Pop-up</string>
     <string name="app_floating_window_dlg_disable">"Wyłączenie pokazywania okien Pop-up dla %1$s zatrzyma aplikację. Na pewno wyłączyć?"</string>
-    <string name="app_floating_window_dlg_enable">"Aktywacja okien Pop-up dla aplikacji %1$s wymaga jej ponownego uruchomienia. Na pewno włączyć?"</string>
     <string name="app_forward_locked">Aplikacja jest zabezpieczona przed kopiowaniem.</string>
     <string name="app_install_location_summary">Zmień preferowaną lokalizację instalacji nowych aplikacji.</string>
     <string name="app_install_location_title">Preferowana lokalizacja instalacji</string>
@@ -1074,13 +1073,6 @@ Aby usunąć muzykę, zdjęcia i inne dane użytkownika, należy wymazać "<b>no
     <string name="master_clear_personal_data_sdcard">"Wymazać wszystkie Twoje informacje osobiste i sformatować kartę SD? Tej czynności nie można cofnąć"</string>
     <string name="master_clear_summary">Wymazuje wszystkie dane w telefonie</string>
     <string name="master_clear_title">Ustawienia fabryczne</string>
-    <string name="mdb_entering">Entering</string>
-    <string name="mdb_restore_cancel">Cancel</string>
-    <string name="mdb_restore_info1">"Will restore your phone's data"</string>
-    <string name="mdb_restore_info2">"Please don't break usb connection"</string>
-    <string name="mdb_restore_label">Mdb Restore</string>
-    <string name="mdb_restore_mode">Restore Mode</string>
-    <string name="mdb_usb_disconnection_exit">USB disconnected, abort restoring</string>
     <string name="media_button">Przycisk multimedialny</string>
     <string name="media_format_button_text">Wyczyść nośnik USB</string>
     <string name="media_format_desc">Wymazać cały nośnik USB? Utracisz <b>wszystkie</b> zapisane dane.</string>

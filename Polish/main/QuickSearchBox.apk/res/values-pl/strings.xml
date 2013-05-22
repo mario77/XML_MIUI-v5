@@ -27,9 +27,7 @@
     <string name="search_sources_summary">Wybierz elementy przeszukiwane w telefonie</string>
     <string name="clear_shortcuts">Wyczyść skróty</string>
     <string name="clear_shortcuts_summary">Wyczyść skróty do ostatnio wybranych sugestii wyszukiwania</string>
-    <string name="clear_shortcuts_prompt">"Spowoduje to wyczyszczenie wszystkich skrótów do ostatnio wybranych sugestii wyszukiwania.
-
-(Aby wyczyścić historię przeglądarki, użyj ustawień tej przeglądarki)."</string>
+    <string name="clear_shortcuts_prompt">"Spowoduje to wyczyszczenie wszystkich skrótów do ostatnio wybranych sugestii wyszukiwania. (Aby wyczyścić historię przeglądarki, użyj ustawień tej przeglądarki)."</string>
     <string name="clear_shortcuts_agree">Wyczyść skróty</string>
     <string name="clear_shortcuts_disagree">"Nie czyść skrótów"</string>
     <string name="menu_help">Pomoc</string>
@@ -40,4 +38,6 @@
     <string name="voice_search_hint_title">Powiedz np.:</string>
     <string name="voice_search_hint_quotation_start">“</string>
     <string name="voice_search_hint_quotation_end">”</string>
+    <string name="search_in_web">Wyszukaj w sieci</string>
+    <string name="search_in_app_store">Wyszukaj w Google Play</string>
 </resources>

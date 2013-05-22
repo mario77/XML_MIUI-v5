@@ -27,4 +27,14 @@
         <item>26006</item>
         <item>26002</item>
     </string-array>
+    <string-array name="alarm_in_future">
+        <item>Alarm za mniej niż minutę</item>
+        <item>Alarm za %1$s</item>
+        <item>Alarm za %2$s</item>
+        <item>Alarm za %1$s %2$s</item>
+        <item>Alarm za %3$s</item>
+        <item>Alarm za %1$s %3$s</item>
+        <item>Alarm za %2$s %3$s</item>
+        <item>Alarm za %1$s %2$s %3$s</item>
+    </string-array>
 </resources>

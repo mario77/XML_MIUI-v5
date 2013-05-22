@@ -29,5 +29,4 @@
     <string name="cert_read_error">Instalacja nie powiodła się. Nie można odczytać pliku certyfikatu.</string>
     <string name="no_cert_file_found">Nie znaleziono pliku certyfikatu na nośniku USB.</string>
     <string name="sdcard_not_present">Nośnik USB jest niedostępny.</string>
-    <string name="only_primary_user_allowed">Tylko właściciel urządzenia może instalować certyfikaty.</string>
 </resources>

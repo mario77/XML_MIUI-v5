@@ -92,8 +92,6 @@
     <string name="menu_sort">Sortowanie</string>
     <string name="menu_wallpaper">Tapeta</string>
     <string name="menu_workspace_preview">Podgląd</string>
-    <string name="online_no_network">Nie można połączyć się z siecią</string>
-    <string name="online_search_hint">Wyszukaj zasoby online</string>
     <string name="out_of_space">Brak miejsca na tym pulpicie.</string>
     <string name="permdesc_install_shortcut">Allows an application to add shortcuts without user intervention.</string>
     <string name="permdesc_install_widget">Allows an application to add widgets without user intervention.</string>

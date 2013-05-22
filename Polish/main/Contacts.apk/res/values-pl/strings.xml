@@ -134,7 +134,6 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="clearFrequentsProgress_title">Czyszczenie…</string>
     <string name="clear_default">Wyczyść wartość domyślną</string>
     <string name="click_close">Kliknij by zamknąć</string>
-    <string name="cloud_antispam_summary">Filtruj połączenia i wiadomości przez sieć mobilną lub Wi-Fi</string>
     <string name="cloud_antispam_title">Filtrowanie numerów</string>
     <string name="composer_failed_to_get_database_infomation">"Nie można pobrać informacji z bazy danych."</string>
     <string name="composer_has_no_exportable_contact">Brak kontaktów do kopiowania. Jeśli masz w telefonie kontakty, być może dostawcy danych nie zezwalają na ich eksport z telefonu.</string>
@@ -410,7 +409,6 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="import_weibo_fetch_followers">Retrieving Sina Weibo followers…</string>
     <string name="import_weibo_notification_title">Importing Sina weibo contacts…</string>
     <string name="import_weibo_notification_title_done">Import complete</string>
-    <string name="import_weibo_progress_hint">Importing…</string>
     <string name="import_weibo_progress_name">%1$s</string>
     <string name="import_weibo_progress_percent">%1$d%%</string>
     <string name="importing_vcard_canceled_title">Anulowano przywracanie pliku %s</string>
@@ -427,7 +425,6 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="label_notes">Notatki</string>
     <string name="label_sip_address">Rozmowa internetowa</string>
     <string name="launcherDialer">Telefon</string>
-    <string name="listAllContactsInAccount">Kontakt na %s</string>
     <string name="listCustomView">Kontakty w widoku</string>
     <string name="listFoundAllContactsZero">Brak wyników</string>
     <string name="listSingleContact">Pojedynczy kontakt</string>

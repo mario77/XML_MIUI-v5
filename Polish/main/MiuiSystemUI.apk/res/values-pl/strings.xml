@@ -286,4 +286,8 @@ d MMMM yyyy"</string>
     <string name="user_guide_for_notification">Nowe powiadomienie，możesz przeciągnąć w dół pasek statusu, aby zobaczyć szczegóły</string>
     <string name="user_guide_for_toggle">Lista przełączników może być przesuwana w poziomie</string>
     <string name="user_guide_for_toggle_list">Kliknij by ustawić własne przełączniki</string>
+    <string name="toast_rotation_locked">Zablokowano rotację ekranu</string>
+    <string name="ext_media_mountable_notification_title">Podłączono urządzenie USB</string>
+    <string name="ext_media_mountable_notification_message">Podłączono urządzenie USB</string>
+    <string name="ext_media_safe_remove">Można bezpiecznie odłączyć urządzenie</string>
 </resources>

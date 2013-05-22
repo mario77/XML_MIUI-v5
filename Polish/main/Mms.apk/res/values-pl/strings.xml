@@ -15,7 +15,6 @@
     <string name="add_slide">Dodaj slajd</string>
     <string name="add_slide_hint">Wybierz, aby utworzyć nowy slajd.</string>
     <string name="add_smiley">Emotki</string>   
-    <string name="add_subject">Dodaj temat</string>
     <string name="add_timing">Czas</string>
     <string name="add_video">Dodaj film wideo</string>
     <string name="adding_attachments">Poczekaj na zakończenie dodawania elementów do pokazu slajdów.</string>
@@ -87,7 +86,6 @@
     <string name="delete_bookmark">Nielubiane</string>
     <string name="delete_message">Usuń</string>
     <string name="delete_phrase">Usuń zwrot</string>
-    <string name="delete_subject">Usuń temat</string>
     <string name="delete_unlocked">Usuń zablokowane wiadomości</string>
     <string name="delivery_report_activity">Raport o dostawie</string>
     <string name="delivery_toast_body">Wiadomość odebrana przez: %s</string>

@@ -6,10 +6,8 @@
   <string name="add_to_cloud_album">Dodaj do chmury</string>
   <string name="add_to_cloud_fail_too_many_items">Za dużo zaznaczonych elementów. Nie można usunąć.</string>
   <string name="add_to_cloud_folder">Dodaj do katalogu w chmurze</string>
-  <string name="add_sharer">Dodaj do udostępnionych</string>
   <string name="action_fail_unknown_error">Operacja nieudana z powodu nieznanego błędu.</string>
   <string name="albums">Albumy</string>
-  <string name="album_name">Nazwa albumu</string>
   <string name="alert">Uwaga</string>
   <string name="alert_message_initial_cloud">System wyśle automatycznie stare i nowe zdjęcia, a także zrzuty ekranu tylko przy połączeniu Wi-Fi.</string>
   <string name="alert_message_open_sync">Zamierzasz przesłać zdjęcia do Albumów Online. Funkcja zostanie aktywowana.</string>
@@ -30,7 +28,6 @@
   <string name="camera_folder_display_name">Zdjęcia aparatu</string>
   <string name="camera_setas_wallpaper">Tapeta</string>
   <string name="camera_view_none_message">Przechwycone obrazy zostaną tutaj wyświetlone.</string>
-  <string name="can_modified">Zezwól na modyfikacje</string>
   <string name="cancel">Anuluj</string>
   <string name="cant_delete_system_album">%s jest katalogiem systemowym i nie może być usunięty!</string>
   <string name="cleaning_cache">Czyszczenie pamięci podręcznej...</string>
@@ -123,7 +120,6 @@
   <string name="group_by_album">Album</string>
   <string name="group_by_faces">Osoby</string>
   <string name="group_by_location">Lokalizacja</string>
-  <string name="group_by_size">Rozmiar</string>
   <string name="group_by_tags">Tagi</string>
   <string name="group_by_time">Czas</string>
   <string name="height">Wysokość</string>
@@ -167,7 +163,6 @@
   <string name="mishop_saved_folder_display_name">MiShop Saves</string>
   <string name="miui_capture_screen_folder_display_name">Zrzuty ekranu</string>
   <string name="model">Model</string>
-  <string name="modify_cloud_settings">Ustawienia MiCloud</string>
   <string name="more">Więcej</string>
   <string name="move_to_cloud_album">Przenieś do chmury</string>
   <string name="multiface_crop_help">Dotknij twarzy by rozpocząć.</string>
@@ -176,7 +171,6 @@
   <string name="no">Odrzuć</string>
   <string name="no_albums_alert">Brak albumów.</string>
   <string name="no_connectivity">"Some locations couldn't be identified due to network problems."</string>
-  <string name="no_file">Nie znaleziono plików</string>
   <string name="no_location">Brak lokalizacji</string>
   <string name="no_map_app">Brak aplikacji do obsługi map</string>
   <string name="no_network_connected">Brak połączenia sieciowego</string>
@@ -217,7 +211,6 @@
   <string name="save_photo">Zapisać edytowane zdjęcie?</string>
   <string name="saving_failure">Zdjęcie nie mogło zostać zapisane</string>
   <string name="saving_image">Zapisywanie zdjęcia...</string>
-  <string name="scan_qr_code">Udostępnij kod QR i wymieniaj się plikami ze znajomymi!</string>
   <string name="sd_not_available">Pamięć wewnętrzna odłączona</string>
   <string name="seconds">sekund</string>
   <string name="select_album">Edycja</string>
@@ -245,13 +238,6 @@
   <string name="settings_i_xiaomi_com">Zaloguj się do i.xiaomi.com aby wyświetlić swoje albumy w chmurze</string>
   <string name="shadow">Cienie</string>
   <string name="sharpen">Wyostrzenie</string>
-  <string name="share_album">Udostępnij album</string>
-  <string name="share_album_owner">Udostępnione</string>
-  <string name="share_album_qr_code">Kod QR</string>
-  <string name="share_album_share_to">Udostępnij dla</string>
-  <string name="sharer_status_accepted">Zaakceptowane</string>
-  <string name="sharer_status_refused">Odrzucone</string>
-  <string name="sharer_status_waitting">Oczekujące</string>
   <string name="show_all">Zdjęcia i filmy</string>
   <string name="show_hidden_album">Pokaż ukryte albumy</string>
   <string name="show_hidden_albums">Pokaż ukryte albumy</string>
