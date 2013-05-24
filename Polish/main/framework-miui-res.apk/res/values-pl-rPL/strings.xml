@@ -3,7 +3,6 @@
   <string name="activate">Aktywuj</string>
   <string name="activate_fail_notification_title">Aktywuj ponownie Usługi Xiaomi</string>
   <string name="activating">Aktywacja...</string>
-  <string name="alarm_message_12_hour_formate">h:mm aa</string>
   <string name="alwaysUsePrompt">Ustaw domyślne</string>
   <string name="android_lockscreen_glogin_instructions">Wpisz się na konto aby odblokować</string>
   <string name="arbor_day"/>

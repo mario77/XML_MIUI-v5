@@ -91,13 +91,15 @@
     <string name="ext_media_badremoval_notification_title">Pamięć USB niespodziewanie wysunięta</string>
     <string name="ext_media_checking_notification_message">Sprawdzanie błędów.</string>
     <string name="ext_media_checking_notification_title">Przygotowywanie nośnika USB</string>
-    <string name="ext_media_nofs_notification_message">Nośnik USB jest czysty lub posiada niewspierany system plików.</string>
+    <string name="ext_media_nofs_notification_message">Nośnik USB jest czysty lub posiada nieznany system plików.</string>
     <string name="ext_media_nofs_notification_title">Czysty nośnik USB</string>
     <string name="ext_media_nomedia_notification_message">Nośnik USB odłączony.</string>
-    <string name="ext_media_nomedia_notification_title">Usunięto nośnik USB</string>
+    <string name="ext_media_nomedia_notification_title">Wysunięto nośnik USB</string>
     <string name="ext_media_mountable_notification_title">Nośnik USB podłączony</string>
+    <string name="ext_media_mountable_notification_message">"Otwórz Menedżer Plików"</string>
     <string name="ext_media_safe_unmount_notification_message">Możesz bezpiecznie odłączyć nośnik USB.</string>
     <string name="ext_media_safe_unmount_notification_title">Bezpieczne odłączenie nośnika USB</string>
+    <string name="ext_media_safe_remove">Wysuń</string>
     <string name="ext_media_unmountable_notification_message">Nośnik USB uszkodzony. Być może trzeba przeprowadzić formatowanie.</string>
     <string name="ext_media_unmountable_notification_title">Nośnik USB uszkodzony</string>
     <string name="gps_notification_found_text">Lokalizacja ustalona przez GPS</string>
@@ -252,6 +254,7 @@ d MMMM yyyy"</string>
     <string name="tab_notifications_lable">Powiadomienia</string>
     <string name="tab_toggles_lable">Przełączniki</string>
     <string name="title_usb_accessory">Akcesorium USB</string>
+    <string name="toast_rotation_locked">Zablokowano rotację ekranu</string>
     <string name="torch_activity_hint">Włącz latarkę przez naciśnięcie przycisku [icon] na ekranie blokady</string>
     <string name="torch_activity_name">Latarka</string>
     <string name="usb_accessory_confirm_prompt">Otworzyć %1$s gdy te akcesorium USB będzie połączone?</string>
@@ -286,8 +289,4 @@ d MMMM yyyy"</string>
     <string name="user_guide_for_notification">Nowe powiadomienie，możesz przeciągnąć w dół pasek statusu, aby zobaczyć szczegóły</string>
     <string name="user_guide_for_toggle">Lista przełączników może być przesuwana w poziomie</string>
     <string name="user_guide_for_toggle_list">Kliknij by ustawić własne przełączniki</string>
-    <string name="toast_rotation_locked">Zablokowano rotację ekranu</string>
-    <string name="ext_media_mountable_notification_title">Podłączono urządzenie USB</string>
-    <string name="ext_media_mountable_notification_message">Podłączono urządzenie USB</string>
-    <string name="ext_media_safe_remove">Można bezpiecznie odłączyć urządzenie</string>
-</resources>
+ </resources>
