@@ -98,6 +98,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="callrecordview_menu_delete_called">Usuń wybrane połączenia</string>
     <string name="callrecordview_menu_delete_confirm">Wykonać: %s?</string>
     <string name="callrecordview_menu_delete_missed">Usuń nieodebrane połączenia</string>
+    <string name="callrecordview_menu_delete_new">Usuń rejestr połączeń z nowych kontaktów</string>
     <string name="callrecordview_menu_delete_one">Usuń z rejestru połączeń</string>
     <string name="callrecordview_menu_delete_stranger">Usuń nieznane numery</string>
     <string name="callrecordview_menu_paste">Wklej</string>
@@ -107,6 +108,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="callrecordview_menu_show_all">Pokaż wszystkie połączenia</string>
     <string name="callrecordview_menu_show_called">Pokaż wybrane połączenia</string>
     <string name="callrecordview_menu_show_missed">Pokaż nieodebrane połączenia</string>
+    <string name="callrecordview_menu_show_new">Nowe kontakty</string>
     <string name="callrecordview_menu_show_stranger">Pokaż nieznane połączenia</string>
     <string name="callrecordview_menu_show_title">Wybierz dane do wyświetlania w rejestrze</string>
     <string name="cancel_confirmation_dialog_message">Odrzucić zmiany?</string>
@@ -321,6 +323,8 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="eventLabelsGroup">Urodziny</string>
     <string name="event_edit_field_hint_text">Data</string>
     <string name="export_sim_contact_finish">Kopiowanie na kartę SIM ukończone</string>
+    <string name="export_sim_contact_finish_failure">Karta SIM jest pełna. Udane: %1$d, nieudane: %2$d</string>
+    <string name="export_sim_contact_finish_success">Skopiowano %d kontaktów z SIM</string>  
     <string name="export_sim_contacts_dialog_message">Twoja karta SIM pomieści %d kontaktów. Kontynuować?</string>
     <string name="export_to_sdcard">Kopiuj na nośnik</string>
     <string name="export_to_sim">Kopia kontaktów na SIM</string>
@@ -384,6 +388,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="hint_findContacts">Znajdź kontakty</string>
     <string name="hint_more_contact">łączenie kontaktów pomaga w przypadku zduplikowanych pozycji</string>
     <string name="hint_search_contacts">%d kontaktów</string>
+    <string name="hint_search_emails">%d E-maili</string>
     <string name="hint_search_phone_numbers">%d kontaktów z numerem</string>
     <string name="ic_menu_back">Wstecz</string>
     <string name="ic_menu_done">Gotowe</string>

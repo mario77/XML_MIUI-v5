@@ -76,6 +76,7 @@
     <string name="empty_dir_cleanup_indication">%s niepotrzebnych plików</string>
     <string name="empty_dir_title">Puste katalogi</string>
     <string name="enable_sd_card">Karta SD jest niedostępna</string>
+    <string name="error_filename_too_long">Nazwa pliku jest za długa</string>
     <string name="error_info_cant_send_folder">Wysyłanie katalogu nieudane</string>
     <string name="error_open_file_failed_no_app_found">Brak aplikacji do otwarcia pliku</string>
     <string name="fail_to_create_folder">Utworzenie katalogu nieudane, katalog już istnieje</string>

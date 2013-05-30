@@ -161,7 +161,7 @@ e-mail z tego konta"</string>
     <string name="account_setup_options_mail_window_auto">Automatycznie</string>
     <string name="account_setup_options_mail_window_default">"Użyj wartości domyślnej konta"</string>
     <string name="account_setup_options_mail_window_label">Dni do synchronizacji</string>
-    <string name="account_setup_options_notify_label">Powiadom mnie o odebranej poczcie e-mail.</string>
+    <string name="account_setup_options_notify_label">Powiadom mnie o odebranej poczcie e-mail</string>
     <string name="account_setup_options_sync_calendar_label">Synchronizuj kalendarz na tym koncie</string>
     <string name="account_setup_options_sync_contacts_label">Synchronizuj kontakty na tym koncie</string>
     <string name="account_setup_options_sync_email_label">Synchronizuj wiadomości e-mail z tego konta</string>

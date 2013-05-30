@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="Ntracks_remove_from_favorite_playlist">
+        <item quantity="other">Utworów usuniętych: %d</item>
+        <item quantity="one">1 utwór usunięty</item>
+    </plurals>
     <plurals name="Ntracks_search_result_format">
         <item quantity="other">%d utwory</item>
         <item quantity="one">%d utwór</item>

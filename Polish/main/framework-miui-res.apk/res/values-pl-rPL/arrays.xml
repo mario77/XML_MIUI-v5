@@ -8,6 +8,7 @@
         <item>26003</item>
         <item>26006</item>
         <item>26002</item>
+        <item>26207</item>
     </string-array>
     <string-array name="mobile_operator_display_names">
         <item>Netia</item>
@@ -17,6 +18,7 @@
         <item>Orange</item>
         <item>PLAY</item>
         <item>T-Mobile</item>
+        <item>Lidl Mobile</item>
     </string-array>
     <string-array name="mobile_operator_numeric_equivalencies">
         <item>26007</item>
@@ -26,6 +28,7 @@
         <item>26003</item>
         <item>26006</item>
         <item>26002</item>
+        <item>26207</item>
     </string-array>
     <string-array name="alarm_in_future">
         <item>Alarm za mniej niż minutę</item>

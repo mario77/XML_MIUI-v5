@@ -42,6 +42,7 @@
   <string name="confirm">OK</string>
   <string name="correct_id3_by_internet">Korekta ID3 Online</string>
   <string name="correct_id3_failed">Korekta danych ID3 nieudana!</string>
+  <string name="correct_id3_in_processing">Korekta danych ID3...</string>
   <string name="correct_id3_not_support">Korekta danych ID3 nie jest wspierana przez ten typ pliku</string>
   <string name="correct_id3_open_other_connect">Włącz korektę danych ID3 przy użyciu danych mobilnych</string>
   <string name="correct_id3_settings">Korekta tagów ID3</string>
@@ -164,6 +165,7 @@
   <string name="notification_artist_album">"%2$s %1$s" </string>
   <string name="online_music">Muzyka online</string>
   <string name="online_search_hint">Wyszukaj muzykę online</string>
+  <string name="online_title">Online</string>
   <string name="other_settings">Pozostałe opcje</string>
   <string name="overwrite_confirm">Nadpisz</string>
   <string name="play_all">Odtwórz wszystko</string>
