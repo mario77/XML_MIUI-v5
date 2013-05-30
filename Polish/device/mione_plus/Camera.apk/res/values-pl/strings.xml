@@ -8,9 +8,10 @@
   <string name="accessibility_zoom_control">Sterowanie powiększeniem</string>
   <string name="albums">Albumy</string>
   <string name="aperture">Przesłona</string>
+  <string name="app_details">Szczegóły:</string>
   <string name="auto">Auto</string>
-  <string name="bg_replacement_message"> "Skieruj urządzenie w dół 
-Opuść na chwilę widok" </string>
+  <string name="bg_replacement_message">"Skieruj urządzenie w dół 
+Opuść na chwilę widok"</string>
   <string name="camera_disabled">Aparat został wyłączony z powodu zasad bezpieczeństwa.</string>
   <string name="camera_error_title">Błąd aparatu</string>
   <string name="camera_label">Aparat</string>
@@ -28,6 +29,19 @@ Opuść na chwilę widok" </string>
   <string name="confirm_location_message">Czy przywrócić domyślne ustawienia aparatu?</string>
   <string name="confirm_restore_message">Czy przywrócić domyślne ustawienia aparatu?</string>
   <string name="confirm_restore_title">Przywróć wartości domyślne</string>
+  <string name="contact_address">Adres</string>
+  <string name="contact_birthday">Urodziny</string>
+  <string name="contact_company">Firma</string>
+  <string name="contact_details">Szczegóły kontaktu:</string>
+  <string name="contact_email">E-mail</string>
+  <string name="contact_name">Imię</string>
+  <string name="contact_nickname">Pseudonim</string>
+  <string name="contact_note">Notatka</string>
+  <string name="contact_phone">Telefon</string>
+  <string name="contact_title">Tytuł</string>
+  <string name="contact_web">Strona WWW</string>
+  <string name="copy_text">Kopiuj tekst</string>
+  <string name="copy_text_success">Skopiowanio tekst</string>
   <string name="crop_saved">Przycięte zdjęcie zapisane do %s</string>
   <string name="delete">Usuń</string>
   <string name="deleted">Usunięte</string>
@@ -38,6 +52,7 @@ Opuść na chwilę widok" </string>
   <string name="details_title">Elementów: %1$d z %2$d</string>
   <string name="dialog_ok">OK</string>
   <string name="disable_video_snapshot_hint">Stopklatka nie działa, gdy są aktywne efekty specjalne.</string>
+  <string name="download_by_browser">Pobierz przez przeglądarkę</string>
   <string name="duration">Czas trwania</string>
   <string name="edit">Edycja</string>
   <string name="effect_backdropper_disco">Disco</string>
@@ -61,6 +76,11 @@ Opuść na chwilę widok" </string>
   <string name="error_fail_to_start_audio_capture">Failed to start audio capture: Microphone may be in use by another application.</string>
   <string name="exposure_time">Czas ekspozycji</string>
   <string name="file_size">Rozmiar pliku</string>
+  <string name="find_market_qrcode">Wykryto kod QR Google Play</string>
+  <string name="find_mecard_qrcode">Wykryto kod QR na wizytówce</string>
+  <string name="find_other_qrcode">Wykryto kod QR</string>
+  <string name="find_web_qrcode">Wykryto kod QR na stronie</string>
+  <string name="find_weixin_qrcode">Znajdź kod weixin QR</string>
   <string name="flash">Flash</string>
   <string name="flash_off">Bez lampy</string>
   <string name="flash_on">Z lampą</string>
@@ -80,8 +100,10 @@ Opuść na chwilę widok" </string>
   <string name="height">Wysokość</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="import_complete">Wczytywanie ukończone</string>
+  <string name="import_contact">Wczytywanie kontaktu</string>
   <string name="import_fail">Wczytywanie nieudane</string>
   <string name="iso">ISO</string>
+  <string name="launch_market">Uruchom Google Play</string>
   <string name="loading">Wczytywanie...</string>
   <string name="loading_video">Wczytywanie wideo...</string>
   <string name="location">Lokalizacja</string>
@@ -337,6 +359,7 @@ Opuść na chwilę widok" </string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 sekund przerwy (900x)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Time Lapse (odstęp czasu)</string>
   <string name="preparing_sd">Przygotowanie pamięci wewnętrznej...</string>
+  <string name="qr_code_details">"Kod QR: "</string>
   <string name="record_back_pressed_hint">Naciśnij ponownie aby zatrzymać nagrywanie</string>
   <string name="resume_playing_message">Wznowić odtwarzanie od %s ?</string>
   <string name="resume_playing_restart">Restart</string>
@@ -346,6 +369,10 @@ Opuść na chwilę widok" </string>
   <string name="rotate_left">Obróć w lewo</string>
   <string name="rotate_right">Obróć w prawo</string>
   <string name="save">Zapisz</string>
+  <string name="scan_qrcode">Skanowanie kodu QR</string>
+  <string name="secure_access_web_url">Przejdź do zawartości</string>
+  <string name="see_app_details">Pokaż szczegóły</string>
+  <string name="see_qrcode_detals">Kod QR</string>
   <string name="select_all">Zaznacz wszystko</string>
   <string name="select_image">Zaznacz zdjęcie</string>
   <string name="select_item">Zaznacz element</string>
@@ -376,6 +403,7 @@ Opuść na chwilę widok" </string>
   <string name="snapshotsize_low_powermode">Support of picture resolution in Low Power Mode is not supported. Video size snapshot will be used. Please select High power
     mode for picture size.</string>
   <string name="spaceIsLow_content">Zbyt mało miejsca na karcie SD. Zmień ustawienia jakości lub usuń niepotrzebne pliki.</string>
+  <string name="success_message_import_from_account">Wczytywanie pomyślne</string>
   <string name="tags">Tagi</string>
   <string name="tap_to_focus">Ustaw ostrość, klikając.</string>
   <string name="time">Czas</string>
@@ -397,6 +425,11 @@ Opuść na chwilę widok" </string>
   <string name="video_snapshot_hint">Zrób zdjęcie podczas nagrywania filmu, klikając ekran podglądu.</string>
   <string name="videocamera_settings_label">Ustawienia Kamery</string>
   <string name="wait">Proszę czekać…</string>
+  <string name="web_url_apk_warning">Kod QR może zawierać niebezpieczną aplikację. Wyszukaj aplikację w Google Play</string>
+  <string name="web_url_warning">"Pamiętaj, że kod QR może być niebezpieczny. 
+Przeglądarka MIUI sprawdzi kod za Ciebie."</string>
+  <string name="website_details">"Zawartość kodu QR: "</string>
+  <string name="weixin_details">"Weixin details: "</string>
   <string name="white_balance">Balans bieli</string>
   <string name="width">Szerokość</string>
 </resources>

@@ -76,10 +76,10 @@ Opuść na chwilę widok"</string>
   <string name="error_fail_to_start_audio_capture">Failed to start audio capture: Microphone may be in use by another application.</string>
   <string name="exposure_time">Czas ekspozycji</string>
   <string name="file_size">Rozmiar pliku</string>
-  <string name="find_market_qrcode">Znajdź kod QR Google Play</string>
-  <string name="find_mecard_qrcode">Znajdź kod QR na wizytówce</string>
-  <string name="find_other_qrcode">Znajdź kod QR</string>
-  <string name="find_web_qrcode">Znajdź kod QR na stronie web</string>
+  <string name="find_market_qrcode">Wykryto kod QR Google Play</string>
+  <string name="find_mecard_qrcode">Wykryto kod QR na wizytówce</string>
+  <string name="find_other_qrcode">Wykryto kod QR</string>
+  <string name="find_web_qrcode">Wykryto kod QR na stronie</string>
   <string name="find_weixin_qrcode">Znajdź kod weixin QR</string>
   <string name="flash">Flash</string>
   <string name="flash_off">Bez lampy</string>
@@ -369,10 +369,10 @@ Opuść na chwilę widok"</string>
   <string name="rotate_left">Obróć w lewo</string>
   <string name="rotate_right">Obróć w prawo</string>
   <string name="save">Zapisz</string>
-  <string name="scan_qrcode">Skanuj kod QR</string>
-  <string name="secure_access_web_url">Zabezpiecz dostęp do web</string>
+  <string name="scan_qrcode">Skanowanie kodu QR</string>
+  <string name="secure_access_web_url">Przejdź do zawartości</string>
   <string name="see_app_details">Pokaż szczegóły</string>
-  <string name="see_qrcode_detals">Szczegóły kodu QR</string>
+  <string name="see_qrcode_detals">Kod QR</string>
   <string name="select_all">Zaznacz wszystko</string>
   <string name="select_image">Zaznacz zdjęcie</string>
   <string name="select_item">Zaznacz element</string>
@@ -426,8 +426,9 @@ Opuść na chwilę widok"</string>
   <string name="videocamera_settings_label">Ustawienia Kamery</string>
   <string name="wait">Proszę czekać…</string>
   <string name="web_url_apk_warning">Kod QR może zawierać niebezpieczną aplikację. Wyszukaj aplikację w Google Play</string>
-  <string name="web_url_warning">Kod QR na stronie może być niebezpieczny. Przeglądarka MIUI sprawdzi kod za Ciebie.</string>
-  <string name="website_details">"Szczegóły strony: "</string>
+  <string name="web_url_warning">"Pamiętaj, że kod QR może być niebezpieczny. 
+Przeglądarka MIUI sprawdzi kod za Ciebie."</string>
+  <string name="website_details">"Zawartość kodu QR: "</string>
   <string name="weixin_details">"Weixin details: "</string>
   <string name="white_balance">Balans bieli</string>
   <string name="width">Szerokość</string>
