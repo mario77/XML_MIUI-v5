@@ -4,84 +4,84 @@
             "title":"MIUIPolska",
             "url":"http://miuipolska.pl",
             "thumbnail":"miui-polska.png",
-            "logobg":"white.9.png",
+            "logobg":"bg01.9.png",
             "favicon":""
         },
         {
             "title":"Android.com.pl",
             "url":"http://Android.com.pl/",
             "thumbnail":"androidcompl.png",
-            "logobg":"white.9.png",
+            "logobg":"bg01.9.png",
             "favicon":""
         },
          {
             "title":"miuiandroid",
             "url":"http://miuiandroid.com",
             "thumbnail":"miuiandroid.png",
-            "logobg":"white.9.png",
+            "logobg":"bg01.9.png",
             "favicon":""
         },
         {
             "title":"Hatak.pl",
             "url":"http://www.hatak.pl/",
             "thumbnail":"hatak.png",
-            "logobg":"white.9.png",
+            "logobg":"bg01.9.png",
             "favicon":""
         },
         {
             "title":"Youtube",
             "url":"http://www.youtube.com/",
             "thumbnail":"youtube.png",
-            "logobg":"white.9.png",
+            "logobg":"bg01.9.png",
             "favicon":""
         },
         {
             "title":"Google",
             "url":"http://www.google.com/",
             "thumbnail":"google.png",
-            "logobg":"white.9.png",
+            "logobg":"bg01.9.png",
             "favicon":""
         },
         {
             "title":"Antyweb",
             "url":"http://antyweb.pl",
             "thumbnail":"antyweb.png",
-            "logobg":"white.9.png",
+            "logobg":"bg01.9.png",
             "favicon":""
         },
         {
             "title":"Wikipedia",
             "url":"http://pl.wikipedia.org/",
             "thumbnail":"thumb_wikipedia.png",
-            "logobg":"white.9.png",
+            "logobg":"bg01.9.png",
             "favicon":""
         },
         {
             "title":"Allegro",
             "url":"http://www.allegro.pl/",
             "thumbnail":"allegro.png",
-            "logobg":"white.9.png",
+            "logobg":"bg01.9.png",
             "favicon":""
         },
         {
 			"title":"Wykop",
             "url":"http://wykop.pl/",
             "thumbnail":"wykop.png",
-            "logobg":"white.9.png",
+            "logobg":"bg01.9.png",
             "favicon":""
         },
         {
             "title":"Twitter MIUIPolska",
             "url":"http://www.twitter.com/miuipolskapl",
             "thumbnail":"tw.png",
-            "logobg":"white.9.png",
+            "logobg":"bg01.9.png",
             "favicon":""
         },
         {
             "title":"Facebook MIUIPolska",
             "url":"http://www.facebook.pl/miuipolska",
             "thumbnail":"fb.png",
-            "logobg":"white.9.png",
+            "logobg":"bg01.9.png",
             "favicon":""
         }
     ]
