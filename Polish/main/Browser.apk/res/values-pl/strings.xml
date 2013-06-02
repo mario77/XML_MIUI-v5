@@ -37,6 +37,7 @@
     <string name="add_to_other_folder_menu_option">Inny folder</string>
     <string name="add_xiaomi_account_warning">Zaloguj się najpierw do konta Xiaomi</string>
     <string name="added_to_bookmarks">Dodano do zakładek.</string>
+    <string name="alert_tips">Strona do której chcesz przejść może zawierać niebezpieczne treści. Kontynuować?</string>
     <string name="allow">Zezwól</string>
     <string name="application_name">Internet</string>    
     <string name="autofill_profile_editor_address_line_1">Adres, wiersz 1</string>
@@ -97,6 +98,8 @@
     <string name="choosertitle_sharevia">Udostępnij przez</string>
     <string name="clear">Wyczyść</string>
     <string name="clear_history">Wyczyść historię</string>
+    <string name="close_all_tab_alert_message">Zamknąć wszystkie karty?</string>
+    <string name="close_all_tab_alert_title">Zamknij wszystkie</string>
     <string name="containing_folder">Dodaj do</string>
     <string name="contextheader_folder_bookmarkcount">Zakładki: %d</string>
     <string name="contextheader_folder_empty">Pusty folder</string>
@@ -218,6 +221,10 @@
     <string name="move_to_up_folder">W górę</string>
     <string name="multi_select_title">Zaznaczono %1$s</string>
     <string name="name">Etykieta</string>
+    <string name="navigation_button_close">Zamknij</string>
+    <string name="navigation_button_newtab">Nowa</string>
+    <string name="navigation_button_tab">Karta</string>
+    <string name="navigation_button_view">Pokaż</string>
     <string name="new_folder">Nowy folder</string>
     <string name="new_incognito_tab">Nowa karta incognito</string>
     <string name="new_tab">Nowa karta</string>
@@ -299,6 +306,7 @@
     <string name="pref_extras_website_settings_summary">Ustawienia zaawansowane dla poszczególnych witryn</string>
     <string name="pref_fling_on_border_enabled">Przesunięcie do krawędzi</string>
     <string name="pref_fling_on_border_operation">Przesunięcia do krawędzi ekranu</string>
+    <string name="pref_fling_on_border_enabled_title_summary">Przesunięcia od krawędzi ekranu</string>
     <string name="pref_font_size_category">Rozmiar tekstu</string>
     <string name="pref_force_userscalable">Wymuś powiększenie</string>
     <string name="pref_force_userscalable_summary">"Nie zezwalaj witrynie sterować powiększeniem"</string>

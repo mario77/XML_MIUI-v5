@@ -175,7 +175,7 @@
     <string name="settings_expandable_under_keyguard_summary">Możliwość wysunięcia paska powiadomień na zablokowanym ekranie</string>
     <string name="settings_expanded_view">Rozwijany pasek powiadomień</string>
     <string name="settings_notification_icon">Powiadomienia na pasku statusu</string>
-    <string name="settings_screenshot_notification_disabled">Ukryj inf. o zrzucie ekranu</string>
+    <string name="settings_screenshot_notification_disabled">Ukryj info. o zrzucie ekranu</string>
     <string name="settings_show_flow_info">Pokaż użycie danych</string>
     <string name="settings_show_network_speed">Pokaż prędkość transmisji</string>
     <string name="settings_toggle">Przełączniki</string>

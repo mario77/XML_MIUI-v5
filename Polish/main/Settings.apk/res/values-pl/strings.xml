@@ -739,7 +739,7 @@ Ilość przesyłanych danych może być różnie rozliczana przez telefon i oper
     <string name="dolby_equalizer">Equalizer</string>
     <string name="dolby_mode_movie">Tryb Filmowy</string>
     <string name="dolby_mode_music">Tryb Muzyki</string>
-    <string name="dolby_mode_off">Wył</string>
+    <string name="dolby_mode_off">Wyłączony</string>
     <string name="dolby_movie_advance">Ustawienia Trybu Filmowego</string>
     <string name="dolby_music_advance">Ustawienia Trybu Muzycznego</string>
     <string name="dolby_preset_create">Utwórz</string>
@@ -750,7 +750,7 @@ Ilość przesyłanych danych może być różnie rozliczana przez telefon i oper
     <string name="dolby_roomsize_high">Duży pokój</string>
     <string name="dolby_roomsize_low">Mały pokój</string>
     <string name="dolby_roomsize_normal">Normalny pokój</string>
-    <string name="dolby_roomsize_summary">Tryb dźwięku surround dostępny przy podłączonych słuchawkach</string>
+    <string name="dolby_roomsize_summary">Surround dostępny przy podłączonych słuchawkach</string>
     <string name="dolby_roomsize_title">"Tryb Surround: "</string>
     <string name="drive_mode">Samochód</string>
     <string name="drive_mode_auto_reply">Autom. odpowiedź</string>
@@ -822,15 +822,15 @@ Niektóre aplikacje mogą przestać działać i wymagać aktualizacji przez prog
     <string name="firmware_version">Wersja Android</string>
     <string name="floating_window_switch_label">Pokaż okna Pop-up</string>
     <string name="floating_window_switch_label_disable">Ukryj okna Pop-up</string>
-    <string name="font_size_huge">Ogromna</string>
-    <string name="font_size_large">Bardzo duża</string>
-    <string name="font_size_medium">Duża</string>
-    <string name="font_size_normal">Normalna</string>
+    <string name="font_size_huge">Największy</string>
+    <string name="font_size_large">Ogromny</string>
+    <string name="font_size_medium">Duży</string>
+    <string name="font_size_normal">Normalny</string>
     <string name="font_size_preview">MIUI</string>
     <string name="font_size_preview_text">Zażółć gęślą jaźń.</string>
     <string name="font_size_save">OK</string>
-    <string name="font_size_small">Mała</string>
-    <string name="font_size_summary">Dostosuj rozmiar czcionki w aplikacjach takich jak: Telefon, SMS, Kontakty i Ustawienia, aby zwiększyć czytelność.</string>
+    <string name="font_size_small">Mały</string>
+    <string name="font_size_summary">Zmiana rozmiaru czcionki ma zastosowanie w aplikacjach takich jak: Telefon, SMS, Kontakty i Ustawienia.</string>
     <string name="force_hw_ui">Renderowanie na GPU</string>
     <string name="force_hw_ui_summary">Wymuszaj użycie GPU do rysowania 2D</string>
     <string name="force_stop">Wymuś zatrzymanie</string>
@@ -1181,7 +1181,7 @@ postępuj zgodnie z podanymi krokami"</string>
     <string name="normal_date_format">Regionalny (%s)</string>
     <string name="notification_pulse_title">Pulsująca dioda</string>
     <string name="notification_sound_dialog_title">Wybierz dzwonek powiadomienia</string>
-    <string name="notification_sound_title">Powiadomienie domyślne</string>
+    <string name="notification_sound_title">Powiadomienie</string>
     <string name="notification_vibrate_abbreviation">Powiadomienie</string>
     <string name="notification_volume_title">Powiadomienie</string>
     <string name="nsd_quick_toggle_summary">Zezwól aplikacjom z innych urządzeń wykrywać aplikacje na tym urządzeniu</string>
@@ -1559,7 +1559,7 @@ Przejdź na wersję rozwojową MIUI aby korzystać z uprawnień ROOT."</string>
     <string name="screen_key_long_press">Przytrzymanie przycisków</string>
     <string name="screen_key_long_press_action">Akcja dla przytrzymania</string>
     <string name="screen_key_long_press_timeout">Czas przytrzymania</string>
-    <string name="screen_on_proximity_sensor_summary">Zapobiegaj aktywacji funkcji telefonu gdy urządzenie jest w kieszeni (używa czujnika zbliżeniowego). Wyłącz jeśli występują problemy z ekranem blokady.</string>
+    <string name="screen_on_proximity_sensor_summary">Zapobiegaj aktywacji funkcji telefonu gdy urządzenie jest w kieszeni.</string>
     <string name="screen_on_proximity_sensor_title">Przypadkowe użycie</string>
     <string name="screen_saturation_adjust">Nasycenie kolorów</string>
     <string name="screen_timeout">Uśpienie</string>
@@ -1731,7 +1731,7 @@ Pozostało prób :"</string>
     <string name="sms_title">SMS</string>
     <string name="sort_order_alpha">Sortuj alfabetycznie</string>
     <string name="sort_order_size">Sortuj według rozmiaru</string>
-    <string name="sound_category_call_ringtone_vibrate_title">Dzwonek i wibracje przy połączeniu</string>
+    <string name="sound_category_call_ringtone_vibrate_title">Dzwonki</string>
     <string name="sound_category_calls_and_notification_title">Dzwonki i powiadomienia</string>
     <string name="sound_category_notification_title">Powiadomienia</string>
     <string name="sound_category_sound_title">Ogólne</string>
