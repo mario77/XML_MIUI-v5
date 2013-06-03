@@ -246,6 +246,19 @@
         <item>Skala animacji 5x</item>
         <item>Skala animacji 10x</item>
     </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>Brak</item>
+        <item>720 x 480 mdpi</item>
+        <item>1280 x 720 tvdpi</item>
+        <item>1920 x 1080 xhdpi</item>
+        <item>1280 x 720 tvdpi oraz 1920 x 1080 xhdpi</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Brak</item>
+        <item>Logcat</item>
+        <item>Systrace (grafika)</item>
+        <item>Stos wywołań funkcji glGetError</item>
+    </string-array>
     <string-array name="app_process_limit_entries">
         <item>Standardowy limit</item>
         <item>Brak procesów w tle</item>
