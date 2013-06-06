@@ -83,6 +83,7 @@
     <string name="bookmark_url">Url http://</string>
     <string name="bookmark_url_not_valid">"URL jest nieprawidłowy"</string>
     <string name="bookmarks">Zakładki</string>
+    <string name="bookmarks_content_is_null">Zawartość jest pusta</string>
     <string name="bookmarks_management">Zakładki</string>
     <string name="bookmarks_root_folder">Folder root</string>
     <string name="bookmarks_search">Przeglądarka</string>
@@ -98,6 +99,7 @@
     <string name="choosertitle_sharevia">Udostępnij przez</string>
     <string name="clear">Wyczyść</string>
     <string name="clear_history">Wyczyść historię</string>
+    <string name="clear_history_group">Wyczyść całą historię</string>
     <string name="close_all_tab_alert_message">Zamknąć wszystkie karty?</string>
     <string name="close_all_tab_alert_title">Zamknij wszystkie</string>
     <string name="containing_folder">Dodaj do</string>
@@ -118,7 +120,7 @@
     <string name="contextmenu_set_wallpaper">Ustaw jako tapetę</string>
     <string name="contextmenu_sharelink">Udostępnij link</string>
     <string name="contextmenu_view_image">Wyświetl obraz</string>
-	<string name="copy_page_url">Kopiuj URL strony</string>
+    <string name="copy_page_url">Kopiuj URL strony</string>
     <string name="crash_recovcery_message">Przeglądarka niespodziewanie zamknięta. Chcesz odzyskać poprzednią sesję</string>
     <string name="create_shortcut_bookmark">Dodaj skrót do strony głównej</string>
     <string name="current_page">"z "</string>
@@ -154,8 +156,13 @@
     <string name="export_bookmark_failure">Zakładki nie zostały zapisane na kartę SD!</string>
     <string name="export_bookmark_sucess">Zakładki zostały zapisane na kartę SD!</string>
     <string name="exported_bookmark_file_name">Moje ulubione</string>
+    <string name="file_dir">Katalog</string>
+    <string name="file_name">Nazwa pliku</string>
+    <string name="file_picker">Ścieżka</string>
     <string name="file_picker_new_folder">Nowy katalog</string>
     <string name="file_picker_sdcard_not_found">Karta SD nieznaleziona, sprawdź czy urządzenie jest podłączone do PC.</string>
+    <string name="filename_empty_alert_message">"Nazwa pliku nie może być pusta"</string>
+    <string name="filename_illegal_alert_message">Nazwa pliku ma nieprawidłowy znak. Usunięto...</string>
     <string name="find_on_page">Znajdź na stronie</string>
     <string name="folder_name">Nazwa folderu</string>
     <string name="forward">Dalej</string>
@@ -176,10 +183,13 @@
     <string name="goto_dot">OK</string>
     <string name="have_sent_bookmark_to_home_screen">Zakładka wysłana na pulpit</string>
     <string name="history">Historia</string>
+    <string name="history_browsed">Historia przeglądania</string>
+    <string name="history_most_visited">Popularne</string>
+    <string name="history_saved_webpage">Zapisz stronę</string>
+    <string name="history_track">Historia</string>
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="homepage_set">Strona główna została ustawiona.</string>
     <string name="http">http://</string>
-    <string name="in_incognito">Tryb Incognito jest aktywny. Historia przeglądania nie zostanie zachowana.</string>
     <string name="import_bookmark">Importuj zakładki</string>
     <string name="import_bookmark_failure">Nie udało się przywrócić zakładek!</string>
     <string name="import_bookmark_sucess">Zakładki przywrócone!</string>
@@ -197,10 +207,11 @@
     <string name="import_bookmarks_wizard_next">Dalej</string>
     <string name="import_bookmarks_wizard_previous">Wstecz</string>
     <string name="importing_favorite_files">Przywracanie ...</string>
-	<string name="instant_search_label">Google z wyszukiwaniem dynamicznym (Laboratorium)</string>
-	<string name="is_first_history_item">Pierwszy wpis w historii</string>
-	<string name="is_first_tab">Pierwsza zakładka</string>
-	<string name="is_last_history_item">Ostatni wpis w historii</string>
+    <string name="in_incognito">Tryb Incognito jest aktywny. Historia przeglądania nie zostanie zapisana.</string>
+    <string name="instant_search_label">Google z wyszukiwaniem dynamicznym (Laboratorium)</string>
+    <string name="is_first_history_item">Pierwszy wpis w historii</string> 
+    <string name="is_first_tab">Pierwsza zakładka</string>
+    <string name="is_last_history_item">Ostatni wpis w historii</string>
     <string name="is_last_tab">Ostatnia zakładka</string>
     <string name="is_page_bottom">Na dole strony</string>
     <string name="is_page_top">Na górze strony</string>
@@ -235,6 +246,8 @@
     <string name="open_all_bookmarks">Otwórz</string>
     <string name="open_all_in_new_window">Otwórz wszystkie w nowych kartach</string>
     <string name="open_bookmark">Otwórz</string>
+    <string name="open_history_group_in_new_window">Otwórz całą historię w nowych oknach</string>
+    <string name="open_history_most_visited_group_in_new_window">Otwórz całą popularną historię w nowych oknach</string>
     <string name="other_bookmarks">Pozostałe</string>
     <string name="page_info">Informacje o stronie</string>
     <string name="page_info_address">Adres:</string>
@@ -245,8 +258,8 @@
     <string name="please_select_a_file_to_import">Wybierz plik</string>
     <string name="popup_window_attempt">Zezwolić tej witrynie na otwarcie wyskakującego okienka?</string>
     <string name="pref_accessibility_title">Ułatwienia dostępu</string>
-	<string name="pref_allow_apptabs">Wiele kart dla aplikacji</string>
-	<string name="pref_autofill_enabled">Uzupełniaj formularze</string>
+    <string name="pref_allow_apptabs">Wiele kart dla aplikacji</string>
+    <string name="pref_autofill_enabled">Uzupełniaj formularze</string>
     <string name="pref_autofill_enabled_summary">Wypełniaj formularze internetowe za pomocą jednego dotknięcia.</string>
     <string name="pref_autofill_profile_editor">Autouzupełniany tekst</string>
     <string name="pref_autofill_profile_editor_summary">Skonfiguruj tekst autouzupełniany w formularzach internetowych</string>
@@ -344,7 +357,8 @@
     <string name="pref_privacy_clear_geolocation_access">Anuluj dostęp do lokalizacji</string>
     <string name="pref_privacy_clear_geolocation_access_dlg">Anulować dostęp witryny do informacji o lokalizacji?</string>
     <string name="pref_privacy_clear_geolocation_access_summary">Wyczyść bieżące ustawienia dostępu do lokalizacji dla witryn</string>
-    <string name="pref_privacy_clear_history">Wyczyść historię</string>
+    <string name="pref_privacy_clear_history">Wyczyść historię</string>   
+    <string name="pref_privacy_clear_history_by_group_dlg">Usunąć historię nawigacji w przeglądarce?</string>
     <string name="pref_privacy_clear_history_dlg">Usunąć historię nawigacji w przeglądarce?</string>
     <string name="pref_privacy_clear_history_summary">Wyczyść historię przeglądania</string>
     <string name="pref_privacy_clear_passwords">Wyczyść hasła</string>
@@ -363,7 +377,7 @@
     <string name="pref_security_passwords_title">Hasła</string>
     <string name="pref_security_remember_passwords">Pamiętaj hasła</string>
     <string name="pref_security_remember_passwords_summary">Zapisz nazwy użytkowników i hasła używane w witrynach</string>
-	<string name="pref_security_save_form_data">Pamiętaj wpisane dane</string>
+    <string name="pref_security_save_form_data">Pamiętaj wpisane dane</string>
     <string name="pref_security_save_form_data_summary">Zapamiętuj do późniejszego użycia dane, które wpisuję w formularzach</string>
     <string name="pref_security_show_security_warning">Wyświetlaj ostrzeżenia</string>
     <string name="pref_security_show_security_warning_summary">Wyświetl ostrzeżenie w razie problemu z bezpieczeństwem strony.</string>
@@ -383,6 +397,7 @@
     <string name="pref_zoom_on_double_tap">Powiększ po dwukrotnym dotknięciu</string>
     <string name="preview">Podgląd</string>
     <string name="progress_dialog_setting_wallpaper">Ustawianie tapety…</string>
+    <string name="quicklinks_management">Przydatne strony</string>
     <string name="readmode_reach_last_page">Ostatnia strona</string>
     <string name="readmodelist_bookmarks_to_show">Do przeczytania</string>
     <string name="recover">Odzyskaj</string>
@@ -399,6 +414,9 @@
     <string name="return_to_homepage">Powróć do strony domowej</string>
     <string name="rlz_access_point">Y1</string>
     <string name="save">OK</string>
+    <string name="save_dialog_title">Zapisz</string>
+    <string name="save_file_already_exist_alert_message">Plik istnieje. Nadpisać?</string>
+    <string name="save_file_already_exist_alert_title">Alarm</string>
     <string name="save_to_bookmarks">Zapisz w zakładkach</string>
     <string name="saving_snapshot">Zapisywanie…</string>
     <string name="search_baidu">Baidu</string>
@@ -436,6 +454,9 @@
     <string name="stop">Zatrzymaj</string>
     <string name="stop_loading">Zatrzymaj</string>
     <string name="stopping">Trwa zatrzymywanie…</string>
+    <string name="storage_internal">Pamięć wewnętrzna</string>
+    <string name="storage_sd_card">Karta SD</string>
+    <string name="storage_usb">Nośnik USB</string>
     <string name="tab_bookmarks">Zakładki</string>
     <string name="tab_closed">Karta zamknięta.</string>
     <string name="tab_history">Historia</string>
