@@ -40,4 +40,17 @@
         <item>Alarm za %2$s %3$s</item>
         <item>Alarm za %1$s %2$s %3$s</item>
     </string-array>
+    <string-array name="contact_entries"> 
+        <item>Imię</item> 
+        <item>Pseudonim</item> 
+        <item>Telefon</item> 
+        <item>E-mail</item> 
+        <item>Firma</item> 
+        <item>IM</item> 
+        <item>Telefon SIP</item> 
+        <item>Urodziny</item> 
+        <item>Strona WWW</item> 
+        <item>Adres</item> 
+        <item>Notatka</item> 
+    </string-array>
 </resources>

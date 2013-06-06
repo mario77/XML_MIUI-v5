@@ -29,11 +29,13 @@ Krok 2: naciśnij i przytrzymaj ekran dwoma palcami, aż usłyszysz potwierdzeni
 Jeśli z tego urządzenia korzysta kilka osób, użycie tego skrótu na zablokowanym ekranie spowoduje tymczasowe włączenie ułatwień dostępu do momentu zablokowania urządzenia."</string>
  <string name="accessibility_global_gesture_preference_summary_off">Wył.</string>
   <string name="accessibility_global_gesture_preference_summary_on">Wł.</string>
-  <string name="accessibility_global_gesture_preference_title">Skrót ułatwień dostępu</string>
+  <string name="accessibility_global_gesture_title">Skrót ułatwień dostępu</string>
   <string name="accessibility_long_press_timeout_preference_title">Czas dotknięcia i przytrzymania</string>
+  <string name="accessibility_long_press_timeout_title">Czas dotknięcia i przytrzymania</string>
   <string name="accessibility_menu_item_settings">Ustawienia</string>
   <string name="accessibility_no_services_installed">Brak zainstalowanych usług</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Przycisk kończy rozmowę</string>
+  <string name="accessibility_power_button_ends_call_title">Przycisk kończy rozmowę</string>
   <string name="accessibility_screen_magnification_summary">"Kiedy ta funkcja jest włączona, możesz powiększyć i pomniejszyć obraz, trzykrotnie klikając ekran.
 
 W trybie powiększenia możesz:
@@ -148,7 +150,9 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
   <string name="app_factory_reset_dlg_title">Odinstalować aktualizacje?</string>
   <string name="app_floating_window_dlg">Zezwól \"%1$s\" na wyświetlanie okien Pop-up</string>
   <string name="app_floating_window_dlg_disable">"Wyłączenie pokazywania okien Pop-up dla %1$s zatrzyma aplikację. Na pewno wyłączyć?"</string>
-  <string name="app_forward_locked">Aplikacja jest zabezpieczona przed kopiowaniem.</string>
+    <string name="app_floating_window_dlg_enable">"Włączenie okien Pop-up dla aplikacji %1$s wymaga jej restartu. Możesz sam zatrzymać aplikacje. 
+Czy włączyć funkcję?"</string>  
+<string name="app_forward_locked">Aplikacja jest zabezpieczona przed kopiowaniem.</string>
   <string name="app_install_location_summary">Zmień preferowaną lokalizację instalacji nowych aplikacji.</string>
   <string name="app_install_location_title">Preferowana lokalizacja instalacji</string>
   <string name="app_name_label">Aplikacja</string>
@@ -476,11 +480,11 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
     otoczenia.</string>
   <string name="brightness_summary">Dostosuj jasność ekranu</string>
   <string name="bssid_label">BSSID:</string>
-  <string name="build_author">Autor ROMu</string>
   <string name="bugreport_in_power">Błędy w menu zasilania</string>
   <string name="bugreport_in_power_summary">Dodaj w menu zasilania opcję zgłaszania błędów</string>
   <string name="bugreport_tool_log_toast">Raport zapisany do %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Generating bug report, takes about 1 minute</string>
+  <string name="build_author">Autor ROMu</string>
   <string name="build_number">Numer kompilacji</string>
   <string name="builtin_keyboard_settings_summary">Ustawienia klawiatury fizycznej</string>
   <string name="builtin_keyboard_settings_title">Klawiatura fizyczna</string>
@@ -1241,7 +1245,7 @@ spróbuj:
   <string name="no_running_services">Brak uruchomionych usług.</string>
   <string name="no_services">Nieaktywne</string>
   <string name="normal_date_format">Regionalny (%s)</string>
-  <string name="not_installed">Not installed</string>
+  <string name="not_installed">Nie zainstalowane</string>
   <string name="notification_pulse_title">Pulsująca dioda</string>
   <string name="notification_sound_dialog_title">Wybierz dzwonek powiadomienia</string>
   <string name="notification_sound_title">Powiadomienie</string>
@@ -2084,16 +2088,16 @@ Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imie
   <string name="user_dict_settings_summary"/>
   <string name="user_dict_settings_titlebar">Słownik użytkownika</string>
   <string name="user_dict_single_settings_title">Słownik osobisty</string>
-  <string name="user_info_settings_title">Użytkownik – informacje</string>
   <string name="user_discard_user_menu">Odrzuć</string>
+  <string name="user_info_settings_title">Użytkownik – informacje</string>
   <string name="user_information_heading">Informacje o użytkowniku</string>
   <string name="user_list_title">Użytkownicy</string>
   <string name="user_market_apps_heading">Zainstalowane aplikacje</string>
   <string name="user_market_requires_pin">Wymagaj PIN-u</string>
   <string name="user_max_content_rating">Ocena treści</string>
   <string name="user_name_title">Nazwa</string>
-  <string name="user_nickname">Nickname</string>
   <string name="user_new_user_name">Nowy użytkownik</string>
+  <string name="user_nickname">Nickname</string>
   <string name="user_owner">Owner</string>
   <string name="user_picture_title">Photo ID</string>
   <string name="user_remove_user_menu">Usuń użytkownika %1$s</string>

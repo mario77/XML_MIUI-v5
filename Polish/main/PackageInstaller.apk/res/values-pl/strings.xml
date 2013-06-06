@@ -9,18 +9,22 @@ Czy zezwolić na to teraz i w przyszłości?"</string>
     <string name="app_name">Instalator pakietu</string>
     <string name="app_not_found_dlg_text">Nie znaleziono aplikacji na liście zainstalowanych aplikacji.</string>
     <string name="app_not_found_dlg_title">Nie znaleziono aplikacji</string>
-    <string name="auto_startup_dialog_msg">"Miui zezwoli aplikacji na automatyczny start bez pytania.
-Zezwól na autostart？"</string>
+    <string name="auto_startup_dialog_msg">"MIUI chce pozwolić aplikacji na automatyczny start bez pytania.
+
+Zezwolić na autostart？"</string>
     <string name="caller_app">Wywołano od: %1$s</string>
     <string name="cancel">Anuluj</string>
     <string name="dlg_app_replacement_statement">"Instalowana aplikacja zastąpi inną aplikację.
 
-Wszystkie poprzednie dane użytkownika zostaną zachowane."</string>
+Wszystkie dane użytkownika zostaną zachowane."</string>
+    <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) zastąpi obecną wersję (%3$s). 
+
+Dane użytkownika zostaną zachowane. Zaktualizować aplikację?"</string>
     <string name="dlg_app_replacement_title">Zastąp aplikację</string>
     <string name="dlg_ok">OK</string>
     <string name="dlg_sys_app_replacement_statement">"To jest aplikacja systemowa. Czy nadal chcesz ją zastąpić?
 
-Wszystkie wcześniejsze dane użytkownika zostaną zapisane."</string>
+Wszystkie dane użytkownika zostaną zapisane."</string>
     <string name="done">Gotowe</string>
     <string name="high_risk_perms">Uprawnienia wysokiego ryzyka</string>
     <string name="install">Instaluj</string>
@@ -52,7 +56,7 @@ Wszystkie wcześniejsze dane użytkownika zostaną zapisane."</string>
     <string name="perm_privacy_app_finish">Zakończ</string>
     <string name="perm_privacy_app_installed">Instalacja zakończona!</string>
     <string name="perm_privacy_app_launch">Uruchom</string>
-    <string name="perm_privacy_app_trust">Ufam aplikacji</string>
+    <string name="perm_privacy_app_trust">Zaufana aplikacja</string>
     <string name="perm_privacy_app_trust_summary">MIUI będzie monitorować aplikację</string>
     <string name="perm_sysopt_boost_auto_start">Uprawnienia autostartu</string>
     <string name="perm_sysopt_boost_auto_start_summary">Aplikacja będzie uruchamiać się automatycznie</string>

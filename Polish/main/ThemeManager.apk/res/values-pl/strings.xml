@@ -6,8 +6,7 @@
     <string name="app_name">Motywy</string>
     <string name="apply_font_btn_exclude">Pomiń</string>
     <string name="apply_font_btn_reboot">Zastosuj</string>
-    <string name="apply_font_tip">Motyw zawiera nową czcionkę. By zastosować konieczny będzie restart systemu. Lub wybierz Pomiń aby zastosować motyw bez
-        czcionki</string>
+    <string name="apply_font_tip">Motyw zawiera nową czcionkę. By zastosować konieczny będzie restart systemu. Lub wybierz Pomiń aby zastosować motyw bez czcionki</string>
     <string name="apply_lockscreen_paper_tips">Ekran blokady jest w użyciu, tapeta ekranu blokady może się nie zastosować.</string>
     <string name="apply_theme_no_select_message">Wybierz z modułów!</string>
     <string name="backup_preference_title">Zapisz kopię obecnego motyw</string>
@@ -38,6 +37,7 @@
     <string name="fail_to_add_account">Nie udało się dodać konta</string>
     <string name="live_wallpaper">Animowana tapeta</string>
     <string name="loading">Ładowanie...</string>
+    <string name="loading_resource_detail_fail">Nie udało się wczytać zasobu!</string>
     <string name="loading_resource_detail_info">Ładowanie ...</string>
     <string name="lockscreen_wallpaper">Tapeta blokady ekranu</string>
     <string name="lockstyle_personal_settings">Własne</string>
@@ -50,7 +50,7 @@
     <string name="online_search_hint">Wyszukaj zasoby online</string>
     <string name="processing">Przetwarzanie...</string>
     <string name="resource_alarm_default">Alarm</string>
-    <string name="resource_app_name">Przeglądarkar</string>
+    <string name="resource_app_name">Przeglądarka</string>
     <string name="resource_apply">Zastosuj</string>
     <string name="resource_buy">Kup</string>
     <string name="resource_can_not_selected">%1$s nie może zostać zaznaczonych!</string>
@@ -84,8 +84,7 @@
     <string name="resource_downloaded_title">Pobrane elementy</string>
     <string name="resource_downloading">Pobieranie</string>
     <string name="resource_get_auth_checking">Autoryzacja...</string>
-    <string name="resource_get_auth_exceed_max_limit_tips">Theme can not run on the current equipment with your account which is up to 10 mobile devices every year.
-        Please try other Xiaomi accounts.</string>
+    <string name="resource_get_auth_exceed_max_limit_tips">Theme can not run on the current equipment with your account which is up to 10 mobile devices every year. Please try other Xiaomi accounts.</string>
     <string name="resource_get_auth_exceed_max_limit_title">Authorized exceeds the limit</string>
     <string name="resource_get_auth_missing">Motyw nie został pobrany z marketu MIUI. Zaloguj się do konta Xiaomi i pobierz motyw z oficjalnego marketu.</string>
     <string name="resource_get_auth_retrieving">Autoryzacja...</string>
@@ -110,11 +109,17 @@
     <string name="resource_title">Szczegóły</string>
     <string name="resource_title_select_ringtone">Wybierz dzwonek</string>
     <string name="resource_update">Aktualizuj</string>
+    <string name="resource_waiting_download">Oczekiwanie...</string>
     <string name="restore_default_theme_alert">Motyw nie został pobrany z oficjalnego marketu MIUI lub jest modyfikacją oficjalnego. Pobierz lub kup ponownie motyw z zasobów online MIUI.</string>
     <string name="sdcard_status_changed_dialog_message">"Kończenie działania. Otwórz aplikację ponownie aby odświeżyć zasoby."</string>
     <string name="sdcard_status_changed_dialog_title">Status SD zmieniony</string>
     <string name="short_ringtone_resource">Krótkie</string>
     <string name="theme_another_import_running">Wczytywanie motywu jest już uruchomione, zaczekaj na ukończenie i spróbuj ponownie</string>
+    <string name="theme_batch_has_update_text">Dostępna nowa wersja dla %1$d motywów</string>
+    <string name="theme_batch_update_all">Aktualizuj wszystko</string>
+    <string name="theme_batch_update_dlg_content">Aktualizować teraz wszystkie motywy?</string>
+    <string name="theme_batch_update_dlg_title">Aktualizuj</string>
+    <string name="theme_batch_updating_text">Aktualizowanie %1$d motywów</string>
     <string name="theme_changed_failed_message">Ustawianie motywu: nieudane</string>
     <string name="theme_changed_message">Pomyślnie zastosowano!</string>
     <string name="theme_changing_dialog_title">Zastosowywanie zmian...</string>
@@ -132,7 +137,7 @@
     <string name="theme_component_title_launcher">Pulpit</string>
     <string name="theme_component_title_lockstyle">Ekran blokady</string>
     <string name="theme_component_title_lockwallpaper">Tapeta blokady</string>
-    <string name="theme_component_title_miwallpaper">Mi Tapeta</string>
+    <string name="theme_component_title_miwallpaper">Tapeta MIUI</string>
     <string name="theme_component_title_mms">Motyw SMS</string>
     <string name="theme_component_title_notification">Powiadom.</string>
     <string name="theme_component_title_others">Inne</string>
@@ -151,6 +156,7 @@
     <string name="theme_import_item_delete_request_content">Motyw nie został zaktualizowany. Możesz go użyć dopiero po aktualizacji lub teraz usunąć klikając na Usuń.</string>
     <string name="theme_import_item_delete_request_title">Motyw nieaktualizowany</string>
     <string name="theme_import_item_importing">Aktualizacja…</string>
+    <string name="theme_import_item_not_exist">Element nie istnieje</string>
     <string name="theme_import_item_not_upgraded">Dostępna aktualizacja</string>
     <string name="theme_import_item_reject_use">Motyw jest aktualizowany, proszę czekać.</string>
     <string name="theme_import_item_waiting">Oczekiwanie</string>

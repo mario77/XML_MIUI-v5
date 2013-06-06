@@ -448,6 +448,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="loading_group_members">Ładowanie grupy...</string>
     <string name="loading_groups">Ładowanie grup...</string>
     <string name="loading_recent">Ładowanie ostatnich kontaktów...</string>
+    <string name="loading_resource_detail_fail">Nie udało się wczytać zasobu!</string>
     <string name="loading_resource_detail_info">Wczytywanie zasobów...</string>
     <string name="local_invisible_directory">Inne</string>
     <string name="local_profile_title">Mój profil lokalny</string>
@@ -769,6 +770,7 @@ Aby dodać kontakt do listy ulubionych:
     <string name="resource_title">Szczegóły</string>
     <string name="resource_title_select_ringtone">Wybierz dzwonek</string>
     <string name="resource_update">Aktualizuj</string>
+    <string name="resource_waiting_download">Oczekiwanie...</string>
     <string name="restore_nickname">Przywróć</string>
     <string name="ret_sign">" "</string>
     <string name="returnCall">Powrót do połączenia</string>
@@ -782,7 +784,7 @@ Aby dodać kontakt do listy ulubionych:
     <string name="scanning">Wyszukiwanie urządzeń…</string>
     <string name="scanning_sdcard_failed_message">"Nie można przejrzeć nośnika. (Przyczyna: \"%s\")"</string>
     <string name="scanning_sdcard_failed_title">"Wyszukiwanie nieudane"</string>
-    <string name="sdcard_status_changed_dialog_message">App will now exit. Please re-open app to refresh resources.</string>
+    <string name="sdcard_status_changed_dialog_message">Aplikacja zostanie zamknięta. Otwórz ponownie aby odświeżyć zasoby.</string>
     <string name="sdcard_status_changed_dialog_title">Status karty SD zmieniony</string>
     <string name="searchHint">Przeszukuj kontakty</string>
     <string name="search_results_searching">Wyszukiwanie…</string>

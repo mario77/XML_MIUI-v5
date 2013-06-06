@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="add_account_desc">Notatki mogą być synchronizowane z kontem Xiaomi. Zalogować teraz?</string>
+  <string name="alert_action_edit_anyway">Kontynuuj edycję</string>
   <string name="alert_edit_action_delete">Usuń</string>
   <string name="alert_edit_action_update">Aktualizuj</string>
   <string name="alert_message_delete_folders">Potwierdzić usunięcie zaznaczonych %1$s katalogów?</string>
@@ -41,7 +42,7 @@
   <string name="format_move_notes_to_folder">Przeniesiono %1$d notatek do folderu %2$s</string>
   <string name="hint_foler_name">Wpisz nazwę</string>
   <string name="info_note_enter_desktop">Notka dodana na pulpit</string>
-  <string name="login_sync">Login &amp; sync</string>
+  <string name="login_sync">Zaloguj</string>
   <string name="menu_create_folder">Utwórz katalog</string>
   <string name="menu_delete">Usuń</string>
   <string name="menu_discard">Odrzuć</string>
