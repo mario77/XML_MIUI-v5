@@ -37,13 +37,14 @@
     <string name="clean_title">Usuń z kosza pliki starsze niż 30 dni</string>
     <string name="clean_trash_box">Opróżnij kosz</string>
     <string name="cleanup_complete">Gotowe</string>
-    <string name="clear_cache">Czyść pamięć podręczną</string>
     <string name="close">Zamknij</string>
+    <string name="compress_fail">Pakowanie nieudane. Plik wynikowy już istnieje</string>
     <string name="compress_message">Pakowanie do:</string>
     <string name="compress_title">Pakowanie</string>
     <string name="confirm">OK</string>
     <string name="confirm_know">OK</string>
     <string name="copy_failed">Kopiowanie nieudane</string>
+    <string name="create_kuaipan_shortcut_pref">Utwórz skrót na pulpicie</string>
     <string name="create_new_folder_desctiption">Tworzenie katalogu...</string>
     <string name="create_new_folder_failed">Nie można utworzyć katalogu %1$s</string>
     <string name="create_share_link_description">Tworzenie udostępnionego skrótu…</string>
@@ -68,7 +69,9 @@
     <string name="dialog_type_image">Obraz</string>
     <string name="dialog_type_text">Tekst</string>
     <string name="dialog_type_video">Wideo</string>
+    <string name="directory_info_divider">"  |  "</string>
     <string name="directory_no_item">Pusty katalog</string>
+    <string name="dlg_error_unmount_text">"Nie można odłączyć nośnika USB. Spróbuj ponownie później"</string>
     <string name="download_current_progress">%1$d/100</string>
     <string name="download_failed">Pobieranie nieudane!</string>
     <string name="download_link_completed">Udostępniono na MiDrive: %1$s. Kliknij poniższy link by wyświetlić: </string>
@@ -80,6 +83,7 @@
     <string name="error_info_cant_send_folder">Wysyłanie katalogu nieudane</string>
     <string name="error_open_file_failed_no_app_found">Brak aplikacji do otwarcia pliku</string>
     <string name="fail_to_create_folder">Utworzenie katalogu nieudane, katalog już istnieje</string>
+    <string name="fail_to_create_folder_unknown">Nie można utworzyć katalogu.</string>
     <string name="fail_to_rename">Zmiana nazwy pliku lub katalogu nieudana, nazwa już istnieje</string>
     <string name="favorite_photo">Zdjęcie</string>
     <string name="favorite_ringtone">Dzwonek</string>
@@ -93,6 +97,7 @@
     <string name="file_loading">Ładowanie…</string>
     <string name="file_too_large">"Plik jest za duży i nie może zostać przesłany"</string>
     <string name="finished">Ukończone</string>
+    <string name="folder_exist">Katalog już istnieje</string>
     <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Kliknij tutaj&lt;/a&gt;aby otworzyć kosz w chmurze</string>
     <string name="ftp_account_req_notice">Login i hasło mogą zwierać 4~16 znaków w tym cyfry i litery alfabetu. Wielkość liter ma znaczenie.</string>
     <string name="ftp_anonymous_login">Anonimowe logowanie</string>
@@ -103,6 +108,8 @@
     <string name="ftp_transfer_secure">Zabezpieczenia</string>
     <string name="ftp_username_and_passworld">Login i hasło</string>
     <string name="ftp_username_hint">Login</string>
+    <string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
+    <string name="garbage_item_path_format" formatted="false">%s %s</string>
     <string name="garbage_size_metric">"%s
 Niepotrzebnych plików"</string>
     <string name="gbk_summary">Jeśli używasz Windows Explorer, wybierz kodowanie GBK aby uniknąć pojawiania się chińskich znaków</string>
@@ -116,13 +123,13 @@ niepotrzebne pliki"</string>
     <string name="instruction">Wprowadź poniższy adres do klienta FTP:</string>
     <string name="instruction_pre">Serwer FTP</string>
     <string name="item_name">Brak nazwy</string>
+    <string name="kuaipan_label">Kuaipan</string>
     <string name="kuaipan_over_space">Brak miejsca na MiDrive.</string>
     <string name="kuaipan_prompt">Pomoc MiDrive</string>
     <string name="kuaipan_prompt_message">Serwer jest tymczasowo niedostępny. Spróbuj ponownie później.</string>
     <string name="kuaipan_tech_support">Wsparcie techiczne zapewnia MIUI.com</string>
     <string name="load_err">Ładowanie nieudane</string>
     <string name="loading">Ładowanie…</string>
-    <string name="local_cache">Pamięć podręczna</string>
     <string name="local_cache_size">Rozmiar lokalnej pamięci podręcznej: %s</string>
     <string name="login_reg_content">MiDrive pozwala na przechowywanie plików i synchronizację pomiędzy urządzeniami.</string>
     <string name="login_reg_content0">Dysk w chmurze KuaiPan</string>
@@ -146,6 +153,9 @@ niepotrzebne pliki"</string>
     <string name="no_app_cache_indication">Brak pamięci podręcznej aplikacji</string>
     <string name="no_app_garbage_indication">Brak niepotrzebnych plików</string>
     <string name="no_empty_dir_indication">Brak pustych katalogów</string>
+    <string name="no_enough_space">Brak wystarczającej ilości miejsca</string>
+    <string name="no_enough_storage_indication">Brak miejsca, kopiowanie nieudane. Usuń niepotrzebne pliki i spróbuj ponownie.</string>
+    <string name="no_enough_storage_title">Brak miejsca</string>
     <string name="no_file">Brak plików</string>
     <string name="no_more_space">Brak miejsca w pamięci</string>
     <string name="no_tasks">Brak zadań</string>
@@ -196,11 +206,10 @@ niepotrzebne pliki"</string>
     <string name="pan_settting">Ustawienia Kuaipan</string>
     <string name="paused">Wstrzymano</string>
     <string name="query_bind_state">Kolejkowanie...</string>
-    <string name="release_space_indication">Wykryj niepotrzebne pliki</string>
     <string name="rename_description">Zmiana nazwy, proszę czekać…</string>
     <string name="rename_failed">Zmiana nazw %1$s nieudana</string>
     <string name="restart_cleaning">Ponów</string>
-    <string name="scanning">Skanowanie...</string>
+    <string name="scanning" formatted="false">Skanowanie %d aplikacji ... (z %d)</string>
     <string name="scanning_on_going">Skanowanie...</string>
     <string name="sd_card_available">"Dostępne: %1$s"</string>
     <string name="sd_card_size">"Karta SD: %1$s"</string>
@@ -253,6 +262,7 @@ niepotrzebne pliki"</string>
     <string name="ui_main_toast_favorite_removed">Ulubione usunięte</string>
     <string name="ui_main_toast_operation_failed">Usuwanie ulubionych %1$s nieudane.</string>
     <string name="uninstall_app_data">Usuń aplikacje i dane aplikacji</string>
+    <string name="unmount_inform_text">Nośnik USB zostanie odłączony.</string>
     <string name="upload_failed">Kopiowanie nieudane!</string>
     <string name="upload_file_toolarge_message">"%1$d plików większych niż 300MB nie może zostać skopiowanych."</string>
     <string name="uploading">Kopiowanie…</string>

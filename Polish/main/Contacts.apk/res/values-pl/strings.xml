@@ -725,6 +725,8 @@ Aby dodać kontakt do listy ulubionych:
     <string name="recent_contacts_label">Ostatnie</string>
     <string name="recent_number">Ostatnie</string>
     <string name="recent_updates">Ostatnie aktualizacje</string>
+    <string name="redirect_calls_to_vm_confirm_message">If you have not applied to the operator of this business, please do not turn on. Otherwise, you may not be able to receive calls from this contact.</string>
+    <string name="redirect_calls_to_vm_confirm_text">Włącz</string>
     <string name="relationLabelsGroup">Relacja</string>
     <string name="remind_btn_ignore">Ignoruj</string>
     <string name="remind_btn_sync_now">Synchronizuj teraz</string>
