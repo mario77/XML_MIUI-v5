@@ -156,8 +156,8 @@
     <string name="export_bookmark_failure">Zakładki nie zostały zapisane na kartę SD!</string>
     <string name="export_bookmark_sucess">Zakładki zostały zapisane na kartę SD!</string>
     <string name="exported_bookmark_file_name">Moje ulubione</string>
-    <string name="file_dir">Katalog</string>
-    <string name="file_name">Nazwa pliku</string>
+    <string name="file_dir">Ścieżka</string>
+    <string name="file_name">Plik</string>
     <string name="file_picker">Ścieżka</string>
     <string name="file_picker_new_folder">Nowy katalog</string>
     <string name="file_picker_sdcard_not_found">Karta SD nieznaleziona, sprawdź czy urządzenie jest podłączone do PC.</string>

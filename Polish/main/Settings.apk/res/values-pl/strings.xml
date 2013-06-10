@@ -190,7 +190,7 @@ Czy włączyć funkcję?"</string>
   <string name="auto_restore_summary">Przy ponownej instalacji aplikacji przywróć ustawienia i dane z kopii zapasowej.</string>
   <string name="auto_restore_title">Auto przywracanie</string>
   <string name="auto_startup_application_manage">Autostart</string>
-  <string name="auto_startup_count">Zezwól %d aplikacji na autostart</string>
+  <string name="auto_startup_count">%d aplikacji z autostartem</string>
   <string name="auto_startup_dialog_msg">"System MIUI zezwoli aplikacjom na automatyczny start bez pytania. Może to prowadzić do nadmiernego użycia danych lub baterii.
     Zezwolić aplikacji na autostart?"</string>
   <string name="automatic_brightness">Automatyczna</string>
@@ -1017,8 +1017,8 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="launcher_settings_title">Launcher</string>
   <string name="led_colors_summary">" "</string>
   <string name="led_frequence_summary">Ustaw opóźnienie pulsowania diody LED</string>
-  <string name="led_pulse_summary">Pulsowanie diody LED przy nowym powiadomieniu</string>
-  <string name="led_settings">Powiadomienia LED</string>
+  <string name="led_pulse_summary">Powiadomienie diodą LED</string>
+  <string name="led_settings">Dioda LED</string>
   <string name="legal_information">Informacje prawne</string>
   <string name="license_title">Licencja</string>
   <string name="link_speed_label">Prędkość połączenia:</string>
@@ -1246,7 +1246,7 @@ spróbuj:
   <string name="no_services">Nieaktywne</string>
   <string name="normal_date_format">Regionalny (%s)</string>
   <string name="not_installed">Nie zainstalowane</string>
-  <string name="notification_pulse_title">Pulsująca dioda</string>
+  <string name="notification_pulse_title">Powiadomienie LED</string>
   <string name="notification_sound_dialog_title">Wybierz dzwonek powiadomienia</string>
   <string name="notification_sound_title">Powiadomienie</string>
   <string name="notification_vibrate_abbreviation">Powiadomienie</string>
@@ -1257,7 +1257,7 @@ spróbuj:
   <string name="onscreen_keyboard_settings_summary">Ustawienia klawiatury ekranowej</string>
   <string name="osb_settings">Klawisze ekranowe</string>
   <string name="other_relative">Inne uprawnienia</string>
-  <string name="overlay_display_devices_title">Simulate secondary displays</string>
+  <string name="overlay_display_devices_title">Symuluj dodatkowe ekrany</string>
   <string name="owner_info_settings_edit_text_hint">Wpisz tekst do wyświetlenia na ekranie blokady.</string>
   <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_title">Informacje o właścicielu</string>
@@ -1275,7 +1275,7 @@ spróbuj:
   <string name="perm_configuration">Ustawienia</string>
   <string name="perm_copyright">Powered by LBE Privacy Guard</string>
   <string name="perm_disable">Wyłącz</string>
-  <string name="perm_enable">Włącz monitor uprawnień</string>
+  <string name="perm_enable">Uprawnienia ROOT</string>
   <string name="perm_good">Good</string>
   <string name="perm_header">Monitorowanie %1$d aplikacji</string>
   <string name="perm_header_disabled">Monitor aplikacji wyłączony</string>
@@ -1640,13 +1640,19 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="screen_timeout_summary">Po %1$s bezczynności</string>
   <string name="screensaver_settings_button">Ustawienia</string>
   <string name="screensaver_settings_disabled_prompt">Aby kontrolować to, co dzieje się, gdy telefon jest zadokowany i/lub w trybie uśpienia, włącz Wygaszacz ekranu.</string>
-  <string name="screensaver_settings_dream_start">Zacznij teraz</string>   <string name="screensaver_settings_summary_dock">Podczas zadokowania</string>
+  <string name="screensaver_settings_dream_start">Zacznij teraz</string>   
+  <string name="screensaver_settings_summary_dock">Podczas zadokowania</string>
   <string name="screensaver_settings_summary_either_long">Podczas zadokowania lub uśpienia i ładowania</string>
   <string name="screensaver_settings_summary_either_short">Zadokowany lub ładowany</string>
   <string name="screensaver_settings_summary_off">Wył.</string>
+  <string name="screensaver_settings_summary_on">Wygaszacz ekranu zostanie włączony gdy podłączono zasilanie, a ekran telefonu jest wygaszony.</string>
   <string name="screensaver_settings_summary_sleep">Podczas ładowania</string>
   <string name="screensaver_settings_title">Wygaszacz ekranu</string>
   <string name="screensaver_settings_when_to_dream">Ustawienia wygaszacza</string>
+  <string name="screensaver_test">Test</string>
+  <string name="screensaver_timeout_summary">Wygaszenie po upływie %1$s w bezczynności</string>
+  <string name="screensaver_timeout_title">Czas włączenia wygaszacza</string>
+  <string name="screensaver_timeout_zero_summary">Nigdy</string>
   <string name="sd_card_settings_label">Nośnik USB</string>
   <string name="sd_card_storage">Nośnik USB</string>
   <string name="sd_eject">Odłącz pamięć współdzieloną</string>
@@ -1700,12 +1706,12 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="search_settings_summary">Zarządzaj ustawieniami i historią wyszukiwania</string>
   <string name="search_silent">Cichy</string>
   <string name="search_sms_received">Otrzymane SMS</string>
-  <string name="search_status_bar">status bar</string>
+  <string name="search_status_bar">pasek statusu</string>
   <string name="search_sync">Sync</string>
   <string name="search_tether">Tether</string>
   <string name="search_unlock_set">Wzór odblokowania</string>
   <string name="search_vpn">VPN</string>
-  <string name="search_wallpaper">wallpaper</string>
+  <string name="search_wallpaper">tapeta</string>
   <string name="search_wifi">WiFi</string>
   <string name="security_passwords_title">Hasła</string>
   <string name="security_privacy_settings_title">Bezpieczeństwo i prywatność</string>
@@ -2052,21 +2058,21 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="use_system_language_to_select_input_method_subtypes">Użyj języka systemu</string>
   <string name="user_account_title">Konto na materiały</string>
   <string name="user_add_user_menu">Dodaj użytkownika</string>
-    <string name="user_add_user_message_long">"Możesz użytkować to urządzenie wspólnie z innymi osobami, tworząc dodatkowych użytkowników. Każdy użytkownik ma swoje własne miejsce, które może spersonalizować własnymi aplikacjami, tapetą itd. Użytkownicy mogą także zmieniać ustawienia tabletu, które dotyczą wszystkich, np. Wi-Fi.
+  <string name="user_add_user_message_long">"Możesz użytkować to urządzenie wspólnie z innymi osobami, tworząc dodatkowych użytkowników. Każdy użytkownik ma swoje własne miejsce, które może spersonalizować własnymi aplikacjami, tapetą itd. Użytkownicy mogą także zmieniać ustawienia tabletu, które dotyczą wszystkich, np. Wi-Fi.
 
 Po utworzeniu nowego użytkownika musi on przejść przez proces konfiguracji.
 
 Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imieniu wszystkich pozostałych użytkowników."</string>
-    <string name="user_add_user_message_short">"Po utworzeniu nowego użytkownika musi on przejść przez proces konfiguracji.
+  <string name="user_add_user_message_short">"Po utworzeniu nowego użytkownika musi on przejść przez proces konfiguracji.
 
 Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imieniu wszystkich pozostałych użytkowników."</string>
-    <string name="user_add_user_title">Dodaj nowego użytkownika</string>
-    <string name="user_adding_new_user">Dodaję nowego użytkownika…</string>
-    <string name="user_cannot_manage_message">Użytkownikami może zarządzać tylko właściciel telefonu.</string>
-    <string name="user_confirm_remove_message">Obszar i dane tego użytkownika znikną z telefonu. Tej czynności nie można cofnąć.</string>
-    <string name="user_confirm_remove_self_message">Utracisz swój obszar i dane na tym telefonie. Tej czynności nie można cofnąć.</string>
-    <string name="user_confirm_remove_self_title">Chcesz usunąć siebie?</string>
-    <string name="user_confirm_remove_title">Usunąć użytkownika?</string>
+  <string name="user_add_user_title">Dodaj nowego użytkownika</string>
+  <string name="user_adding_new_user">Dodaję nowego użytkownika…</string>
+  <string name="user_cannot_manage_message">Użytkownikami może zarządzać tylko właściciel telefonu.</string>
+  <string name="user_confirm_remove_message">Obszar i dane tego użytkownika znikną z telefonu. Tej czynności nie można cofnąć.</string>
+  <string name="user_confirm_remove_self_message">Utracisz swój obszar i dane na tym telefonie. Tej czynności nie można cofnąć.</string>
+  <string name="user_confirm_remove_self_title">Chcesz usunąć siebie?</string>
+  <string name="user_confirm_remove_title">Usunąć użytkownika?</string>
   <string name="user_delete_button">Usuń</string>
   <string name="user_details_title">Edytuj szczegóły</string>
   <string name="user_dict_multiple_settings_title">Osobiste słowniki</string>
@@ -2097,25 +2103,26 @@ Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imie
   <string name="user_max_content_rating">Ocena treści</string>
   <string name="user_name_title">Nazwa</string>
   <string name="user_new_user_name">Nowy użytkownik</string>
-  <string name="user_nickname">Nickname</string>
-  <string name="user_owner">Owner</string>
-  <string name="user_picture_title">Photo ID</string>
+  <string name="user_nickname">Pseudonim</string>
+  <string name="user_owner">Właściciel</string>
+  <string name="user_picture_title">ID zdjęcia</string>
   <string name="user_remove_user_menu">Usuń użytkownika %1$s</string>
   <string name="user_restrictions_heading">Ograniczenia treści</string>
   <string name="user_settings_title">Użytkownicy</string>
-    <string name="user_setup_button_setup_later">Nie teraz</string>
-    <string name="user_setup_button_setup_now">Skonfiguruj teraz</string>
-    <string name="user_setup_dialog_message">Upewnij się, że ta osoba jest w pobliżu i może skonfigurować swój profil na tablecie</string>
-    <string name="user_setup_dialog_title">Skonfigurować ustawienia dla użytkownika?</string>
-    <string name="user_summary_active">Aktywny</string>
-    <string name="user_summary_inactive">Nieaktywny</string>
-    <string name="user_summary_not_set_up">Nieskonfigurowany</string>
-    <string name="user_you_section">Ty</string>
-    <string name="verify_applications">Weryfikuj aplikacje</string>
-    <string name="verify_applications_summary">Zablokuj instalowanie potencjalnie szkodliwych aplikacji lub wyświetl ostrzeżenie przed instalacją</string>
-    <string name="verify_apps_over_usb_summary">Sprawdź, czy aplikacje zainstalowane przez ADB/ADT nie zachowują się w szkodliwy sposób.</string>
-    <string name="verify_apps_over_usb_title">Zweryfikuj aplikacje przez USB</string>
-    <string name="version_text">wersja %1$s</string>
+  <string name="user_setup_button_setup_later">Nie teraz</string>
+  <string name="user_setup_button_setup_now">Skonfiguruj teraz</string>
+  <string name="user_setup_dialog_message">Upewnij się, że ta osoba jest w pobliżu i może skonfigurować swój profil na tablecie</string>
+  <string name="user_setup_dialog_title">Skonfigurować ustawienia dla użytkownika?</string>
+  <string name="user_summary_active">Aktywny</string>
+  <string name="user_summary_inactive">Nieaktywny</string>
+  <string name="user_summary_not_set_up">Nieskonfigurowany</string>
+  <string name="user_system_apps_heading">Aplikacje systemowe</string>
+  <string name="user_you_section">Ty</string>
+  <string name="verify_applications">Weryfikuj aplikacje</string>
+  <string name="verify_applications_summary">Zablokuj instalowanie potencjalnie szkodliwych aplikacji lub wyświetl ostrzeżenie przed instalacją</string>
+  <string name="verify_apps_over_usb_summary">Sprawdź, czy aplikacje zainstalowane przez ADB/ADT nie zachowują się w szkodliwy sposób.</string>
+  <string name="verify_apps_over_usb_title">Zweryfikuj aplikacje przez USB</string>
+  <string name="version_text">Wersja %1$s</string>
   <string name="vibrate_category_title">Wibracje</string>
   <string name="vibrate_in_normal_title">Wibracje normalne</string>
   <string name="vibrate_in_silent_title">Wibracje po wyciszeniu</string>

@@ -68,9 +68,9 @@
   <string name="incorrect_pincode_remaining_attempts">Kod PIN nieprawidłowy. Pozostało: %d prób</string>
   <string name="incorrect_pukcode">Kod PUK nieprawidłowy.</string>
   <string name="incorrect_pukcode_remaining_attempts">Kod PUK nieprawidłowy. Pozostało: %d prób</string>
-  <string name="input_pin_code">Podaj kod PIN</string>
+  <string name="input_pin_code">Podaj PIN</string>
   <string name="input_pin_code_to_unlock">Odblokuj urządzenie</string>
-  <string name="input_puk_code">Podaj kod PUK</string>
+  <string name="input_puk_code">Podaj PUK</string>
   <string name="input_puk_code_to_unlock">Podaj kod PUK aby odblokować urządzenie</string>
   <string name="insects_awaken"/>
   <string name="international_womens_day">Dzień kobiet</string>
@@ -175,7 +175,7 @@
   <string name="sd_not_available_low_internal_storage">Karta SD odmontowana lub niedostępna, mało miejsca w pamięci wewnętrznej</string>
   <string name="sd_not_available_saved_to_internal_storage">Zapisano do pamięci wewnętrznej</string>
   <string name="sd_not_available_use_internal_storage">Karta SD niedostępna, zapisano do pamięci wewnętrznej</string>
-  <string name="select">Zaznacz</string>
+  <string name="select">Wybierz</string>
   <string name="select_all">Wszystko</string>
   <string name="send">Wyślij</string>
   <string name="send_sms_for_sync_notice">System wyśle aktywacyjną wiadomość SMS, kontynuować?</string>
@@ -224,9 +224,9 @@
   <string name="user_agreement4">"Polityka prywatności"</string>
   <string name="user_agreement5">，Kliknięcie OK oznacza zgodę na powyższe warunki. Anuluj by wyjść.</string>
   <string name="v5_deselect_all">Odznacz wszystko</string>
-  <string name="v5_edit_mode_title_empty">Zaznacz</string>
+  <string name="v5_edit_mode_title_empty">Wybierz</string>
   <string name="v5_icon_menu_bar_more_item_label">Więcej</string>
-  <string name="v5_select_all">Zaznacz wszystko</string>
+  <string name="v5_select_all">Wszystko</string>
   <string name="valentines_day">Walentynki</string>
   <string name="vernal_equinox">Równonoc wiosenna</string>
   <string name="volume_alarm">Alarm</string>

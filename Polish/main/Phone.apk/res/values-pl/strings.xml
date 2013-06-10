@@ -163,7 +163,7 @@
   <string name="calling_via_template">"Połączenie za pośrednictwem operatora %s"</string>
   <string name="calling_via_template_miui">"Połączenie za pośrednictwem operatora %s"</string>
   <string name="cancel">Anuluj</string>
-  <string name="card_title_call_ended">Połączenie zakończone</string>
+  <string name="card_title_call_ended">"Połączenie zakończone: "</string>
   <string name="card_title_conf_call">Połączenie konferencyjne</string>
   <string name="card_title_dialing">Wybieranie</string>
   <string name="card_title_forwarded_incoming_call_miui">Przekazywanie połączeń</string>
@@ -224,7 +224,7 @@
   <string name="contactPhoto">zdjęcie kontaktu</string>
   <string name="contacts_icon_label_miui">Kontakty</string>
   <string name="count_down">Sekund:</string>
-    <string name="count_of_persons_in_conference_miui">%d kontaktów</string>
+  <string name="count_of_persons_in_conference_miui">%d kontaktów</string>
   <string name="countrycode_alert_message_warning_miui">Kod kierunkowy może być nieprawidłowy. Czy na pewno zastosować?</string>
   <string name="countrycode_alert_message_wrong_miui">Kod kierunkowy jest nieprawidłowy.</string>
   <string name="countrycode_alert_title_miui">Alert</string>
@@ -371,7 +371,7 @@
   <string name="eo_enable">Oferty pracy włączone</string>
   <string name="error_updating_title">Błąd w ustawieniach połączenia</string>
   <string name="exception_error">Błąd sieci lub karty SIM.</string>
-  <string name="exportAllcontatsFailed">Failed to export all contacts to SIM card!</string>
+  <string name="exportAllcontatsFailed">Nie udało się skopiować wszystkich kontaktów na SIM!</string>
   <string name="exportAllcontatsSuccess">Successfully exported all contacts to SIM card</string>
   <string name="exportContacts">Kopiowanie kontaktów na SIM...</string>
   <string name="fake_phone_activity_infoText_text">Numer przychodzącego połączenia</string>
@@ -768,7 +768,7 @@
   <string name="requesting_unlock">Requesting Network unlock...</string>
   <string name="reset_my_choice_hint">
     W Ustawieniach połączeń możesz zmienić konto połączeń przez internet, które będzie domyślnie używane przy nawiązywaniu połączeń, wybierając inne konto w sekcji
-    Ustawienia połączeń przez internet
+    Ustawienia połączeń przez internet.
   </string>
   <string name="respond_via_sms_canned_response_1">"Nie mogę rozmawiać. Co słychać?"</string>
   <string name="respond_via_sms_canned_response_1_miui">"Nie mogę rozmawiać. Zadzwonię później.""</string>

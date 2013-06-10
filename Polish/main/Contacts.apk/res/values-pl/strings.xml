@@ -461,7 +461,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="map_other">Wyświetl adres</string>
     <string name="map_work">Wyświetl adres służbowy</string>
     <string name="meid">Numer MEID</string>
-    <string name="menu_accounts">Konta</string>
+    <string name="menu_accounts">Konta i synchronizacja</string>
     <string name="menu_addStar">Dodaj do ulubionych</string>
     <string name="menu_bar_group_add">Dodaj</string>
     <string name="menu_bar_group_delete">Usuń</string>
@@ -487,7 +487,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="menu_editContact">Edytuj</string>
     <string name="menu_editGroup">Edytuj</string>
     <string name="menu_help">Pomoc</string>
-    <string name="menu_import_export">Przywróć/kopiuj</string>
+    <string name="menu_import_export">Kopia i przywracanie kontaktów</string>
     <string name="menu_joinAggregate">Połącz</string>
     <string name="menu_newContact">Nowy kontakt</string>
     <string name="menu_new_contact_action_bar">Nowy</string>
@@ -657,9 +657,9 @@ Aby dodać kontakt do listy ulubionych:
     <string name="pref_key_photo_word_title">Autom. dodawanie zdjęć</string>
     <string name="pref_key_rebuild_t9_index_message">Naprawia wyszukiwanie kontaktów przez T9</string>
     <string name="pref_key_rebuild_t9_index_title">Przebuduj Index T9</string>
-    <string name="pref_summary_import_from_account">Kopiowanie kontaktów z Google i Exchange na konto Xiaomi</string>
-    <string name="pref_title_account_import">Przywracanie z konta</string>
-    <string name="pref_title_import_from_account">Przywracanie z konta Xiaomi</string>
+    <string name="pref_summary_import_from_account">Kopiowanie kontaktów z Google lub Exchange na konto Xiaomi</string>
+    <string name="pref_title_account_import">Przenoszenie kontaktów</string>
+    <string name="pref_title_import_from_account">Kopiowanie na konto Xiaomi</string>
     <string name="preference_auto_ip_summary_disable">Nieaktywne</string>
     <string name="preference_auto_ip_summary_on">"Prefiks operatora: %s"</string>
     <string name="preference_auto_ip_title">Wybieranie IP</string>
