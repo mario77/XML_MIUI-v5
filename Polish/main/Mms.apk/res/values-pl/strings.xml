@@ -2,7 +2,6 @@
 <resources>
     <string name="activity_not_found">Nie znaleziono programu do otwarcia załącznika</string>
     <string name="activity_not_found_uri">Nie znaleziono odpowiedniego programu</string>
-    <string name="add_attachment">Dołącz</string>
     <string name="add_bookmark">Ulubione</string>
     <string name="add_contact">Dodaj kontakt</string>
     <string name="add_festival">Polecane</string>
@@ -159,11 +158,11 @@
     <string name="menu_edit">Edytuj</string>
     <string name="menu_forward">Prześlij dalej</string>
     <string name="menu_lock">Zablokuj</string>
+    <string name="menu_new_manual">Wpisz numer ręcznie</string>
+    <string name="menu_pick_from_contact">Wybierz z kontaktów</string>
     <string name="menu_preferences">Ustawienia</string>
     <string name="menu_unlock">Odblokuj</string>
     <string name="menu_view_contact">Pokaż kontakt</string>
-    <string name="menu_new_manual">Wpisz numer ręcznie</string>
-    <string name="menu_pick_from_contact">Wybierz z kontaktów</string>
     <string name="message_class_label">"Klasa wiadomości: "</string>
     <string name="message_details_title">Szczegóły wiadomości</string>
     <string name="message_download_failed_title">Wiadomość nie została pobrana</string>
@@ -193,15 +192,15 @@
     <string name="mx_activate_error_malformed_info">Nie można aktywować wiadomości w chmurze. Wymagana jest ponowna aktywacja</string>
     <string name="mx_activate_error_server">Błąd serwera aktywacji wiadomości w chmurze</string>
     <string name="mx_activate_error_sim_change">Zmiana karty SIM wykryta. Należy ponownie aktywować wiadomości w chmurze</string>
-	<string name="mx_activate_error_title">Nie można aktywować wiadomości w chmurze</string>
-	<string name="mx_activate_hint_malformed_info">Operacja przerwana. Wymagana jest ponowna aktywacja wiadomości w chmurze. Aktywować teraz?</string>
-	<string name="mx_activate_hint_server">Błąd serwera aktywacji wiadomości w chmurze. Aktywować teraz?</string>
-	<string name="mx_activate_hint_sim_change">Zmiana karty SIM wykryta. Należy ponownie aktywować wiadomości w chmurze. Aktywować teraz?</string>
+    <string name="mx_activate_error_title">Nie można aktywować wiadomości w chmurze</string>
+    <string name="mx_activate_hint_malformed_info">Operacja przerwana. Wymagana jest ponowna aktywacja wiadomości w chmurze. Aktywować teraz?</string>
+    <string name="mx_activate_hint_server">Błąd serwera aktywacji wiadomości w chmurze. Aktywować teraz?</string>
+    <string name="mx_activate_hint_sim_change">Zmiana karty SIM wykryta. Należy ponownie aktywować wiadomości w chmurze. Aktywować teraz?</string>
     <string name="mx_activate_int_hint_malformed_info">Error processing request. An international SMS is required to reactivate Cloud Messaging. Would you like to activate it now?</string>
     <string name="mx_activate_int_hint_server">Activation with server failed for Cloud Messaging, an international SMS is required to reactivate Cloud Messaging. Would you like to activate it now?</string>
     <string name="mx_activate_int_hint_sim_change">SIM card state changed. An international SMS is required to reactivate Cloud Messaging. Would you like to activate it now?</string>
-	<string name="mx_auto_resend_mms">Wyślij jako MMS</string>
-	<string name="mx_auto_resend_mms_summary">Wyślij jako MMS gdy wiadomości w chmurze są niedostępne.</string>
+    <string name="mx_auto_resend_mms">Wyślij jako MMS</string>
+    <string name="mx_auto_resend_mms_summary">Wyślij jako MMS gdy wiadomości w chmurze są niedostępne.</string>
     <string name="mx_auto_resend_sms">Wyślij jako SMS</string>
     <string name="mx_auto_resend_sms_summary">Wyślij jako SMS gdy wiadomości w chmurze są niedostępne</string>
     <string name="mx_btn_enable">Włącz</string>
@@ -210,7 +209,6 @@
     <string name="mx_dspt">Wysyłaj wiadomości przez Internet pomiędzy telefonami z MIUI</string>
     <string name="mx_enable">Wiadomości w chmurze</string>
     <string name="mx_enable_int_popup_msg">Wiadomości w chmurze pozwalają na wysyłanie SMS pomiędzy systemem MIUI. Wymagane jest wysłanie międzynarodowego SMS w celu aktywacji usługi. Koszt SMS wg. taryfy operatora!</string>
-  
     <string name="mx_enable_popup_msg">Wiadomości w chmurze pozwalają na wysyłanie SMS pomiędzy systemem MIUI. Wymagane jest wysłanie SMS w celu aktywacji usługi. Koszt SMS wg. taryfy operatora! Aktywować usługę teraz?</string>
     <string name="mx_int_warning_notice">Wysłany zostanie międzynarodowy SMS aby aktywować Wiadomości w Chmurze. Koszt SMS wg. taryfy operatora.</string>
     <string name="mx_msg">Funkcje Online</string>
@@ -237,7 +235,7 @@
     <string name="notification_multiple_title">Nowe wiadomości</string>
     <string name="number_add_hint">Wpisz numer by dodać do Prywatnego kontaktu</string>
     <string name="phrase_confirm_delete_message">Usunąć zwrot?</string>
-    <string name="phrase_empty">No Phrase</string>
+    <string name="phrase_empty">Pusta fraza</string>
     <string name="phrase_from">Od %1s</string>
     <string name="phrase_list_title">Popularne zwroty</string>
     <string name="pick_too_many_recipients">Zbyt dużo odbiorców</string>
@@ -259,11 +257,13 @@
     <string name="pref_summary_mms_retrieval_during_roaming">Pobieranie MMS podczas roamingu danych</string>
     <string name="pref_summary_new_message_popup">Wyświetla wyskakujące okienko przy otrzymaniu wiadomości</string>
     <string name="pref_summary_new_message_popup_when_secure">Wyskakujące okno wyłączone gdy telefon jest blokowany hasłem</string>
-    <string name="pref_summary_off_system_mms_priority">Inna aplikacja SMS będzie otrzymywać wiadomość i powiadomienie w pierwszej kolejności</string>
-    <string name="pref_summary_on_system_mms_priority">Aplikacja systemowa SMS będzie otrzymywać wiadomość i powiadomienie w pierwszej kolejności</string>
-    <string name="pref_summary_show_recent_contacts">Pokazuj listę ostatnich kontaktów podczas tworzenia wiadomości</string>
-    <string name="pref_summary_wake_up_screen">Włącza ekran przy otrzymaniu wiadomości</string>
-    <string name="pref_system_title">System</string>
+    <string name="pref_summary_notification_body_enabled">Pokazuje podgląd wiadomości na ekranie blokady i pasku statusu</string>
+    <string name="pref_summary_notification_body_enabled_when_secure">Podgląd wiadomości wyłączony</string>
+    <string name="pref_summary_off_system_mms_priority">Inna aplikacja może otrzymywać MMS w pierwszej kolejności</string>
+    <string name="pref_summary_on_system_mms_priority">Aplikacja systemowa może otrzymywać MMS w pierwszej kolejności</string>
+    <string name="pref_summary_show_recent_contacts">Wyświetl ostatnie kontakty podczas tworzenia widomości SMS</string>
+    <string name="pref_summary_wake_up_screen">Włącza ekran przy otrzymaniu wiadomości SMS</string>
+    <string name="pref_system_title">Opcje systemowe</string>
     <string name="pref_time_auto_group_summary">Grupuje wiadomości wg. czasu otrzymania lub wysłania</string>
     <string name="pref_time_auto_group_title">Sortuj wg. czasu</string>
     <string name="pref_title_allow_si_sl_push">WAP push</string>
@@ -275,6 +275,7 @@
     <string name="pref_title_mms_read_reports">Raporty odczytu</string>
     <string name="pref_title_mms_retrieval_during_roaming">MMS w roamingu</string>
     <string name="pref_title_new_message_popup">Okno SMS Pop-up</string>
+    <string name="pref_title_notification_body_enabled">Pokaż podgląd</string>
     <string name="pref_title_ringtone_repeat">Powtarzanie dzwonka</string>
     <string name="pref_title_show_recent_contacts">Ostatnie kontakty</string>
     <string name="pref_title_sms_delete">Limit wiadomości SMS</string>
@@ -328,9 +329,9 @@
     <string name="select_audio">Wybierz plik audio</string>
     <string name="select_bottom_text">Tekst na dole</string>
     <string name="select_different_media">Wybierz inny element %1$s.</string>
+    <string name="select_link_title">Wybierz akcję</string>
     <string name="select_local_audio">Wybierz plik audio</string>
     <string name="select_local_video">Wybierz film</string>
-    <string name="select_link_title">Wybierz akcję</string>
     <string name="select_top_text">Tekst na górze</string>
     <string name="send">Wyślij</string>
     <string name="send_signature_confirm_dialog_message">Brak treści w wiadomości, czy na pewno wysłać?</string>
@@ -381,7 +382,7 @@
     <string name="timed_message_expired_title_2">Wysłać teraz?</string>
     <string name="timed_message_in_total">... (%d razem)</string>
     <string name="timed_message_to">do</string>
-    <string name="title_date_type">Znacznik czasu wiadomości</string>
+    <string name="title_date_type">Czas wiadomości</string>
     <string name="title_timed_message_dialog">Ustaw czas wysłania wiadomości</string>
     <string name="to_address_label">"Do: "</string>
     <string name="to_count">%d ludzi</string>
