@@ -9,4 +9,5 @@
 		<item>Tylko WCDMA</item>
 		<item>Tylko GSM</item>
 		<item>Preferowane GSM / WCDMA</item>
+	 </string-array>
 </resources>
