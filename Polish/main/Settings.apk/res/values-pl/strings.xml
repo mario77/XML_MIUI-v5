@@ -29,6 +29,7 @@ Krok 2: naciśnij i przytrzymaj ekran dwoma palcami, aż usłyszysz potwierdzeni
 Jeśli z tego urządzenia korzysta kilka osób, użycie tego skrótu na zablokowanym ekranie spowoduje tymczasowe włączenie ułatwień dostępu do momentu zablokowania urządzenia."</string>
  <string name="accessibility_global_gesture_preference_summary_off">Wył.</string>
   <string name="accessibility_global_gesture_preference_summary_on">Wł.</string>
+  <string name="accessibility_global_gesture_preference_title">Skrót ułatwień dostępu</string>
   <string name="accessibility_global_gesture_title">Skrót ułatwień dostępu</string>
   <string name="accessibility_long_press_timeout_preference_title">Czas dotknięcia i przytrzymania</string>
   <string name="accessibility_long_press_timeout_title">Czas dotknięcia i przytrzymania</string>
@@ -149,8 +150,9 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
   <string name="app_factory_reset_dlg_text">Wszystkie aktualizacje tej aplikacji systemowej Androida zostaną odinstalowane.</string>
   <string name="app_factory_reset_dlg_title">Odinstalować aktualizacje?</string>
   <string name="app_floating_window_dlg">Zezwól \"%1$s\" na wyświetlanie okien Pop-up</string>
-  <string name="app_floating_window_dlg_disable">"Wyłączenie pokazywania okien Pop-up dla %1$s zatrzyma aplikację. Na pewno wyłączyć?"</string>
-    <string name="app_floating_window_dlg_enable">"Włączenie okien Pop-up dla aplikacji %1$s wymaga jej restartu. Możesz sam zatrzymać aplikacje. 
+  <string name="app_floating_window_dlg_disable">"Wyłączenie pokazywania okien Pop-up dla %1$s zatrzyma aplikację. 
+Na pewno wyłączyć?"</string>
+  <string name="app_floating_window_dlg_enable">"Włączenie okien Pop-up dla aplikacji %1$s wymaga jej restartu. Możesz sam zatrzymać aplikacje. 
 Czy włączyć funkcję?"</string>  
 <string name="app_forward_locked">Aplikacja jest zabezpieczona przed kopiowaniem.</string>
   <string name="app_install_location_summary">Zmień preferowaną lokalizację instalacji nowych aplikacji.</string>
@@ -2492,6 +2494,7 @@ Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imie
   <string name="wps_connect_summary">Upewnij się, że router bezprzewodowy ma możliwość łączenia urządzeń za pomocą WPS.</string>
   <string name="wps_connect_title">Przycisk WPS</string>
   <string name="xiaomi_account">Xiaomi</string>
+  <string name="xiaomi_cloud_service">Usługi chmury Xiaomi</string>
   <string name="yes">Tak</string>
   <string name="zone_auto">Autom. strefa czasowa</string>
   <string name="zone_auto_summaryOff">Użyj wybranej strefy czasowej</string>
