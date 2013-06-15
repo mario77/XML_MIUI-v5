@@ -998,8 +998,8 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="keep_screen_on">Zostaw włączony</string>
   <string name="keep_screen_on_summary">Ekran nie będzie gaszony podczas ładowania telefonu</string>
   <string name="kernel_version">Wersja jądra</string>
-  <string name="key_settings">Przyciski sprzętowe</string>
-  <string name="key_settings_title">Przyciski sprzętowe</string>
+  <string name="key_settings">Przyciski</string>
+  <string name="key_settings_title">Przyciski</string>
   <string name="keyboard_layout_default_label">Domyślna</string>
   <string name="keyboard_layout_dialog_setup_button">Skonfiguruj układy klawiatury</string>
   <string name="keyboard_layout_dialog_switch_hint">Control-spacja, by przełączyć</string>
