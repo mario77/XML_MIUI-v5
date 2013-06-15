@@ -49,23 +49,23 @@
         <item>250</item>
         <item>800</item>
         <item>2000</item>
-        <item>10000</item>
+        <item>8000</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLevels">
         <item>10</item>
         <item>80</item>
         <item>250</item>
         <item>900</item>
-        <item>2500</item>
-        <item>10000</item>
+        <item>2200</item>
+        <item>8000</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLevelsHigh">
-        <item>20</item>
-        <item>100</item>
-        <item>300</item>
-        <item>1100</item>
-        <item>3000</item>
-        <item>10000</item>
+        <item>10</item>
+        <item>90</item>
+        <item>250</item>
+        <item>1000</item>
+        <item>2500</item>
+        <item>8000</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLcdBacklightValues">
         <item>6</item>
