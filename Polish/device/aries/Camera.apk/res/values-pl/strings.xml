@@ -53,6 +53,7 @@ Opuść na chwilę widok"</string>
   <string name="dialog_ok">OK</string>
   <string name="disable_video_snapshot_hint">Stopklatka nie działa, gdy są aktywne efekty specjalne.</string>
   <string name="download_by_browser">Pobierz przez przeglądarkę</string>
+  <string name="download_wechat">Pobierz przez WeChat</string>
   <string name="duration">Czas trwania</string>
   <string name="edit">Edycja</string>
   <string name="effect_backdropper_disco">Disco</string>
@@ -80,6 +81,7 @@ Opuść na chwilę widok"</string>
   <string name="find_mecard_qrcode">Wykryto kod QR na wizytówce</string>
   <string name="find_other_qrcode">Wykryto kod QR</string>
   <string name="find_web_qrcode">Wykryto kod QR na stronie</string>
+  <string name="find_wechat_qrcode">Znajdź kod WeChat</string>
   <string name="find_weixin_qrcode">Znajdź kod weixin QR</string>
   <string name="flash">Flash</string>
   <string name="flash_off">Bez lampy</string>
@@ -104,6 +106,7 @@ Opuść na chwilę widok"</string>
   <string name="import_fail">Wczytywanie nieudane</string>
   <string name="iso">ISO</string>
   <string name="launch_market">Uruchom Google Play</string>
+  <string name="launch_wechat">Uruchom WeChat</string>
   <string name="loading">Wczytywanie...</string>
   <string name="loading_video">Wczytywanie wideo...</string>
   <string name="location">Lokalizacja</string>
@@ -430,6 +433,7 @@ Opuść na chwilę widok"</string>
 Przeglądarka MIUI sprawdzi kod za Ciebie."</string>
   <string name="website_details">"Zawartość kodu QR: "</string>
   <string name="weixin_details">"Weixin details: "</string>
+  <string name="wechat_details">WeChat details:</string>
   <string name="white_balance">Balans bieli</string>
   <string name="width">Szerokość</string>
 </resources>

@@ -23,6 +23,7 @@
   <string name="app_detail_internet_control_category">Kontrola sieci</string>
   <string name="app_detail_title">Szczegóły aplikacji</string>
   <string name="app_detail_version">Wersja: %s</string>
+  <string name="app_has_deleted">%s został usunięty.</string>
   <string name="app_name">Monitor Danych</string>
   <string name="app_traffic_detail">" użycie danych (%s)"</string>
   <string name="apply_rules_failed">"Błąd aplikacji zapory firewall, spróbuj ponownie. 

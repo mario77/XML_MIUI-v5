@@ -486,7 +486,7 @@ Czy włączyć funkcję?"</string>
   <string name="bugreport_in_power_summary">Dodaj w menu zasilania opcję zgłaszania błędów</string>
   <string name="bugreport_tool_log_toast">Raport zapisany do %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Generating bug report, takes about 1 minute</string>
-  <string name="build_author">Autor ROMu</string>
+  <string name="build_author">Rom autorstwa</string>
   <string name="build_number">Numer kompilacji</string>
   <string name="builtin_keyboard_settings_summary">Ustawienia klawiatury fizycznej</string>
   <string name="builtin_keyboard_settings_title">Klawiatura fizyczna</string>
@@ -608,9 +608,7 @@ Szczegółowe ustawienia transmisji danych są zazwyczaj dostępne bezpośrednio
   <string name="data_usage_auto_sync_off_dialog">Powoduje przesyłanie mniejszej ilości danych oraz zmniejsza użycie baterii, ale pobranie najnowszych informacji będzie
     wymagało ręcznej synchronizacji każdego konta. Poza tym nie będziesz otrzymywać powiadomień o aktualizacjach.</string>
   <string name="data_usage_auto_sync_off_dialog_title">Wyłączyć autosynchronizację?</string>
-  <string name="data_usage_auto_sync_on_dialog">"Wszystkie zmiany, które wprowadzisz na swoich kontach w sieci, będą automatycznie kopiowane na Twój telefon. Niektóre
-    konta mogą też kopiować do sieci wszystkie zmiany, które wprowadzisz na telefonie. W ten sposób działa konto Google. Aby wybrać informacje synchronizowane przez
-    poszczególne konta, wyświetl Ustawienia > Konta."</string>
+  <string name="data_usage_auto_sync_on_dialog">"Wszystkie zmiany, które wprowadzisz na swoich kontach w sieci, będą automatycznie kopiowane na Twój telefon. Niektóre konta mogą też kopiować do sieci wszystkie zmiany, które wprowadzisz na telefonie. W ten sposób działa konto Google. Aby wybrać informacje synchronizowane przez poszczególne konta, wyświetl Ustawienia > Konta."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Włączyć auto synchronizację?</string>
   <string name="data_usage_change_cycle">Zmień cykl</string>
   <string name="data_usage_cycle">Cykl transmisji danych</string>
@@ -704,8 +702,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="deny">Odmów</string>
   <string name="details_subtitle">Szczegóły użycia</string>
   <string name="details_title">Szczegóły użycia</string>
-  <string name="dev_settings_warning_message">Te ustawienia są przeznaczone wyłącznie dla programistów. Ich użycie może spowodować uszkodzenie lub nieprawidłowe działanie
-    urządzenia i zainstalowanych na nim aplikacji.</string>
+  <string name="dev_settings_warning_message">Te ustawienia są przeznaczone wyłącznie dla programistów. Ich użycie może spowodować uszkodzenie lub nieprawidłowe działanie urządzenia i zainstalowanych na nim aplikacji.</string>
   <string name="dev_settings_warning_title">Zezwolić na ustawienia programistyczne?</string>
   <string name="development_enable">Ustawienia programistyczne</string>
   <string name="development_settings_summary">Ustaw opcje związane z programowaniem aplikacji.</string>
@@ -757,8 +754,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="display_settings">Wyświetlacz</string>
   <string name="display_settings_title">Wyświetlacz</string>
   <string name="dlg_cancel">Anuluj</string>
-  <string name="dlg_confirm_unmount_text">Jeśli odłączysz nośnik USB, niektóre używane aplikacje zostaną zatrzymane i mogą być niedostępne do chwili jego ponownego
-    podłączenia.</string>
+  <string name="dlg_confirm_unmount_text">Jeśli odłączysz nośnik USB, niektóre używane aplikacje zostaną zatrzymane i mogą być niedostępne do chwili jego ponownego podłączenia.</string>
   <string name="dlg_confirm_unmount_title">Odłączyć nośnik USB?</string>
   <string name="dlg_error_unmount_text">Nie można odłączyć nośnika USB. Spróbuj ponownie później.</string>
   <string name="dlg_error_unmount_title"/>
@@ -848,8 +844,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="enable_traces_summary_num">Włączone ślady: %1$d</string>
   <string name="enable_traces_title">Włącz ślady</string>
   <string name="enable_wifi_display">Włącz Wi-Fi Display</string>
-  <string name="enforce_read_external_confirm_message">"Gdy nośnik USB jest chroniony, aplikacje muszą prosić o pozwolenie na odczyt danych z tego nośnika zewnętrznego.
-    Niektóre aplikacje mogą przestać działać i wymagać aktualizacji przez programistę."</string>
+  <string name="enforce_read_external_confirm_message">"Gdy nośnik USB jest chroniony, aplikacje muszą prosić o pozwolenie na odczyt danych z tego nośnika zewnętrznego. Niektóre aplikacje mogą przestać działać i wymagać aktualizacji przez programistę."</string>
   <string name="enforce_read_external_confirm_title">Włączyć ochronę nośnika USB?</string>
   <string name="enforce_read_external_summary">Aplikacje muszą prosić o pozwolenie na odczyt nośnika USB</string>
   <string name="enforce_read_external_title">Chroń nośnik USB</string>
@@ -871,8 +866,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="error_title"/>
   <string name="external_code_size_label">Aplikacja w pamięci USB</string>
   <string name="external_data_size_label">Dane na karcie SD</string>
-  <string name="factory_reset_summary">Możesz wymazać swoje osobiste dane przez format telefonu, lub wybrać usuwanie zainstalowanych aplikacji i format karty SD by
-    przywrócić ustawienia fabryczne</string>
+  <string name="factory_reset_summary">Możesz wymazać swoje osobiste dane przez format telefonu, lub wybrać usuwanie zainstalowanych aplikacji i format karty SD by przywrócić ustawienia fabryczne</string>
   <string name="failed_to_open_app_settings_toast">Nie udało się otworzyć ustawień aplikacji %1$s</string>
   <string name="fcc_equipment_id">ID Sprzętu</string>
   <string name="filter">Filtr</string>
@@ -925,6 +919,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="gadget_toggle_wifi">Aktualizowanie ustawień Wi-Fi</string>
   <string name="gadget_wifi">Wi-Fi</string>
   <string name="game_controller_settings_category">Kontroler gier</string>
+  <string name="galaxy_settings">Ustawienia galaxy</string> 
   <string name="global_change_warning">To ustawienie obowiązuje wszystkich użytkowników tego telefonu.</string>
   <string name="global_font_change_title">Zmień rozmiar czcionki</string>
   <string name="global_locale_change_title">Zmień język</string>
@@ -969,8 +964,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="input_methods_settings_label_format">Ustawienia %1$s</string>
   <string name="input_methods_settings_title">Wprowadzanie tekstu</string>
   <string name="input_settings">Ustawienia wprowadzania</string>
-  <string name="install_all_warning">Telefon i dane osobiste są bardziej narażone na atak za pomocą aplikacji z nieznanych źródeł. Zgadzasz się ponieść pełną
-    odpowiedzialność za wszelkie uszkodzenia telefonu oraz utratę danych, które mogą wyniknąć ze stosowania tych aplikacji.</string>
+  <string name="install_all_warning">Telefon i dane osobiste są bardziej narażone na atak za pomocą aplikacji z nieznanych źródeł. Zgadzasz się ponieść pełną odpowiedzialność za wszelkie uszkodzenia telefonu oraz utratę danych, które mogą wyniknąć ze stosowania tych aplikacji.</string>
   <string name="install_applications">Nieznane źródła</string>
   <string name="install_text">Zainstaluj</string>
   <string name="install_unknown_applications">Zezwalaj na instalowanie aplikacji ze źródeł innych niż Sklep Play</string>
@@ -985,8 +979,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="internal_format_summary">Wymazanie wewnętrznego nośnik USB usunie wszystkie pliki, w tym muzykę i zdjęcia</string>
   <string name="internal_media_format_button_text">Wymazanie wewnętrznego nośnika</string>
   <string name="internal_media_format_desc">Wymazać zawartość pamięci wewnętrznej? Wszystkie dane w tym muzyka, zdjęcia czy filmy zostaną utracone</string>
-  <string name="internal_media_format_final_desc">"Wymazywanie pamięci wewnętrznej usunie wszystko z telefonu! Procesu nie można odwrócić! Telefon zrestartuje się po
-    ukończonym procesie!"</string>
+  <string name="internal_media_format_final_desc">"Wymazywanie pamięci wewnętrznej usunie wszystko z telefonu! Procesu nie można odwrócić! Telefon zrestartuje się po ukończonym procesie!"</string>
   <string name="internal_media_format_title">Wyczyść wewnętrzny nośnik USB</string>
   <string name="internal_memory">Pamięć wewnętrzna</string>
   <string name="internal_storage">Pamięć wewnętrzna</string>
@@ -1042,8 +1035,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="location_title">Moja lokalizacja</string>
   <string name="lock_after_timeout">Blokuj automatycznie</string>
   <string name="lock_after_timeout_summary">Po %1$s uśpienia</string>
-  <string name="lock_intro_message">"Chroń swój telefon przed nieautoryzowanym użyciem, tworząc osobisty wzór odblokowania ekranu. Na następnym ekranie połącz palcem co
-    najmniej cztery kropki w dowolnej kolejności. Wszystko gotowe? Wybierz Dalej."</string>
+  <string name="lock_intro_message">"Chroń swój telefon przed nieautoryzowanym użyciem, tworząc osobisty wzór odblokowania ekranu. Na następnym ekranie połącz palcem co najmniej cztery kropki w dowolnej kolejności. Wszystko gotowe? Wybierz Dalej."</string>
   <string name="lock_screen_unlock_show">Wyświetl ekran z hasłem bezpośrednio</string>
   <string name="lock_screen_unlock_show_summary">"Nie używa innych ekranów blokady po włączeniu tej funkcji"</string>
   <string name="lock_settings_picker_settings">Ustaw ekran blokady</string>
@@ -1384,8 +1376,7 @@ spróbuj:
   <string name="perm_privacy_app_log">Rejestr</string>
   <string name="perm_privacy_app_manage">Szczegóły</string>
   <string name="perm_privacy_app_trust">Zaufana aplikacja</string>
-  <string name="perm_privacy_app_trust_dialog_content">MIUI nie będzie pytał o potwierdzenia operacji związanych z bezpieczeństwem i prywatnością od tej
-    aplikacji.</string>
+  <string name="perm_privacy_app_trust_dialog_content">MIUI nie będzie pytał o potwierdzenia operacji związanych z bezpieczeństwem i prywatnością od tej aplikacji.</string>
   <string name="perm_privacy_app_trust_dialog_title">Zaufaj aplikacji</string>
   <string name="perm_privacy_app_trust_summary">Zaufana</string>
   <string name="perm_privacy_app_trust_summary_off">MIUI będzie monitorował aplikację</string>
@@ -1400,14 +1391,11 @@ spróbuj:
   <string name="perm_su_desc">Monitorowanie %1$d aplikacji</string>
   <string name="perm_su_desc1">Zarządzaj uprawnieniami ROOT</string>
   <string name="perm_su_disabled">Uprawnienia ROOT wyłączone</string>
-  <string name="perm_su_disabled_desc">Udzielanie uprawnień ROOT aplikacjom trzecim, może powodować niestabilność systemu, utratę danych osobistych lub uszkodzenie
-    systemu.</string>
+  <string name="perm_su_disabled_desc">Udzielanie uprawnień ROOT aplikacjom trzecim, może powodować niestabilność systemu, utratę danych osobistych lub uszkodzenie systemu.</string>
   <string name="perm_su_disabled_in_stable">Uprawnienia ROOT nie są dostępne w wersji MIUI Stable</string>
-  <string name="perm_su_disabled_in_stable_desc">"Udzielanie uprawnień ROOT aplikacjom trzecim, może powodować niestabilność systemu, utratę danych osobistych lub
-    uszkodzenie systemu. Przejdź na wersję rozwojową MIUI aby korzystać z uprawnień ROOT."</string>
+  <string name="perm_su_disabled_in_stable_desc">"Udzielanie uprawnień ROOT aplikacjom trzecim, może powodować niestabilność systemu, utratę danych osobistych lub uszkodzenie systemu. Przejdź na wersję rozwojową MIUI aby korzystać z uprawnień ROOT."</string>
   <string name="perm_su_disabled_in_stable_download">Pobierz MIUI</string>
-  <string name="perm_su_enable_content">"Udzielanie uprawnień ROOT aplikacjom, może powodować niestabilność systemu, utratę danych osobistych lub uszkodzenie systemu.
-    Wciśnij 'OK' aby aktywować uprawnienia ROOT."</string>
+  <string name="perm_su_enable_content">"Udzielanie uprawnień ROOT aplikacjom, może powodować niestabilność systemu, utratę danych osobistych lub uszkodzenie systemu. Wciśnij 'OK' aby aktywować uprawnienia ROOT."</string>
   <string name="perm_su_enable_dialog">%1$s próbuje uzyskać uprawnienia ROOT, które są obecnie wyłączone. Aktywuj uprawnienia ROOT w aplikacji Uprawnienia.</string>
   <string name="perm_su_enable_title">Uprawnienia ROOT</string>
   <string name="perm_su_switch">Uprawnienia ROOT</string>
@@ -1574,16 +1562,14 @@ spróbuj:
   <string name="radio_info_smsc_update_label">Aktualizuj</string>
   <string name="radio_info_toggle_dns_check_label">Przełącz sprawdzanie DNS</string>
   <string name="read_only">" (Tylko do odczytu)"</string>
-  <string name="really_remove_account_message">Usunięcie tego konta spowoduje usunięcie z telefonu wszystkich powiązanych z nim wiadomości, kontaktów i innych
-    danych.</string>
+  <string name="really_remove_account_message">Usunięcie tego konta spowoduje usunięcie z telefonu wszystkich powiązanych z nim wiadomości, kontaktów i innych danych.</string>
   <string name="really_remove_account_title">Usunąć konto?</string>
   <string name="recognizer_settings_summary">Ustawienia dla „%s”</string>
   <string name="recognizer_settings_title">Wyszukiwanie głosowe</string>
   <string name="recognizer_title">Moduł rozpoznawania mowy</string>
   <string name="recompute_size">Przeliczanie rozmiaru...</string>
-  <string name="regulatory_information">Regulatory inform <string name="overlay_display_devices_title">Simulate secondary displays</string>ation</string>
-  <string name="remove_account_failed">To konto jest wymagane przez niektóre aplikacje. Możesz je usunąć wyłącznie przez przywrócenie ustawień fabrycznych telefonu (co
-    spowoduje usunięcie wszystkich Twoich danych osobistych) w sekcji Ustawienia > Kopia i kasowanie danych.</string>
+  <string name="regulatory_information">Informacje regulujące</string> 
+  <string name="remove_account_failed">To konto jest wymagane przez niektóre aplikacje. Możesz je usunąć wyłącznie przez przywrócenie ustawień fabrycznych telefonu (co spowoduje usunięcie wszystkich Twoich danych osobistych) w sekcji Ustawienia > Kopia i kasowanie danych.</string>
   <string name="remove_account_label">Usuń konto</string>
   <string name="remove_device_admin">Dezaktywuj</string>
   <string name="remove_from_frequently_fragment">Usunąć \"%s\" z popularnych ustawień?</string>
@@ -1602,8 +1588,7 @@ spróbuj:
   <string name="roaming">Dane w roamingu</string>
   <string name="roaming_disable">Połącz z usługami transmisji danych w roamingu</string>
   <string name="roaming_enable">Połącz z usługami transmisji danych w roamingu</string>
-  <string name="roaming_reenable_message">Połączenie transmisji danych zostało utracone, ponieważ opuszczono sieć macierzystą przy wyłączonej opcji danych w
-    roamingu.</string>
+  <string name="roaming_reenable_message">Połączenie transmisji danych zostało utracone, ponieważ opuszczono sieć macierzystą przy wyłączonej opcji danych w roamingu.</string>
   <string name="roaming_reenable_title">Zezwalać na roaming danych?</string>
   <string name="roaming_turn_it_on_button">Włącz</string>
   <string name="roaming_warning">Z zezwoleniem na roaming danych mogą się wiązać wysokie opłaty roamingowe.</string>
@@ -1619,8 +1604,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="runningservicedetails_processes_title">Procesy</string>
   <string name="runningservicedetails_services_title">Usługi</string>
   <string name="runningservicedetails_settings_title">Uruchomiona aplikacja</string>
-  <string name="runningservicedetails_stop_dlg_text">Jeśli zatrzymasz tę usługę, niektóre funkcje telefonu mogą przestać poprawnie działać do chwili jego wyłączenia i
-    ponownego włączenia.</string>
+  <string name="runningservicedetails_stop_dlg_text">Jeśli zatrzymasz tę usługę, niektóre funkcje telefonu mogą przestać poprawnie działać do chwili jego wyłączenia i ponownego włączenia.</string>
   <string name="runningservicedetails_stop_dlg_title">Czy zatrzymać usługę systemową?</string>
   <string name="runningservices_settings_summary">Wyświetl i kontroluj obecnie uruchomione usługi</string>
   <string name="runningservices_settings_title">Uruchomione usługi</string>
@@ -1699,8 +1683,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="search_launcher">Launcher</string>
   <string name="search_led">LED</string>
   <string name="search_network">Sieć</string>
-  <string name="search_power_mode">running mode; performance; priority performance; performance mode; normal mode; conventional mode; default mode; balanced performance;
-    saving mode; energy-saving mode; performance; power</string>
+  <string name="search_power_mode">running mode; performance; priority performance; performance mode; normal mode; conventional mode; default mode; balanced performance; saving mode; energy-saving mode; performance; power</string>
   <string name="search_ring_volume">Głośność dzwonka</string>
   <string name="search_ringtone">Dzwonek</string>
   <string name="search_screen_timeout">Wygaszenie ekranu</string>
@@ -1720,8 +1703,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="security_relative">Bezpieczeństwo</string>
   <string name="security_settings_billing_desc">This app may charge you money:</string>
   <string name="security_settings_desc">Aplikacja ma dostęp do następujących elementów na telefonie:</string>
-  <string name="security_settings_desc_multi">Aplikacja ma dostęp do tych elementów na telefonie. Aby poprawić wydajność i zmniejszyć użycie pamięci, aplikacja %1$s ma
-    niektóre z tych uprawnień, bo działa wewnątrz tego samego procesu co %2$s:</string>
+  <string name="security_settings_desc_multi">Aplikacja ma dostęp do tych elementów na telefonie. Aby poprawić wydajność i zmniejszyć użycie pamięci, aplikacja %1$s ma niektóre z tych uprawnień, bo działa wewnątrz tego samego procesu co %2$s:</string>
   <string name="security_settings_premium_sms_desc">Send premium SMS</string>
   <string name="security_settings_summary">Ustaw funkcję Moja lokalizacja, odblokowywanie ekranu, blokadę karty SIM, blokadę magazynu danych logowania.</string>
   <string name="security_settings_title">Zabezpieczenia</string>
@@ -1751,8 +1733,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="settings_license_activity_unavailable">Wystąpił problem podczas ładowania licencji.</string>
   <string name="settings_safetylegal_activity_loading">Trwa wczytywanie...</string>
   <string name="settings_safetylegal_activity_title">Informacje o bezpieczeństwie</string>
-  <string name="settings_safetylegal_activity_unreachable">Brak połączenia transmisji danych. Aby wyświetlić te informacje teraz, przejdź do strony %s na dowolnym
-    komputerze połączonym z internetem.</string>
+  <string name="settings_safetylegal_activity_unreachable">Brak połączenia transmisji danych. Aby wyświetlić te informacje teraz, przejdź do strony %s na dowolnym komputerze połączonym z internetem.</string>
   <string name="settings_safetylegal_title">Informacje o bezpieczeństwie</string>
   <string name="settings_shortcut">Skrót do ustawień</string>
   <string name="show_all_anrs">Pokaż wszystkie ANR</string>
@@ -1764,10 +1745,10 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="show_dev_on">You are now a developer!</string>
   <string name="show_fc">Pokaż wszystkie FC</string>
   <string name="show_fc_summary">Pokaż okno Aplikacja Została Zatrzymana (Force Close)</string>
-   <string name="show_hw_layers_updates">Pokaż zmiany warstw sprzęt.</string>
-    <string name="show_hw_layers_updates_summary">Oznaczaj aktualizowane warstwy sprzętowe na zielono</string>
-    <string name="show_hw_overdraw">Pokaż przeciągnięcie GPU</string>
-    <string name="show_hw_overdraw_summary">Najlepszy-najg.: nieb., ziel., jasnoczerw., czerw.</string>
+  <string name="show_hw_layers_updates">Pokaż zmiany warstw sprzęt.</string>
+  <string name="show_hw_layers_updates_summary">Oznaczaj aktualizowane warstwy sprzętowe na zielono</string>
+  <string name="show_hw_overdraw">Pokaż przeciągnięcie GPU</string>
+  <string name="show_hw_overdraw_summary">Najlepszy-najg.: nieb., ziel., jasnoczerw., czerw.</string>
   <string name="show_hw_screen_updates">Pokaż zmiany widoku z GPU</string>
   <string name="show_hw_screen_updates_summary">Podświetlaj widoki w oknach rysowane przez GPU</string>
   <string name="show_magnifier_when_input">Pokaż lupę</string>
@@ -1835,8 +1816,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="sound_settings">Dźwięk</string>
   <string name="spellchecker_language">Język</string>
   <string name="spellchecker_quick_settings">Ustawienia</string>
-  <string name="spellchecker_security_warning">Ten moduł sprawdzania pisowni może gromadzić cały wpisywany tekst, w tym dane osobiste w postaci haseł i numerów kart
-    kredytowych. Pochodzi on z aplikacji %1$s. Użyć go?</string>
+  <string name="spellchecker_security_warning">Ten moduł sprawdzania pisowni może gromadzić cały wpisywany tekst, w tym dane osobiste w postaci haseł i numerów kart kredytowych. Pochodzi on z aplikacji %1$s. Użyć go?</string>
   <string name="spellcheckers_settings_title">Sprawdzanie pisowni</string>
   <string name="ssid_label">SSID:</string>
   <string name="status_awake_time">Czas wybudzenia</string>
@@ -1896,8 +1876,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="sync_menu_sync_cancel">Anuluj synchronizację</string>
   <string name="sync_menu_sync_now">Synchronizuj teraz</string>
   <string name="sync_one_time_sync">"Dotknij, aby zsynchronizować %1$s"</string>
-  <string name="sync_plug"><font fgcolor="#ffffffff">Google Sync – witamy!</font>" Synchronizacja danych zapewniająca dostęp do kontaktów, terminów oraz innych informacji
-    z dowolnego miejsca."</string>
+  <string name="sync_plug"><font fgcolor="#ffffffff">Google Sync – witamy!</font>" Synchronizacja danych zapewniająca dostęp do kontaktów, terminów oraz innych informacji z dowolnego miejsca."</string>
   <string name="sync_settings">Konta i synchronizacja</string>
   <string name="sync_wifi_label">Tylko z Wi-Fi</string>
   <string name="system">System</string>
@@ -1958,8 +1937,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="tts_engine_name_is_enabled_summary">Mechanizm %s jest włączony</string>
   <string name="tts_engine_name_settings">Ustawienia %s</string>
   <string name="tts_engine_preference_section_title">Preferowany mechanizm</string>
-  <string name="tts_engine_security_warning">Ten mechanizm syntezy mowy może gromadzić cały odczytywany tekst, w tym dane osobiste w postaci haseł i numerów kart
-    kredytowych. Nazwa mechanizmu to %s. Włączyć ten mechanizm syntezy mowy?</string>
+  <string name="tts_engine_security_warning">Ten mechanizm syntezy mowy może gromadzić cały odczytywany tekst, w tym dane osobiste w postaci haseł i numerów kart kredytowych. Nazwa mechanizmu to %s. Włączyć ten mechanizm syntezy mowy?</string>
   <string name="tts_engine_settings_button">Otwórz ustawienia mechanizmu</string>
   <string name="tts_engine_settings_section">Ustawienia mechanizmu</string>
   <string name="tts_engine_settings_title">Ustawienia %s</string>
@@ -2040,11 +2018,9 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="usb_msd_driver_installer_title">Instalator sterowników (MSD)</string>
   <string name="usb_msd_summary">Przesył plików dla Windows i MacOS</string>
   <string name="usb_msd_title">Magazyn danych USB</string>
-  <string name="usb_mtp_summary">Umożliwia przesyłanie plików multimedialnych w Windows lub przy użyciu aplikacji Android File Transfer (dostępny na
-    www.android.com/filetransfer) dla Mac OS X.</string>
+  <string name="usb_mtp_summary">Umożliwia przesyłanie plików multimedialnych w Windows lub przy użyciu aplikacji Android File Transfer (dostępny na www.android.com/filetransfer) dla Mac OS X.</string>
   <string name="usb_mtp_title">Urządzenie multimedialne (MTP)</string>
-  <string name="usb_ptp_summary">Umożliwia przesyłanie zdjęć za pomocą oprogramowania aparatu, a także przesyłanie dowolnych plików na komputerach, które nie obsługują
-    urządzeń MTP.</string>
+  <string name="usb_ptp_summary">Umożliwia przesyłanie zdjęć za pomocą oprogramowania aparatu, a także przesyłanie dowolnych plików na komputerach, które nie obsługują urządzeń MTP.</string>
   <string name="usb_ptp_title">Aparat (PTP)</string>
   <string name="usb_tethering_active_subtext">Powiązano</string>
   <string name="usb_tethering_available_subtext">Podłączono USB – zaznacz, aby powiązać</string>
@@ -2196,13 +2172,13 @@ Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imie
   <string name="vpn_ipsec_server_cert">Certyfikat serwera IPSec</string>
   <string name="vpn_ipsec_user_cert">Certyfikat użytkownika IPSec</string>
   <string name="vpn_l2tp_secret">Element tajny L2TP</string>
-    <string name="vpn_lockdown_config_error">W przypadku zawsze włączonej sieci VPN wymagany jest adres IP zarówno dla serwera, jak i dla DNS.</string>
-    <string name="vpn_lockdown_none">Brak</string>
-    <string name="vpn_lockdown_summary">Wybierz profil VPN, który będzie zawsze podłączony. Ruch w sieci będzie dopuszczalny tylko podczas połączenia z tą siecią VPN.</string>
-    <string name="vpn_menu_delete">Usuń profil</string>
+  <string name="vpn_lockdown_config_error">W przypadku zawsze włączonej sieci VPN wymagany jest adres IP zarówno dla serwera, jak i dla DNS.</string>
+  <string name="vpn_lockdown_none">Brak</string>
+  <string name="vpn_lockdown_summary">Wybierz profil VPN, który będzie zawsze podłączony. Ruch w sieci będzie dopuszczalny tylko podczas połączenia z tą siecią VPN.</string>
+  <string name="vpn_menu_delete">Usuń profil</string>
   <string name="vpn_menu_edit">Edytuj profil</string>
-    <string name="vpn_menu_lockdown">Zawsze włączona sieć VPN</string>
-    <string name="vpn_missing_cert">Brak certyfikatu. Edytuj profil.</string>
+  <string name="vpn_menu_lockdown">Zawsze włączona sieć VPN</string>
+  <string name="vpn_missing_cert">Brak certyfikatu. Edytuj profil.</string>
   <string name="vpn_mppe">Szyfrowanie PPP (MPPE)</string>
   <string name="vpn_name">Nazwa</string>
   <string name="vpn_no_ca_cert">(nie weryfikuj serwera)</string>
@@ -2250,38 +2226,37 @@ Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imie
   <string name="wifi_certificate">Certyfikat Wi-Fi</string>
   <string name="wifi_config_info">Wi-Fi config</string>
   <string name="wifi_connect">Połącz</string>
-  <string name="wifi_connect_failed_message">The phone was unable to connect to this WLAN network.</string>
+  <string name="wifi_connect_failed_message">Telefon nie mógł połączyć się z tą siecią Wi-Fi.</string>
   <string name="wifi_context_menu_change_password">Zmień hasło</string>
   <string name="wifi_context_menu_change_wapi_certificate">Zmień Certyfikat WAPI</string>
   <string name="wifi_context_menu_connect">Połącz z siecią Wi-Fi</string>
   <string name="wifi_context_menu_forget">Zapomnij sieć</string>
   <string name="wifi_disabled_generic">Wyłączona</string>
-  <string name="wifi_disabled_help">"Sieć została pominięta ze względu na słabe połączenie. Wyłącz to zachowanie, przechodząc do ekranu Ustawienia > Wi-Fi i wybierając w
-    menu pozycję Zaawansowane."</string>
+  <string name="wifi_disabled_help">"Sieć została pominięta ze względu na słabe połączenie. Wyłącz to zachowanie, przechodząc do ekranu Ustawienia > Wi-Fi i wybierając w menu pozycję Zaawansowane."</string>
   <string name="wifi_disabled_network_failure">Uniknięto połączenia internetowego o niskiej jakości.</string>
   <string name="wifi_disabled_password_failure">Problem z uwierzytelnianiem</string>
-    <string name="wifi_display_available_devices">Dostępne urządzenia</string>
-    <string name="wifi_display_details">Ustawienia wyświetlacza</string>
-    <string name="wifi_display_disconnect_text">Spowoduje to zakończenie połączenia z:&lt;br>&lt;b>%1$s&lt;/b></string>
-    <string name="wifi_display_disconnect_title">Rozłączyć?</string>
-    <string name="wifi_display_no_devices_found">Nie znaleziono wyświetlaczy bezprzewodowych w pobliżu.</string>
-    <string name="wifi_display_options_done">Gotowe</string>
-    <string name="wifi_display_options_forget">Zapomnij</string>
-    <string name="wifi_display_options_name">Nazwa</string>
-    <string name="wifi_display_options_title">Opcje wyświetlacza bezprzewodowego</string>
-    <string name="wifi_display_paired_devices">Sparowane wyświetlacze</string>
-    <string name="wifi_display_search_for_devices">Wyszukaj wyświetlacze</string>
-    <string name="wifi_display_searching_for_devices">Wyszukuję…</string>
-    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wyświetlacz bezprzewodowy jest wyłączony, ponieważ wyłączone jest Wi-Fi.</string>
-    <string name="wifi_display_settings_empty_list_wifi_display_off">Aby zobaczyć urządzenia, włącz wyświetlacz bezprzewodowy.</string>
-    <string name="wifi_display_settings_title">Wyświetlacz bezprzewodowy</string>
-    <string name="wifi_display_status_available">Dostępny</string>
-    <string name="wifi_display_status_connected">Połączony</string>
-    <string name="wifi_display_status_connecting">Łączenie</string>
-    <string name="wifi_display_summary_disabled">Wyłączona</string>
-    <string name="wifi_display_summary_off">Wył.</string>
-    <string name="wifi_display_summary_on">Wł.</string>
-    <string name="wifi_dns1">DNS 1</string>
+  <string name="wifi_display_available_devices">Dostępne urządzenia</string>
+  <string name="wifi_display_details">Ustawienia wyświetlacza</string>
+  <string name="wifi_display_disconnect_text">Spowoduje to zakończenie połączenia z:&lt;br>&lt;b>%1$s&lt;/b></string>
+  <string name="wifi_display_disconnect_title">Rozłączyć?</string>
+  <string name="wifi_display_no_devices_found">Nie znaleziono wyświetlaczy bezprzewodowych w pobliżu.</string>
+  <string name="wifi_display_options_done">Gotowe</string>
+  <string name="wifi_display_options_forget">Zapomnij</string>
+  <string name="wifi_display_options_name">Nazwa</string>
+  <string name="wifi_display_options_title">Opcje wyświetlacza bezprzewodowego</string>
+  <string name="wifi_display_paired_devices">Sparowane wyświetlacze</string>
+  <string name="wifi_display_search_for_devices">Wyszukaj wyświetlacze</string>
+  <string name="wifi_display_searching_for_devices">Wyszukuję…</string>
+  <string name="wifi_display_settings_empty_list_wifi_display_disabled">Wyświetlacz bezprzewodowy jest wyłączony, ponieważ wyłączone jest Wi-Fi.</string>
+  <string name="wifi_display_settings_empty_list_wifi_display_off">Aby zobaczyć urządzenia, włącz wyświetlacz bezprzewodowy.</string>
+  <string name="wifi_display_settings_title">Wyświetlacz bezprzewodowy</string>
+  <string name="wifi_display_status_available">Dostępny</string>
+  <string name="wifi_display_status_connected">Połączony</string>
+  <string name="wifi_display_status_connecting">Łączenie</string>
+  <string name="wifi_display_summary_disabled">Wyłączona</string>
+  <string name="wifi_display_summary_off">Wył.</string>
+  <string name="wifi_display_summary_on">Wł.</string>
+  <string name="wifi_dns1">DNS 1</string>
   <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
   <string name="wifi_dns2_hint">4.4.4.4</string>
@@ -2317,8 +2292,8 @@ Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imie
   <string name="wifi_menu_connect">Połącz z siecią</string>
   <string name="wifi_menu_forget">Zapomnij sieć</string>
   <string name="wifi_menu_modify">Modyfikuj sieć</string>
-    <string name="wifi_menu_more_options">Więcej opcji</string>
-    <string name="wifi_menu_p2p">Wi-Fi Direct</string>
+  <string name="wifi_menu_more_options">Więcej opcji</string>
+  <string name="wifi_menu_p2p">Wi-Fi Direct</string>
   <string name="wifi_menu_scan">Skanuj</string>
   <string name="wifi_menu_wfd">Wi-Fi Display</string>
   <string name="wifi_menu_wps_pbc">Przycisk WPS</string>
@@ -2330,11 +2305,11 @@ Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imie
   <string name="wifi_notify_open_networks">Powiadomienie o sieci</string>
   <string name="wifi_notify_open_networks_summary">Powiadom mnie, gdy będę w zasięgu otwartej sieci</string>
   <string name="wifi_on_time">Wi-Fi na czas</string>
-    <string name="wifi_other_network">Inna sieć…</string>
-    <string name="wifi_p2p_cancel_connect_message">Czy chcesz anulować zaproszenie do połączenia z %1$s?</string>
-    <string name="wifi_p2p_cancel_connect_title">Anulować zaproszenie?</string>
-    <string name="wifi_p2p_delete_group_message">Zapomnieć o tej grupie?</string>
-    <string name="wifi_p2p_device_info">Informacje o urządzeniu</string>
+  <string name="wifi_other_network">Inna sieć…</string>
+  <string name="wifi_p2p_cancel_connect_message">Czy chcesz anulować zaproszenie do połączenia z %1$s?</string>
+  <string name="wifi_p2p_cancel_connect_title">Anulować zaproszenie?</string>
+  <string name="wifi_p2p_delete_group_message">Zapomnieć o tej grupie?</string>
+  <string name="wifi_p2p_device_info">Informacje o urządzeniu</string>
   <string name="wifi_p2p_disconnect_message">Po rozłączeniu Twoje połączenie z %1$s zostanie zakończone.</string>
   <string name="wifi_p2p_disconnect_multiple_message">Po rozłączeniu Twoje połączenie z %1$s i %2$s innymi urządzeniami zostanie zakończone.</string>
   <string name="wifi_p2p_disconnect_title">Rozłączyć?</string>
@@ -2348,8 +2323,8 @@ Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imie
   <string name="wifi_p2p_menu_searching">Wyszukiwanie…</string>
   <string name="wifi_p2p_peer_devices">Urządzenia Peer</string>
   <string name="wifi_p2p_persist_network">Zapamiętaj to połączenie</string>
-    <string name="wifi_p2p_remembered_groups">Zapamiętane grupy</string>
-    <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
+  <string name="wifi_p2p_remembered_groups">Zapamiętane grupy</string>
+  <string name="wifi_p2p_settings_title">Wi-Fi Direct</string>
   <string name="wifi_p2p_wps_setup">Konfiguracja zabezpieczonej sieci Wi-Fi</string>
   <string name="wifi_password">Hasło</string>
   <string name="wifi_poor_network_detection">Unikaj słabych połączeń</string>
@@ -2357,8 +2332,8 @@ Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imie
   <string name="wifi_quick_toggle_summary">Włącz Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Zapisana</string>
-    <string name="wifi_required_info_text">Do ukończenia konfiguracji tablet potrzebuje połączenia z Wi-Fi. Potem będziesz mieć możliwość przełączania między przesyłaniem danych przez sieć komórkową i Wi-Fi.</string>
-    <string name="wifi_save">Zapisz</string>
+  <string name="wifi_required_info_text">Do ukończenia konfiguracji tablet potrzebuje połączenia z Wi-Fi. Potem będziesz mieć możliwość przełączania między przesyłaniem danych przez sieć komórkową i Wi-Fi.</string>
+  <string name="wifi_save">Zapisz</string>
   <string name="wifi_secured_first_item">Zabezpieczone %1$s</string>
   <string name="wifi_secured_second_item">, zabezpieczone %1$s</string>
   <string name="wifi_security">Zabezpieczenie</string>
@@ -2392,12 +2367,10 @@ Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imie
   <string name="wifi_setup_back">Wróć</string>
   <string name="wifi_setup_cancel">Anuluj</string>
   <string name="wifi_setup_connect">Połącz</string>
-  <string name="wifi_setup_description_connected">Dotknij opcji <b>Dalej</b>", aby kontynuować konfigurację. Wybierz "<b>Wróć</b>, aby połączyć się z inną siecią
-    Wi-Fi.</string>
+  <string name="wifi_setup_description_connected">Dotknij opcji <b>Dalej</b>", aby kontynuować konfigurację. Wybierz "<b>Wróć</b>, aby połączyć się z inną siecią Wi-Fi.</string>
   <string name="wifi_setup_description_connecting">Łączenie może potrwać kilka minut…</string>
   <string name="wifi_setup_detail">Szczegóły sieci</string>
-  <string name="wifi_setup_eap_not_supported">Ustawień połączenia Wi-Fi z zabezpieczeniami EAP nie można określić podczas konfiguracji. Możesz to zrobić później na
-    ekranie Ustawienia > Sieci bezprzewodowe.</string>
+  <string name="wifi_setup_eap_not_supported">Ustawień połączenia Wi-Fi z zabezpieczeniami EAP nie można określić podczas konfiguracji. Możesz to zrobić później na ekranie Ustawienia > Sieci bezprzewodowe.</string>
   <string name="wifi_setup_forget">Zapomnij</string>
   <string name="wifi_setup_next">Dalej</string>
   <string name="wifi_setup_not_connected">Nie połączono</string>
@@ -2495,6 +2468,7 @@ Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imie
   <string name="wps_connect_title">Przycisk WPS</string>
   <string name="xiaomi_account">Xiaomi</string>
   <string name="xiaomi_cloud_service">Usługi chmury Xiaomi</string>
+  <string name="xiaomi_money_service">Mi Kredyty</string>
   <string name="yes">Tak</string>
   <string name="zone_auto">Autom. strefa czasowa</string>
   <string name="zone_auto_summaryOff">Użyj wybranej strefy czasowej</string>

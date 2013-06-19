@@ -11,6 +11,8 @@
     <string name="app_name">Menedżer Plików</string>
     <string name="application_size_label">Apk</string>
     <string name="background">Pobierz w tle</string>
+    <string name="big5_summary">Domyślne kodowanie znaków w chińskim Windows</string>
+    <string name="big5_title">BIG5</string>
     <string name="bind_account">Powiąż z kontem KuaiPan</string>
     <string name="bind_account_summary">Jeśli już posiadasz konto w KuaiPan możesz je dodać teraz by synchronizować zawarte tam dane.</string>
     <string name="binded_accout_description">Konta są połączone. Możesz korzystać z konta Xiaomi lub KuaiPan.</string>

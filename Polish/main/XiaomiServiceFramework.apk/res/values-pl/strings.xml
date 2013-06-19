@@ -115,6 +115,7 @@
     <string name="login">Wpisz się</string>
     <string name="login_failed">Wpisanie się nieudane</string>
     <string name="login_notice">Wpisywanie...</string>
+    <string name="memu_refresh">Odśwież</string>
     <string name="mibi_license_message">Masz zamiar korzystać z usług MI Kredit. Klikając OK zgadzasz się z %1$s.</string>
     <string name="mibi_license_message_span">Umowa użytkownika z MI Kredit</string>
     <string name="mibi_license_title">Umowa użytkownika</string>

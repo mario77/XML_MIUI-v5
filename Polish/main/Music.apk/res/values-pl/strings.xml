@@ -204,6 +204,7 @@
   <string name="rename_playlist_menu">Zmień nazwę</string>
   <string name="retry">Ponów</string>
   <string name="ringtone_menu">Ustaw jako dzwonek telefonu</string>
+  <string name="ringtone_not_support">Format pliku nie jest wspierany</string>
   <string name="ringtone_set">\"%s\" ustawiony jako dzwonek telefonu.</string>
   <string name="save">Zapisz</string>
   <string name="scanning">Skanowanie karty SD...</string>
