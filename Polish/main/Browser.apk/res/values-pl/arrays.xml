@@ -53,4 +53,9 @@
         <item>Strona do przodu/do tyłu</item>
         <item>Przełączenie karty</item>
     </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>"Nigdy. "</item>
+        <item>"Tylko przy Wi-Fi. "</item>
+        <item>"Zawsze. "</item>
+    </string-array>
 </resources>
