@@ -743,7 +743,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Wyłącz nakładki HW</string>
   <string name="disable_overlays_summary">Zawsze używaj GPU do komponowania ekranu</string>
-  <string name="disable_power_key_long_press_under_keyguard">Przycisk Zasilania</string>
+  <string name="disable_power_key_long_press_under_keyguard">Wyłącz okno Zasilania</string>
   <string name="disable_text">Wyłącz</string>
   <string name="disabled">Wyłączone</string>
   <string name="disconnect">Rozłącz</string>
@@ -836,7 +836,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="enable_compatibility">Skaluj aplikację</string>
   <string name="enable_drive_mode">Tryb samochodowy</string>
   <string name="enable_opengl_traces_title">Włącz śledzenia OpenGL</string>
-  <string name="enable_snapshot_screenlock">Zrzut ekranu</string>
+  <string name="enable_snapshot_screenlock">Szybkie zdjęcie</string>
   <string name="enable_text">Włącz</string>
   <string name="enable_traces_dialog_title">Wybierz włączone ślady</string>
   <string name="enable_traces_summary_all">Wszystkie ślady są włączone</string>
