@@ -88,6 +88,8 @@
   <string name="time_picker_dialog_title">Czas przypomnienia</string>
   <string name="toast_message_add_image_fail">Nie udało się wstawić obrazka!</string>
   <string name="toast_privacy_mode">Nie można edytować notatki w trybie poufnym!</string>
+  <string name="toast_reach_text_limit_truncate">"Treść notatki została automatycznie skrócona"</string>
+  <string name="toast_reach_text_limit_attachment">Długość tej notatki jest za duża aby poprawnie dodać nowy załącznik.</string>
   <string name="widget_havenot_content">Brak powiązanej notatki. Dotknij aby utworzyć nową notatkę. Naciśnij długo na widżet aby móc zmieniać rozmiar.</string>
   <string name="widget_under_visit_mode">Tryb prywatny, nie można wyświetlić zawartości</string>
 </resources>

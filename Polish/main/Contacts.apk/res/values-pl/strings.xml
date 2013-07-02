@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-      <string name="account_container_title">Kontakt zapisany jest na poniższych kontach</string>
+    <string name="account_container_title">Kontakt zapisany jest na poniższych kontach</string>
     <string name="account_default">Telefon</string>
     <string name="account_phone">lokalnie, niesynchronizowany</string>
     <string name="account_sim">na SIM, niesynchronizowany</string>
@@ -30,6 +30,8 @@
     <string name="aggregation_suggestion_join_dialog_message">Czy połączyć bieżący kontakt z wybranym?</string>
     <string name="all_list_empty">Brak kontaktów</string>
     <string name="all_resources">Wszystkie</string>
+    <string name="antispam_mark_my_contribution">My contribution to the mark</string>
+    <string name="antispam_provider_format">The mark is provided by %s</string>
     <string name="attach_photo_dialog_title">Zdjęcie kontaktu</string>
     <string name="audio_chat">Czat głosowy</string>
     <string name="auto_nickname">Autom.</string>
@@ -136,6 +138,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="clearFrequentsProgress_title">Czyszczenie…</string>
     <string name="clear_default">Wyczyść wartość domyślną</string>
     <string name="click_close">Kliknij by zamknąć</string>
+    <string name="cloud_antispam_mark">Mark</string>
     <string name="cloud_antispam_title">Filtrowanie numerów</string>
     <string name="composer_failed_to_get_database_infomation">"Nie można pobrać informacji z bazy danych."</string>
     <string name="composer_has_no_exportable_contact">Brak kontaktów do kopiowania. Jeśli masz w telefonie kontakty, być może dostawcy danych nie zezwalają na ich eksport z telefonu.</string>
@@ -145,7 +148,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="config_export_file_extension">vcf</string>
     <string name="config_export_file_prefix"/>
     <string name="config_export_file_suffix"/>
-    <string name="config_export_vcard_type">default</string>
+    <string name="config_export_vcard_type">v30_generic</string>
     <string name="config_import_vcard_type">default</string>
     <string name="config_prohibited_phone_number_regexp"/>
     <string name="confirm_delete_contact_all_call_logs">"Na pewno usunąć rejestr połączeń dla %s?"</string>
@@ -170,6 +173,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="contact_editor_prompt_multiple_accounts">Wybierz konto dla kontaktu</string>
     <string name="contact_editor_prompt_one_account">Nowy kontakt zostanie zsynchronizowany z kontem %1$s.</string>
     <string name="contact_editor_prompt_zero_accounts">"Kopia zapasowa nowego kontaktu nie zostanie utworzona. Dodać konto, z którym kontakty będą się synchronizować?"</string>
+    <string name="contact_is_readOnly">Nie można edytować kontaktów tylko do odczytu</string>
     <string name="contact_list_loading">Ładowanie…</string>
     <string name="contact_pick_photo">Zdjęcie</string>
     <string name="contact_read_only">Nie można edytować w tej aplikacji.</string>
@@ -384,7 +388,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="help_url_people_add"/>
     <string name="help_url_people_edit"/>
     <string name="help_url_people_main"/>
-    <string name="hint_distance">keep the distance</string>
+    <string name="hint_distance">utrzymuj dystans</string>
     <string name="hint_findContacts">Znajdź kontakty</string>
     <string name="hint_more_contact">łączenie kontaktów pomaga w przypadku zduplikowanych pozycji</string>
     <string name="hint_search_contacts">%d kontaktów</string>
@@ -411,9 +415,13 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="import_to_xiaomi_account_title">Skopiować kontakty na konto Xiaomi?</string>
     <string name="import_vcard_description">Przywróć kontakty z nośnika</string>
     <string name="import_weibo_dialog_title">Import Sina weibo contacts</string>
+    <string name="import_weibo_error_no_matched_contacts">Done updating contacts: no matched contacts</string>
+    <string name="import_weibo_error_no_network">Done updating contacts: network error</string>
+    <string name="import_weibo_error_no_xiaomi_phone">Done updating contacts: no phone numbers found under XiaoMi account</string>
+    <string name="import_weibo_error_unknown">Done updating contacts: unknown error</string>
+    <string name="import_weibo_error_user_cancel">Done updating contacts: user canceled</string>
     <string name="import_weibo_fetch_followers">Retrieving Sina Weibo followers…</string>
-    <string name="import_weibo_notification_title">Importing Sina weibo contacts…</string>
-    <string name="import_weibo_notification_title_done">Import complete</string>
+    <string name="import_weibo_notification_title_done">Updated %s sina weibo contacts</string>
     <string name="import_weibo_progress_name">%1$s</string>
     <string name="import_weibo_progress_percent">%1$d%%</string>
     <string name="importing_vcard_canceled_title">Anulowano przywracanie pliku %s</string>
@@ -467,6 +475,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="menu_bar_group_delete">Usuń</string>
     <string name="menu_bar_group_rename">Zmień nazwę</string>
     <string name="menu_bar_group_ringtone">Dzwonek</string>
+    <string name="menu_bar_group_ringtone_largeui">Dzwonek</string>
     <string name="menu_bar_group_sms">SMS</string>
     <string name="menu_call">Zadzwoń do kontaktu</string>
     <string name="menu_callNumber">Zadzwoń do: %s</string>
@@ -703,6 +712,7 @@ Aby dodać kontakt do listy ulubionych:
     <string name="private_num">Numer prywatny</string>
     <string name="processing">Przetwarzanie...</string>
     <string name="profile_display_name">Konfiguruj profil</string>
+    <string name="profile_name">Mój profil</string>
     <string name="progress_notifier_message" formatted="false">Przywracanie %s/%s: %s</string>
     <string name="quickcontact_missing_app">Nie znaleziono aplikacji do obsługi tego działania.</string>
     <string name="quit_dialog_confirm_title">Na pewno chcesz zakończyć łączenie kontaktów?</string>
@@ -774,7 +784,8 @@ Aby dodać kontakt do listy ulubionych:
     <string name="resource_update">Aktualizuj</string>
     <string name="resource_waiting_download">Oczekiwanie...</string>
     <string name="restore_nickname">Przywróć</string>
-    <string name="ret_sign">" "</string>
+    <string name="ret_sign">"
+ "</string>
     <string name="returnCall">Powrót do połączenia</string>
     <string name="ringLabelsGroup">Dzwonek</string>
     <string name="save_photo_progress">Zapisywanie zdjęcia...</string>
@@ -823,6 +834,7 @@ Aby dodać kontakt do listy ulubionych:
     <string name="sim_export_loading">Załaduj z SIM</string>
     <string name="sim_indexed_contact_not_exist">Pozycja %1$d na karcie SIM jest nieprawidłowa, powinna się być między %2$d a %3$d</string>
     <string name="sim_no_contact">Brak kontaktów na karcie SIM</string>
+    <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Brak członków grupy</string>
     <string name="smart_group_action_bar_title">%1$s-%2$s</string>
     <string name="smart_group_company_label">Firma</string>

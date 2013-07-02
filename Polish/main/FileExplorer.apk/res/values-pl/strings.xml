@@ -20,9 +20,11 @@
     <string name="cache_size_label">Cache</string>
     <string name="cancel">Anuluj</string>
     <string name="cancel_app_garbage_cleanup">Anuluj czyszczenie</string>
+    <string name="cancel_with_count_down">Anuluj (%d)</string>
     <string name="category_all">Wszystkie</string>
     <string name="category_apk">APK</string>
     <string name="category_bluetooth">Bluetooth</string>
+    <string name="category_default_number_text">(0)</string>
     <string name="category_document">Dokumenty</string>
     <string name="category_favorite">Ulubione</string>
     <string name="category_log">Logi</string>
@@ -38,7 +40,10 @@
     <string name="clean_message">Usunięto %1$s</string>
     <string name="clean_title">Usuń z kosza pliki starsze niż 30 dni</string>
     <string name="clean_trash_box">Opróżnij kosz</string>
+    <string name="cleaned">Oczyszczanie ukończone</string>
+    <string name="cleaning">Oczyszczanie...</string>
     <string name="cleanup_complete">Gotowe</string>
+    <string name="cleanup_stopped">Oczyszczanie zakończone</string>
     <string name="close">Zamknij</string>
     <string name="compress_fail">Pakowanie nieudane. Plik wynikowy już istnieje</string>
     <string name="compress_message">Pakowanie do:</string>
@@ -46,6 +51,7 @@
     <string name="confirm">OK</string>
     <string name="confirm_know">OK</string>
     <string name="copy_failed">Kopiowanie nieudane</string>
+    <string name="count_down_time">Rozpocznij po %d sekundach</string>
     <string name="create_kuaipan_shortcut_pref">Utwórz skrót na pulpicie</string>
     <string name="create_new_folder_desctiption">Tworzenie katalogu...</string>
     <string name="create_new_folder_failed">Nie można utworzyć katalogu %1$s</string>
@@ -90,6 +96,7 @@
     <string name="favorite_photo">Zdjęcie</string>
     <string name="favorite_ringtone">Dzwonek</string>
     <string name="favorite_screen_cap">Zrzut ekranu</string>
+    <string name="file_cleanup">Porządkowanie plików</string>
     <string name="file_info_canread">Odczyt:</string>
     <string name="file_info_canwrite">Zapis:</string>
     <string name="file_info_ishidden">Ukryty:</string>
@@ -211,6 +218,7 @@ niepotrzebne pliki"</string>
     <string name="rename_description">Zmiana nazwy, proszę czekać…</string>
     <string name="rename_failed">Zmiana nazw %1$s nieudana</string>
     <string name="restart_cleaning">Ponów</string>
+    <string name="scanned">Skanowanie zakończone</string>
     <string name="scanning" formatted="false">Skanowanie %d aplikacji ... (z %d)</string>
     <string name="scanning_on_going">Skanowanie...</string>
     <string name="sd_card_available">"Dostępne: %1$s"</string>

@@ -145,8 +145,10 @@
     <string name="theme_component_title_ringtone">Dzwonek</string>
     <string name="theme_component_title_statusbar">Pasek statusu</string>
     <string name="theme_component_title_wallpaper">Tapeta pulpitu</string>
+    <string name="theme_current_using_has_update">Aktualny motyw został zaktualizowany, kliknij tu by zastosować zmiany</string>
     <string name="theme_description_title_customized">Własny</string>
     <string name="theme_description_title_default">Domyślny</string>
+    <string name="theme_immediately_apply_tip">Zastosować zaktualizowany motyw?</string>
     <string name="theme_import_activity_label">Aktualizacje motywów</string>
     <string name="theme_import_data">Wczytywanie danych motywu</string>
     <string name="theme_import_fail">Wczytywanie nieudane %1$s</string>
@@ -170,11 +172,11 @@
     <string name="theme_import_stoping">Zatrzymywanie...</string>
     <string name="theme_importing">Wczytywanie motywu…</string>
     <string name="theme_is_imported">Motyw wczytany</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_sdcard_importing">Wczytywanie z karty SD</string>
     <string name="theme_select_others">Inne</string>
     <string name="theme_upgrade_request_cancel">Anuluj</string>
-    <string name="theme_upgrade_request_content">Format lokalnych motywów powinien zostać zaktualizowany. Proces może zająć kilka minut a telefon w tym czasie może nie
-        odpowiadać. Aktualizować motywy?</string>
+    <string name="theme_upgrade_request_content">Format lokalnych motywów powinien zostać zaktualizowany. Proces może zająć kilka minut a telefon w tym czasie może nie odpowiadać. Aktualizować motywy?</string>
     <string name="theme_upgrade_request_title">Wymagana aktualizacja motywu</string>
     <string name="theme_upgrade_request_yes">OK</string>
     <string name="third_party_pickers_activity_title">Ustaw %1$s</string>
