@@ -9,12 +9,6 @@
         <item>Pacyfik</item>
         <item>Wszystkie</item>
     </string-array>
-    <string-array name="date_format_values">
-        <item></item>
-        <item>MM-dd-yyyy</item>
-        <item>dd-MM-yyyy</item>
-        <item>yyyy-MM-dd</item>
-    </string-array>
     <string-array name="screen_timeout_entries">
         <item>15 sek.</item>
         <item>30 sek.</item>
@@ -26,8 +20,8 @@
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>Nigdy</item>
-        <item>15 s</item>
-        <item>30 s</item>
+        <item>15 sek.</item>
+        <item>30 sek.</item>
         <item>1 min</item>
         <item>2 min</item>
         <item>5 min</item>

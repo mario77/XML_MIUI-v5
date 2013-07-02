@@ -1623,6 +1623,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="screen_on_proximity_sensor_title">Przypadkowe użycie</string>
   <string name="screen_saturation_adjust">Nasycenie kolorów</string>
   <string name="screen_timeout">Uśpienie</string>
+  <string name="screen_timeout_title">Uśpienie ekranu</string>
   <string name="screen_timeout_summary">Po %1$s bezczynności</string>
   <string name="screensaver_settings_button">Ustawienia</string>
   <string name="screensaver_settings_disabled_prompt">Aby kontrolować to, co dzieje się, gdy telefon jest zadokowany i/lub w trybie uśpienia, włącz Wygaszacz ekranu.</string>
@@ -1878,7 +1879,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="sync_one_time_sync">"Dotknij, aby zsynchronizować %1$s"</string>
   <string name="sync_plug"><font fgcolor="#ffffffff">Google Sync – witamy!</font>" Synchronizacja danych zapewniająca dostęp do kontaktów, terminów oraz innych informacji z dowolnego miejsca."</string>
   <string name="sync_settings">Konta i synchronizacja</string>
-  <string name="sync_wifi_label">Tylko z Wi-Fi</string>
+  <string name="sync_wifi_label">Ustawienia Wi-Fi</string>
   <string name="system">System</string>
   <string name="system_package">Aktualizacji systemu nie można instalować na nośniku zewnętrznym.</string>
   <string name="system_update_settings_list_item_summary"/>
@@ -2116,8 +2117,9 @@ Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imie
   <string name="virus_scan_app_no_risk">Nie wykryto zagrożeń.</string>
   <string name="virus_scan_app_passed">Skanowanie ukończone.</string>
   <string name="virus_scan_app_risk">Znaleziono zagrożenie!</string>
-  <string name="virus_scan_app_safe_scanning">Skanowanie uruchomione</string>
-  <string name="virus_scan_app_scan_finish">Skanowanie ukończone...</string>
+  <string name="virus_scan_app_safe_scanning">Skanowanie...</string>
+  <string name="virus_scan_app_scan_finish">"Skanowanie
+zakończone"</string>
   <string name="virus_scan_app_scanning">Skanowanie aplikacji</string>
   <string name="virus_scan_app_stop_scan">Zatrzymaj skanowanie</string>
   <string name="virus_scan_app_uninstall">Grupowa deinstalacja (%d)</string>
@@ -2129,15 +2131,15 @@ Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imie
   <string name="virus_scanner_lib_update_failed">Aktualizacja bazy wirusów nieudana</string>
   <string name="virus_scanner_lib_updating">Aktualizacja bazy...</string>
   <string name="virus_scanner_manual_update">Aktualizacja ręczna</string>
-  <string name="virus_scanner_provider">Security provided by %s</string>
+  <string name="virus_scanner_provider">Bezpieczeństwo zapewnia %s</string>
   <string name="virus_scanner_scan">Skanuj teraz</string>
   <string name="virus_scanner_scanning">Sprawdź aplikacje</string>
-  <string name="virus_scanner_select_Cancel">Anulowane</string>
+  <string name="virus_scanner_select_Cancel">Anuluj</string>
   <string name="virus_scanner_select_OK">OK</string>
   <string name="virus_scanner_select_lib">Baza wirusów</string>
   <string name="virus_scanner_select_multi">Zaznaczenie więcej jak jednej bazy danych będzie wymagać reinstalacji</string>
-  <string name="virus_scanner_select_single">Wybierz najbardziej zaufaną bazę wirusów</string>
-  <string name="virus_scanner_select_trust_lib">Wybierz zaufaną bibliotekę wirusów</string>
+  <string name="virus_scanner_select_single">Wybierz zaufaną bazę wirusów</string>
+  <string name="virus_scanner_select_trust_lib">Wybierz bazę wirusów</string>
   <string name="virus_scanner_title">Antywirus</string>
   <string name="virus_scanner_update_lib">Uaktualnij bazę wirusów</string>
   <string name="voice_category">Mowa</string>
