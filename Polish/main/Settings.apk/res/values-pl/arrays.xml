@@ -427,4 +427,10 @@ komputer automatycznie odczyta zawartość telefonu"</item>
         <item>Zezwól</item>
         <item>Odmów</item>
     </string-array>
+        <string-array name="change_security_lock_picker">
+        <item>Odblokowanie twarzą</item>
+        <item>Wzór</item>
+        <item>Hasło numeryczne</item>
+        <item>Hasło alfanumeryczne</item>
+    </string-array>
  </resources>

@@ -520,6 +520,8 @@ Czy włączyć funkcję?"</string>
   <string name="cdma_security_settings_summary">Ustaw funkcję Moja lokalizacja, odblokowywanie ekranu, blokadę magazynu danych logowania</string>
   <string name="cell_broadcast_settings">Transmisje komórkowe</string>
   <string name="cell_broadcast_settings_summary">Wybierz typy alertów o zagrożeniu, które chcesz wyświetlić.</string>
+  <string name="change_password">Zmień hasło</string>
+  <string name="change_security_lock">Wybierz metody zabezpieczenia telefonu</string>
   <string name="checkbox_notification_same_as_incoming_call">Użyj głośności połączeń przychodzących dla powiadomień</string>
   <string name="choose_timezone">Wybierz strefę czasową</string>
   <string name="clear_activities">Wyczyść domyślne</string>
@@ -1090,6 +1092,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="lockpattern_retry_button_text">Ponów próbę</string>
   <string name="lockpattern_settings_change_lock_pattern">Zmień wzór odblokowania</string>
   <string name="lockpattern_settings_choose_lock_pattern">Ustaw wzór odblokowania</string>
+  <string name="lock_settings_common_title">Zabezpieczenia</string>
   <string name="lockpattern_settings_enable_power_button_instantly_locks">Blokada przyciskiem zasilania</string>
   <string name="lockpattern_settings_enable_summary">Trzeba narysować wzór, aby odblokować ekran</string>
   <string name="lockpattern_settings_enable_tactile_feedback_title">Wibracje przy dotknięciu</string>
@@ -1954,6 +1957,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="tts_settings_changed_demo">Ustawienia zostały zmienione. Oto przykład aktualnie skonfigurowanego brzmienia.</string>
   <string name="tts_settings_title">Przetwarzanie tekstu na mowę</string>
   <string name="turn_off_radio">Wyłącz radio</string>
+  <string name="turn_off_security_lock">Wyłącz zabezpieczenia</string>
   <string name="turn_on_radio">Włącz radio</string>
   <string name="under_keyguard">Na ekranie blokady</string>
   <string name="uninstall_all_users_text">Odinstaluj dla wszystkich użytkowników</string>
@@ -2469,7 +2473,7 @@ zakończone"</string>
   <string name="wps_connect_summary">Upewnij się, że router bezprzewodowy ma możliwość łączenia urządzeń za pomocą WPS.</string>
   <string name="wps_connect_title">Przycisk WPS</string>
   <string name="xiaomi_account">Xiaomi</string>
-  <string name="xiaomi_cloud_service">Usługi chmury Xiaomi</string>
+  <string name="xiaomi_cloud_service">Usługi Xiaomi</string>
   <string name="xiaomi_money_service">Mi Kredyty</string>
   <string name="yes">Tak</string>
   <string name="zone_auto">Autom. strefa czasowa</string>
