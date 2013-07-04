@@ -24,7 +24,8 @@
 	<string name="backup_data">Kopia zapasowa</string>
 	<string name="backup_delete">Usuń:</string>
 	<string name="backup_empty">Nie znaleziono danych kopii zapasowej</string>
-	<string name="backup_empty_info">Zachowaj kopie zapasowe danych, ustawień i aplikacji</string>
+	<string name="backup_empty_info">" Wykonaj kopię zapasową ustawień systemu, 
+danych i aplikacji"</string>
 	<string name="backup_error">Błąd kopii</string>
 	<string name="backup_failed">Kopia nieudana. Spróbuj ponownie</string>
 	<string name="backup_file_error">Wystąpił problem z kopią, operacja nieprawidłowa.</string>
@@ -82,7 +83,7 @@
 	<string name="enable_encrypt_title">Szyfrowanie kopii zapasowej</string>
 	<string name="enable_encrypt_xiaomi_account">Kopia stworzona przez %1$s, usuń aktualne konto i zaloguj jako %2$s by przywrócić dane z tej kopii.</string>
 	<string name="exchange_account">Konto Exchange</string>
-	<string name="fail">failed</string>
+	<string name="fail">nieudane</string>
 	<string name="findlost_contact">Znajdź kontakt</string>
 	<string name="findlost_contact_online">Odzyskaj usunięte kontakty z sieci</string>
 	<string name="guarded_mode_dialog_message">Nie można użyć kopii czy przywracania w trybie chronionym</string>
@@ -157,12 +158,12 @@
 	<string name="task_canceled">Anulowane zadania</string>
 	<string name="task_canceled_all_local">Anuluj zadanie</string>
 	<string name="task_canceled_local">Następujące zadania %s zostały anulowane</string>
-	<string name="task_cloud_backup_cancel_dialog">"Kopia w trakcie Kliknij OK by anulować zadanie"</string>
+	<string name="task_cloud_backup_cancel_dialog">"Kopia w trakcie. Kliknij OK by anulować zadanie"</string>
 	<string name="task_failed">Nieudane zadania</string>
 	<string name="task_failed_all_local">Zadanie nieudane</string>
 	<string name="task_failed_local">Zadanie %s nie zostało zakończone</string>
 	<string name="task_finished">Wykonano</string>
-	<string name="task_local_backup_cancel_dialog">"Kopia w trakcie Kliknij OK by anulować zadanie"</string>
+	<string name="task_local_backup_cancel_dialog">"Kopia w trakcie. Kliknij OK by anulować zadanie"</string>
 	<string name="task_pending">Oczekujące</string>
 	<string name="task_post_running">Wykonane</string>
 	<string name="task_pre_running">Wykonywanie</string>

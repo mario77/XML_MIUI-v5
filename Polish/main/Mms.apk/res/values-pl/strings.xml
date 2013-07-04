@@ -291,7 +291,7 @@
     <string name="priority_normal">Normalny</string>
     <string name="privacy_mode_hint">Nie można wysłać wiadomości w trybie chronionym</string>
     <string name="private_message">Prywatne wiadomości</string>
-    <string name="private_new_notification">Powiadom o nadejściu wiadomości</string>
+    <string name="private_new_notification">Pokaż powiadomienie</string>
     <string name="private_protect">Ochrona prywatności</string>
     <string name="private_settings">Ustawienia</string>   
     <string name="processing">Przetwarzanie...</string>

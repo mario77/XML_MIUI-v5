@@ -521,7 +521,7 @@ Czy włączyć funkcję?"</string>
   <string name="cell_broadcast_settings">Transmisje komórkowe</string>
   <string name="cell_broadcast_settings_summary">Wybierz typy alertów o zagrożeniu, które chcesz wyświetlić.</string>
   <string name="change_password">Zmień hasło</string>
-  <string name="change_security_lock">Wybierz metody zabezpieczenia telefonu</string>
+  <string name="change_security_lock">Wybierz zabezpieczenia telefonu</string>
   <string name="checkbox_notification_same_as_incoming_call">Użyj głośności połączeń przychodzących dla powiadomień</string>
   <string name="choose_timezone">Wybierz strefę czasową</string>
   <string name="clear_activities">Wyczyść domyślne</string>
@@ -1093,7 +1093,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="lockpattern_settings_change_lock_pattern">Zmień wzór odblokowania</string>
   <string name="lockpattern_settings_choose_lock_pattern">Ustaw wzór odblokowania</string>
   <string name="lock_settings_common_title">Zabezpieczenia</string>
-  <string name="lockpattern_settings_enable_power_button_instantly_locks">Blokada przyciskiem zasilania</string>
+  <string name="lockpattern_settings_enable_power_button_instantly_locks">Natychmiastowe blokowanie</string>
   <string name="lockpattern_settings_enable_summary">Trzeba narysować wzór, aby odblokować ekran</string>
   <string name="lockpattern_settings_enable_tactile_feedback_title">Wibracje przy dotknięciu</string>
   <string name="lockpattern_settings_enable_title">Wymagaj wzoru</string>
@@ -2473,7 +2473,7 @@ zakończone"</string>
   <string name="wps_connect_summary">Upewnij się, że router bezprzewodowy ma możliwość łączenia urządzeń za pomocą WPS.</string>
   <string name="wps_connect_title">Przycisk WPS</string>
   <string name="xiaomi_account">Xiaomi</string>
-  <string name="xiaomi_cloud_service">Usługi Xiaomi</string>
+  <string name="xiaomi_cloud_service">Xiaomi</string>
   <string name="xiaomi_money_service">Mi Kredyty</string>
   <string name="yes">Tak</string>
   <string name="zone_auto">Autom. strefa czasowa</string>
