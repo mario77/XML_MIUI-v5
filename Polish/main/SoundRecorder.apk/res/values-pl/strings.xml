@@ -20,6 +20,7 @@
     <string name="dialog_warning">Ostrzeżenie</string>
     <string name="error_app_internal">Błąd wewnętrzny aplikacji</string>
     <string name="error_app_internal_title">Błąd aplikacji</string>
+    <string name="error_filename_too_long">Zbyt długa nazwa pliku</string>
     <string name="error_mediadb_new_record">Nie udało się zapisać nagrania</string>
     <string name="error_sdcard_access">Błąd połączenia z SD</string>
     <string name="fm_record">Nagrania z FM (%d)</string>

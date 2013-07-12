@@ -104,7 +104,7 @@ Ponowne uruchomienie za: %d sekund."</string>
     <string name="share_update_content_unsign">Zaktualizowano MIUI do %1$s! Changelog (po chińsku): %2$s</string>
     <string name="sign_in_add_account">Aktywuj konto Xiaomi</string>
     <string name="sign_in_add_account_helper">Utwórz konto MIUI</string>
-    <string name="sign_in_info">"Your update ranking is %1$s %2$s users have signed in for MIUI %3$s"</string>
+    <string name="sign_in_info"/>
     <string name="sign_in_info_rank_more"/>
     <string name="sign_in_info_total_more"/>
     <string name="stable_build">Wersja stabilna</string>
@@ -122,6 +122,7 @@ Ponowne uruchomienie za: %d sekund."</string>
     <string name="system_backup_helper">Aktualizacja nie ma wpływu na dane użytkownika. Zaleca się jednak wykonanie kopii danych osobistych za pomocą aplikacji Kopia MIUI.</string>
     <string name="system_backup_ok_text">Kopia</string>
     <string name="top_secret_build">Ściśle tajna wersja</string>
+    <string name="unstable_build">Wersja niestabilna</string>
     <string name="update_comment_hint">(opcjonalne)</string>
     <string name="update_comment_title">Twoje komentarze</string>
     <string name="update_feedback">Opinie o MIUI</string>

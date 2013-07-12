@@ -191,9 +191,9 @@ Opuść na chwilę widok"</string>
   <string name="pref_camera_focusmode_entry_normal">Ręczny</string>
   <string name="pref_camera_focusmode_title">Tryb ostrości</string>
   <string name="pref_camera_hand_night_title">Tryb nocny</string>
-  <string name="pref_camera_hfr_entry_2x">60</string>
-  <string name="pref_camera_hfr_entry_3x">90</string>
-  <string name="pref_camera_hfr_entry_4x">120</string>
+  <string name="pref_camera_hfr_entry_2x">60 FPS</string>
+  <string name="pref_camera_hfr_entry_3x">90 FPS</string>
+  <string name="pref_camera_hfr_entry_4x">120 FPS</string>
   <string name="pref_camera_hfr_entry_off">Wył</string>
   <string name="pref_camera_hfr_title">Zwolnione tempo (HFR)</string>
   <string name="pref_camera_histogram_entry_disable">Wył</string>
@@ -337,6 +337,9 @@ Opuść na chwilę widok"</string>
   <string name="pref_video_continuous_focus_entry_off">Wył</string>
   <string name="pref_video_continuous_focus_entry_on">Wł</string>
   <string name="pref_video_captrue_ability_title">Przechwytywanie zdjęć</string>
+  <string name="pref_video_focusmode_entry_auto">Ręczny</string>
+  <string name="pref_video_focusmode_entry_continuous">Ciągły</string>
+  <string name="pref_video_focusmode_title">Tryb ostrości</string>
   <string name="pref_video_quality_entry_1080p">1080p</string>
   <string name="pref_video_quality_entry_480p">SD 480p</string>
   <string name="pref_video_quality_entry_720p">HD 720p</string>

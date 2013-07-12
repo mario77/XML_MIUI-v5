@@ -965,7 +965,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="input_methods_and_subtype_enabler_title">Wybierz aktywne metody wprowadzania</string>
   <string name="input_methods_settings_label_format">Ustawienia %1$s</string>
   <string name="input_methods_settings_title">Wprowadzanie tekstu</string>
-  <string name="input_settings">Ustawienia wprowadzania</string>
+  <string name="input_settings">Ułatwienia wprowadzania</string>
   <string name="install_all_warning">Telefon i dane osobiste są bardziej narażone na atak za pomocą aplikacji z nieznanych źródeł. Zgadzasz się ponieść pełną odpowiedzialność za wszelkie uszkodzenia telefonu oraz utratę danych, które mogą wyniknąć ze stosowania tych aplikacji.</string>
   <string name="install_applications">Nieznane źródła</string>
   <string name="install_text">Zainstaluj</string>
@@ -1040,6 +1040,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="lock_intro_message">"Chroń swój telefon przed nieautoryzowanym użyciem, tworząc osobisty wzór odblokowania ekranu. Na następnym ekranie połącz palcem co najmniej cztery kropki w dowolnej kolejności. Wszystko gotowe? Wybierz Dalej."</string>
   <string name="lock_screen_unlock_show">Wyświetl ekran z hasłem bezpośrednio</string>
   <string name="lock_screen_unlock_show_summary">"Nie używa innych ekranów blokady po włączeniu tej funkcji"</string>
+  <string name="lock_settings_common_title">Zabezpieczenia</string>
   <string name="lock_settings_picker_settings">Ustaw ekran blokady</string>
   <string name="lock_settings_picker_title">Wybierz blokadę ekranu</string>
   <string name="lock_settings_title">Zabezpieczenie ekranu</string>
@@ -1092,7 +1093,6 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="lockpattern_retry_button_text">Ponów próbę</string>
   <string name="lockpattern_settings_change_lock_pattern">Zmień wzór odblokowania</string>
   <string name="lockpattern_settings_choose_lock_pattern">Ustaw wzór odblokowania</string>
-  <string name="lock_settings_common_title">Zabezpieczenia</string>
   <string name="lockpattern_settings_enable_power_button_instantly_locks">Natychmiastowe blokowanie</string>
   <string name="lockpattern_settings_enable_summary">Trzeba narysować wzór, aby odblokować ekran</string>
   <string name="lockpattern_settings_enable_tactile_feedback_title">Wibracje przy dotknięciu</string>
@@ -1160,6 +1160,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="memory_media_usage">Multimedia</string>
   <string name="memory_music_usage">Dźwięk (muzyka, dzwonki, podcasty itp.)</string>
   <string name="memory_size">Całkowita pojemność</string>
+  <string name="memory_title">Dostępne %1$s\u0009\u0009Razem %2$s</string>
   <string name="menu_cancel">Odrzuć</string>
   <string name="menu_delete">Usuń APN</string>
   <string name="menu_key">Przycisk Menu</string>
