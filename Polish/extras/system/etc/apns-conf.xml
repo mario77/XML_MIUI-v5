@@ -2926,7 +2926,7 @@
   <apn carrier="Plus Internet"
       mcc="260"
       mnc="01"
-      apn="internet"
+      apn="plus"
       type="default,supl"
   />
 
