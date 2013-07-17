@@ -42,8 +42,8 @@
   <string name="answer_widget_sliding_horizontal_miui">Przesunięcie w poziomie</string>
   <string name="answer_widget_sliding_vertical_miui">Przesunięcie w pionie</string>
   <string name="answer_widget_title_miui">Odbieranie połączeń</string>
-  <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_marked_count">Odrzuconych: %1$d</string>
+  <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_notification_title">Nieznany numer</string>
   <string name="apn_settings">Punkty dostępowe</string>
   <string name="areacode_required_accept_miui">OK</string>
@@ -110,6 +110,7 @@
   <string name="bad_puk2_miui">The PUK2 you typed is not correct. Please try again.</string>
   <string name="bad_puk_miui">Kod PUK jest nieprawidłowy. Spróbuj ponownie.</string>
   <string name="bf_news_settings">Wiadomości biznesowe i finansowe</string>
+  <string name="callFailed_cb_enabled">"You can't make outgoing calls while call barring is on."</string>
   <string name="callFailed_congestion">Sieć zajęta</string>
   <string name="callFailed_dsac_restricted">Wszystkie połączenia są zablokowane przez funkcję kontroli dostępu.</string>
   <string name="callFailed_dsac_restricted_emergency">Połączenia alarmowe są zablokowane przez funkcję kontroli dostępu.</string>
@@ -128,7 +129,7 @@
   <string name="callFailed_timedOut">Brak odpowiedzi, przekroczono limit czasu</string>
   <string name="callFailed_unobtainable_number">Nieprawidłowy numer</string>
   <string name="callFailed_userBusy">Linia jest zajęta</string>
-    <string name="callUnanswered_forwarded">Nieodebrane i przekazane połączenia</string>
+  <string name="callUnanswered_forwarded">Nieodebrane i przekazane połączenia</string>
   <string name="call_assistant_miui">Wspomaganie wybierania</string>
   <string name="call_forwarding_number_hint_miui">Wpisz numer do przekazania</string>
   <string name="call_forwarding_settings">Przekazywanie połączeń</string>
@@ -160,6 +161,7 @@
   <string name="caller_id_sum_miui">Ukryj/pokaż numer dla połączeń wychodzących (jeśli wspierane przez operatora)</string>
   <string name="caller_id_title_miui">ID rozmówcy</string>
   <string name="caller_manage_header">Połączenie konferencyjne %s</string>
+  <string name="caller_manage_manage_done_text_miui">Powrót do połączenia</string>
   <string name="calling_via_template">"Połączenie za pośrednictwem operatora %s"</string>
   <string name="calling_via_template_miui">"Połączenie za pośrednictwem operatora %s"</string>
   <string name="cancel">Anuluj</string>
@@ -243,6 +245,7 @@
   <string name="default_contacts_countrycode_hint_miui">Na przykład: 48</string>
   <string name="default_contacts_countrycode_miui">Kierunkowy kraju dla kontaktów</string>
   <string name="default_contacts_countrycode_sum_miui">Ustaw domyślny kod kierunkowy kraju dla kontaktów: %s</string>
+  <string name="default_notification_description">Domyślny dźwięk (%1$s)</string>
   <string name="default_port">5060</string>
   <string name="default_preference_summary">Nie ustawione</string>
   <string name="default_transport">UDP</string>
@@ -438,6 +441,7 @@
   <string name="incall_error_supp_service_unknown">Nieobsługiwana usługa.</string>
   <string name="incall_screen_background_summary_miui">"Użyj tapety ekranu blokady jeśli nie ustawiono zdjęcia kontaktu"</string>
   <string name="incall_screen_background_title_miui">Tło ekranu rozmowy</string>
+  <string name="incall_status_dialed_mmi">Starting MMI sequence…</string>
   <string name="international_disable">Wiadomości międzynarodowe wyłączone</string>
   <string name="international_enable">Wiadomości międzynarodowe włączone</string>
   <string name="internet_phone">Połączenie internetowe</string>
@@ -466,8 +470,8 @@
   <string name="labelNwService">Ustawienia usługi sieciowej</string>
   <string name="label_available">Dostępne sieci</string>
   <string name="label_ndp">Kod PIN do karty SIM odblokowujący sieć</string>
-  <string name="label_puk">Wpisz kod PUK</string>
-  <string name="label_puk2_code">Wprowadź kod PUK2</string>
+  <string name="label_puk2_code">Wpisz kod PUK</string>
+  <string name="label_puk2_code_miui">Wprowadź kod PUK2</string>
   <string name="label_puk_code_miui">Input PUK code</string>
   <string name="label_rcdp">UIM corporate unlock PIN</string>
   <string name="label_rdp">UIM UIM unlock PIN</string>
@@ -509,20 +513,20 @@
   <string name="mismatchPin2">Wpisane kody PIN2 nie są identyczne. Spróbuj ponownie.</string>
   <string name="mismatch_pin2_miui">Wpisane kody PIN nie są identyczne. Spróbuj ponownie.</string>
   <string name="mismatch_pin_miui">Wpisane kody PIN2 nie są identyczne. Spróbuj ponownie.</string>
-  <string name="missed_call_notify_five_times_miui">5 razy</string>
   <string name="missed_call_notify_five_times">5 razy</string>
-  <string name="missed_call_notify_none_miui">Nigdy</string>
+  <string name="missed_call_notify_five_times_miui">5 razy</string>
   <string name="missed_call_notify_none">Nigdy</string>
-  <string name="missed_call_notify_once_miui">Tylko raz</string>
+  <string name="missed_call_notify_none_miui">Nigdy</string>
   <string name="missed_call_notify_once">Tylko raz</string>
-  <string name="missed_call_notify_ten_times_miui">10 razy</string>
+  <string name="missed_call_notify_once_miui">Tylko raz</string>
   <string name="missed_call_notify_ten_times">10 razy</string>
-  <string name="missed_call_notify_thrice_miui">3 razy</string>
+  <string name="missed_call_notify_ten_times_miui">10 razy</string>
   <string name="missed_call_notify_thrice">3 razy</string>
+  <string name="missed_call_notify_thrice_miui">3 razy</string>
   <string name="missed_call_notify_times_summary_miui">Określ ilość przypomnień o nieodebranych połączeniach. Przypomnienie co 5 minut.</string>
   <string name="missed_call_notify_times_title_miui">Nieodebrane połączenia</string>
-  <string name="missed_call_notify_twice_miui">2 razy</string>
   <string name="missed_call_notify_twice">2 razy</string>
+  <string name="missed_call_notify_twice_miui">2 razy</string>
   <string name="mmiCancelled">Kod MMI został anulowany</string>
   <string name="mmiStarted">Kod MMI został rozpoczęty</string>
   <string name="mobile_network_setting">Ustawienia sieci</string>
@@ -533,6 +537,7 @@
   <string name="name">Nazwa</string>
   <string name="national_disable">Wiadomości krajowe wyłączone</string>
   <string name="national_enable">Wiadomości krajowe włączone</string>
+  <string name="network_forbidden_miui">%s (zakazane)</string>
   <string name="network_manage_settings">Ustawienia Sieci</string>
   <string name="network_message">Komunikat sieciowy</string>
   <string name="network_query_error">Podczas wyszukiwania sieci wystąpił błąd.</string>
@@ -559,6 +564,7 @@
   <string name="not_connected_miui">Niepołączone</string>
   <string name="not_voice_capable">Połączenia głosowe niemożliwe</string>
   <string name="notification_action_end_call">Rozłącz</string>
+  <string name="notification_dialing">Łączenie</string>
   <string name="notification_incoming_call">Połączenie przychodzące</string>
   <string name="notification_missedCallTicker">Nieodebrane połączenie z %s</string>
   <string name="notification_missedCallTitle">Nieodebrane połączenie</string>
@@ -715,6 +721,7 @@
   <string name="preferred_network_type_pref_entries_global_miui">Globalnie</string>
   <string name="preferred_network_type_pref_entries_only_2g_miui">Tylko 2G</string>
   <string name="preferred_network_type_pref_entries_only_3g_miui">Tylko 3G</string>
+  <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title_miui">Tryb sieciowy</string>
   <string name="primary_account_summary_with">Podstawowe konto. %s</string>
   <string name="private_num">Numer prywatny</string>
@@ -724,14 +731,15 @@
   <string name="proxy_address">ProxyAddress</string>
   <string name="proxy_address_title">Adres proxy</string>
   <string name="pstn_phone">Połączenie komórkowe</string>
-  <string name="puk2_requested">Hasło jest nieprawidłowe, SIM zablokowana! Kod PUK2 jest wymagany.</string>
-  <string name="puk2_blocked">PUK2 jest zablokowany.</string>  
+  <string name="puk2_blocked">PUK2 jest zablokowany.</string>
+  <string name="puk2_requested">Hasło jest nieprawidłowe, SIM zablokowana! Kod PUK2 jest wymagany.</string>  
   <string name="puk_lock_warning_miui">" Karta SIM zostanie nieodwracalnie zablokowana jeśli następna próba będzie niepomyślna!"</string>
   <string name="puk_requested">Hasło nieprawidłowe, SIM zablokowana! PUK2 jest wymagany.</string>
   <string name="puk_unlock_success">Odblokowanie PUK pomyślne.</string>
   <string name="puk_unlocked">Karta SIM została odblokowana. Odblokowywanie telefonu...</string>
   <string name="radio_off_error">Przed wyświetleniem tych ustawień należy włączyć sieci bezprzewodowe.</string>
   <string name="rc_unlock_failed">RUIM Corporate unlock request unsuccessful.</string>
+  <string name="readingSimContacts">Odczytywanie informacji z SIM…</string>
   <string name="reading_settings">Czytanie ustawień...</string>
   <string name="regional_disable">Wiadomości regionalne wyłączone</string>
   <string name="regional_enable">Wiadomości regionalne włączone</string>
@@ -805,6 +813,8 @@
   <string name="search_networks">Wyszukaj sieci</string>
   <string name="selectContact">wybierz kontakt</string>
   <string name="select_automatically">Wybierz automatycznie</string>
+   <string name="select_network_automatic_hint_miui">"Nie można zarejestrować wybranej sieci,
+sieć zostanie wybrana automatycznie"</string>
   <string name="sendSms">Wyślij SMS</string>
   <string name="send_button">Wyślij</string>
   <string name="send_keepalive">SendKeepAlive</string>
@@ -867,6 +877,7 @@
   <string name="stock_quotes_disable">Notowania giełdowe wyłączone</string>
   <string name="stock_quotes_enable">Notowania giełdowe włączone</string>
   <string name="sum_carrier_select">Wybierz operatora sieci</string>
+  <string name="sum_cdma_call_settings">Additional CDMA only call settings</string>
   <string name="sum_cfb_disabled">Wyłączone</string>
   <string name="sum_cfb_enabled">Przekazywanie do {0}</string>
   <string name="sum_cfnrc_disabled">Wyłączone</string>
@@ -891,9 +902,9 @@
   <string name="sum_select_automatically_option_miui">Preferowane sieć %s wybrana automatycznie</string>
   <string name="sum_show_caller_id">Numer wyświetlany w połączeniach wychodzących</string>
   <string name="sum_voicemail_choose_provider">Wybierz usługę poczty głosowej</string>
-  <string name="t9_indexing_method_pinyin">Alfabetycznie</string>
+  <string name="t9_indexing_method_pinyin">Alfabetycznie (polski)</string>
   <string name="t9_indexing_method_title_miui">Wyszukiwanie T9</string>
-  <string name="t9_indexing_method_zhuyin">Fonetycznie</string>
+  <string name="t9_indexing_method_zhuyin">Fonetycznie (chiński)</string>
   <string name="t9_indexing_rebuilding_message">Przebudowa indeksu T9…</string>
   <string name="technology_news_disable">Wiadomości technologiczne wyłączone</string>
   <string name="technology_news_enable">Wiadomości technologiczne włączone</string>

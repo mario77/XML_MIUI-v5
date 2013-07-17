@@ -68,7 +68,7 @@
 	<string name="inbound_history_title">Transmisje przychodzące</string>
 	<string name="inbound_noti_title">Bluetooth: odebrane pliki</string>
 	<string name="incoming_file_confirm_Notification_caption">Potwierdź, że chcesz otrzymać ten plik</string>
-	<string name="incoming_file_confirm_Notification_title">Bluetooth: Plik przychodzący</string>
+	<string name="incoming_file_confirm_Notification_title">Plik przychodzący</string>
 	<string name="incoming_file_confirm_cancel">Odrzuć</string>
 	<string name="incoming_file_confirm_content" formatted="false">"\"%1$s\" chce przesłać Tobie %2$s (%3$s). 
 

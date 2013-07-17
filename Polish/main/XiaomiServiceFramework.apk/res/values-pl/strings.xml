@@ -21,6 +21,32 @@
     <string name="available_functionality">Dostępne funkcje</string>
     <string name="bad_authentication">Błąd weryfikacji. Nazwa użytkownika lub hasło nieprawidłowe</string>
     <string name="balance">Saldo: %1$s Mi Kredytów</string>
+    <string name="bankcall_bank_account">Karta bankowa:</string>
+    <string name="bankcall_call_hint">"You will receive Union pays call on (020-96585). Please follow prompts to complete transaction."</string>
+    <string name="bankcall_card">Bank card</string>
+    <string name="bankcall_card_hint">Please enter bank account number</string>
+    <string name="bankcall_card_type">%1$s-%2$s</string>
+    <string name="bankcall_city">City</string>
+    <string name="bankcall_credit_card">Credit card</string>
+    <string name="bankcall_debit_card">Debit card</string>
+    <string name="bankcall_denom">Payments:</string>
+    <string name="bankcall_denom_number">%1$s RMB</string>
+    <string name="bankcall_error_card">Please enter a valid bank account number</string>
+    <string name="bankcall_error_card_info">Please enter valid bank account infomation</string>
+    <string name="bankcall_hint">"This service is authorized by Unionpay and
+    has several encryptions to ensure your financial security"</string>
+    <string name="bankcall_id_card">ID card</string>
+    <string name="bankcall_id_card_hint">"Bank account's corresponding ID card"</string>
+    <string name="bankcall_merchant">Receiver:</string>
+    <string name="bankcall_name">Name</string>
+    <string name="bankcall_name_hint">"Bank account's corresponding name"</string>
+    <string name="bankcall_phone">Phone</string>
+    <string name="bankcall_phone_credit_hint">"Bank account's corresponding personal phone number"</string>
+    <string name="bankcall_phone_debit_hint">Ensure stable network</string>
+    <string name="bankcall_province">Province</string>
+    <string name="bankcall_saved_card_info">%1$s - Ends with %2$s</string>
+    <string name="bankcall_saved_phone">Phone number: %1$s</string>
+    <string name="bankcall_xiaomi_company">Xiaomi Corporation</string>
     <string name="bind_sina_weibo">Autoryzuj Sina Weibo</string>
     <string name="bind_weibo_description">"Znajdź kontakty z telefonu i znajomych za pomocą Wiebo.
     UWAGA: aplikacja nie działa w Europie."</string>
@@ -38,6 +64,8 @@
     <string name="btn_recharge_success">Recharge completed</string>
     <string name="btn_recharge_success_quick">Recharge completed</string>
     <string name="btn_voucher">Mi Credit card (%1$s)</string>
+    <string name="btn_wait_call">Oczekiwanie</string>
+    <string name="btn_wait_call_count">Oczekiwanie (%1$s)</string>
     <string name="button_cancel">Anuluj</string>
     <string name="button_pay">Potwierdź</string>
     <string name="button_recharge">Doładuj</string>

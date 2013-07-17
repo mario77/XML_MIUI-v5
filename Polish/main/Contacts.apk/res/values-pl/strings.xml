@@ -7,6 +7,7 @@
     <string name="account_type_format">Kontakt %1$s</string>
     <string name="actionIncomingCall">Przychodzące</string>
     <string name="action_menu_overflow_description">Więcej opcji</string>
+    <string name="activity_not_found_uri">Nie znaleziono wspieranej aplikacji!</string>
     <string name="activity_title_confirm_add_detail">Dodaj do kontaktów</string>
     <string name="activity_title_contacts_filter">Kontakty do wyświetlenia</string>
     <string name="activity_title_settings">Ustawienia</string>
@@ -128,8 +129,8 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="chat_qq">QQ</string>
     <string name="chat_skype">Skype</string>
     <string name="chat_yahoo">Yahoo</string>
-    <string name="check_unsynchronized_accounts">Synchronizacja</string>
-    <string name="checkhint">check the other phone</string>
+    <string name="check_unsynchronized_accounts">Synchronizacja kontaktów</string>
+    <string name="checkhint">sprawdź inny telefon</string>
     <string name="clearCallLogConfirmation">Wszystkie dane połączeń zostaną usunięte.</string>
     <string name="clearCallLogConfirmation_title">Usunąć rejestr połączeń?</string>
     <string name="clearCallLogProgress_title">Czyszczenie rejestru połączeń…</string>
@@ -153,6 +154,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="config_prohibited_phone_number_regexp"/>
     <string name="confirm_delete_contact_all_call_logs">"Na pewno usunąć rejestr połączeń dla %s?"</string>
     <string name="confirm_delete_selected_all_call_logs">"Na pewno usunąć rejestr połączeń dla kontaktu?"</string>
+    <string name="confirm_delete_sim_entry_miui">"Na pewno usunąć %d zaznaczonych kontaktów z karty SIM?"</string>
     <string name="confirm_export_message">Lista kontaktów zostanie skopiowana do pliku: %s.</string>
     <string name="confirm_export_title">Skopiować kontakty?</string>
     <string name="connections">Połączenia</string>
@@ -208,7 +210,11 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="delete_duplicate_message">"Łączenie ... "</string>
     <string name="delete_group_dialog_message">"Usunąć grupę \"%1$s\"? (Kontakty nie zostaną usunięte)."</string>
     <string name="delete_group_dialog_title">Usuń grupę</string>
+    <string name="delete_selected_sim_entry_miui">Usunąć zaznaczone kontakty?</string>
+    <string name="delete_sim_entries_finish">Usunięto zaznaczone kontakty z SIM</string>
+    <string name="delete_sim_entry_miui">Usuń kontakty z SIM</string>
     <string name="delete_unknown_contact_calllog_title">"Potwierdzić usunięcie nieznanych kontaktów z rejestru połączeń?"</string>
+    <string name="deleting_sim_entry_miui">Usuwanie kontaktów z SIM</string>
     <string name="description_add_contact">Dodaj kontakt</string>
     <string name="description_author">Autor:</string>
     <string name="description_call">Połącz z: %1$s</string>
@@ -398,6 +404,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="ic_menu_done">Gotowe</string>
     <string name="imLabelsGroup">Komunikatory</string>
     <string name="imei">IMEI</string>
+    <string name="import_all_sim_entries_miui">Przywróć wszystkie kontakty</string>
     <string name="import_all_vcard_string">Przywróć wszystkie pliki vCard</string>
     <string name="import_contact_card_button">Przywróć</string>
     <string name="import_failure_no_vcard_file">Brak pliku vCard z kontaktami.</string>
@@ -408,6 +415,9 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="import_name">nazwa</string>
     <string name="import_one_vcard_string">Przywróć jeden plik vCard</string>
     <string name="import_percent">0%</string>
+    <string name="import_selected_sim_entries_miui">Przywróć zaznaczone kontakty</string>
+    <string name="import_sim_entries_finish">Przywracanie kontaktów z SIM ukończone</string>
+    <string name="import_sim_entry_miui">Przywróć z SIM</string>
     <string name="import_to_xiaomi_account_confirm">Kopiowanie</string>
     <string name="import_to_xiaomi_account_progress_finish">Kopiowanie zakończone</string>
     <string name="import_to_xiaomi_account_progress_message">Kopiowanie...</string>
@@ -424,6 +434,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="import_weibo_notification_title_done">Updated %s sina weibo contacts</string>
     <string name="import_weibo_progress_name">%1$s</string>
     <string name="import_weibo_progress_percent">%1$d%%</string>
+    <string name="importing_sim_contacts_miui">Przywracanie kontaktów z SIM...</string>
     <string name="importing_vcard_canceled_title">Anulowano przywracanie pliku %s</string>
     <string name="importing_vcard_description">Przywracanie %s</string>
     <string name="importing_vcard_finished_title">Zakończono przywracanie pliku vCard %s</string>
@@ -662,10 +673,10 @@ Aby dodać kontakt do listy ulubionych:
     <string name="postal_region">Województwo</string>
     <string name="postal_street">Ulica</string>
     <string name="pref_key_photo">Zdjęcia kontaktów</string>
-    <string name="pref_key_photo_word_summary">Jeśli nie ustawiono zdjęcia kontaktu system ustawi domyślne</string>
-    <string name="pref_key_photo_word_title">Autom. dodawanie zdjęć</string>
-    <string name="pref_key_rebuild_t9_index_message">Naprawia wyszukiwanie kontaktów przez T9</string>
-    <string name="pref_key_rebuild_t9_index_title">Przebuduj Index T9</string>
+    <string name="pref_key_photo_word_summary">Jeśli nie ustawiono własnego zdjęcia kontaktu system ustawi domyślne</string>
+    <string name="pref_key_photo_word_title">Domyślne zdjęcia kontaktu</string>
+    <string name="pref_key_rebuild_t9_index_message">Naprawia wyszukiwanie kontaktów w dialerze</string>
+    <string name="pref_key_rebuild_t9_index_title">Przebuduj Indeks T9</string>
     <string name="pref_summary_import_from_account">Kopiowanie kontaktów z Google lub Exchange na konto Xiaomi</string>
     <string name="pref_title_account_import">Przenoszenie kontaktów</string>
     <string name="pref_title_import_from_account">Kopiowanie na konto Xiaomi</string>
@@ -713,12 +724,14 @@ Aby dodać kontakt do listy ulubionych:
     <string name="processing">Przetwarzanie...</string>
     <string name="profile_display_name">Konfiguruj profil</string>
     <string name="profile_name">Mój profil</string>
+    <string name="profile_name_photo">Ja</string>
     <string name="progress_notifier_message" formatted="false">Przywracanie %s/%s: %s</string>
     <string name="quickcontact_missing_app">Nie znaleziono aplikacji do obsługi tego działania.</string>
     <string name="quit_dialog_confirm_title">Na pewno chcesz zakończyć łączenie kontaktów?</string>
     <string name="readOnlyContactDeleteConfirmation">Ten kontakt zawiera dane pochodzące z wielu kont. Informacje z kont przeznaczonych tylko do odczytu zostaną na listach kontaktów ukryte, a nie usunięte.</string>
     <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" zawiera dane z kilku kont. Informacje z konty tylko do odczytu zostaną ukryte, ale nieusunięte.</string>
     <string name="readOnlyContactWarning">Nie możesz usunąć kontaktów z kont tylko do odczytu, ale możesz ukryć je na swoich listach kontaktów.</string>
+    <string name="readingSimContacts">Odczytywanie informacji z SIM, proszę czekać...</string>
     <string name="reading_vcard_canceled_title">Odczytywanie z vCard anulowane</string>
     <string name="reading_vcard_failed_title">"Nie można odczytać danych vCard"</string>
     <string name="rebuild_t9_index_dialog_message">Przebudowywanie indeksu…</string>
@@ -825,10 +838,14 @@ Aby dodać kontakt do listy ulubionych:
     <string name="shortcutDialContact">Telefon do osoby</string>
     <string name="shortcutMessageContact">SMS do osoby</string>
     <string name="showAllContactsJoinItem">Pokaż wszystkie kontakty</string>
+    <string name="simContacts_airplaneMode">Wyłącz tryb samolotowy aby przywrócić kontakty z SIM.</string>
+    <string name="simContacts_empty">Nie znaleziono kontaktów na karcie SIM</string>
     <string name="simContacts_emptyLoading">Wczytywanie z karty SIM…</string>
     <string name="simContacts_title">Kontakty z karty SIM</string>
     <string name="sim_card_no_free_space_message">Karta SIM jest pełna, nie można skopiować nowych kontaktów. Zwolnij miejsce na karcie SIM i spróbuj ponownie</string>
     <string name="sim_card_no_free_space_title">Karta SIM jest pełna</string>
+    <string name="sim_contact_dropdown_menu_deselect_all_miui">Odznacz wszystko</string>
+    <string name="sim_contact_dropdown_menu_select_all_miui">Zaznacz wszystko</string>
     <string name="sim_contact_search_error">Wystąpił błąd podczas przeszukiwania karty SIM</string>
     <string name="sim_contacts">Kontakty SIM</string>
     <string name="sim_export_loading">Załaduj z SIM</string>
@@ -890,6 +907,8 @@ Aby dodać kontakt do listy ulubionych:
     <string name="title_other_devices">Inne dostępne urządzenia</string>
     <string name="title_paired_devices">Sparowane urządzenia</string>
     <string name="toast_call_detail_error">"Nie można odczytać szczegółów żądanego połączenia."</string>
+    <string name="toast_copy_done">Kopiowanie zakończone</string>
+    <string name="toast_copying">Kopiowanie, proszę czekać...</string>
     <string name="toast_displaying_all_contacts">Wszystkie kontakty</string>
     <string name="toast_finish_delete_call_log">Rejestr połączeń usunięty</string>
     <string name="toast_for_failed_saving_nickname">Nie udało się zapisać pseudonimu!</string>

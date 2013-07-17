@@ -22,6 +22,8 @@
   <string name="call_record_folder_name">Notatki połączeń</string>
   <string name="close">Zamknij</string>
   <string name="default_folder_name">Notatki</string>
+  <string name="dlg_desc_confirm_alarm_silent">Gdy wyłączone alarmy będą wyciszone w trybie cichym.</string>
+  <string name="dlg_title_confirm_alarm_silent">Wyciszyć alarmy w trybie cichym?</string>
   <string name="enable_sync">Synchronizacja</string>
   <string name="enable_sync_desc">Notatki mogą być synchronizowane z kontem Xiaomi. Zalogować teraz?</string>
   <string name="error_note_empty_for_clock">Nie można utworzyć zegara w pustej notatce</string>
@@ -70,8 +72,11 @@
   <string name="notify_alarm_action_mute">Wycisz</string>
   <string name="notify_alarm_action_view">Pokaż</string>
   <string name="notify_alarm_title">Przypomnienie</string>
+  <string name="pref_desc_alarm_when_silent">Alarmy będą słyszalne w trybie cichym</string>
   <string name="pref_desc_mode_grid">Siatka</string>
   <string name="pref_desc_mode_list">Lista</string>
+  <string name="pref_title_alarm_when_silent">Alarmy na wyciszeniu</string>
+  <string name="pref_title_common">Ustawienia</string>
   <string name="pref_title_data_export">Kopiowanie notatek</string>
   <string name="pref_title_data_export_to_sdcard">Zachowaj notatki na SD</string>
   <string name="pref_title_note_style">Styl wyświetlania</string>
