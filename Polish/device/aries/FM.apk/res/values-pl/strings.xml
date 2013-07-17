@@ -39,8 +39,6 @@
     <string name="test_menu">Wybierz Test</string>
     <string name="settings_menu">Ustawienia</string>
     <string name="regional_band">Regionalne pasmo nadawania (usuwa zapisane stacje)</string>
-    <string name="aud_output_mode">Wyjście dźwięku</string>
-    <string name="sel_audio_output">Wyjście dźwięku</string>
     <string name="auto_select_af">Dostosowanie częstotliwości</string>
     <string name="auto_select_af_summary">Dostosowuje do bliskich częstotliwości tej samej stacji gdy sygnał staje się słaby</string>
     <string name="settings_revert_confirm_msg">Wszystkie ustawienia zostaną usunięte, w tym zapisane stacje</string>
