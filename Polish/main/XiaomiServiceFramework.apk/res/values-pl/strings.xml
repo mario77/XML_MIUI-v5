@@ -100,6 +100,7 @@
     <string name="error_has_bought_title">Repeat purchase</string>
     <string name="error_illegal_order_summary">Order error. Please try again later</string>
     <string name="error_illegal_order_title">Order error!</string>
+    <string name="error_invalid_dev_id">Device id is invalid</string>
     <string name="error_mili_title">Insufficient funds</string>
     <string name="error_network">Błąd sieci</string>
     <string name="error_network_summary">Błąd połączenia. Sprawdź połączenie z siecią</string>
