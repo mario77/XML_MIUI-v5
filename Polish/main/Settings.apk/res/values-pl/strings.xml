@@ -788,10 +788,10 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="dolby_bassboost_normal">Normalne</string>
   <string name="dolby_bassboost_title">"Podbicie basu: "</string>
   <string name="dolby_effects">Efekty przestrzenne</string>
-  <string name="dolby_eq_enter_alert_msg">Otworzyć Przestrzenny Equalizer?</string>
+  <string name="dolby_eq_enter_alert_msg">Otworzyć Equalizer?</string>
   <string name="dolby_eq_enter_alert_title">Przestrzenny EQ</string>
   <string name="dolby_mode_movie">Film</string>
-  <string name="dolby_mode_music">Muzyki</string>
+  <string name="dolby_mode_music">Muzyka</string>
   <string name="dolby_mode_off">Wyłączony</string>
   <string name="dolby_movie_advance">Ustawienia Trybu Filmowego</string>
   <string name="dolby_music_advance">Ustawienia Trybu Muzycznego</string>

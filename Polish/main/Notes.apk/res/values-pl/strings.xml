@@ -26,6 +26,7 @@
   <string name="dlg_title_confirm_alarm_silent">Wyciszyć alarmy w trybie cichym?</string>
   <string name="enable_sync">Synchronizacja</string>
   <string name="enable_sync_desc">Notatki mogą być synchronizowane z kontem Xiaomi. Zalogować teraz?</string>
+  <string name="error_contact_not_exist">Kontakt nie istnieje</string>
   <string name="error_note_empty_for_clock">Nie można utworzyć zegara w pustej notatce</string>
   <string name="error_note_empty_for_send_to_desktop">Nie można wysłać pustej notatki na pulpit</string>
   <string name="error_note_not_exist">Notatka nie istnieje</string>

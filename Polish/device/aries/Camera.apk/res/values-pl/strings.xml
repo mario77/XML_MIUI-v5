@@ -29,6 +29,7 @@ Opuść na chwilę widok"</string>
   <string name="confirm_location_message">Czy przywrócić domyślne ustawienia aparatu?</string>
   <string name="confirm_restore_message">Czy przywrócić domyślne ustawienia aparatu?</string>
   <string name="confirm_restore_title">Przywróć wartości domyślne</string>
+  <string name="connect_wifi">Połącz z Wi-Fi</string>
   <string name="contact_address">Adres</string>
   <string name="contact_birthday">Urodziny</string>
   <string name="contact_company">Firma</string>
@@ -53,6 +54,7 @@ Opuść na chwilę widok"</string>
   <string name="dialog_ok">OK</string>
   <string name="disable_video_snapshot_hint">Stopklatka nie działa, gdy są aktywne efekty specjalne.</string>
   <string name="download_by_browser">Pobierz przez przeglądarkę</string>
+  <string name="download_qq">Pobierz przez QQ</string>
   <string name="download_wechat">Pobierz przez WeChat</string>
   <string name="duration">Czas trwania</string>
   <string name="edit">Edycja</string>
@@ -80,9 +82,11 @@ Opuść na chwilę widok"</string>
   <string name="find_market_qrcode">Wykryto kod QR Google Play</string>
   <string name="find_mecard_qrcode">Wykryto kod QR na wizytówce</string>
   <string name="find_other_qrcode">Wykryto kod QR</string>
+  <string name="find_qq_qrcode">Wykryto kod QQ QR</string>
   <string name="find_web_qrcode">Wykryto kod QR na stronie</string>
   <string name="find_wechat_qrcode">Znajdź kod WeChat</string>
   <string name="find_weixin_qrcode">Znajdź kod weixin QR</string>
+  <string name="find_wifi_qrcode">Znajdź kod Wi-Fi QR</string>
   <string name="flash">Flash</string>
   <string name="flash_off">Bez lampy</string>
   <string name="flash_on">Z lampą</string>
@@ -106,6 +110,7 @@ Opuść na chwilę widok"</string>
   <string name="import_fail">Wczytywanie nieudane</string>
   <string name="iso">ISO</string>
   <string name="launch_market">Uruchom Google Play</string>
+  <string name="launch_qq">Uruchom QQ</string>
   <string name="launch_wechat">Uruchom WeChat</string>
   <string name="loading">Wczytywanie...</string>
   <string name="loading_video">Wczytywanie wideo...</string>
@@ -364,6 +369,7 @@ Opuść na chwilę widok"</string>
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 sekund przerwy (900x)</string>
   <string name="pref_video_time_lapse_frame_interval_title">Time Lapse (odstęp czasu)</string>
   <string name="preparing_sd">Przygotowanie pamięci wewnętrznej...</string>
+  <string name="qq_details">Szczegóły kodu QQ:</string>
   <string name="qr_code_details">"Kod QR: "</string>
   <string name="record_back_pressed_hint">Naciśnij ponownie aby zatrzymać nagrywanie</string>
   <string name="resume_playing_message">Wznowić odtwarzanie od %s ?</string>
@@ -439,4 +445,13 @@ Przeglądarka MIUI sprawdzi kod za Ciebie."</string>
   <string name="wechat_details">WeChat details:</string>
   <string name="white_balance">Balans bieli</string>
   <string name="width">Szerokość</string>
+  <string name="wifi_connect_fail">Czas połączenia przekroczony lub błąd sieci.</string>
+  <string name="wifi_connect_success">Połączono z siecią Wi-Fi</string>
+  <string name="wifi_connecting">Łączenie...</string>
+  <string name="wifi_details">Szczegóły:</string>
+  <string name="wifi_open_fail">Nie można otworzyć sieci Wi-Fi</string>
+  <string name="wifi_pwd">Hasło:</string>
+  <string name="wifi_security">Zabezpieczenia:</string>
+  <string name="wifi_ssid">SSID:</string>
+  <string name="wifi_warning">Sprawdź zabezpieczenia przed połączeniem z Wi-Fi</string>
 </resources>

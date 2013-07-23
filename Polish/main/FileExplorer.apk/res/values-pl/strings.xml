@@ -3,6 +3,7 @@
     <string name="account_bind_prompt">Przenoszenie danych, konto będzie w tym czasie tymczasowo zablokowane...</string>
     <string name="add_task">Dodaj zadanie</string>
     <string name="adding_upload_tasks">Dodawanie zadań do kopiowania.</string>
+    <string name="already_signin_description">Jesteś już zalogowany</string>
     <string name="app_cache_cleanup_indication">%s plików cache</string>
     <string name="app_cache_title">Pamięć podręczna aplikacji</string>
     <string name="app_garbage_cleanup_indication">%s cache aplikacji</string>
@@ -214,7 +215,9 @@ niepotrzebne pliki"</string>
     <string name="operation_unfavorite">Usuń z Ulubionych</string>
     <string name="pan_settting">Ustawienia Kuaipan</string>
     <string name="paused">Wstrzymano</string>
+    <string name="pull_to_signin">Przesuń w dół aby się zalogować</string>
     <string name="query_bind_state">Kolejkowanie...</string>
+    <string name="release_to_signin">Upuść aby się zalogować</string>
     <string name="rename_description">Zmiana nazwy, proszę czekać…</string>
     <string name="rename_failed">Zmiana nazw %1$s nieudana</string>
     <string name="restart_cleaning">Ponów</string>
@@ -234,6 +237,10 @@ niepotrzebne pliki"</string>
     <string name="server_control_settings">Ustawienia serwera</string>
     <string name="share_link_failed">Nie udało się udostępnić linku. Spróbuj ponownie!</string>
     <string name="show_message">Plik nie może zostać otwarty bez pobierania</string>
+    <string name="sign_description">Logowanie...</string>
+    <string name="signin_error">Sieć obecnie jest niedostęþna. Spróbuj ponownie</string>
+    <string name="signin_success">"Zalogowano pomyślnie!
+    Uzyskaj darmową przestrzeń dyskową %1$s"</string>
     <string name="space_info">Pojemność: %1$s, Dostępne/Razem: %2$s</string>
     <string name="space_usage">Użycie</string>
     <string name="start_cleanup">Rozpocznij porządkowanie</string>
@@ -267,6 +274,7 @@ niepotrzebne pliki"</string>
     <string name="ui_bar_txt_upload_progress">%1$d plików do skopiowania</string>
     <string name="ui_filechange_btn_download">Pobierz pliki</string>
     <string name="ui_filechange_btn_upload">Skopiuj pliki</string>
+    <string name="ui_main_menu_option_sign_in">Zaloguj</string>
     <string name="ui_main_menu_option_task_manage">Menedżer transferu</string>
     <string name="ui_main_progress_txt_open_file">Pobieranie...</string>
     <string name="ui_main_toast_favorite_removed">Ulubione usunięte</string>

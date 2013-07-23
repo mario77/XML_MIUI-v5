@@ -316,6 +316,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="display_warn_remove_ungrouped">"Usunięcie grupy \"%s\" z ustawień synchronizacji spowoduje również usunięcie wszelkich rozgrupowanych kontaktów z tych ustawień."</string>
     <string name="download_failed">Pobieranie nieudane</string>
     <string name="download_preview_failed">Nie można załadować podglądu</string>
+    <string name="duplicate_group_name">Nazwa grupy już istnieje</string>
     <string name="editContactDescription">Edytuj kontakt</string>
     <string name="editGroupDescription">Edytuj grupę</string>
     <string name="edit_contact">Edytuj kontakt</string>

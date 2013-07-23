@@ -27,6 +27,8 @@
     <string name="toast_finish_delete_call_log">Rejestr połączeń został usunięty</string>
     <string name="confirm_delete_call_log_title">Usunąć rejestr połączeń?</string>
     <string name="confirm_delete_all_call_log_title">Potwierdzić usuwanie wszystkich rejestrów połączeń?</string>
+    <string name="contact_detail_calllog_call_note_tips">Call notes</string>
+    <string name="contact_detail_calllog_call_record_tips">Call log</string>
     <string name="menu_delete_call_log">Usuń rejestry połączeń</string>
     <string name="menu_add_black_list">Czarna lista</string>
     <string name="menu_about_yellow_page">Informacje o stronie</string>
