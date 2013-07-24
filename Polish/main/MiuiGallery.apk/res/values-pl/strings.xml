@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Import">Importuj</string>
+  <string name="action_fail_unknown_error">Nie udało się ukończyć operacji z powodu błędu.</string>
   <string name="activity_not_found">Brak aplikacji do zakończenia tego działania.</string>
   <string name="add_account">Dodaj konto</string>
   <string name="add_sharer">Dodaj udostępnienia</string>
@@ -10,8 +11,17 @@
   <string name="add_to_cloud_folder">Dodaj do katalogu w chmurze</string>
   <string name="adding_recipients">Dodanie odbiorców...</string>
   <string name="album_name">Nazwa albumu</string>
+  <string name="album_quota_fulfiled">"Nie można utworzyć. Limit albumów osiągnięty."</string>
+  <string name="album_share_kicked">Zostałeś usunięty z albumu: %1$s</string>
   <string name="album_share_stat_content">Nowe zaproszenia do udostępnionych albumów</string>
-  <string name="action_fail_unknown_error">Operacja nieudana z powodu nieznanego błędu.</string>
+  <string name="album_share_subtitle_accepting">Akceptowanie zaproszenia od %1$s...</string>
+  <string name="album_share_subtitle_denying">Ignorowanie zaproszenia od %1$s...</string>
+  <string name="album_share_subtitle_invited">Udostępnione przez %1$s. Potwierdzić czy zingorować?</string>
+  <string name="album_share_subtitle_normal">Udostępnione przez %1$s</string>
+  <string name="album_share_subtitle_not_ready">Informacje o albumie nie są gotowe. Kliknij aby pobrać.</string>
+  <string name="album_share_subtitle_quitting">Quitting invitation from %1$s...</string>
+  <string name="album_share_subtitle_requesting">Pobieranie informacji o albumie...</string>
+  <string name="album_share_title_new_album">Nowy album</string>
   <string name="albums">Albumy</string>
   <string name="alert">Uwaga</string>
   <string name="alert_message_initial_cloud">System wyśle automatycznie stare i nowe zdjęcia, a także zrzuty ekranu tylko przy połączeniu Wi-Fi.</string>
@@ -47,11 +57,11 @@
   <string name="clear_thumbnail_cache_summary">Przeglądanie galerii generuje miniaturki zdjęć. Usunięcie pamięci podręcznej może zwolnić miejsce w pamięci wewnętrznej.</string>
   <string name="click_to_enter_camera">Otwórz Aparat</string>
   <string name="close">Zamknij</string>
-  <string name="cloud_album_more_settings">Albumy online</string>
+  <string name="cloud_album_more_settings">Synchronizacja zdjęć</string>
   <string name="cloud_album_set_create">Nowy</string>
-  <string name="cloud_albums">Albumy online</string>
+  <string name="cloud_albums">Albumy w chmurze</string>
   <string name="cloud_camera_display_name">Nieprzydzielone</string>
-  <string name="cloud_gallery_no_pictures">Nie znaleziono zdjęć w MiCloud</string>
+  <string name="cloud_gallery_no_pictures">Nie znaleziono zdjęć w chmurze Xiaomi</string>
   <string name="cloud_gallery_recyclebin_full">Kosz jest pełny. Opróżnij kosz odwiedzając i.xiaomi.com.</string>
   <string name="cloud_gallery_space_full">Kopiowanie nieudane!</string>
   <string name="cloud_media_set_set">Albumy w chmurze</string>
@@ -107,8 +117,11 @@
   <string name="email_picker_title">Dodaj udostępniony e-mail</string>
   <string name="empty_album">Brak obrazów/filmów.</string>
   <string name="enter_email_hint">"Wpisz adres E-mail "</string>
+  <string name="error_invalid_link">The link is invalid. Let the owner generate a new one</string>
+  <string name="error_repeat_apply">Już udostępniłeś już ten album</string>
   <string name="error_should_not_select_image">Warning: please do not select an image file.</string>
   <string name="error_should_not_select_video">Warning: please do not select a video file.</string>
+  <string name="error_socket_timeout">Przekroczono limit czasu</string>
   <string name="exit_share">Opuść album</string>
   <string name="exit_share_failed">Opuszczenie albumu %1$s nieudane</string>
   <string name="exit_share_in_process">Próba opuszczenia albumu, proszę czekać...</string>
@@ -135,7 +148,8 @@
   <string name="frame_movie">Film</string>
   <string name="frame_semicircle">Półkole</string>
   <string name="frame_white">Biała</string>
-  <string name="gallery_cloud_provider_name">Galeria Online</string>
+  <string name="gallery_cloud_provider_name">Chmura Xiaomi</string>
+  <string name="gallery_setting">Ustawienia</string>
   <string name="global_setting">Ustawienia</string>
   <string name="grain">Ziarno</string>
   <string name="grayscale">Mono</string>
@@ -152,6 +166,7 @@
   <string name="how_many_pics">Zdjęcia: %d</string>
   <string name="how_many_sub_folders">Katalogi: %d</string>
   <string name="how_many_videos">Filmy: %d</string>
+  <string name="image_quota_fulfiled">"Can't create image, number of images in this album reached the limit."</string>
   <string name="import_complete">Importowanie udane</string>
   <string name="import_fail">Importowanie nieudane</string>
   <string name="initial_cloud_button_text">Przejdź do albumów w chmurze</string>
@@ -165,6 +180,7 @@
   <string name="kick_sharer">Usuń udziały</string>
   <string name="kick_sharer_failed">Usuwanie udziałów niemożliwe</string>
   <string name="kick_sharer_successfully">Usuwanie udziałów udane</string>
+  <string name="landscape_mode">Włącz widok w poziomie</string>
   <string name="loading">Ładowanie...</string>
   <string name="loading_failure">Zdjęcie nie mogło zostać załadowane</string>
   <string name="loading_thumbnail">Ładowanie miniatur...</string>
@@ -237,6 +253,7 @@
   <string name="remove_hidden_album">Anuluj ukrywanie</string>
   <string name="remove_recent_album">Usuń z ukrytych albumów</string>
   <string name="rename_failed">Zmiana nazwy nieudana</string>
+  <string name="rename_failed_duplicated_name">Nie można zmienić nazwy. Nazwa istnieje.</string>
   <string name="request_qr_code">Odczytywanie kodu QR...</string>
   <string name="request_qr_code_failed">Odczytywanie kodu QR nieudane, kliknij aby ponowić</string>
   <string name="request_sms_url_failed">Nie udało się odczytać URL do SMS</string>
@@ -261,8 +278,6 @@
   <string name="send">Wyślij</string>
   <string name="send_multiple_files_hint_format">Wyślij wiele plików (%s)</string>
   <string name="send_to_cloud_failed_message">Nie udało się wysłać elementu do chmury</string>
-  <string name="sending_image_title">Wyślij zdjęcie (%s)</string>
-  <string name="sending_video_title">Wyślij film (%s)</string>
   <string name="sepia">Sepia</string>
   <string name="set_hidden_album">Ukryj album</string>
   <string name="set_image">Ustaw zdjęcie jako</string>
@@ -275,14 +290,17 @@
   <string name="set_recent_album">Ustaw jako ulubiony album</string>
   <string name="set_wallpaper">Ustaw jako tapetę pulpitu</string>
   <string name="settings">Ustawienia</string>
-  <string name="settings_i_xiaomi_com">Zaloguj się do i.xiaomi.com aby wyświetlić swoje albumy w chmurze</string>
+  <string name="settings_i_xiaomi_com">"Zaloguj się do i.xiaomi.com
+  aby wyświetlić swoje albumy na komputerze"</string>
   <string name="shadow">Cienie</string>
-  <string name="share_album_owner">Właściciel</string>
+  <string name="share_album">Udostępnij album</string>
+  <string name="share_owner">Właściciel</string>
   <string name="share_album_qr_code">Kod QR</string>
   <string name="share_album_share_to">Udostępnij do</string>
   <string name="share_by_email_start">Udostępnianie %1$s w tle</string>
   <string name="share_by_email_successfully">Udostępnianie %1$s przez E-mail pomyślne</string>
   <string name="share_user_name">Nazwa</string>
+  <string name="sharer_quota_fulfiled">"Can't add sharer, number of sharers in this album reached the limit."</string>
   <string name="sharer_status_accepted">Zaakceptowane</string>
   <string name="sharer_status_refused">Odrzucone</string>
   <string name="sharer_status_waiting">Oczekiwanie</string>
@@ -311,10 +329,10 @@
   <string name="sync_album">Sychronizuj albumy</string>
   <string name="sync_album_error">Nie udało się pobrać zdjęć z tego albumu. Spróbuj ponownie później.</string>
   <string name="sync_album_set_error">Nie udało się pobrać listy albumów. Spróbuj ponownie później.</string>
-  <string name="sync_album_summary">Kopiuj zdjęcia i zrzuty ekranu do albumów w chmurze MiCloud</string>
+  <string name="sync_album_summary">Kopiuj zdjęcia i zrzuty ekranu do albumów w chmurze Xiaomi</string>
   <string name="sync_history_power_on">Tylko gdy ładuje</string>
-  <string name="sync_only_in_wifi">Tylko przy Wi-Fi</string>
-  <string name="sync_only_in_wifi_summary">Zalecane do aktywacji aby operator nie pobierał opłat za transmisję danych.</string>
+  <string name="sync_only_in_wifi">Synchronizuj po Wi-Fi</string>
+  <string name="sync_only_in_wifi_summary">Synchronizuj w tle tylko w sieci Wi-Fi.</string>
   <string name="tab_all_text">Wszystko</string>
   <string name="tab_lockscreen_text">Blokada</string>
   <string name="tab_wallpaper_text">Pulpit</string>
@@ -324,9 +342,9 @@
   <string name="times">Czas</string>
   <string name="tint">Odcień</string>
   <string name="title">Tytuł</string>
-  <string name="to_count">%d total</string>
+  <string name="to_count">Razem %d</string>
   <string name="too_many_recipients">Message has too many recipients (%1$s), %2$s is the allowed total recipients.</string>
-  <string name="try_to_send">Attempt send</string>
+  <string name="try_to_send">Próba wysłania</string>
   <string name="turn_left">Obróć w lewo</string>
   <string name="turn_right">Obróć w prawo</string>
   <string name="unit_mm">mm</string>

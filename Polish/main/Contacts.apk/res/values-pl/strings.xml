@@ -14,7 +14,7 @@
     <string name="addPeopleToGroup">Aby dodać kontakty edytuj grupy.</string>
     <string name="add_2sec_pause">Dodaj 2-sek pauzę</string>
     <string name="add_account">Dodaj konto</string>
-    <string name="add_blacklist">Dodaj do czarnej listy</string>
+    <string name="add_blacklist">Czarna lista</string>
     <string name="add_connection_button">Dodaj połączenie</string>
     <string name="add_contact_dlg_message_fmt">Czy dodać adres \"%s\" do kontaktów?</string>
     <string name="add_field">Dodaj inne pole</string>
@@ -144,13 +144,6 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="composer_failed_to_get_database_infomation">"Nie można pobrać informacji z bazy danych."</string>
     <string name="composer_has_no_exportable_contact">Brak kontaktów do kopiowania. Jeśli masz w telefonie kontakty, być może dostawcy danych nie zezwalają na ich eksport z telefonu.</string>
     <string name="composer_not_initialized">"The vCard composer didn't start properly."</string>
-    <string name="config_export_dir">/mnt/sdcard</string>
-    <string name="config_export_extensions_to_consider"/>
-    <string name="config_export_file_extension">vcf</string>
-    <string name="config_export_file_prefix"/>
-    <string name="config_export_file_suffix"/>
-    <string name="config_export_vcard_type">v30_generic</string>
-    <string name="config_import_vcard_type">default</string>
     <string name="config_prohibited_phone_number_regexp"/>
     <string name="confirm_delete_contact_all_call_logs">"Na pewno usunąć rejestr połączeń dla %s?"</string>
     <string name="confirm_delete_selected_all_call_logs">"Na pewno usunąć rejestr połączeń dla kontaktu?"</string>

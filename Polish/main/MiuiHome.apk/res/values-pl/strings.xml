@@ -138,6 +138,7 @@
     <string name="status_bar_toggle_data">Dane</string>
     <string name="status_bar_toggle_divider">Więcej</string>
     <string name="status_bar_toggle_drive_mode">Samochód</string>
+    <string name="status_bar_toggle_wifi_ap">Wi-Fi hotspot</string>
     <string name="status_bar_toggle_flight_mode">Samolot</string>
     <string name="status_bar_toggle_gps">GPS</string>
     <string name="status_bar_toggle_lock">Blokada</string>
