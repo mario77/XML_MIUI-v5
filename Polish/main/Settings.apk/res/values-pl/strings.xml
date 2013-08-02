@@ -114,6 +114,7 @@ Wystarczy zetknąć urządzenia ze sobą i dotknąć ekranu. Aplikacja automatyc
   <string name="android_beam_settings_title">Android Beam</string>
   <string name="android_beam_witch_label">Włącz Android Beam</string>
   <string name="animator_duration_scale_title">Skala długości animacji</string>
+  <string name="antispam_quiet_mode_title">Godziny ciszy</string>
   <string name="apn_apn">APN</string>
   <string name="apn_auth_type">Typ uwierzytelniania</string>
   <string name="apn_auth_type_chap">CHAP</string>
@@ -2252,6 +2253,7 @@ zakończone"</string>
   <string name="wifi_advanced_titlebar">Zaawansowane ustawienia Wi-Fi</string>
   <string name="wifi_and_mobile_skipped_message">"WARNING: The phone won't be able to verify that your software is up to date."</string>
   <string name="wifi_api_test">Wi-Fi API</string>
+  <string name="wifi_auto_connect">Autom. połączenie</string>
   <string name="wifi_cancel">Anuluj</string>
   <string name="wifi_certificate">Certyfikat Wi-Fi</string>
   <string name="wifi_config_info">Wi-Fi config</string>
@@ -2423,6 +2425,37 @@ zakończone"</string>
   <string name="wifi_setup_title_editing_network">Połącz z siecią Wi-Fi %s</string>
   <string name="wifi_setup_wizard_title">Wybierz Wi-Fi</string>
   <string name="wifi_setup_wps">Autokonfiguracja (WPS)</string>
+  <string name="wifi_share">Udostępnianie Wi-Fi</string>
+  <string name="wifi_share_action_turn_off">Wyłącz udostępnianie Wi-Fi</string>
+  <string name="wifi_share_action_turn_on">Włącz udostępnianie Wi-Fi</string>
+  <string name="wifi_share_action_turn_on_summary">Zaloguj się do konta Xiaomi</string>
+  <string name="wifi_share_add">Udostępnij moje publiczne sieci Wi-Fi</string>
+  <string name="wifi_share_add_summary">"Podczas udostępniania Wi-Fi 
+  możesz używać sieci od innych użytkowników"</string>
+  <string name="wifi_share_connect">Połącz</string>
+  <string name="wifi_share_connected_summary">"Jesteś połączony do publicznej sieci Wi-Fi udostępnionej przez innego użytkownika MIUI"</string>
+  <string name="wifi_share_connected_title">Połączenie z siecią Wi-Fi przez MIUI</string>
+  <string name="wifi_share_count">Masz %d udostępnionych sieci</string>
+  <string name="wifi_share_current_network">Aktualna sieć</string>
+  <string name="wifi_share_know">OK</string>
+  <string name="wifi_share_list_empty">Brak udostępnionych sieci Wi-Fi</string>
+  <string name="wifi_share_login">Udostępnij hasło Wi-Fi</string>
+  <string name="wifi_share_login_summary">Publiczne sieci Wi-Fi mogą być udostępniane innym użytkownikom MIUI</string>
+  <string name="wifi_share_notification_summary">MIUI połączyło się z chronioną hasłem siecią Wi-Fi</string>
+  <string name="wifi_share_other_network">Inne sieci Wi-Fi</string>
+  <string name="wifi_share_qrcode_finish">zakończ</string>
+  <string name="wifi_share_qrcode_summary">Użyj Aparatu by skanować kod QR</string>
+  <string name="wifi_share_qrcode_title">Share QR Code using Wi-Fi</string>
+  <string name="wifi_share_show_network">Wyświetl sieci</string>
+  <string name="wifi_share_summary1">"Użytkownicy MIUI mogą udostępniać nawzajem chronione hasłem sieci Wi-Fi. "</string>
+  <string name="wifi_share_summary2">"
+  Jeśli użytkownik MIUI udostępnia sieć, możesz połączyć się bezpośrednio bez wpisywania hasła."</string>
+  <string name="wifi_share_summary3">Udostępniaj sieci Wi-Fi znajomym.</string>
+  <string name="wifi_share_turn_off">Wył</string>
+  <string name="wifi_share_turn_on">Wł</string>
+  <string name="wifi_share_upload">Udostępnij</string>
+  <string name="wifi_share_upload_finish">Udostępnianie pomyślne!</string>
+  <string name="wifi_share_uploading">Udostępnianie sieci Wi-Fi</string>
   <string name="wifi_show_advanced">Opcje zaawansowane</string>
   <string name="wifi_show_password">Pokaż hasło</string>
   <string name="wifi_signal">Siła sygnału</string>

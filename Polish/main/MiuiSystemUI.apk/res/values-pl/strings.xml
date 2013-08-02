@@ -253,6 +253,7 @@ d MMMM yyyy"</string>
     <string name="status_bar_toggle_torch">Latarka</string>
     <string name="status_bar_toggle_vibrate">Wibracje</string>
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
+    <string name="status_bar_toggle_wifi_ap">Hotspot Wi-Fi</string>
     <string name="status_bar_use_physical_keyboard">Użyj klawiatury fizycznej</string>
     <string name="tab_notifications_lable">Powiadomienia</string>
     <string name="tab_toggles_lable">Przełączniki</string>

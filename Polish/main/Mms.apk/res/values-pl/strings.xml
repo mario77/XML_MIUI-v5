@@ -60,7 +60,11 @@
     <string name="confirm_dialog_title">Usunąć?</string>
     <string name="confirm_export_dialog_description">Usuń 1 zaznaczony prywatny kontakt a aplikacja powróci do normalnego trybu SMS. Kontynuować?</string>
     <string name="confirm_export_dialog_title">Usuń prywatny kontakt</string>
+    <string name="confirm_no_block_positive">"Nie blokuj numeru"</string>
+    <string name="confirm_no_block_title">"Zaprzestać blokowania numeru i przywrócić wszystkie wiadomości?"</string>
     <string name="confirm_rate_limit">Wysyłanych jest wiele wiadomości multimedialnych. Czy to jest OK?</string>
+    <string name="confirm_restore_positive">Przywróć</string>
+    <string name="confirm_restore_title">Przywrócić wszystkie zaznaczone wiadomości?</string>
     <string name="context_menu_add_contact">Dodaj do kontaktów</string>
     <string name="context_menu_browse_web">Przeglądarka</string>
     <string name="context_menu_call">Zadzwoń</string>
@@ -224,6 +228,7 @@
     <string name="new_phrase_hint">Dodaj popularny zwrot</string>
     <string name="nickname_placeholder">Pseudonim</string>
     <string name="no">Anuluj</string>
+    <string name="no_block_button_msg">"Nie blokuj wiadomości z tego numeru"</string>
     <string name="no_conversations">Brak wątków</string>
     <string name="no_subject">(Brak tematu)</string>
     <string name="no_subject_view">(Brak tematu)</string>
@@ -313,6 +318,7 @@
     <string name="replace_image">Zastąp zdjęcie</string>
     <string name="resent_message">Wysł. ponownie</string>
     <string name="resize_image_error_information">Niestety, nawet po zmianie rozmiaru zdjęcie jest zbyt duże, aby je wysłać.</string>
+    <string name="restore_blocked_message">Przywróć zablokowane wiadomości</string>
     <string name="save">Zapisz</string>
     <string name="save_ringtone">Zapisz jako dzwonek</string>
     <string name="save_to_sim">Zapisz na SIM</string>

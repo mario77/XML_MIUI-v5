@@ -151,7 +151,7 @@ niepotrzebne pliki"</string>
     <string name="menu_item_sort_name">Nazwie</string>
     <string name="menu_item_sort_size">Rozmiarze</string>
     <string name="menu_item_sort_type">Typie</string>
-    <string name="migrate_announcement_msg">If you have an account, you can bind it in the setting and access preferences</string>
+    <string name="migrate_announcement_msg">Jeśli posiadasz już konto KuaiPan możesz je powiązać w opcjach</string>
     <string name="migrate_announcement_title">Migracja kont</string>
     <string name="move_failed">Przenoszenie nieudane</string>
     <string name="multi_select_title">Zaznaczono %1$s elementów</string>
@@ -242,7 +242,7 @@ niepotrzebne pliki"</string>
     <string name="signin_success">"Zalogowano pomyślnie!
     Uzyskaj darmową przestrzeń dyskową %1$s"</string>
     <string name="space_info">Pojemność: %1$s, Dostępne/Razem: %2$s</string>
-    <string name="space_usage">Użycie</string>
+    <string name="space_usage">Wykorzystanie dysku</string>
     <string name="start_cleanup">Rozpocznij porządkowanie</string>
     <string name="start_server">Uruchom FTP</string>
     <string name="start_use_xiaomi_account">Zaloguj z Xiaomi</string>

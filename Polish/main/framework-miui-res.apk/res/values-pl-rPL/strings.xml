@@ -85,6 +85,9 @@
   <string name="lockscreen_access_pattern_detected">Wzór kompletny</string>
   <string name="lockscreen_access_pattern_start">Wzór rozpoczęty</string>
   <string name="lockscreen_emergency_call">Połączenie alarmowe</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Wprowadziłeś niepoprawne hasło %d razy. Po %d kolejnych, nieudanych próbach zostaniesz poproszony o odblokowanie telefonu danymi konta Xiaomi.
+
+Spróbuj ponownie za %d sekund."</string>
   <string name="lockscreen_forgot_pattern_button_text">Zapomniałeś wzoru?</string>
   <string name="lockscreen_pattern_instructions">Narysuj wzór aby odblokować</string>
   <string name="lockscreen_pattern_wrong">Spróbuj ponownie</string>

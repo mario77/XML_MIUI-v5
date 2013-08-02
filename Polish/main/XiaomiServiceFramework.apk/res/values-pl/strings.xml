@@ -313,6 +313,7 @@
     <string name="sync_off">Wył</string>
     <string name="sync_on">Wł</string>
     <string name="sync_sub_dspt">Zostanie wysłany SMS aby aktywować usługę</string>
+    <string name="title">tytuł</string>
     <string name="sync_sub_int_dspt">Zostanie wysłany SMS aby aktywować usługę</string>
     <string name="title_mili_center">Mi Kredyty</string>
     <string name="title_pay">Pay using Mi Credits</string>
@@ -335,6 +336,7 @@
     <string name="user_agreement_p4">Polityka Prywatności</string>
     <string name="user_agreement_p5">"Zgadzasz się na poniższe warunki 
 "</string>
+    <string name="value">Wartość</string>
     <string name="voucher_edit_hint">Hasło:</string>
     <string name="voucher_edit_limit">Edit limit</string>
     <string name="voucher_error_code">An error occurred with your MiCredit voucher code</string>

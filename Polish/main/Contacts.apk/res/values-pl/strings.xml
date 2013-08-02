@@ -207,6 +207,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="delete_sim_entries_finish">Usunięto zaznaczone kontakty z SIM</string>
     <string name="delete_sim_entry_miui">Usuń kontakty z SIM</string>
     <string name="delete_unknown_contact_calllog_title">"Potwierdzić usunięcie nieznanych kontaktów z rejestru połączeń?"</string>
+    <string name="deleting">Usuwanie...</string>
     <string name="deleting_sim_entry_miui">Usuwanie kontaktów z SIM</string>
     <string name="description_add_contact">Dodaj kontakt</string>
     <string name="description_author">Autor:</string>
@@ -307,6 +308,8 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="display_sim_contacts">Pokaż kontakty na SIM</string>
     <string name="display_ungrouped">Wszystkie inne kontakty</string>
     <string name="display_warn_remove_ungrouped">"Usunięcie grupy \"%s\" z ustawień synchronizacji spowoduje również usunięcie wszelkich rozgrupowanych kontaktów z tych ustawień."</string>
+    <string name="dlg_add_blacklist">Dodać wybrany numer do czarnej listy?</string>
+    <string name="dlg_remove_blacklist">Usunąć wybrany numer z czarnej listy?</string>
     <string name="download_failed">Pobieranie nieudane</string>
     <string name="download_preview_failed">Nie można załadować podglądu</string>
     <string name="duplicate_group_name">Nazwa grupy już istnieje</string>
@@ -748,6 +751,7 @@ Aby dodać kontakt do listy ulubionych:
     <string name="remind_btn_ignore">Ignoruj</string>
     <string name="remind_btn_sync_now">Synchronizuj teraz</string>
     <string name="removePhoto">Usuń zdjęcie</string>
+    <string name="remove_blacklist">Usuń z czarnej listy</string>
     <string name="remove_duplicate">"MIUI znajdzie zduplikowane kontakty a Ty zadecydujesz, które połączyć.
 
  Łączenie kontaktów może trochę potrwać."</string>
@@ -760,6 +764,8 @@ Aby dodać kontakt do listy ulubionych:
     <string name="resource_default_name">Element</string>
     <string name="resource_delete_all">Czy chcesz usunąć %1$d elementów?</string>
     <string name="resource_delete_confirm">Usunąć te elementy?</string>    
+    <string name="resource_delta_update_failed">Aktualizacja poprawki nieudana! Zostanie pobrany pełny pakiet</string>
+    <string name="resource_delta_update_successful">Aktualizacja poprawki pomyślna. Zapisywanie %1$s.</string>
     <string name="resource_detail">Szczegóły</string>    
     <string name="resource_download">Pobierz</string>
     <string name="resource_downloaded_title">Pobrane elementy</string>
@@ -769,6 +775,7 @@ Aby dodać kontakt do listy ulubionych:
     <string name="resource_get_auth_exceed_max_limit_title">Limit autoryzacji przekroczony</string>
     <string name="resource_get_auth_missing">Motyw nie został pobrany z marketu MIUI. Zaloguj się do konta Xiaomi i pobierz motyw z oficjalnego marketu.</string>
     <string name="resource_get_auth_retrieving">Autoryzacja...</string>
+    <string name="resource_import_successful">Pomyślnie pobrano.</string>
     <string name="resource_importing">Wczytywanie</string>
     <string name="resource_list_title">Ostatnie</string>
     <string name="resource_local">Lokalnie</string>
