@@ -1184,7 +1184,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="memory_media_usage">Multimedia</string>
   <string name="memory_music_usage">Dźwięk (muzyka, dzwonki, podcasty itp.)</string>
   <string name="memory_size">Całkowita pojemność</string>
-  <string name="memory_title">Dostępne %1$s\u0009\u0009Razem %2$s</string>
+  <string name="memory_title">Dostępne: %1$s\u0009\u0009Razem: %2$s</string>
   <string name="menu_cancel">Odrzuć</string>
   <string name="menu_delete">Usuń APN</string>
   <string name="menu_key">Przycisk Menu</string>
@@ -1199,7 +1199,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="misc_files_selected_count">wybrano %1$d z %2$d</string>
   <string name="misc_files_selected_count_bytes">%1$s z %2$s</string>
   <string name="miui_device_default_name">Android</string>
-  <string name="mms_vibrate_abbreviation">MMS</string>
+  <string name="mms_vibrate_abbreviation">SMS/MMS</string>
   <string name="model_number">Model</string>
   <string name="move_app">Przenieś</string>
   <string name="move_app_failed_dlg_text">"Nie udało się przenieść aplikacji %1$s"</string>
@@ -2235,9 +2235,9 @@ zakończone"</string>
   <string name="wallpaper_settings_fragment_title">Wybierz tapetę z...</string>
   <string name="wallpaper_settings_title">Tapeta</string>
   <string name="wfd_available_devices">Dostępne urządzenia</string>
-  <string name="wfd_disconnect_diag_msg">If your Wi-Fi session is interrupted your connection with %1$s will end.</string>
+  <string name="wfd_disconnect_diag_msg">Jeśli sesja Wi-Fi zostanie przerwana połączenie z %1$s się zakończy.</string>
   <string name="wfd_disconnect_diag_title">Rozłączyć sesję Wi-Fi?</string>
-  <string name="wfd_disconnect_multiple_diag_message">If you break Wi-Fi Display session, your connection with %1$s and %2$s other devices will end.</string>
+  <string name="wfd_disconnect_multiple_diag_message">Jeśli przerwiesz sesję Wi-Fi Display, twoje połączenie z %1$s i %2$s zostanie zakończone.</string>
   <string name="wfd_menu_search">Szukanie urządzeń</string>
   <string name="wfd_menu_searching">Wyszukiwanie...</string>
   <string name="wfd_menu_teardown">Rozłącz</string>
@@ -2433,7 +2433,7 @@ zakończone"</string>
   <string name="wifi_share_add_summary">"Podczas udostępniania Wi-Fi 
   możesz używać sieci od innych użytkowników"</string>
   <string name="wifi_share_connect">Połącz</string>
-  <string name="wifi_share_connected_summary">"Jesteś połączony do publicznej sieci Wi-Fi udostępnionej przez innego użytkownika MIUI"</string>
+  <string name="wifi_share_connected_summary">"Jesteś podłączony do publicznej sieci Wi-Fi udostępnionej przez innego użytkownika MIUI"</string>
   <string name="wifi_share_connected_title">Połączenie z siecią Wi-Fi przez MIUI</string>
   <string name="wifi_share_count">Masz %d udostępnionych sieci</string>
   <string name="wifi_share_current_network">Aktualna sieć</string>
@@ -2443,9 +2443,9 @@ zakończone"</string>
   <string name="wifi_share_login_summary">Publiczne sieci Wi-Fi mogą być udostępniane innym użytkownikom MIUI</string>
   <string name="wifi_share_notification_summary">MIUI połączyło się z chronioną hasłem siecią Wi-Fi</string>
   <string name="wifi_share_other_network">Inne sieci Wi-Fi</string>
-  <string name="wifi_share_qrcode_finish">zakończ</string>
+  <string name="wifi_share_qrcode_finish">Gotowe</string>
   <string name="wifi_share_qrcode_summary">Użyj Aparatu by skanować kod QR</string>
-  <string name="wifi_share_qrcode_title">Share QR Code using Wi-Fi</string>
+  <string name="wifi_share_qrcode_title">Udostępnij sieć przez kod QR</string>
   <string name="wifi_share_show_network">Wyświetl sieci</string>
   <string name="wifi_share_summary1">"Użytkownicy MIUI mogą udostępniać nawzajem chronione hasłem sieci Wi-Fi. "</string>
   <string name="wifi_share_summary2">"
@@ -2459,7 +2459,7 @@ zakończone"</string>
   <string name="wifi_show_advanced">Opcje zaawansowane</string>
   <string name="wifi_show_password">Pokaż hasło</string>
   <string name="wifi_signal">Siła sygnału</string>
-  <string name="wifi_skip_anyway">Skip anyway</string>
+  <string name="wifi_skip_anyway">Pomiń</string>
   <string name="wifi_skipped_message">"WARNING: You may incur extra carrier data charges. Phone setup can require significant network activity."</string>
   <string name="wifi_speed">Szybkość połączenia</string>
   <string name="wifi_ssid">SSID</string>
@@ -2473,17 +2473,17 @@ zakończone"</string>
   <string name="wifi_status">Status Wi-Fi</string>
   <string name="wifi_status_test">Wi-Fi status</string>
   <string name="wifi_stopping">Wyłączanie…</string>
-  <string name="wifi_suspend_optimizations">WLAN optimization</string>
-  <string name="wifi_suspend_optimizations_summary">Minimize battery usage when WLAN is on</string>
+  <string name="wifi_suspend_optimizations">Optymalizacja Wi-Fi</string>
+  <string name="wifi_suspend_optimizations_summary">Minimalizuj użycie baterii gdy Wi-Fi jest aktywne</string>
   <string name="wifi_tether_checkbox_text">Przenośny punkt Wi-Fi</string>
   <string name="wifi_tether_configure_ap_text">Skonfiguruj punkt Wi-Fi</string>
   <string name="wifi_tether_configure_ssid_default">Android Hotspot</string>
-  <string name="wifi_tether_configure_subtext">%1$s %2$s hotspot WLAN</string>
+  <string name="wifi_tether_configure_subtext">%1$s %2$s hotspot Wi-Fi</string>
   <string name="wifi_tether_enabled_subtext">Przenośny hotspot %1$s aktywny</string>
   <string name="wifi_tether_failed_subtext">Błąd przenośnego hotspotu Wi-Fi</string>
-  <string name="wifi_tether_setting_title">Basic settings</string>
-  <string name="wifi_tether_starting">Turning hotspot on…</string>
-  <string name="wifi_tether_stopping">Turning off hotspot…</string>
+  <string name="wifi_tether_setting_title">Ustawienia</string>
+  <string name="wifi_tether_starting">Włączanie hotspotu…</string>
+  <string name="wifi_tether_stopping">Wyłączanie hotspotu…</string>
   <string name="wifi_unchanged">(niezmieniony)</string>
   <string name="wifi_unspecified">(nieokreślony)</string>
   <string name="wifi_update">Odśwież</string>
@@ -2538,4 +2538,7 @@ zakończone"</string>
   <string name="zone_auto_summaryOn">Użyj strefy czasowej z sieci</string>
   <string name="zone_list_menu_sort_alphabetically">Sortuj alfabetycznie</string>
   <string name="zone_list_menu_sort_by_timezone">Sortuj według strefy czasu</string>
+  <string name="header_category_mi">MI</string>
+  <string name="viper_settings">Viper FX</string>
+  <string name="age_settings">Kontrola gestami</string>
 </resources>
