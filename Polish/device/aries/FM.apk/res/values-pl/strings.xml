@@ -115,6 +115,16 @@
     <string name="record_file_format">%1$s_%2$s</string>
     <string name="record_file_location_format">Kliknij by odtworzyć %s</string>
     <string name="record_error_unknown">Nagrywanie zatrzymane. Nieznany błąd.</string>
+    <string name="record_error_file_removed">Nagrywanie zatrzymane. Plik został usunięty.</string>
     <string name="record_sucess">Pomyślnie zakończono nagrywanie</string>
     <string name="record_fail">Nagrywanie nieudane</string>
+    <string name="turn_on_fm">Włącz FM</string>
+    <string name="turn_off_fm">Wyłącz FM</string>
+    <string name="turn_on_speaker_phone">Włącz głośnik</string>
+    <string name="turn_off_speaker_phone">Wyłącz głośnik</string>
+    <string name="view_stations_list">Pokaż listę stacji</string>
+    <string name="pre_station">Poprzednia</string>
+    <string name="next_station">Następna</string>
+    <string name="reduce_af">Zmniejsz częstotliwość</string>
+    <string name="increase_af">Zwiększ częstotliwość</string>
 </resources>

@@ -733,10 +733,13 @@ Pozostałych prób :"</string>
     <string name="keyguard_password_enter_puk_code">Wpisz kod PUK i nowy kod PIN.</string>
     <string name="keyguard_password_enter_puk_prompt">Kod PUK</string>
     <string name="keyguard_password_enter_pin_prompt">Nowy PIN</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Dotknij, aby wpisać hasło.</font></string>
+    <string name="keyguard_password_entry_touch_hint">" "<font size="17">Dotknij, aby wpisać hasło.</font>" "</string>
     <string name="keyguard_password_enter_password_code">Wpisz hasło, aby odblokować.</string>
     <string name="keyguard_password_enter_pin_password_code">Wpisz kod PIN, aby odblokować.</string>
     <string name="keyguard_password_wrong_pin_code">Błędny kod PIN</string>
+    <string name="keyguard_password_wrong_puk_code">Błędny kod PUK!</string>
+    <string name="keyguard_password_pin_failed">PIN operation failed!</string>
+    <string name="keyguard_password_puk_failed">PUK operation failed!</string>
     <string name="keyguard_pin_accepted">Kod poprawny!</string>
     <string name="keyguard_label_text">Aby odblokować, naciśnij Menu, a następnie 0.</string>
     <string name="emergency_call_dialog_number_for_display">Numer alarmowy</string>
@@ -768,7 +771,10 @@ Pozostałych prób :"</string>
     <string name="lockscreen_transport_play_description">Przycisk odtwarzania</string>
     <string name="lockscreen_transport_stop_description">Przycisk zatrzymania</string>
     <string name="emergency_calls_only">Tylko połączenia alarmowe</string>
+    <string name="lockscreen_sim_error_message_short">Nieprawidłowa karta.</string>
+    <string name="lockscreen_sim_error_message">Karta SIM jest nieprawidłowa.</string>
     <string name="lockscreen_network_locked_message">Sieć zablokowana</string>
+    <string name="lockscreen_perso_locked_message">SIM/RUIM is Perso locked</string>
     <string name="lockscreen_sim_puk_locked_message">Karta SIM jest zablokowana kodem PUK.</string>
     <string name="lockscreen_sim_puk_locked_instructions">Zapoznaj się z instrukcją obsługi lub skontaktuj się z działem obsługi klienta.</string>
     <string name="lockscreen_sim_locked_message">Karta SIM jest zablokowana.</string>
@@ -779,6 +785,8 @@ Spróbuj ponownie za %d s."</string>
     <string name="lockscreen_too_many_failed_password_attempts_dialog_message" formatted="false">"Po raz %d zostało wpisane nieprawidłowe hasło. 
 
 Spróbuj ponownie za %d s."</string>
+    <string name="lockscreen_sim_pin_blocked">PIN1 Blocked! Enter PUK1 to unblock PIN1.</string>
+    <string name="lockscreen_ruim_pin_blocked">PIN1 Blocked! Enter PUK1 to unblock PIN1.</string>
     <string name="lockscreen_too_many_failed_pin_attempts_dialog_message" formatted="false">"Po raz %d został wpisany nieprawidłowy PIN. 
 
 Spróbuj ponownie za %d s."</string>
@@ -819,6 +827,7 @@ Odwiedź stronę "<b>google.com/accounts/recovery</b></string>
     <string name="factorytest_not_system">Czynność FACTORY_TEST jest obsługiwana tylko dla pakietów zainstalowanych w katalogu /system/app.</string>
     <string name="factorytest_no_action">Nie znaleziono żadnego pakietu, który zapewnia działanie FACTORY_TEST.</string>
     <string name="factorytest_reboot">Uruchom ponownie</string>
+    <string name="web_user_agent_target_content">"Mobile "</string>
     <string name="js_dialog_title">Komunikat ze strony pod adresem „%s”:</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload">"Czy opuścić tę stronę?
@@ -1021,9 +1030,9 @@ Zamknąć ją?"</string>
     <string name="date_time_done">Gotowe</string>
     <string name="default_permission_group">Domyślne</string>
     <string name="no_permissions">Nie są wymagane żadne uprawnienia</string>
-    <string name="perms_hide"><b>Ukryj</b></string>
-    <string name="perms_show_all"><b>Pokaż wszystko</b></string>
-    <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff900000">NOWE: </font></string>
+    <string name="perms_hide">" "<b>Ukryj</b>" "</string>
+    <string name="perms_show_all">" "<b>Pokaż wszystko</b>" "</string>
+    <string name="perms_new_perm_prefix">" "<font size="12" fgcolor="#ff900000">NOWE: </font>" "</string>
     <string name="perms_description_app">Dostarczane przez %1$s.</string>
     <string name="usb_storage_activity_title">Pamięć masowa USB</string>
     <string name="usb_storage_title">Połączenie przez USB</string>
@@ -1060,7 +1069,7 @@ Zamknąć ją?"</string>
     <string name="select_keyboard_layout_notification_message">Kliknij, by wybrać układ klawiatury.</string>
     <string name="fast_scroll_alphabet">" AĄBCĆDEĘFGHIJKLŁMNŃOÓPQRSŚTUVWXYZŹŻ"</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="candidates_style"><u>kandydaci</u></string>
+    <string name="candidates_style">" "<u>kandydaci</u>" "</string>
     <string name="ext_media_checking_notification_title">Przygotowywanie nośnika USB</string>
     <string name="ext_media_checking_notification_message">Sprawdzanie w poszukiwaniu błędów.</string>
     <string name="ext_media_nofs_notification_title">Pusty nośnik USB</string>

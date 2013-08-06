@@ -20,6 +20,7 @@
     <string name="editmode_menu_delete">Usuń</string>
     <string name="editmode_menu_share">Udostępnij</string>
     <string name="error_bad_file">Plik uszkodzony</string>
+    <string name="error_connect_service">Nie można połączyć się z usługą transferu</string>
     <string name="error_download">Pobieranie nieudane</string>
     <string name="error_general">Wystąpił błąd</string>
     <string name="error_network">Wystąpił bład sieci</string>
@@ -52,7 +53,7 @@
     <string name="noti_wait_send">"Oczekiwanie. Upewnij się, że nadawca jest połączony i może wysyłać pliki"</string>
     <string name="ok">Gotowe</string>
     <string name="operation_delete">Usuń</string>
-    <string name="operation_goto_folder">Go to file directory</string>
+    <string name="operation_goto_folder">Przejdź do katalogu</string>
     <string name="operation_info">Szczegóły</string>
     <string name="operation_send">Wyślij</string>
     <string name="picker_title">Wybierz plik</string>
@@ -60,7 +61,7 @@
     <string name="receive_cancel_tip">Przesyłanie pliku niekompletne. You sure you want to stop transfer and exit?</string>
     <string name="receive_cancel_tip2">Anulowanie. Otrzymano %1$d z %2$d plików</string>
     <string name="receive_canceled">Anulowano</string>
-    <string name="receive_cannot_created_file">Failed to create file</string>
+    <string name="receive_cannot_created_file">Nie udało się utworzyć pliku</string>
     <string name="receive_files">Punkt dostępu gotowy</string>
     <string name="receive_finish">Otrzymywanie plików zakończone</string>
     <string name="receive_finish_tip">Otrzymano $1%d plików</string>

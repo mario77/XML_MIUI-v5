@@ -96,6 +96,11 @@ Ponowne uruchomienie za: %d sekund."</string>
     <string name="sdcard_is_not_present_dialog_title">Karta SD nieznaleziona</string>
     <string name="send_install_log">Wyślij log z błędem</string>
     <string name="send_install_log_error">Nie można wysłać logu z błędem</string>
+    <string name="sina_share_pendding">Sending...</string>
+    <string name="sina_share_success">Sending successful!</string>
+    <string name="sina_share_fail">Sending failed!</string>
+    <string name="sina_token_expired_warning">Weibo account has expired, please rebind</string>
+    <string name="sina_token_invalid_warning">Weibo account is invalid, please rebind</string>
     <string name="share">Udostępnij</string>
     <string name="share_qq">Udostępnij przez Tencent</string>
     <string name="share_sina">Udostępnij przez Sina</string>

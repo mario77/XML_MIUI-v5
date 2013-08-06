@@ -60,6 +60,7 @@
     <string name="btn_mili_center_recharge">Doładuj Mi Kredyty</string>
     <string name="btn_pay_large">Zapłać</string>
     <string name="btn_query">Inquiry now</string>
+    <string name="btn_recharge_confirm">Confirm purchase</string>
     <string name="btn_recharge_large">Recharge now</string>
     <string name="btn_recharge_other">Recharge</string>
     <string name="btn_recharge_success">Recharge completed</string>
@@ -67,6 +68,8 @@
     <string name="btn_voucher">Mi Credit card (%1$s)</string>
     <string name="btn_wait_call">Oczekiwanie</string>
     <string name="btn_wait_call_count">Oczekiwanie (%1$s)</string>
+    <string name="btn_wait_confirm">Waiting</string>
+    <string name="btn_wait_confirm_count">Waiting（%1$s）</string>
     <string name="button_cancel">Anuluj</string>
     <string name="button_pay">Potwierdź</string>
     <string name="button_recharge">Doładuj</string>
@@ -75,6 +78,8 @@
     <string name="check_phone_io_error">Błąd sieci</string>
     <string name="checking_account">Weryfikacja konta...</string>
     <string name="cloud_messaging">Wiadomości w chmurze</string>
+    <string name="cmcc_data_sync_notice">Wykorzystaj konto Xiaomi by synchronizować wiadomości, kontakty, galerię zdjęć i inne dane w chmurze</string>
+    <string name="cmcc_micloud_dspt">Usługi chmury pozwalają także na lokalizację urządzenia. Możesz zarządzać swoimi danymi w każdej chwili z komputera!</string>
     <string name="completed">Zakończ</string>
     <string name="confirm">Potwierdź</string>
     <string name="current_account">Aktualne konto</string>
@@ -206,6 +211,18 @@
     <string name="micloud_via_sms_alert">Zostanie wysłany SMS aby zweryfikować numer telefonu. Kontynuować?</string>
     <string name="micloud_welcome_skip_login"><u>Pomiń krok</u></string>
     <string name="mili_center">Mi Kredyty</string>
+    <string name="msg_send_no_net_error">Failed to send message: cannot connect to your network provider.</string>
+    <string name="msg_send_no_sim_error">Failed to send message: try reinserting your network provider card.</string>
+    <string name="msg_send_send_fail_error">Failed to send message</string>
+    <string name="msg_telecom_order_denom">%1syuan（does not include mobile network data fees）</string>
+    <string name="msg_telecom_order_denom_label">Amout due:</string>
+    <string name="msg_telecom_order_goods">%1sMiCredit(s)</string>
+    <string name="msg_telecom_order_goods_label">Product description:</string>
+    <string name="msg_telecom_picker_hint_1_1">After you touch Confirm purchase, your phone will</string>
+    <string name="msg_telecom_picker_hint_1_2">automatically contact your service provider.</string>
+    <string name="msg_telecom_picker_hint_2_1">Your network provider has been contacted!</string>
+    <string name="msg_telecom_picker_hint_2_2">You will receive a text confirmation shortly.</string>
+    <string name="msg_telecom_sending">Contacting your network provider…</string>
     <string name="my_mili_record">Moje Mi Kredyty</string>
     <string name="my_xiaomi_account">Moje konto Xiaomi</string>
     <string name="next">Dalej</string>
@@ -313,8 +330,8 @@
     <string name="sync_off">Wył</string>
     <string name="sync_on">Wł</string>
     <string name="sync_sub_dspt">Zostanie wysłany SMS aby aktywować usługę</string>
-    <string name="title">tytuł</string>
     <string name="sync_sub_int_dspt">Zostanie wysłany SMS aby aktywować usługę</string>
+    <string name="title">tytuł</string>
     <string name="title_mili_center">Mi Kredyty</string>
     <string name="title_pay">Pay using Mi Credits</string>
     <string name="title_pay_record">%1$s payment records</string>
@@ -324,7 +341,7 @@
     <string name="title_recharge_record">Historia doładowań</string>
     <string name="title_reg">Wpisz się na konto</string>
     <string name="title_voucher">Top-up using MiCredit voucher</string>
-    <string name="unactivated_user">Bez aktywacji</string>
+    <string name="unactivated_user">Bez aktywacji</string>    
     <string name="unbind">De-authorise</string>
     <string name="update_contacts">Aktualizuj kontakty</string>
     <string name="update_contacts_description">Aktualizuj kontakty i inne informacje</string>
@@ -341,6 +358,6 @@
     <string name="voucher_edit_limit">Edit limit</string>
     <string name="voucher_error_code">An error occurred with your MiCredit voucher code</string>
     <string name="voucher_input_password_prompt">Wpisz hasło</string>
-    <string name="xiaomi_cloud_service">Chmura Xiaomi</string>    
+    <string name="xiaomi_cloud_service">Chmura Xiaomi</string>
     <string name="xmpp_server_addr"/>
 </resources>

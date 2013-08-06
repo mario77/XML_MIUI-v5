@@ -933,7 +933,7 @@ Wybierz jedną z następujących opcji:</string>
     <string name="upgrade_out_of_memory_retry">Ponów próbę uaktualnienia</string>
     <string name="upgrade_out_of_memory_uninstall">Odinstaluj część aplikacji</string>
     <string name="use_photo_as_primary">Użyj tego zdjęcia</string>
-    <string name="use_photo_as_primary2">Użyj zdjęcia z konta %s</string>
+    <string name="use_photo_as_primary2">Użyj zdjęcia z konta %1$s</string>
     <string name="user_profile_contacts_list_header">Ja</string>
     <string name="vcard_export_request_rejected_message">Żądanie kopii danych vCard zostało odrzucone. Spróbuj ponownie później.</string>
     <string name="vcard_export_will_start_message">Plik %s zostanie za chwilę skopiowany.</string>
