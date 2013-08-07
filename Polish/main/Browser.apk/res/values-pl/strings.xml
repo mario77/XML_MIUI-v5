@@ -175,8 +175,6 @@
     <string name="download_video_please_select_video">Wybierz wideo</string>
     <string name="download_video_start_down_toast">Pobierz %1$s filmów</string>
     <string name="download_video_unseleted_all">Odznacz wszystko</string>
-    <string name="downloaded">Pobieranie udane.</string>
-    <string name="downloading">Pobieranie…</string>
     <string name="dump_counters">Dump V8 counters</string>
     <string name="dump_display_tree">Dump display tree to file</string>
     <string name="dump_dom_tree">Dump DOM tree to file</string>
