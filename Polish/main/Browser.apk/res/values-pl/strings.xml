@@ -168,6 +168,15 @@
     <string name="download_video_alert_title">Uwaga o pobieraniu!</string>
     <string name="downloaded">Pobrane</string>
     <string name="downloading">Pobieranie</string>
+    <string name="download_video_menu_dialog_title">Instalacja…</string>
+    <string name="download_video_menu_video_version_low">Musisz zaktualizować aplikację wideo.</string>
+    <string name="download_video_no_title_default_name">Bez nazwy</string>
+    <string name="download_video_please_download_market">You need to install MiApps.</string>
+    <string name="download_video_please_select_video">Wybierz wideo</string>
+    <string name="download_video_start_down_toast">Pobierz %1$s filmów</string>
+    <string name="download_video_unseleted_all">Odznacz wszystko</string>
+    <string name="downloaded">Pobieranie udane.</string>
+    <string name="downloading">Pobieranie…</string>
     <string name="dump_counters">Dump V8 counters</string>
     <string name="dump_display_tree">Dump display tree to file</string>
     <string name="dump_dom_tree">Dump DOM tree to file</string>
@@ -257,6 +266,7 @@
     <string name="max_tabs_warning">Brak dostępnych kart</string>
     <string name="menu_addtodesk">Dodaj zakładkę do strony na pulpit</string>
     <string name="menu_disable_night_mode">Wyłącz tryb nocny</string>
+    <string name="menu_download_video">Pobrane filmy</string>
     <string name="menu_enable_night_mode">Włącz tryb nocny</string>
     <string name="menu_exit">Zakończ</string>
     <string name="menu_hv_swap">Przełącz na widok poziomy</string>

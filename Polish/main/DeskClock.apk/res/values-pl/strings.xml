@@ -62,13 +62,6 @@
   <string name="full_wday_month_day_no_year">EEEE, d MMMM</string>
   <string name="gallery_button_description">Galeria</string>
   <string name="hide_clock">Ukryj zegar</string>
-  <string name="holiday_data_already_newest">Dane o dniach roboczych są aktualne</string>
-  <string name="holiday_data_no_network">Brak sieci. Spróbuj ponownie później</string>
-  <string name="holiday_data_update_failed">Check for update errors and please try again later.</string>
-  <string name="holiday_data_update_succeed">Sprawdź aktualizację</string>
-  <string name="holiday_data_updating">Odświeżanie...</string>
-  <string name="holiday_update_pref_summary">Sprawdź aktualne dane o dniach roboczych</string>
-  <string name="holiday_update_summary">Sprawdź aktualizację</string>
   <string name="home_button_description">Program uruchamiający</string>
   <string name="hour">1 godzina</string>
   <string name="hour_unit">godz.</string>

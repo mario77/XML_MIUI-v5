@@ -101,7 +101,9 @@
     <string name="st_mute_all">Połączenia i wiadomości wyciszone</string>
     <string name="st_mute_block">Połączenia wyciszone i wiadomości blokowane</string>
     <string name="st_mute_title">Bez dzwonków i wibracji</string>
+    <string name="st_other_settings_group">Pozostałe</string>
     <string name="st_settings_name">Ustawienia</string>
+    <string name="st_show_block_notification">Pokazuj powiadomienia</string>
     <string name="st_sms_group">Wiadomość</string>
     <string name="tab_blacklist">Czarna lista</string>
     <string name="tab_block_log">Blokowane</string>

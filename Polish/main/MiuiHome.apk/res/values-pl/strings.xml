@@ -163,6 +163,7 @@
     <string name="status_bar_toggle_vibrate">Wibracje</string>
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_wifi_ap">Hotspot Wi-Fi</string>
+    <string name="status_bar_toggle_quiet_mode">Ciche godziny</string>
     <string name="title_select_live_folder">Wybierz katalog</string>
     <string name="title_select_shortcut">Wybierz skrót</string>
     <string name="toggle_select_title">Przełączniki</string>

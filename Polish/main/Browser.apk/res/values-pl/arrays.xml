@@ -14,7 +14,7 @@
         <item>Wyłączone</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Strona startowa</item>
+        <item>Obecna strona</item>
         <item>Najczęstsze strony</item>
         <item>Inna</item>
     </string-array>
@@ -46,8 +46,8 @@
         <item>"Zawsze. "</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
-        <item>Strona góra/dół</item>
-        <item>Przełączenie karty</item>
+        <item>Przełączenie stron</item>
+        <item>Przełączenie kart</item>
     </string-array>
     <string-array name="pref_fling_on_border_choices">
         <item>Strona do przodu/do tyłu</item>
