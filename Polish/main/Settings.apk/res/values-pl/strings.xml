@@ -341,7 +341,7 @@ Czy włączyć funkcję?"</string>
   <string name="bluetooth_device_context_disconnect">Rozłącz</string>
   <string name="bluetooth_device_context_disconnect_unpair">Rozłącz i anuluj parowanie</string>
   <string name="bluetooth_device_context_pair_connect">Sparuj i połącz</string>
-  <string name="bluetooth_device_context_unpair">Rozłącz parę</string>
+  <string name="bluetooth_device_context_unpair">Rozłącz sparowane urządzenia</string>
   <string name="bluetooth_device_details">Ustawienia urządzenia</string>
   <string name="bluetooth_device_name">Nazwa urządzenia</string>
   <string name="bluetooth_device_searchable">Urządzenie widoczne</string>
