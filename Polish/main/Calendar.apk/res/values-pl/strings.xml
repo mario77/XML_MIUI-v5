@@ -160,7 +160,7 @@
     <string name="response_maybe">Może</string>
     <string name="response_no">Nie</string>
     <string name="response_yes">Tak</string>
-    <string name="rest_day_indication">:)</string>
+    <string name="rest_day_indication" />
     <string name="save_label">Gotowe</string>
     <string name="saving_event">Zapisano wydarzenie.</string>
     <string name="saving_event_with_guest">Wysłano aktualne informacje.</string>
@@ -192,7 +192,7 @@
     <string name="what_label">Co</string>
     <string name="when_label">Kiedy</string>
     <string name="where_label">Gdzie</string>
-    <string name="work_day_indication">:(</string>
+    <string name="work_day_indication" />
     <string name="yearly">Co rok (%s)</string>
     <string name="yearly_plain">Co rok</string>
 </resources>
