@@ -130,7 +130,7 @@ Spróbuj ponownie za %d sekund."</string>
   <string name="miui_user_manual_title">Podręcznik użytkownika</string>
   <string name="minutes">%d minut</string>
   <string name="month_of_april">Kwi</string>
-  <string name="month_of_august">Śie</string>
+  <string name="month_of_august">Sie</string>
   <string name="month_of_december">Gru</string>
   <string name="month_of_february">Lut</string>
   <string name="month_of_january">Sty</string>
@@ -143,7 +143,7 @@ Spróbuj ponownie za %d sekund."</string>
   <string name="month_of_september">Wrz</string>
   <string name="multi_select_title">Zaznaczono %1$s</string>
   <string name="national_day"/>
-  <string name="national_father_day">Dzień ojca</string>
+  <string name="national_father_day">Dzień Ojca</string>
   <string name="never">Nigdy</string>
   <string name="no_sim">Brak SIM. Usługa niedostępna</string>
   <string name="open_wifi_settings">Otwórz połączenie sieciowe</string>
