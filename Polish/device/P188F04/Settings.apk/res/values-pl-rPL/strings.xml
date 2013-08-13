@@ -47,7 +47,7 @@
 \u0009Urządzenie z aktywnym A-GPS może łączyć się z serwerami serwisu poprzez transmisję danych w sieci komórkowej w celu uzyskania danych pomocniczych.
 \u0009Należy pamiętać, że transmisja danych w roamingu może powodować naliczenie dodatkowych opłat. Aby uzyskać szczegółowe informacje, należy skontaktować się z operatorem sieci."</string>
     <string name="about_agps_title">Informacje o A-GPS</string>
-    <string name="adjust_3d_depth_title">"Adjust games' 3D depth"</string>
+    <string name="adjust_3d_depth_title">"Regulacja głębi 3D w grach"</string>
     <string name="agps_OK">OK</string>
    <string name="agps_disable_on_reboot">Wyłącz po restarcie</string>
     <string name="agps_disable_on_reboot_summary">Wyłącz A-GPS po restarcie</string>
@@ -223,23 +223,22 @@ Naciśnij przycisk Dodaj Kontakty, a następnie wybierz kontakty, które chcesz 
     <string name="gemini_video_call">Połączenia wideo</string>
     <string name="gemini_voice_call">Połączenia głosowe</string>
     <string name="general_settings_title">Ogólne</string>
-    <string name="gps_time_sync_attention_gps_off">"To use GPS provided time, you must enable GPS first. It then take at most 1 minute to obtain GPS fix. Besides, GPS may fail to provide time due to weak environmental signal. 
-Are you sure to enable GPS now and wait for GPS provided time?"</string>
-    <string name="gps_time_sync_attention_gps_on">"It will take at most 1 minute to obtain GPS fix. Besides, GPS may fail to provide time due to weak environmental signal.
-Are you sure to use GPS provided time?"</string>
-    <string name="gsm_to_wifi_connect_type_title">Cellular->WLAN</string>
-    <string name="incomming_command_summary_format">You can say %1$s or %2$s to answer or reject incomming calls.</string>
-    <string name="ipo_summary_off">Enable quick boot</string>
-    <string name="ipo_summary_on">Disable quick boot</string>
-    <string name="ipo_title">Quick boot</string>
-    <string name="landscape_launcher_none">None</string>
-    <string name="landscape_launcher_title">Landscape Launcher</string>
-    <string name="location_settings_label">Location Engineer Mode</string>
-    <string name="lock_screen_notifications_summary">Show notifications on lock screen</string>
-    <string name="lock_screen_notifications_title">Lock screen notifications</string>
-    <string name="lock_screen_style_title">Lock screen style</string>
-    <string name="lockscreen_style_default_desc">Quick access to applications in lock screen</string>
-    <string name="lockscreen_style_set">Set lock screen</string>
+    <string name="gps_time_sync_attention_gps_off">"Aby korzystać z czasu GPS, należy najpierw włączyć odbiornik GPS i poczekać na ustalenie poprawki (GPS fix). Ustalenie czasu może się nie udać w przypadku słabego sygnału z satelitów GPS. Czy chcesz kontynuować?"</string>
+    <string name="gps_time_sync_attention_gps_on">"Uzyskanie poprawki GPS (GPS fix) potrwa około minuty. GPS może nie podać czasu w przypadku słabego sygnału z satelit GPS.
+Czy na pewno użyć czasu GPS? "</string>
+    <string name="gsm_to_wifi_connect_type_title">Sieć komórkowa-&gt;WLAN</string>
+    <string name="incomming_command_summary_format">Możesz wymówić %1$s lub %2$s aby odebrać lub odrzucić połączenie przychodzące.</string>
+    <string name="ipo_summary_off">Włącz szybki start</string>
+    <string name="ipo_summary_on">Wyłącz szybki start</string>
+    <string name="ipo_title">Szybki start</string>
+    <string name="landscape_launcher_none">Brak</string>
+    <string name="landscape_launcher_title">Launcher w trybie Landscape </string>
+    <string name="location_settings_label">Tryb Inżynierski lokalizacji</string>
+    <string name="lock_screen_notifications_summary">Pokaż powiadomienia na ekranie blokady</string>
+    <string name="lock_screen_notifications_title">Powiadomienia na ekranie blokady</string>
+    <string name="lock_screen_style_title">Styl ekranu blokady</string>
+    <string name="lockscreen_style_default_desc">Szybki dostęp do aplikacji na ekranie blokady</string>
+    <string name="lockscreen_style_set">Ustaw ekran blokady</string>
     <string name="mtk_datausage_amount_editor_title">Ilość danych</string>
     <string name="mtk_datausage_diff_byte">Zróżnicowanie wykorzystania danych</string>
     <string name="mtk_datausage_overview_mobile_title">Komórkowe</string>
@@ -253,8 +252,8 @@ Are you sure to use GPS provided time?"</string>
     <string name="mtk_datausage_update_set">Aktualicacja</string>
     <string name="mtk_datausage_usage_list">Wykorzystanie danych</string>
     <string name="mtk_thememanager_title">Motywy</string>
-    <string name="pch_call_prefer_summary_on">Call prefer</string>
-    <string name="pch_data_prefer_summary_off">Data prefer</string>
-    <string name="pch_toggle_title">GPRS transfer prefer mode</string>
-    <string name="pch_warning_message">Data transmission rate will decline.</string>
+    <string name="pch_call_prefer_summary_on">Preferuj połączenia</string>
+    <string name="pch_data_prefer_summary_off">Preferuj dane</string>
+    <string name="pch_toggle_title">Preferuj transmisję GPRS</string>
+    <string name="pch_warning_message">Prędkość transmisji danych spadnie.</string>
 </resources>
