@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="download_filters">
-        <item>Wszystkie</item>
-        <item>Motywy</item>
-        <item>Market</item>
-        <item>Przeglądarka</item>
-        <item>Muzyka</item>
-        <item>Inne</item>
-    </string-array>
     <string-array name="prefEntries_max_bytes_limit">
         <item>10M</item>
         <item>5M</item>

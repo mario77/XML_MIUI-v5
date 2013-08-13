@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+	<string name="all_downloads">Wszystkie</string>
+	<string name="app_downloads">%s pobrań</string>
 	<string name="app_label">Pobrane</string>
     <string name="button_sort_by_date">Sortuj po dacie</string>
     <string name="button_sort_by_size">Sortuj po rozmiarze</string>
@@ -58,7 +60,6 @@
     <string name="paused_unknown">Wstrzymane z nieznanego powodu</string>
     <string name="paused_waiting_for_network">Oczekiwanie na połączenie sieci</string>
     <string name="paused_waiting_to_retry">Oczekiwanie na ponowienie</string>
-    <string name="prefDefault_max_bytes_limit">1048576</string>
     <string name="pref_dialog_title_max_bytes_limit">Limit wielkości pliku</string>
     <string name="pref_download_settings_title">Powiadomienie o użyciu danych</string>
     <string name="pref_summary_enable_max_bytes_popup">"Powiadom gdy rozmiar pobieranego za pomocą sieci 2G/3G pliku przekracza ustawiony limit"</string>

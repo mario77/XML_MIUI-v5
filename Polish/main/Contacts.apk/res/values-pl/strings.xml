@@ -77,6 +77,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="call_other_fax">Zadzwoń – faks</string>
     <string name="call_pager">Połącz – pager</string>
     <string name="call_radio">Połącz – radio</string>
+    <string name="call_record_setting_miui">Ustawienia nagrywania</string>
     <string name="call_settings">Ustawienia</string>
     <string name="call_telex">Połącz – teleks</string>
     <string name="call_tty_tdd">Zadzwoń – TTY/TDD</string>
@@ -138,9 +139,11 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="clearFrequentsConfirmation_title">Wyczyścić ostatnie kontakty?</string>
     <string name="clearFrequentsProgress_title">Czyszczenie…</string>
     <string name="clear_default">Wyczyść wartość domyślną</string>
+    <string name="clear_digits">Wyczyść numer</string>
     <string name="click_close">Kliknij by zamknąć</string>
     <string name="cloud_antispam_mark">Mark</string>
     <string name="cloud_antispam_title">Filtrowanie numerów</string>
+    <string name="close_dial_pad">Zamknij klawiaturę</string>
     <string name="composer_failed_to_get_database_infomation">"Nie można pobrać informacji z bazy danych."</string>
     <string name="composer_has_no_exportable_contact">Brak kontaktów do kopiowania. Jeśli masz w telefonie kontakty, być może dostawcy danych nie zezwalają na ich eksport z telefonu.</string>
     <string name="composer_not_initialized">"The vCard composer didn't start properly."</string>
@@ -199,6 +202,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="deleteConfirmation_title">Usunąć kontakt?</string>
     <string name="delete_call_log_title">Usunąć rejestr połączeń?</string>
     <string name="delete_contact_calllog_title">"Potwierdzić usunięcie rejestru połączeń z kontaktów?"</string>
+    <string name="delete_dial_input">Usuń</string>
     <string name="delete_duplicate">Grupowe łączenie</string>
     <string name="delete_duplicate_message">"Łączenie ... "</string>
     <string name="delete_group_dialog_message">"Usunąć grupę \"%1$s\"? (Kontakty nie zostaną usunięte)."</string>
@@ -275,6 +279,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="device_version_header_bluetooth">Włącz Bluetooth</string>
     <string name="device_version_header_no_bluetooth">Przywróć kontakty z SIM</string>
     <string name="device_version_title">Wybierz wersję urządzenia</string>
+    <string name="dial">Wybierz</string>
     <string name="dialerDialpadHintText">Dodaj połączenie</string>
     <string name="dialerIconLabel">Ostatnie</string>
     <string name="dialerKeyboardHintText">Użyj klawiatury aby wybrać numer</string>

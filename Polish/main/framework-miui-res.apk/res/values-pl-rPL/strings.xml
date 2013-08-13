@@ -6,6 +6,9 @@
   <string name="alwaysUsePrompt">Ustaw domyślne</string>
   <string name="android_lockscreen_glogin_instructions">Wpisz się na konto aby odblokować</string>
   <string name="arbor_day"/>
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">Pasek statusu i powiadomień</string>
+  <string name="app_no_notification">Bez powiadomień</string>
+  <string name="app_notificaiton_on_notificationBar">Pasek powiadomień</string>
   <string name="autumn_begins">Jesień</string>
   <string name="autumn_equinox">Równonoc</string>
   <string name="callNoAnswerTimeFormat">%s dzwonków</string>
@@ -174,7 +177,8 @@ Spróbuj ponownie za %d sekund."</string>
   <string name="screen_button_notification_text">"Naciśnij 'Home'+'Power' aby aktywować"</string>
   <string name="screen_button_notification_title">Przyciski ekranowe wyłączone</string>
   <string name="screen_on_proximity_sensor_hint">"Naciśnij 'Back' + 'Vol-up' aby wyjść. Info: Ustawienia Systemu - Wyświetlacz"</string>
-  <string name="screen_on_proximity_sensor_summary">"Czujnik zbliżeniowy zasłonięty. Blokada funkcji telefonu!"</string>
+  <string name="screen_on_proximity_sensor_summary">"Blokada funkcji telefonu!
+Czujnik zasłonięty!"</string>
   <string name="screen_on_proximity_sensor_title">Przypadkowe użycie</string>
   <string name="sd_not_available">Karta SD odmontowana lub niedostępna</string>
   <string name="sd_not_available_low_internal_storage">Karta SD odmontowana lub niedostępna, mało miejsca w pamięci wewnętrznej</string>

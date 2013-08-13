@@ -10,8 +10,6 @@
   <string name="alert_message_delete_notes">Potwierdzić usunięcie wybranych %1$s notatek?</string>
   <string name="alert_message_discard_changes">Odrzucić zmiany?</string>
   <string name="alert_message_edit_anyway">Notatka zawiera nieobsługiwaną treść. Edycja może spowodować utratę danych.</string>
-  <string name="alert_title_delete">Usuń zaznaczone notatki</string>
-  <string name="alert_title_discard">Odrzuć</string>
   <string name="alert_title_edit_anyway">Potwierdź chęć edycji notatki.</string>
   <string name="app_name">Notatki</string>
   <string name="app_widget">Notatki</string>

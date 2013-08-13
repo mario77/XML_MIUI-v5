@@ -433,4 +433,8 @@ komputer automatycznie odczyta zawartość telefonu"</item>
         <item>sRGB</item>
         <item>Naturalne</item>
     </string-array>
+    <string-array name="phone_call_noise_suppression_title">
+        <item>Redukcja szumów - 1 mikrofon</item>
+        <item>Redukcja szumów - 2 mikrofony</item>
+    </string-array>
  </resources>
