@@ -168,10 +168,6 @@
         <item>Alarm</item>
         <item>Wibracje</item>
     </string-array>
-    <string-array name="special_locale_names">
-        <item>Chinese (Simplified) </item>
-        <item>Chinese (Traditional) </item>
-    </string-array>
     <string-array name="apn_auth_entries">
         <item>Brak</item>
         <item>PAP</item>
@@ -432,5 +428,9 @@ komputer automatycznie odczyta zawartość telefonu"</item>
         <item>Wzór</item>
         <item>Hasło numeryczne</item>
         <item>Hasło alfanumeryczne</item>
+    </string-array>
+    <string-array name="entries_color_calibration">
+        <item>sRGB</item>
+        <item>Naturalne</item>
     </string-array>
  </resources>
