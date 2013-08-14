@@ -64,7 +64,7 @@
     <string name="qm_auto_time_turn_off_title">Czas wyłączenia godzin ciszy</string>
     <string name="qm_auto_time_turn_on">Początek</string>
     <string name="qm_auto_time_turn_on_title">Czas aktywacji godzin ciszy</string>
-    <string name="qm_notification">"Telefon wyciszony"</string>
+    <string name="qm_notification">"Godziny ciszy"</string>
     <string name="qm_open">Aktywuj godziny ciszy</string>
     <string name="qm_other_settings">Pozostałe</string>
     <string name="qm_other_settings_group">Inne</string>
@@ -84,7 +84,7 @@
     <string name="qm_vip_list_custom_group">Moje wyjątki</string>
     <string name="qm_vip_list_group">Lista wyjątków</string>
     <string name="qm_vip_sms_setting_button">Wycisz wiadomości od wyjątków</string>
-    <string name="quiet_mode">Godziny ciszy</string>
+    <string name="quiet_mode">Godziny ciszy aktywne</string>
     <string name="st_bl_block_setting_title">Akcje blokowania</string>
     <string name="st_bl_setting_group">Czarna lista</string>
     <string name="st_block_all">Odrzuć połączenia i wiadomości</string>
@@ -98,7 +98,7 @@
     <string name="st_filter_keywords_setting_title">Słowa kluczowe</string>
     <string name="st_filter_keywords_title">Filtruj słowa kluczowe</string>
     <string name="st_filter_sms_button">Filtruj wiadomości</string>
-    <string name="st_mute_all">Połączenia i wiadomości wyciszone</string>
+    <string name="st_mute_all">Wszelkie powiadomienia są wyciszone</string>
     <string name="st_mute_block">Połączenia wyciszone i wiadomości blokowane</string>
     <string name="st_mute_title">Bez dzwonków i wibracji</string>
     <string name="st_other_settings_group">Pozostałe</string>
