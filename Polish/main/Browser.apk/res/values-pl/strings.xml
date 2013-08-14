@@ -158,6 +158,7 @@
     <string name="download_dialog_file_length_lessthan1kb">Mniej niż 1KB</string>
     <string name="download_dialog_file_length_nolength_error_txt">Niepowodzenie w przeliczaniu rozmiaru pliku</string>
     <string name="download_dialog_file_length_nolength_txt">Przeliczanie rozmiaru pliku</string>
+    <string name="download_dialog_default_path_invalid">Ścieżka pobierania jest nieprawidłowa. Użyj domyślnej</string>
     <string name="download_failed">Pobieranie nieudane</string>
     <string name="download_no_sdcard_dlg_msg">Do pobrania pliku %s wymagany jest nośnik USB.</string>
     <string name="download_no_sdcard_dlg_title">Nośnik USB niedostępny</string>

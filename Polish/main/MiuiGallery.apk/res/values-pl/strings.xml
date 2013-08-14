@@ -240,6 +240,8 @@
   <string name="operation_delete_confirm_message_folder">"Pliki i katalogi zostaną jednocześnie usunięte"</string>
   <string name="operation_refresh">Odśwież</string>
   <string name="operation_rename">Zmień nazwę</string>
+  <string name="operation_set_as_screensaver">Ustaw jako wygaszacz</string>
+  <string name="operation_unset_as_screensaver">Wyjdź z wygaszacza</string>
   <string name="orientation">Orientacja</string>
   <string name="other_category">Inne ustawienia</string>
   <string name="path">Ścieżka</string>
@@ -274,6 +276,12 @@
   <string name="saving_failure">Zdjęcie nie mogło zostać zapisane</string>
   <string name="saving_image">Zapisywanie zdjęcia...</string>
   <string name="scan_qr_code">Let others scan QR code to view this shared album</string>
+  <string name="screensaver_activate_mode">Pokaz slajdów</string>
+  <string name="screensaver_activate_only_charging">Tylko gdy podłączony</string>
+  <string name="screensaver_category">Wygaszacz ekranu</string>
+  <string name="screensaver_no_data">Brak zdjęć w albumie.</string>
+  <string name="screensaver_path">"Album wygaszacza: "</string>
+  <string name="screensaver_path_not_set">nie ustawiono</string>
   <string name="sd_not_available">Pamięć wewnętrzna odłączona</string>
   <string name="seconds">sekund</string>
   <string name="select_album">Edycja</string>
@@ -294,17 +302,19 @@
   <string name="set_lock_or_wallpaper">Ustaw tapetę</string>
   <string name="set_lockscreen">Ustaw jako ekran blokady</string>
   <string name="set_recent_album">Ustaw jako ulubiony album</string>
+  <string name="set_screensaver_path_message">Obrazy w tym albumie będą wyświetlane w wygaszaczu przez 5 sekund po uśpieniu ekranu. Ta wiadomość nie zostanie pokazana ponownie.</string>
+  <string name="set_screensaver_path_title">Pokaz slajdów wygaszacza</string>
   <string name="set_wallpaper">Ustaw jako tapetę pulpitu</string>
   <string name="settings">Ustawienia</string>
   <string name="settings_i_xiaomi_com">"Zaloguj się do i.xiaomi.com
   aby wyświetlić swoje albumy na komputerze"</string>
   <string name="shadow">Cienie</string>
   <string name="share_album">Udostępnij album</string>
-  <string name="share_owner">Właściciel</string>
   <string name="share_album_qr_code">Kod QR</string>
   <string name="share_album_share_to">Udostępnij do</string>
   <string name="share_by_email_start">Udostępnianie %1$s w tle</string>
   <string name="share_by_email_successfully">Udostępnianie %1$s przez E-mail pomyślne</string>
+  <string name="share_owner">Właściciel</string>
   <string name="share_user_name">Nazwa</string>
   <string name="sharer_quota_fulfiled">"Can't add sharer, number of sharers in this album reached the limit."</string>
   <string name="sharer_status_accepted">Zaakceptowane</string>
@@ -328,6 +338,8 @@
   <string name="slideshow_interval_dialog_title">Przedział czasu musi być większy od 0 sekund</string>
   <string name="slideshow_interval_invalid">Nieprawidłowy przedział czasu. Musi się zawierać między 1 a 3600.</string>
   <string name="slideshow_repeat_mode">Powtarzanie pokazu</string>
+  <string name="slideshow_time_select_title">Wybierz czas pokazu</string>
+  <string name="slideshow_time_title">Czas pokazu wygaszacza</string>
   <string name="storage_all_volumes">Wszystkie magazyny danych</string>
   <string name="storage_no_space">"Brak miejsca w pamięci urządzenia."</string>
   <string name="straighten">Rozciąganie</string>
