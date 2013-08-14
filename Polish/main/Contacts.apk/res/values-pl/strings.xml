@@ -77,7 +77,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="call_other_fax">Zadzwoń – faks</string>
     <string name="call_pager">Połącz – pager</string>
     <string name="call_radio">Połącz – radio</string>
-    <string name="call_record_setting_miui">Ustawienia nagrywania</string>
+    <string name="call_record_setting_miui">Nagrywanie połączeń</string>
     <string name="call_settings">Ustawienia</string>
     <string name="call_telex">Połącz – teleks</string>
     <string name="call_tty_tdd">Zadzwoń – TTY/TDD</string>

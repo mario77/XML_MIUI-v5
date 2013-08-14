@@ -84,11 +84,11 @@
   <string name="auto_ip_setting_miui">Wybieranie IP</string>
   <string name="auto_ip_summary_not_enabled">Wyłączone</string>
   <string name="auto_ip_support_local_numbers">Lokalne numery</string>
-  <string name="auto_record_call_summary_miui">Rozpocznij nagrywanie jeśli połączono i zapisz na karcie SD</string>
-  <string name="auto_record_call_title_miui">Nagrywanie rozmów</string>
+  <string name="auto_record_call_summary_miui">Rozpocznij automatycznie nagrywanie połączenia i zapisz w pamięci USB</string>
+  <string name="auto_record_call_title_miui">Automatyczne nagrywanie</string>
   <string name="auto_record_scenario_enteries_always_miui">Nagrywanie wszystkich numerów</string>
   <string name="auto_record_scenario_enteries_whitelist_miui">Nagrywanie wybranego numeru</string>
-  <string name="auto_record_scenario_title_miui">Automatyczne nagrywanie</string>
+  <string name="auto_record_scenario_title_miui">Nagrywanie numerów</string>
   <string name="auto_record_whitelist_miui">Wybierz numery</string>
   <string name="auto_record_whitelist_no_item_miui">Kliknij przycisk aby dodać numery</string>
   <string name="auto_record_whitelist_summary_for_one_miui">1</string>

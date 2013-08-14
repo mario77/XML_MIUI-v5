@@ -102,8 +102,8 @@
     <string name="ext_media_safe_unmount_notification_title">Bezpieczne odłączenie nośnika USB</string>
     <string name="ext_media_unmountable_notification_message">Nośnik USB uszkodzony. Być może trzeba przeprowadzić formatowanie.</string>
     <string name="ext_media_unmountable_notification_title">Nośnik USB uszkodzony</string>
-    <string name="filter_item_description">Możesz ustawić własne powiadomienia aplikacji w  \"Ustawienia -> Pasek statusu -> Własne powiadomienia\"</string>
-    <string name="filter_item_preview_image">Podgląd</string>
+    <string name="filter_item_description">Określ w jaki sposób aplikacja ma wyświetlać powiadomienia.</string>
+    <string name="filter_item_preview_image">Podgląd powiadomień</string>
     <string name="gps_notification_found_text">Lokalizacja ustalona przez GPS</string>
     <string name="gps_notification_searching_text">Wyszukiwanie GPS</string>
     <string name="headset_custom">Własne</string>
@@ -161,7 +161,7 @@
     <string name="screenshot_saving_ticker">Zapisywanie zrzutu…</string>
     <string name="screenshot_saving_title">Zapisywanie zrzutu…</string>
     <string name="settings_all_app_display_loading">Ładowanie</string>
-    <string name="settings_custom_notification">Własne powiadomienia</string>
+    <string name="settings_custom_notification">Powiadomienia aplikacji</string>
     <string name="settings_expandable_under_fullscreen">Rozwiń przy pełnym ekranie</string>
     <string name="settings_expandable_under_fullscreen_summary">Możliwość wysunięcia paska powiadomień w aplikacjach na pełnym ekranie</string>
     <string name="settings_expandable_under_keyguard">Rozwiń na ekranie blokady</string>
@@ -171,7 +171,7 @@
     <string name="settings_show_flow_info">Pokaż użycie danych</string>
     <string name="settings_show_network_speed">Pokaż prędkość transmisji</string>
     <string name="settings_show_notificationBar_notification">Pokaż powiadomienia</string>
-    <string name="settings_show_statusBar_notification">Powiadomienia paska statusu</string>
+    <string name="settings_show_statusBar_notification">Na pasku statusu</string>
     <string name="settings_status_bar">Pasek statusu</string>
     <string name="settings_toggle_collapse_after_clicked">Zwiń po przełączeniu</string>
     <string name="settings_toggle_layout_style">Styl przełączników</string>

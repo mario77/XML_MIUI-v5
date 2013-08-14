@@ -1479,8 +1479,7 @@ spróbuj:
   <string name="permission_manage_title">%s szczegółów uprawnień</string>
   <string name="permissions_label">Uprawnienia</string>
   <string name="personal_data_section_title">Dane osobiste</string>
-  <string name="phone_call_noise_suppression">"Wybierz metodę redukcji szumów. 
-Ustaw na 1 mikrofon w przypadku złej jakości rozmów"</string>
+  <string name="phone_call_noise_suppression">Redukcja szumów podczas rozmowy</string>
   <string name="phone_info_label">Informacje o telefonie</string>
   <string name="phone_language">Język</string>
   <string name="phone_language_summary"/>
