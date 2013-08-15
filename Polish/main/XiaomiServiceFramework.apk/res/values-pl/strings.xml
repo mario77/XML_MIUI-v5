@@ -284,8 +284,8 @@
     <string name="progress_voucher_creating">Updating MiCredit...</string>
     <string name="progress_warning_contact_server">"Still not reflected. 1. Please contact customer service in Shenzhou：%1$s 2. Please provide the serial number:
         %2$s"</string>
-    <string name="progress_warning_waiting">Account changes are still being updated. Please try again later.</string>
-    <string name="quick_login_title">"Authentication is required. Please input your password"</string>
+    <string name="progress_warning_waiting">Przeprowadzane są aktualizacje na koncie. Proszę spróbować ponownie później.</string>
+    <string name="quick_login_title">"Wymagana jest autoryzacja. Wpisz hasło"</string>
     <string name="recharge_alipay_summary">Wymagana jest recharge/pay</string>
     <string name="recharge_alipay_title">Alipay</string>
     <string name="recharge_denomination">%1$sRMB</string>
@@ -305,14 +305,14 @@
     <string name="reg_by_email_failure">Rejestracja nieudana: %1$s</string>
     <string name="reg_failed">Rejestracja nieudana</string>
     <string name="reg_success">Rejestracja pomyślna</string>
-    <string name="reg_success_summary">Your mobile number %1$s is already designated to MiLock where you can use it to login and retrieve password.</string>
+    <string name="reg_success_summary">Twój numer %1$s jest już przypisany do MiLock gdzie możesz go użyć do odzyskania loginu i hasła.</string>
     <string name="reg_type_email">Zarejestruj używając adresu E-mail</string>
     <string name="reg_type_phone">Zarejestruj używając numeru telefonu (zalecane)</string>
     <string name="reging">Rejestrowanie, proszę czekać…</string>
     <string name="relogin">Zaloguj ponownie</string>
     <string name="remove_account_notice">Co chciałbyś zrobić z poprzednio synchronizowanymi wiadomościami, kontaktami, rejestrem połączeń i notatkami?</string>
     <string name="remove_confirm">Usuń</string>
-    <string name="remove_unactivated_account_notice">The Xiaomi account is not activated, remove it now?</string>
+    <string name="remove_unactivated_account_notice">Konto Xiaomi nie jest aktywowane. Usunąć konto?</string>
     <string name="removing_account">Usuwanie konta...</string>
     <string name="send_int_sms_for_sync_notice">Zostanie wysłany SMS do aktywacji. Koszt SMS wg. taryfy operatora. Kontynuwać?</string>
     <string name="send_sms_for_sync_notice">Zostanie wysłany SMS do aktywacji, kontynuować?</string>
@@ -322,8 +322,7 @@
     <string name="sim_changed_notification_content">SIM nieaktywna, aktywuj ponownie</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="skip_login">Pomiń logowanie</string>
-    <string name="skip_setup_account_msg">Korzystając z konta Xiaomi możesz synchronizować i zapisywać swoje SMSy, kontakty, zdjęcia i notatki. Przejść do ustawień
-        później?</string>
+    <string name="skip_setup_account_msg">Korzystając z konta Xiaomi możesz synchronizować i zapisywać swoje SMSy, kontakty, zdjęcia i notatki. Przejść do ustawień później?</string>
     <string name="skip_setup_account_title">Pomiń logowanie do konta</string>
     <string name="start_micloud">Start</string>
     <string name="sync_dspt">Włącz synchronizację i usługi w chmurze</string>
