@@ -160,14 +160,14 @@
     <string name="screenshot_saving_text">Zrzut ekranu zapisywany.</string>
     <string name="screenshot_saving_ticker">Zapisywanie zrzutu…</string>
     <string name="screenshot_saving_title">Zapisywanie zrzutu…</string>
-    <string name="settings_all_app_display_loading">Ładowanie</string>
+    <string name="settings_all_app_display_loading">Wczytywanie listy aplikacji…</string>
     <string name="settings_custom_notification">Powiadomienia aplikacji</string>
     <string name="settings_expandable_under_fullscreen">Rozwiń przy pełnym ekranie</string>
     <string name="settings_expandable_under_fullscreen_summary">Możliwość wysunięcia paska powiadomień w aplikacjach na pełnym ekranie</string>
     <string name="settings_expandable_under_keyguard">Rozwiń na ekranie blokady</string>
     <string name="settings_expandable_under_keyguard_summary">Możliwość wysunięcia paska powiadomień na zablokowanym ekranie</string>
     <string name="settings_expanded_view">Rozwijany pasek powiadomień</string>
-    <string name="settings_notification_bar">Powiadomienia na pasku statusu</string>
+    <string name="settings_notification_bar">Pasek powiadomień</string>
     <string name="settings_show_flow_info">Pokaż użycie danych</string>
     <string name="settings_show_network_speed">Pokaż prędkość transmisji</string>
     <string name="settings_show_notificationBar_notification">Pokaż powiadomienia</string>
@@ -210,7 +210,7 @@ d MMMM yyyy"</string>
     <string name="status_bar_settings_signal_meter_disconnected">Brak połączenia internetowego</string>
     <string name="status_bar_settings_signal_meter_wifi_nossid">Wi-Fi połączone</string>
     <string name="status_bar_settings_wifi_button">Wi-Fi</string>
-    <string name="status_bar_style_settings">Ustawienia paska statusu</string>
+    <string name="status_bar_style_settings">Ustawienia powiadomień</string>
     <string name="status_bar_time_format_12">h:mma</string>
     <string name="status_bar_time_format_24">HH:mm</string>
     <string name="status_bar_toggle_ac">Kontrola dostępu</string>

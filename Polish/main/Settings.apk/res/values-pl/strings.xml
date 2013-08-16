@@ -1765,7 +1765,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="search_wallpaper">tapeta</string>
   <string name="search_wifi">WiFi</string>
   <string name="security_passwords_title">Hasła</string>
-  <string name="security_privacy_settings_title">Bezpieczeństwo i prywatność</string>
+  <string name="security_privacy_settings_title">Zabezpieczenia</string>
   <string name="security_relative">Bezpieczeństwo</string>
   <string name="security_settings_billing_desc">This app may charge you money:</string>
   <string name="security_settings_desc">Aplikacja ma dostęp do następujących elementów na telefonie:</string>
@@ -1886,7 +1886,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="spellcheckers_settings_title">Sprawdzanie pisowni</string>
   <string name="ssid_label">SSID:</string>
   <string name="status_awake_time">Czas wybudzenia</string>
-  <string name="status_bar_settings">Pasek statusu</string>
+  <string name="status_bar_settings">Pasek powiadomień</string>
   <string name="status_bt_address">Adres Bluetooth</string>
   <string name="status_data_state">Stan sieci komórkowej</string>
   <string name="status_esn_number">ESN</string>

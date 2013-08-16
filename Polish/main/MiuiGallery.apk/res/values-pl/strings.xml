@@ -241,7 +241,7 @@
   <string name="operation_refresh">Odśwież</string>
   <string name="operation_rename">Zmień nazwę</string>
   <string name="operation_set_as_screensaver">Ustaw jako wygaszacz</string>
-  <string name="operation_unset_as_screensaver">Wyjdź z wygaszacza</string>
+  <string name="operation_unset_as_screensaver">Odznacz album wygaszacza</string>
   <string name="orientation">Orientacja</string>
   <string name="other_category">Inne ustawienia</string>
   <string name="path">Ścieżka</string>
@@ -276,12 +276,12 @@
   <string name="saving_failure">Zdjęcie nie mogło zostać zapisane</string>
   <string name="saving_image">Zapisywanie zdjęcia...</string>
   <string name="scan_qr_code">Let others scan QR code to view this shared album</string>
-  <string name="screensaver_activate_mode">Pokaz slajdów</string>
+  <string name="screensaver_activate_mode">Włącz wygaszacz ekranu</string>
   <string name="screensaver_activate_only_charging">Tylko gdy podłączony</string>
   <string name="screensaver_category">Wygaszacz ekranu</string>
   <string name="screensaver_no_data">Brak zdjęć w albumie.</string>
-  <string name="screensaver_path">"Album wygaszacza: "</string>
-  <string name="screensaver_path_not_set">nie ustawiono</string>
+  <string name="screensaver_path">"Album: "</string>
+  <string name="screensaver_path_not_set">nie wybrano</string>
   <string name="sd_not_available">Pamięć wewnętrzna odłączona</string>
   <string name="seconds">sekund</string>
   <string name="select_album">Edycja</string>
