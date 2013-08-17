@@ -44,14 +44,14 @@
     <string name="menu_bl_call_log">Odznacz blokowane połączenie</string>
     <string name="menu_bl_clear">Wyczyść czarną listę</string>
     <string name="menu_bl_remove">Usuń z czarnej listy</string>
-    <string name="menu_bl_sms_log">Check blocked message</string>
+    <string name="menu_bl_sms_log">Pokaż blokowane wiadomości</string>
     <string name="menu_call">Wybierz numer</string>
     <string name="menu_clear_all_call">Usuń wszystkie blokowane połączenia</string>
     <string name="menu_clear_all_sms">Usuń wszystkie blokowane wiadomości</string>
     <string name="menu_clear_current_call">Usuń wszystkie blokowane połączenia od tego numeru</string>
     <string name="menu_clear_current_sms">Usuń wszystkie blokowane wiadomości od tego numeru</string>
     <string name="menu_edit">Edytuj</string>
-    <string name="menu_mark">Oznacz</string>
+    <string name="menu_mark">Oznacz jako</string>
     <string name="menu_no_block">Nie blokuj</string>
     <string name="menu_remove">Usuń</string>
     <string name="menu_restore">Przywróć wiadomość</string>
@@ -105,7 +105,7 @@
     <string name="st_mute_block">Połączenia wyciszone i wiadomości blokowane</string>
     <string name="st_mute_title">Bez dzwonków i wibracji</string>
     <string name="st_other_setting_group">Pozostałe</string>
-    <string name="st_settings_name">Ustawienia firewall</string>
+    <string name="st_settings_name">Ustawienia Firewall</string>
     <string name="st_show_block_notification">Pokazuj powiadomienia</string>
     <string name="st_sms_group">Wiadomość</string>
     <string name="tab_blacklist">Czarna lista</string>

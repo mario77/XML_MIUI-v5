@@ -80,8 +80,8 @@
     <string name="resource_default_name">Element</string>
     <string name="resource_delete_all">Czy chcesz usunąć %1$d elementów?</string>
     <string name="resource_delete_confirm">Usunąć te elementy?</string>
-    <string name="resource_delta_update_failed">Aktualizacja poprawki nieudana! Zostanie pobrany pełny pakiet</string>
-    <string name="resource_delta_update_successful">Aktualizacja poprawki pomyślna. Zapisywanie %1$s.</string>
+    <string name="resource_delta_update_failed">Aktualizacja motywu nieudana! Zostanie pobrany pełny pakiet</string>
+    <string name="resource_delta_update_successful">Aktualizacja motywu pomyślna. Pobrano %1$s.</string>
     <string name="resource_detail">Szczegóły</string>
     <string name="resource_download">Pobierz</string>
     <string name="resource_downloaded_title">Pobrane elementy</string>

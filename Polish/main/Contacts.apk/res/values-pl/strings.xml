@@ -770,7 +770,7 @@ Aby dodać kontakt do listy ulubionych:
     <string name="resource_delete_all">Czy chcesz usunąć %1$d elementów?</string>
     <string name="resource_delete_confirm">Usunąć te elementy?</string>    
     <string name="resource_delta_update_failed">Aktualizacja poprawki nieudana! Zostanie pobrany pełny pakiet</string>
-    <string name="resource_delta_update_successful">Aktualizacja poprawki pomyślna. Zapisywanie %1$s.</string>
+    <string name="resource_delta_update_successful">Aktualizacja zasobu pomyślna. Zapisano %1$s.</string>
     <string name="resource_detail">Szczegóły</string>    
     <string name="resource_download">Pobierz</string>
     <string name="resource_downloaded_title">Pobrane elementy</string>
