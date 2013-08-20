@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="about">Monitor Danych</string>
-  <string name="adjust_traffic_auto_adjust_hint">System wykorzystuje informacje od operatora do korekcji użycia danych. Konieczne jest ustawienie informacji o operatorze</string>
+  <string name="adjust_no_network_update_data_fail">Aktualizacja danych nieudana. Spróbuj ponownie później</string>
+  <string name="adjust_traffic_auto_adjust_hint">System wykorzystuje informacje od operatora do korekcji użycia danych. Konieczne jest ustawienie informacji o
+    operatorze</string>
   <string name="adjust_traffic_auto_adjust_open_hint">Automatyczna korekta transmisji danych</string>
   <string name="adjust_traffic_auto_adjust_title">Automatyczna korekta</string>
   <string name="adjust_traffic_carrier_adjust">Pobierz od operatora</string>
@@ -19,16 +21,14 @@
   <string name="adjust_traffic_title">Korekta transmisji danych</string>
   <string name="adjust_traffic_update">Aktualizuj</string>
   <string name="app_detail_internet_background">Łączność w tle</string>
-  <string name="app_detail_internet_background_traffic">"Pierwszy plan: %1$s    W tle: %2$s"</string>
+  <string name="app_detail_internet_background_traffic">"Pierwszy plan: %1$s W tle: %2$s"</string>
   <string name="app_detail_internet_control_category">Kontrola sieci</string>
   <string name="app_detail_title">Szczegóły aplikacji</string>
   <string name="app_detail_version">Wersja: %s</string>
   <string name="app_has_deleted">%s został usunięty.</string>
   <string name="app_name">Monitor Danych</string>
   <string name="app_traffic_detail">" użycie danych (%s)"</string>
-  <string name="apply_rules_failed">"Błąd aplikacji zapory firewall, spróbuj ponownie. 
-    (%s)"
-  </string>
+  <string name="apply_rules_failed">"Błąd aplikacji zapory firewall, spróbuj ponownie. (%s)"</string>
   <string name="apply_rules_failed_known">Zapamiętaj</string>
   <string name="batch_connect_control">Aplikacje</string>
   <string name="cancel_txt">Anuluj</string>
@@ -41,6 +41,16 @@
   <string name="close_txt">Zamknij</string>
   <string name="control_app_internet">Kontrola aplikacji</string>
   <string name="current_warning_value">Ostrzeżenie: %s</string>
+  <string name="custom_adjust_command">Content of sender</string>
+  <string name="custom_adjust_command_hit">the content to send</string>
+  <string name="custom_adjust_is_empty">%s jest pusty!</string>
+  <string name="custom_adjust_receiver">Receiver number</string>
+  <string name="custom_adjust_receiver_hint">the number carrier used to send info.</string>
+  <string name="custom_adjust_recevier_same_with_sender">almost the same with sender number</string>
+  <string name="custom_adjust_sender">Sender number</string>
+  <string name="custom_adjust_sender_hint">the number carrier used to receive the query info from user</string>
+  <string name="custom_adjust_summary">%1$s, %2$s, %3$s</string>
+  <string name="custom_adjust_title">Custom adjust settings</string>
   <string name="daily_limit_dialog_disconnect_hint">Wyłącz Internet gdy przekroczono limit danych</string>
   <string name="daily_limit_dialog_hint">Dzienny limit danych (Pusto lub 0 oznacza brak limitu)</string>
   <string name="daily_limit_result">Przypomnij i wyłącz przesył danych gdy dzienne użycie przekroczy %dMB</string>
@@ -48,16 +58,14 @@
   <string name="daily_limit_result_no_limit">Przypomnij jeśli dzienny limit zostanie przekroczony</string>
   <string name="detail_app_button">Informacje</string>
   <string name="dialog_button_adjust">Dostosuj</string>
-  <string name="disable_background_connect_warning">Ta funkcja może zakłócić działanie aplikacji korzystających z przesyłania danych w tle, jeśli sieć Wi-Fi będzie niedostępna. Ograniczyć dane w tle?</string>
+  <string name="disable_background_connect_warning">Ta funkcja może zakłócić działanie aplikacji korzystających z przesyłania danych w tle, jeśli sieć Wi-Fi będzie
+    niedostępna. Ograniczyć dane w tle?</string>
   <string name="disable_background_mobile_connect">Ogranicz transmisję danych w tle</string>
   <string name="edit_frame_free_traffic_title">Limit transmisji danych</string>
   <string name="edit_frame_month_start_title">Data resetowania cyklu</string>
   <string name="edit_frame_warning_title">"Ostrzeżenie o transmisji przy: "</string>
   <string name="finish_traffic_settings_hint">Ustawienia zapisane!</string>
-  <string name="finish_traffic_settings_message">
-    "Wykorzystany limit danych: %s. Czy te dane są prawidłowe? 
-    Jeśli nie, możesz je zmienić."
-  </string>
+  <string name="finish_traffic_settings_message"> "Wykorzystany limit danych: %s. Czy te dane są prawidłowe? Jeśli nie, możesz je zmienić." </string>
   <string name="finish_traffic_settings_title">Dostosuj</string>
   <string name="fire_rule_program_list">Aplikacje</string>
   <string name="fire_wall_is_closed">Firewall nie jest aktywny</string>
@@ -113,7 +121,7 @@
   <string name="retry">Ponów</string>
   <string name="save">Zapisz</string>
   <string name="settings_page_adjust_summary_no_carrier">Operator niezdefiniowany, autokorekta wyłączona</string>
-  <string name="settings_page_traffic_summary">Dostępne: %1$s, Ostrzeżenie: %2$s,  użycie od %3$d dnia</string>
+  <string name="settings_page_traffic_summary">Dostępne: %1$s, Ostrzeżenie: %2$s, użycie od %3$d dnia</string>
   <string name="settings_page_traffic_summary_no_settings">Pakiet niezdefiniowany, użycie od %d dnia</string>
   <string name="sms_match_fail">SMS matching failed</string>
   <string name="sms_template_match_fail">Match SMS template fail</string>
@@ -126,15 +134,17 @@
   <string name="sync_traffic_fail_message">Sync from mobile operator failed, the server is busy. Please try again later or call customer service %s for help</string>
   <string name="sync_traffic_fail_title">Synchronizacja nieudana</string>
   <string name="sync_traffic_ing">Synchronizacja z operatorem, proszę czekać...</string>
-  <string name="sync_traffic_no_cmd_detail">"Submit your City, Province and ICC's brand and carrier to the following thread on the forums: http://www.miui.com/forum-172-1.html. Thank you."</string>
+  <string name="sync_traffic_no_cmd_detail">"Submit your City, Province and ICC's brand and carrier to the following thread on the forums:
+    http://www.miui.com/forum-172-1.html. Thank you."</string>
   <string name="sync_traffic_no_cmd_title">Brak schematu SMS</string>
   <string name="sync_traffic_success">"Zsynchronizowano informacje od operatora, użycie danych ustawione pomyślnie"</string>
   <string name="text_day"/>
-    <string name="text_done">Gotowe</string>
-    <string name="text_save">Zapisz</string>
-    <string name="traffic_none">b.d.</string>
+  <string name="text_done">Gotowe</string>
+  <string name="text_save">Zapisz</string>
+  <string name="traffic_none">b.d.</string>
   <string name="traffic_remain">Pozostało</string>
-  <string name="traffic_settings_error">There is an error in your settings for monthly free traffic. According to your settings and operator SMS, your monthly free traffic is: %1$s and remaining traffic is: %2$s.</string>
+  <string name="traffic_settings_error">There is an error in your settings for monthly free traffic. According to your settings and operator SMS, your monthly free
+    traffic is: %1$s and remaining traffic is: %2$s.</string>
   <string name="traffic_suffix">Dane</string>
   <string name="traffic_suffix_with_uint">Użycie danych (MB)</string>
   <string name="traffic_total">%s (razem)</string>
@@ -152,7 +162,7 @@
   <string name="updating">Aktualizowanie...</string>
   <string name="used_flux">Użycie danych</string>
   <string name="version_label">"Wersja: "</string>
-  <string name="warning_settings_toast">"%1$d%%  %2$dMB"</string>
+  <string name="warning_settings_toast">"%1$d%% %2$dMB"</string>
   <string name="warning_title">Ostrzeżenie</string>
   <string name="wifi_traffic">Wi-Fi: %s</string>
   <string name="wifi_type">Wi-Fi</string>

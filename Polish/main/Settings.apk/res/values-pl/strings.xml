@@ -182,7 +182,7 @@ Czy włączyć funkcję?"</string>
   <string name="assisted_gps">Użyj wspomaganego systemu GPS</string>
   <string name="assisted_gps_disabled">Użyj serwera do wspomagania systemu GPS (usuń zaznaczenie, aby zwiększyć wydajność systemu GPS)</string>
   <string name="assisted_gps_enabled">Użyj serwera do wspomagania systemu GPS (usuń zaznaczenie, aby zmniejszyć ruch sieciowy)</string>
-  <string name="audio_profile_settings_title">Audio profiles</string>
+  <string name="audio_profile_settings_title">Profile dźwięku</string>
   <string name="audio_record_proc_title">Eliminowanie szumu</string>
   <string name="auto_caps">Wstawiaj wielkie litery</string>
   <string name="auto_caps_summary">Zaczynaj zdania wielką literą</string>
@@ -949,10 +949,12 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="hardkeyboard_category">Ustawienia klawiatury fizycznej</string>
   <string name="hdcp_checking_dialog_title">Ustaw sprawdzanie HDCP</string>
   <string name="hdcp_checking_title">Sprawdzanie HDCP</string>
-  <string name="hdmi_3d_help_title">About HDMI 3D Stereoscopic support</string>
+  <string name="hdmi_3d_display_enable_summary">Włącz wsparcie gier 3D</string>
+  <string name="hdmi_3d_display_enable_title">Wyświetlacz 3D</string>
+  <string name="hdmi_3d_help_title">O wsparciu 3D przez HDMI</string>
   <string name="hdmi_3d_stereo_separation_label">3D</string>
-  <string name="hdmi_3dplay_control_disable_subtext">3D Stereoscopic output to external 3D display disabled</string>
-  <string name="hdmi_3dplay_control_enable_subtext">3D Stereoscopic output to external 3D display enabled</string>
+  <string name="hdmi_3dplay_control_disable_subtext">Stereoskopowe wyjście 3D wyłączone</string>
+  <string name="hdmi_3dplay_control_enable_subtext">Stereoskopowe wyjście 3D włączone</string>
   <string name="hdmi_3dplay_control_text">Włącz 3D</string>
   <string name="hdmi_3dplay_settings_title">HDMI</string>
   <string name="hdmi_color_calibration_none">Naturalnie</string>
@@ -1055,10 +1057,10 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="large_font">Duży</string>
   <string name="last_synced">Ostatnia synchronizacja: %1$s</string>
   <string name="launch_count_label">Licznik</string>
-  <string name="launcher_settings_title">Launcher</string>
   <string name="launch_error">"Couldn't launch the application!"</string>
   <string name="launch_main">Launch the application by main activity</string>
-  <string name="launch_main_label">Launch application</string>
+  <string name="launch_main_label">Uruchom aplikację</string>
+  <string name="launcher_settings_title">Launcher</string>
   <string name="led_colors_summary">" "</string>
   <string name="led_frequence_summary">Ustaw opóźnienie pulsowania diody LED</string>
   <string name="led_pulse_summary">Powiadomienie diodą LED</string>
@@ -1183,6 +1185,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="master_clear_summary">Wymazuje wszystkie dane w telefonie</string>
   <string name="master_clear_title">Ustawienia fabryczne</string>
   <string name="media_button">Przycisk multimedialny</string>
+  <string name="media_feedback_enable_title">Wibruj w rytmie</string>
   <string name="media_format_button_text">Wyczyść nośnik USB</string>
   <string name="media_format_desc">Wymazać cały nośnik USB? Utracisz <b>wszystkie</b> zapisane dane.</string>
   <string name="media_format_final_button_text">Wymaż wszystko</string>
@@ -1638,9 +1641,12 @@ spróbuj:
   <string name="remove_from_frequently_fragment">Usunąć \"%s\" z popularnych ustawień?</string>
   <string name="reset_app_preferences">Resetuj opcje aplikacji</string>
   <string name="reset_app_preferences_button">Resetuj aplikacje</string>
-  <string name="reset_app_preferences_desc">"Wszystkie te ustawienia zostaną zresetowane: "<li>wyłączone aplikacje,</li>" "<li>wyłączone powiadomienia aplikacji,</li>"
-      "<li>aplikacje używane domyślnie do wykonania czynności,</li>" "<li>ograniczenia użycia danych w tle w aplikacjach.</li>" Nie utracisz żadnych danych
-    aplikacji."</string>
+  <string name="reset_app_preferences_desc">"Wszystkie te ustawienia zostaną zresetowane:
+"<li>wyłączone aplikacje,</li>"
+"<li>wyłączone powiadomienia aplikacji,</li>"
+"<li>aplikacje używane domyślnie do wykonania czynności,</li>"
+"<li>ograniczenia użycia danych w tle w aplikacjach.</li>"
+ Nie utracisz żadnych danych aplikacji."</string>
   <string name="reset_app_preferences_title">Zresetować opcje aplikacji?</string>
   <string name="restore_default_apn">Przywracanie domyślnych ustawień APN</string>
   <string name="restore_default_apn_completed">Przywracanie domyślnych ustawień APN zostało ukończone.</string>
@@ -1658,7 +1664,6 @@ spróbuj:
   <string name="roaming_turn_it_on_button">Włącz</string>
   <string name="roaming_warning">Z zezwoleniem na roaming danych mogą się wiązać wysokie opłaty roamingowe.</string>
   <string name="roaming_warning_multiuser">"Po zezwoleniu na przesyłanie danych w roamingu mogą zostać naliczone znaczne opłaty za roaming.
-
 To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="running_process_item_removed_user_label">Użytkownik usunięty</string>
   <string name="running_process_item_user_label">Użytkownik: %1$s</string>
@@ -2108,12 +2113,9 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="user_account_title">Konto na materiały</string>
   <string name="user_add_user_menu">Dodaj użytkownika</string>
   <string name="user_add_user_message_long">"Możesz użytkować to urządzenie wspólnie z innymi osobami, tworząc dodatkowych użytkowników. Każdy użytkownik ma swoje własne miejsce, które może spersonalizować własnymi aplikacjami, tapetą itd. Użytkownicy mogą także zmieniać ustawienia tabletu, które dotyczą wszystkich, np. Wi-Fi.
-
 Po utworzeniu nowego użytkownika musi on przejść przez proces konfiguracji.
-
 Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imieniu wszystkich pozostałych użytkowników."</string>
   <string name="user_add_user_message_short">"Po utworzeniu nowego użytkownika musi on przejść przez proces konfiguracji.
-
 Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imieniu wszystkich pozostałych użytkowników."</string>
   <string name="user_add_user_title">Dodaj nowego użytkownika</string>
   <string name="user_adding_new_user">Dodaję nowego użytkownika…</string>
@@ -2123,7 +2125,7 @@ Każdy użytkownik może akceptować zaktualizowane uprawnienia aplikacji w imie
   <string name="user_confirm_remove_self_title">Chcesz usunąć siebie?</string>
   <string name="user_confirm_remove_title">Usunąć użytkownika?</string>
   <string name="user_delete_button">Usuń</string>
-  <string name="user_details_title">Edytuj szczegóły</string>
+  <string name="user_delete_user_description">Usuń użytkownika</string>
   <string name="user_dict_multiple_settings_title">Osobiste słowniki</string>
   <string name="user_dict_settings_add_dialog_confirm">OK</string>
   <string name="user_dict_settings_add_dialog_less_options">Mniej opcji</string>
@@ -2403,6 +2405,7 @@ zakończone"</string>
   <string name="wifi_password">Hasło</string>
   <string name="wifi_poor_network_detection">Unikaj słabych połączeń</string>
   <string name="wifi_poor_network_detection_summary">Nie łącz z Wi-Fi, jeśli połączenie jest słabe</string>
+  <string name="wifi_priority_settings_label">Opcje priorytetów</string> 
   <string name="wifi_quick_toggle_summary">Włącz Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Zapisana</string>
