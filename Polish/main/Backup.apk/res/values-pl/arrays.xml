@@ -6,12 +6,11 @@
     </string-array>
     <string-array name="system_package_label">
         <item>Przeglądarka</item>
-        <item>Menedżer plików</item>
         <item>Galeria</item>
-        <item>Uprawnienia</item>
-        <item>Dostawca Pogody</item>
+        <item>Uprawnienia</item>    
         <item>Aparat</item>
         <item>Monitor danych</item>
+        <item>Dostawca Pogody</item>
         <item>Pogoda</item>
     </string-array>
     <string-array name="system_data_label">

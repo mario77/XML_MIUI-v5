@@ -1775,7 +1775,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="security_settings_billing_desc">This app may charge you money:</string>
   <string name="security_settings_desc">Aplikacja ma dostęp do następujących elementów na telefonie:</string>
   <string name="security_settings_desc_multi">Aplikacja ma dostęp do tych elementów na telefonie. Aby poprawić wydajność i zmniejszyć użycie pamięci, aplikacja %1$s ma niektóre z tych uprawnień, bo działa wewnątrz tego samego procesu co %2$s:</string>
-  <string name="security_settings_premium_sms_desc">Send premium SMS</string>
+  <string name="security_settings_premium_sms_desc">Wysyłanie premium SMS</string>
   <string name="security_settings_summary">Ustaw funkcję Moja lokalizacja, odblokowywanie ekranu, blokadę karty SIM, blokadę magazynu danych logowania.</string>
   <string name="security_settings_title">Zabezpieczenia</string>
   <string name="select_all">Wybierz wszystkie</string>

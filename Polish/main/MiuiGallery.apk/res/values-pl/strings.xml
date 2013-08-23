@@ -246,6 +246,7 @@
   <string name="other_category">Inne ustawienia</string>
   <string name="path">Ścieżka</string>
   <string name="people">Osoby</string>
+  <string name="photo_page_always_rotate">Autoobracanie zdjęć</string>
   <string name="photo_page_save_image">Zapisz</string>
   <string name="photo_page_save_uri_image_fail">Nie udało się zapisać zdjęcia</string>
   <string name="photo_page_save_uri_image_ok">Zdjęcie zapisane do katalogu aparatu</string>
