@@ -140,12 +140,14 @@
   <string name="call_record_notification_message_low_space_miui">Nagrywanie zatrzymane. Brak miejsca w pamięci urządzenia, kliknij aby wyświetlić %s.</string>
   <string name="call_record_notification_message_miui">Zapisano w: %s.</string>
   <string name="call_record_notification_message_sd_unmounted_miui">Zatrzymano nagrywanie, ponieważ pamięć USB jest odmontowana.</string>
+  <string name="call_record_notification_message_start_failed">Aplikacja Nagrywanie jest zajęta przez inny proces.</string>
   <string name="call_record_notification_title_error_miui">Nagrywanie połączenia nieudane</string>
   <string name="call_record_notification_title_miui">Połączenie zarejestrowane</string>
   <string name="call_record_path_name_of_sdcard_miui">sdcard</string>
-  <string name="call_record_sd_error_miui">Błąd dostępu pamięci USB!</string>
+  <string name="call_record_sd_error_miui">Błąd dostępu do pamięci USB!</string>
   <string name="call_record_sd_space_low_miui">Kończy się miejsce w pamięci USB. Zwolnij pamięć i spróbuj ponownie</string>
   <string name="call_record_setting_miui">Nagrywanie połączeń</string>
+  <string name="call_record_unknown_error">Wystąpił nieznany błąd podczas nagrywania.</string>
   <string name="call_recording_notification_summary_miui">Pokaż powiadomienie na pasku statusu gdy nagrywanie zostanie ukończone</string>
   <string name="call_recording_notification_title_miui">Powiadomienie</string>
   <string name="call_recording_prompt_miui">Otwórz nagrywanie połączeń</string>

@@ -47,8 +47,10 @@
     <string name="overwrite_dialog_message" formatted="false">%s już istnieje. Nadpisać?</string>
     <string name="preference_led_indicator">Powiadomienie o nagrywaniu</string>
     <string name="preference_led_indicator_prompt">Pokaż powiadomienie LED podczas nagrywania gdy ekran jest wyłączony</string>
-    <string name="preference_record_type_dialog_title">Wybierz typ nagrywania</string>
-    <string name="preference_record_type_title">Typ nagrywania</string>
+    <string name="preference_record_type_dialog_title">Wybierz kodek nagrywania</string>
+    <string name="preference_record_type_title">Kodek nagrywania</string>
+    <string name="preference_scenes">Typ nagrania</string>
+    <string name="preference_record_scenes_dialog_title">Wybierz kategorię typu nagrania</string>
     <string name="preference_silent_mode">Ciche nagrywanie</string>
     <string name="preference_silent_mode_summary">Nagrywaj bez dźwięków interfejsu</string>
     <string name="record_list">Lista nagrań</string>

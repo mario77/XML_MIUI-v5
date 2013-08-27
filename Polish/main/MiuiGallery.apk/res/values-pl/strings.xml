@@ -26,6 +26,8 @@
   <string name="alert">Uwaga</string>
   <string name="alert_message_initial_cloud">System wyśle automatycznie stare i nowe zdjęcia, a także zrzuty ekranu tylko przy połączeniu Wi-Fi.</string>
   <string name="alert_message_open_sync">Zamierzasz przesłać zdjęcia do Albumów Online. Funkcja zostanie aktywowana.</string>
+  <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
+  <string name="androidesk_wallpapers">Tapety Android</string>
   <string name="aperture">Przesłona</string>
   <string name="app_name">Galeria</string>
   <string name="appwidget_empty_text">Brak zdjęć.</string>
@@ -35,6 +37,10 @@
   <string name="auto_create_recent_album_confirm">Po wyłączeniu tej funkcji Galeria wyczyści dane o ulubionych albumach. Ulubione albumy ustawione przez użytkownika nie zostaną usunięte.</string>
   <string name="auto_create_recent_album_over_ten_times">Utwórz ulubione albumy po ich otwarciu więcej niż 10 razy</string>
   <string name="autofix">Auto-fix</string>
+  <string name="autohomemain">Autohomemain</string>
+  <string name="baidu_bdmobile_downloads">Baidu Mobile</string>
+  <string name="baidu_flyflow_downloads">Baidu Browser</string>
+  <string name="beautyphone">Beauty Phone</string>
   <string name="big_screen_alertdialog_title">Lista urządzeń</string>
   <string name="bigscrren_slide_exit">Wyjdź z pokazu slajdów</string>
   <string name="browse_category">Albumy</string>
@@ -96,6 +102,9 @@
   <string name="crossprocess">Przeplatanie</string>
   <string name="cut">Wycinanie</string>
   <string name="damaged_file">Plik uszkodzony</string>
+  <string name="dcim_100media">Taobao TMall</string>
+  <string name="dcim_opaipic">Opaipic</string>
+  <string name="dcim_viva_pics">VIVA</string>
   <string name="defalt_local_mobile">mobile</string>
   <string name="delete">Usuń</string>
   <string name="delete_fail_too_many_items">Za dużo wybranych elementów. Nie można usunąć.</string>
@@ -171,6 +180,7 @@
   <string name="how_many_sub_folders">Katalogi: %d</string>
   <string name="how_many_videos">Filmy: %d</string>
   <string name="image_quota_fulfiled">"Can't create image, number of images in this album reached the limit."</string>
+  <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Importowanie udane</string>
   <string name="import_fail">Importowanie nieudane</string>
   <string name="initial_cloud_button_text">Przejdź do albumów w chmurze</string>
@@ -210,7 +220,8 @@
   <string name="messagelist_sender_self">Ja</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk Painting</string>
-  <string name="miliao_saved_folder_display_name">MiTalk Saved</string>
+  <string name="miliao_saved">Miliao</string>
+  <string name="miliao_folder_display_name">MiTalk Saved</string>
   <string name="mimetype">MIME type</string>
   <string name="mishop_saved_folder_display_name">MiShop Saves</string>
   <string name="miui_capture_screen_folder_display_name">Zrzuty ekranu</string>
@@ -219,9 +230,12 @@
   <string name="modify_disallow_hint">Dodawanie nowych zdjęć do albumu jest niemożliwe</string>
   <string name="more">Więcej</string>
   <string name="move_to_cloud_album">Przenieś do chmury</string>
+  <string name="mtgif">MTGIF</string>
+  <string name="mtxx">MTXX</string>
   <string name="multiface_crop_help">Dotknij twarzy by rozpocząć.</string>
   <string name="must_pick_file">Wybierz zdjęcie</string>
   <string name="negative">Negatyw</string>
+  <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="no">Odrzuć</string>
   <string name="no_albums_alert">Brak albumów.</string>
   <string name="no_connectivity">"Some locations couldn't be identified due to network problems."</string>
@@ -255,7 +269,11 @@
   <string name="photos">" zdjęcia"</string>
   <string name="pick_too_many_recipients">Zbyt dużo odbiorców</string>
   <string name="posterize">Posteryzacja</string>
+  <string name="ppmm_gallery">PPMM</string>
   <string name="projection">Projekcja</string>
+  <string name="qqbrowser_img">QQ Browser</string>
+  <string name="qsbk_save">QSBK</string>
+  <string name="quotation">\"%s\"</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="redeye">Czerwone oko</string>
   <string name="redeye_tooltip">Dotknij by usunąć efekt czerwonych oczu</string>
@@ -263,6 +281,7 @@
   <string name="remove_recent_album">Usuń z ukrytych albumów</string>
   <string name="rename_failed">Zmiana nazwy nieudana</string>
   <string name="rename_failed_duplicated_name">Nie można zmienić nazwy. Nazwa istnieje.</string>
+  <string name="renren_image">RenRen</string>
   <string name="request_qr_code">Odczytywanie kodu QR...</string>
   <string name="request_qr_code_failed">Odczytywanie kodu QR nieudane, kliknij aby ponowić</string>
   <string name="request_sms_url_failed">Nie udało się odczytać URL do SMS</string>
@@ -289,6 +308,7 @@
   <string name="select_all">Zaznacz wszystko</string>
   <string name="select_image">Zaznacz zdjęcie</string>
   <string name="select_item">Edycja</string>
+  <string name="select_too_much_to_send_tips">Zaznaczono za dużo zdjęć do wysłania. Maksymalnie: %d.</string>
   <string name="select_video">Zaznacz film</string>
   <string name="send">Wyślij</string>
   <string name="send_multiple_files_hint_format">Wyślij wiele plików (%s)</string>
@@ -311,11 +331,11 @@
   aby wyświetlić swoje albumy na komputerze"</string>
   <string name="shadow">Cienie</string>
   <string name="share_album">Udostępnij album</string>
+  <string name="share_album_owner">Właściciel</string>
   <string name="share_album_qr_code">Kod QR</string>
   <string name="share_album_share_to">Udostępnij do</string>
   <string name="share_by_email_start">Udostępnianie %1$s w tle</string>
   <string name="share_by_email_successfully">Udostępnianie %1$s przez E-mail pomyślne</string>
-  <string name="share_owner">Właściciel</string>
   <string name="share_user_name">Nazwa</string>
   <string name="sharer_quota_fulfiled">"Can't add sharer, number of sharers in this album reached the limit."</string>
   <string name="sharer_status_accepted">Zaakceptowane</string>
@@ -329,6 +349,7 @@
   <string name="show_images_only">Tylko zdjęcia</string>
   <string name="show_on_map">Pokaż na mapie</string>
   <string name="show_videos_only">Tylko filmy</string>
+  <string name="sina_weibo_save">Weibo</string>
   <string name="size_above">%1$s lub więcej</string>
   <string name="size_below">%1$s lub mniej</string>
   <string name="size_between">%1$s do %2$s</string>
@@ -357,6 +378,10 @@
   <string name="tab_wallpaper_text">Pulpit</string>
   <string name="tags">Tagi</string>
   <string name="temperature">Ciepło</string>
+  <string name="tencent_mobile_qq_img_save">QQ2012</string>
+  <string name="tencent_qq_hd_pic">QQ HD</string>
+  <string name="tencent_qzonepic">Qzone</string>
+  <string name="tieba">Tie Ba</string>
   <string name="time">Data</string>
   <string name="times">Czas</string>
   <string name="tint">Odcień</string>
@@ -372,6 +397,7 @@
   <string name="vignette">Winieta</string>
   <string name="wallpaper">Tapeta</string>
   <string name="warn">Ostrzeżenie</string>
+  <string name="weikan_weikan">Weikan TV</string>
   <string name="white_balance">Balans bieli</string>
   <string name="widget_type">Wybierz zdjęcia</string>
   <string name="widget_type_album">Wybierz albumy</string>

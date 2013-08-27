@@ -2,6 +2,7 @@
 <resources>
     <string name="activity_not_found">Nie znaleziono programu do otwarcia załącznika</string>
     <string name="activity_not_found_uri">Nie znaleziono odpowiedniego programu</string>
+    <string name="add_attachment">Dodaj załącznik</string>
     <string name="add_bookmark">Ulubione</string>
     <string name="add_contact">Dodaj kontakt</string>
     <string name="add_festival">Polecane</string>
@@ -28,6 +29,7 @@
     <string name="attach_subject">Temat</string>
     <string name="attach_take_photo">Zrób zdjęcie</string>
     <string name="attach_video">Filmy wideo</string>
+    <string name="back_to_message_list">Powrót do listy wiadomości</string>
     <string name="batch_delete_confirm_dialog_message">Usuń %1$s wybranych wiadomości</string>
     <string name="batch_deleting_message_progress_message">Usuwanie wybranych wiadomości</string>
     <string name="batch_deleting_progress_message">Usuwanie wybranych...</string>
@@ -63,6 +65,7 @@
     <string name="confirm_no_block_positive">"Nie blokuj numeru"</string>
     <string name="confirm_no_block_title">"Zaprzestać blokowania numeru i przywrócić wszystkie wiadomości?"</string>
     <string name="confirm_rate_limit">Wysyłanych jest wiele wiadomości multimedialnych. Czy to jest OK?</string>
+    <string name="confirm_restore_all_title">Przywróć wszystkie wiadomości od tego numeru ？</string>
     <string name="confirm_restore_positive">Przywróć</string>
     <string name="confirm_restore_title">Przywrócić wszystkie zaznaczone wiadomości?</string>
     <string name="context_menu_add_contact">Dodaj do kontaktów</string>
@@ -81,6 +84,7 @@
     <string name="converting_to_picture_message">Trwa konwertowanie na wiadomość multimedialną...</string>
     <string name="converting_to_text_message">Trwa konwertowanie na wiadomość tekstową...</string>
     <string name="copy_message_text">Kopiuj tekst wiadomości</string>
+    <string name="copy_message_text_success">Skopiowano!</string>
     <string name="copy_to_sdcard">Zapisz załącznik</string>
     <string name="copy_to_sdcard_fail">"Nie można zapisać załącznika"</string>
     <string name="copy_to_sdcard_success">Załącznik zapisany.</string>
@@ -319,13 +323,14 @@
     <string name="replace_image">Zastąp zdjęcie</string>
     <string name="resent_message">Wysł. ponownie</string>
     <string name="resize_image_error_information">Niestety, nawet po zmianie rozmiaru zdjęcie jest zbyt duże, aby je wysłać.</string>
+    <string name="restore_all_button_msg">Przywróć wiadomości</string>
     <string name="restore_blocked_message">Przywróć zablokowane wiadomości</string>
     <string name="save">Zapisz</string>
     <string name="save_ringtone">Zapisz jako dzwonek</string>
     <string name="save_to_sim">Zapisz na SIM</string>
     <string name="saved_label">"Zapisany: "</string>
     <string name="saved_ringtone">Dzwonek został zapisany</string>
-    <string name="saved_ringtone_fail">Zapisanie dzwonka nie powiodło się</string>
+    <string name="saved_ringtone_fail">"Zapisanie dzwonka nie powiodło się."</string>
     <string name="search">Wiadomości</string>
     <string name="search_empty">Brak wyników</string>
     <string name="search_hint">Przeszukaj wiadomości</string>
@@ -339,10 +344,12 @@
     <string name="select_link_title">Wybierz akcję</string>
     <string name="select_local_audio">Wybierz plik audio</string>
     <string name="select_local_video">Wybierz film</string>
+    <string name="select_recipient">Wybierz odbiorcę</string>
     <string name="select_top_text">Tekst na górze</string>
     <string name="send">Wyślij</string>
     <string name="send_signature_confirm_dialog_message">Brak treści w wiadomości, czy na pewno wysłać?</string>
     <string name="send_signature_confirm_dialog_title">Potwierdzenia wysyłania</string>
+    <string name="send_sms">Wyślij wiadomość</string>
     <string name="send_to">"Do: "</string>
     <string name="send_to_count">%1$s wysłanych wiadomości</string>
     <string name="send_to_index_contact">Wysyłanie %1$s z %2$s...</string>
@@ -399,6 +406,7 @@
     <string name="too_many_recipients">Ta wiadomość ma zbyt wielu odbiorców (%1$s). Istnieje limit odbiorców wynoszący %2$s.</string>
     <string name="too_many_unsent_mms">"Nie można wysłać wiadomości. Osiągnięto maksymalną ilość niewysłanych wiadomości MMS."</string>
     <string name="try_to_send">Spróbuj wysłać</string>
+    <string name="type_attachment">attachment</string>
     <string name="type_audio">audio</string>
     <string name="type_picture">zdjęcie</string>
     <string name="type_to_compose_text_enter_to_send">Wpisz wiadomość</string>

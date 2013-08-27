@@ -325,7 +325,7 @@
     <string name="skip_setup_account_msg">Korzystając z konta Xiaomi możesz synchronizować i zapisywać swoje SMSy, kontakty, zdjęcia i notatki. Przejść do ustawień później?</string>
     <string name="skip_setup_account_title">Pomiń logowanie do konta</string>
     <string name="start_micloud">Start</string>
-    <string name="sync_dspt">Włącz synchronizację i usługi w chmurze</string>
+    <string name="sync_dspt">Włącz synchronizację usług</string>
     <string name="sync_off">Wył</string>
     <string name="sync_on">Wł</string>
     <string name="sync_sub_dspt">Zostanie wysłany SMS aby aktywować usługę</string>
