@@ -65,7 +65,7 @@
     <string name="confirm_no_block_positive">"Nie blokuj numeru"</string>
     <string name="confirm_no_block_title">"Zaprzestać blokowania numeru i przywrócić wszystkie wiadomości?"</string>
     <string name="confirm_rate_limit">Wysyłanych jest wiele wiadomości multimedialnych. Czy to jest OK?</string>
-    <string name="confirm_restore_all_title">Przywróć wszystkie wiadomości od tego numeru ？</string>
+    <string name="confirm_restore_all_title">Przywócić wszystkie wiadomości?</string>
     <string name="confirm_restore_positive">Przywróć</string>
     <string name="confirm_restore_title">Przywrócić wszystkie zaznaczone wiadomości?</string>
     <string name="context_menu_add_contact">Dodaj do kontaktów</string>
