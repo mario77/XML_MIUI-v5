@@ -218,7 +218,6 @@
   <string name="message_no_delete_access">Odmowa dostępu. Nie można usunąć pliku lub katalogu: %s</string>
   <string name="message_no_delete_access_with_count">Nie można usunąć %d plików lub katalogów.</string>
   <string name="messagelist_sender_self">Ja</string>
-  <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk Painting</string>
   <string name="miliao_saved">Miliao</string>
   <string name="miliao_folder_display_name">MiTalk Saved</string>
