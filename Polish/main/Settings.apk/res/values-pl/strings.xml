@@ -1308,10 +1308,10 @@ spróbuj:
   <string name="oldman_mode_confirm_will_normal_mode_text">disable elder mode ?</string>
   <string name="oldman_mode_confirm_will_oldman_mode_text">enable elder mode ?</string>
   <string name="oldman_mode_enabled_name">enable elder mode</string>
-  <string name="oldman_mode_entry_name">elder mode settings</string>
-  <string name="oldman_mode_entry_title">elder mode</string>
-  <string name="oldman_mode_settings_caption">elder mode settings</string>
-  <string name="oldman_mode_summary">enable or disable elder mode, will reboot!</string>
+  <string name="oldman_mode_entry_name">Ułatwienia sterowania</string>
+  <string name="oldman_mode_entry_title">Ułatwienia sterowania</string>
+  <string name="oldman_mode_settings_caption">Ułatwienia sterowania</string>
+  <string name="oldman_mode_summary">Włącz lub wyłącz enable or disable elder mode, will reboot!</string>
   <string name="onscreen_keyboard_settings_summary">Ustawienia klawiatury ekranowej</string>
   <string name="osb_settings">Klawisze ekranowe</string>
   <string name="other_relative">Inne uprawnienia</string>

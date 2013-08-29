@@ -112,21 +112,27 @@
   <string name="impunity_declaration">Muzyka online wykorzystuje usługę Baidu Online Music. Kliknij \"OK\" aby potwierdzić chęć korzystania, kliknij \"Anuluj\" by wyjść</string>
   <string name="impunity_declaration_title">Deklaracja</string>
   <string name="keep_quit_position_settings">Pamiętaj ostatni utwór</string>
-  <string name="keep_quit_position_summary">Zapamiętuje ostatni odtwarzany utwór, który może zostać wznowiony po restarcie aplikacji</string>
+  <string name="keep_quit_position_summary">Aplikacja zapamięta ostatnio odtwarzany utwór</string>
   <string name="listen_to_music_online_settings">Muzyka online</string>
   <string name="listen_to_online_summary">Włącz odtwarzanie muzyki online</string>
-  <string name="load_album_artist_failed">Nie udało się załadować listy albumów. Spróbuj ponownie później</string>
-  <string name="load_album_artist_in_process">Ładowanie listy albumów</string>
-  <string name="load_album_failed">Nie udało się załadować listy piosenek. Spróbuj ponownie później.</string>
-  <string name="load_album_in_process">Ładowanie listy albumów...</string>
-  <string name="load_artist_failed">Nie udało się załadować listy wykonawców. Spróbuj ponownie później</string>
-  <string name="load_artist_in_process">Ładowanie listy utworów</string>
-  <string name="load_audio_failed">Nie udało się załadować listy. Spróbuj ponownie później.</string>
-  <string name="load_audio_in_process">Ładowanie top list</string>
-  <string name="load_bill_failed">Nie udało się załadować listy stacji. Spróbuj ponownie później.</string>
-  <string name="load_bill_in_process">Ładowanie listy stacji</string>
-  <string name="load_channel_failed">Failed to load Channel List. Please try again.</string>
-  <string name="load_channel_in_process">Load channel list...</string>
+  <string name="load_album_artist_failed">"Nie udało się załadować listy albumów. 
+Spróbuj ponownie później"</string>
+  <string name="load_album_artist_in_process">Wczytywanie listy albumów</string>
+  <string name="load_album_failed">"Nie udało się wczytać listy piosenek. 
+Spróbuj ponownie później"</string>
+  <string name="load_album_in_process">Wczytywanie wyników</string>
+  <string name="load_artist_failed">"Nie udało się wczytać listy wykonawców. 
+Spróbuj ponownie później"</string>
+  <string name="load_artist_in_process">Wczytywanie listy utworów</string>
+  <string name="load_audio_failed">"Nie udało się wczytać wyników. 
+Spróbuj ponownie później"</string>
+  <string name="load_audio_in_process">Wczytywanie wyników</string>
+  <string name="load_bill_failed">"Nie udało się załadować listy stacji. 
+Spróbuj ponownie później"</string>
+  <string name="load_bill_in_process">Wczytywanie wyników</string>
+  <string name="load_channel_failed">"Nie udało się wczytać listy stacji. 
+Spróbuj ponownie później"</string>
+  <string name="load_channel_in_process">Wczytywanie listy kanałów...</string>
   <string name="loading">Ładowanie...</string>
   <string name="lrc_progress_modify">Prędkość przewijania tekstu</string>
   <string name="lrc_progress_modify_helper">Dostosuj prędkość tekstu przez przeciągnięcie w górę lub w dół</string>
