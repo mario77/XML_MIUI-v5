@@ -265,7 +265,6 @@ d MMMM yyyy"</string>
     <string name="usb_mode_mount_storage_title">Otworzyć nośnik USB？</string>
     <string name="usb_mode_notification">Nośnik USB</string>
     <string name="usb_mtp_text">Pliki</string>
-    <string name="usb_mode_notification">Nośnik USB</string>
     <string name="usb_notification">USB połączone</string>
     <string name="usb_notification_mtp_info">Dostęp do plików przez połączenie z komputerem</string>
     <string name="usb_notification_mtp_problem">Pomoc &gt;</string>
