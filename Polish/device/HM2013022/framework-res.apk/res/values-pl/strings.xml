@@ -813,6 +813,7 @@ Odwiedź stronę "<b>google.com/accounts/recovery</b></string>
     <string name="factorytest_not_system">Czynność FACTORY_TEST jest obsługiwana tylko dla pakietów zainstalowanych w katalogu /system/app.</string>
     <string name="factorytest_no_action">Nie znaleziono żadnego pakietu, który zapewnia działanie FACTORY_TEST.</string>
     <string name="factorytest_reboot">Uruchom ponownie</string>
+    <string name="web_user_agent_target_content">"Mobile "</string>
     <string name="js_dialog_title">Komunikat ze strony pod adresem „%s”:</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload">"Czy opuścić tę stronę?
@@ -828,6 +829,8 @@ Dotknij OK, aby kontynuować, lub Anuluj, aby pozostać na tej stronie."</string
     <string name="autofill_address_summary_name_format">$1$2$3</string>
     <string name="autofill_address_summary_separator">", "</string>
     <string name="autofill_address_summary_format">$1$2$3</string>
+    <string name="autofill_address_type_same_as_re">same as</string>
+    <string name="autofill_address_type_use_my_re">use my</string>
     <string name="autofill_province">Województwo</string>
     <string name="autofill_postal_code">Kod pocztowy</string>
     <string name="autofill_state">Stan</string>
@@ -1315,4 +1318,12 @@ Słuchanie przy dużym poziomie głośności przez dłuższy czas może doprowad
     <string name="enable_accessibility_canceled">Ułatwienia dostępu zostały anulowane.</string>
     <string name="user_switched">Bieżący użytkownik: %1$s.</string>
     <string name="owner_name">Właściciel</string>
+    <string name="storage_phone">Nośnik USB</string>
+    <string name="storage_external_usb">Zewnętrzny nośnik USB</string>
+    <string name="zz_keyguard_accessibility_voice_unlock">Odblokowanie głosem.</string>
+    <string name="reboot_title">Uruchomić ponownie telefon?</string>
+    <string name="reboot_confirm">Ponowne uruchomienie wyczyści tymczasowe pliki z pamięci. Uruchomić ponownie teraz?</string>
+    <string name="global_action_reboot_summary">Zamknij wszystkie aplikacje i uruchom ponownie</string>
+    <string name="gps_assistance_enable_title">Informacja</string>
+    <string name="gps_assistance_enable_message">Wspomaganie GPS zostało włączone w celu skrócenia czasu pozycjonowania GPS. Może to powodować użycie danych mobilnych.</string>
 </resources>
