@@ -274,8 +274,8 @@
     <string name="menu_hv_swap2">Przełącz na widok pionowy</string>
     <string name="menu_preferences">Ustawienia</string>
     <string name="menu_save_snapshot">Zapisz do czytania offline</string>  
-    <string name="menu_save_bandwidth_mode_first_clicked_txt">"Nie korzystaj z sieci mobilnej do wstępnego ładowania stron"</string>
-    <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">OK</string>
+    <string name="menu_save_bandwidth_mode_first_clicked_txt">"Wstępne ładowanie stron i zdjęć zostanie wyłączone w podczas korzystania z sieci mobilnej."</string>
+    <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">Wyłącz</string>
     <string name="menu_save_bandwidth_mode_open_toast">Limit Transmisji włączony</string>
     <string name="menu_save_bandwidth_mode_close_toast">Limit Transmisji wyłączony</string>
     <string name="menu_share_url">Udostępnij</string>

@@ -1951,6 +1951,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="sync_plug"><font fgcolor="#ffffffff">Google Sync – witamy!</font>" Synchronizacja danych zapewniająca dostęp do kontaktów, terminów oraz innych informacji z dowolnego miejsca."</string>
   <string name="sync_settings">Konta i synchronizacja</string>
   <string name="sync_wifi_label">Ustawienia Wi-Fi</string>
+  <string name="sync_wifi_only">Tylko z Wi-Fi</string>
   <string name="system">System</string>
   <string name="system_package">Aktualizacji systemu nie można instalować na nośniku zewnętrznym.</string>
   <string name="system_update_settings_list_item_summary"/>

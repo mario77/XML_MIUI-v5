@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Firewall</string>
-    <string name="bl_block_info" formatted="false">Blokowanych: połączeń %d, wiadomości %d</string>
+    <string name="bl_block_info" formatted="false">połączeń %d, wiadomości %d</string>
     <string name="bl_no_blacklist">Czarna lista nie została jeszcze utworzona</string>
     <string name="bl_no_block_call">Wszystkie blokowane połączenia będą tutaj rejestrowane</string>
     <string name="bl_no_block_sms">Wszystkie blokowane wiadomości będą tutaj rejestrowane</string>
@@ -10,25 +10,25 @@
     <string name="dlg_add_manual_hint">Wpisz numer telefonu</string>
     <string name="dlg_add_manual_ok">Dodaj</string>
     <string name="dlg_bl_add_manual">Dodaj ręcznie numer do czarnej listy</string>
-    <string name="dlg_clear_all_call">Na pewno usunąć wszystkie blokowane numery?</string>
+    <string name="dlg_clear_all_call">Usunąć wszystkie blokowane numery?</string>
     <string name="dlg_clear_all_ok">Usuń wszystkie</string>
-    <string name="dlg_clear_all_sms">Na pewno usunąć wszystkie blokowane wiadomości?</string>
+    <string name="dlg_clear_all_sms">Usunąć wszystkie blokowane wiadomości?</string>
     <string name="dlg_clear_blacklist">Usunąć czarną listę?</string>
     <string name="dlg_clear_blacklist_ok">Usuń</string>
-    <string name="dlg_clear_current_call">Na pewno usunąć wszystkie blokowane połączenia od tego numeru?</string>
+    <string name="dlg_clear_current_call">Usunąć wszystkie blokowane połączenia od tego numeru?</string>
     <string name="dlg_clear_current_ok">Usuń</string>
-    <string name="dlg_clear_current_sms">Na pewno usunąć wszystkie blokowane wiadomości wysłane od tego numeru?</string>
-    <string name="dlg_delete_keyword">Na pewno usunąć te słowa kluczowe?</string>
-    <string name="dlg_delete_vip">Na pewno usunąć ten wyjątek?</string>
+    <string name="dlg_clear_current_sms">Usunąć wszystkie blokowane wiadomości wysłane od tego numeru?</string>
+    <string name="dlg_delete_keyword">Usunąć te słowa kluczowe?</string>
+    <string name="dlg_delete_vip">Usunąć ten wyjątek?</string>
     <string name="dlg_edit_keyword">Edytuj słowa kluczowe</string>
     <string name="dlg_import_blacklist">Dodawanie do czarnej listy</string>
     <string name="dlg_import_whitelist">Dodawanie do listy wyjątków</string>
     <string name="dlg_keyword_ok">Zapisz</string>
     <string name="dlg_no_block">Na pewno blokować ten numer?</string>
     <string name="dlg_no_block_ok">Nie blokuj</string>
-    <string name="dlg_remove_blacklist">Na pewno usunąć numer z czarnej listy?</string>
+    <string name="dlg_remove_blacklist">Usunąć numer z czarnej listy?</string>
     <string name="dlg_remove_blacklist_ok">Usuń</string>
-    <string name="dlg_retore">Na pewno przywrócić wiadomości?</string>
+    <string name="dlg_retore">Przywrócić wiadomości?</string>
     <string name="dlg_retore_ok">Przywróć</string>
     <string name="fw_blocked">Statystyki blokowania</string>
     <string name="fw_blocked_count" formatted="false">Przechwyconych: połączeń %d, wiadomości %d</string>
@@ -36,8 +36,8 @@
     <string name="marked_by_others">%d oznaczonych jako</string>
     <string name="marked_by_user">oznaczony jako</string>
     <string name="menu_add">Dodaj</string>
-    <string name="menu_add_into_contact">Dodaj do instniejącego kontaktu</string>
-    <string name="menu_add_new_contact">Nowy kontakt</string>
+    <string name="menu_add_into_contact">Dodaj do kontaktu</string>
+    <string name="menu_add_new_contact">Utwórz kontakt</string>
     <string name="menu_add_vip_custom">Dodaj wyjątki</string>
     <string name="menu_bl_add_contact">Kontakty</string>
     <string name="menu_bl_add_manual">Dodaj</string>
@@ -46,10 +46,10 @@
     <string name="menu_bl_remove">Usuń z czarnej listy</string>
     <string name="menu_bl_sms_log">Pokaż blokowane wiadomości</string>
     <string name="menu_call">Wybierz numer</string>
-    <string name="menu_clear_all_call">Usuń wszystkie blokowane połączenia</string>
-    <string name="menu_clear_all_sms">Usuń wszystkie blokowane wiadomości</string>
-    <string name="menu_clear_current_call">Usuń wszystkie blokowane połączenia od tego numeru</string>
-    <string name="menu_clear_current_sms">Usuń wszystkie blokowane wiadomości od tego numeru</string>
+    <string name="menu_clear_all_call">Usuń rejestr blokad tego numeru</string>
+    <string name="menu_clear_all_sms">Usuń rejestr blokad tego numeru</string>
+    <string name="menu_clear_current_call">Usuń rejestr blokad tego numeru</string>
+    <string name="menu_clear_current_sms">Usuń rejestr blokad tego numeru</string>
     <string name="menu_edit">Edytuj</string>
     <string name="menu_mark">Oznacz jako</string>
     <string name="menu_no_block">Nie blokuj</string>
