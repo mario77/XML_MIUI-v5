@@ -139,7 +139,8 @@
     <string name="forward_prefix">"Fwd: "</string>
     <string name="found_old_messages">Znaleziono %1$s wiadomości na starym koncie telefonu. Chcesz je skopiować na nowe konto: %2$s?</string>
     <string name="found_old_messages_title">Skopiuj wiadomości</string>
-    <string name="found_wild_messages">Znaleziono wiadomości na innych kartach SIM w Chmurze: %s. Rozpocząć pobieranie?</string>   
+    <string name="found_wild_messages">"Znaleziono wiadomości z kart SIM w Chmurze: %s 
+Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
     <string name="found_wild_messages_title">Pobrane wiadomości</string>    
     <string name="from_label">"Od: "</string>
     <string name="group_message">Wiadomość grupowa</string>
