@@ -7,11 +7,38 @@
         <item>2 min</item>
         <item>5 min</item>
         <item>10 min</item>
+        <item>Nie usypiaj</item>
+    </string-array>
+    <string-array name="dream_timeout_entries">
+        <item>Nigdy</item>
+        <item>15 sekund</item>
+        <item>30 sekund</item>
+        <item>1 minut</item>
+        <item>2 minuty</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>30 minut</item>
+    </string-array>
+    <string-array name="lock_after_timeout_entries">
+        <item>Natychmiast</item>
+        <item>5 sekund</item>
+        <item>15 sekund</item>
+        <item>30 sekund</item>
+        <item>1 minut</item>
+        <item>2 minuty</item>
+        <item>5 minut</item>
+        <item>10 minut</item>
+        <item>30 minut</item>
     </string-array>
     <string-array name="led_color_entries">
+        <item>Niebieski</item>
         <item>Czerwony</item>
+        <item>Żółty</item>
         <item>Zielony</item>
-	</string-array>
+        <item>Błękitny</item>
+        <item>Biały</item>
+        <item>Fioletowy</item>
+    </string-array>
     <string-array name="security_settings_premium_sms_values">
         <item>Pytaj</item>
         <item>Nie zezwalaj</item>
