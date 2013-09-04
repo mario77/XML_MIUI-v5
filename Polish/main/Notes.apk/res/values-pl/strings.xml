@@ -90,6 +90,8 @@
   <string name="snippet_image_template">[%1$s]</string>
   <string name="success_sdcard_export">Eksport udany</string>
   <string name="time_picker_dialog_title">Czas przypomnienia</string>
+  <string name="toast_note_privacy_mode">Nie można edytować notatki w trybie poufnym</string>
+  <string name="toast_folder_privacy_mode">Nie można edytować katalogu w trybie poufnym</string>
   <string name="toast_message_add_image_fail">Nie udało się wstawić obrazka!</string>
   <string name="toast_privacy_mode">Nie można edytować notatki w trybie poufnym!</string>
   <string name="toast_reach_text_limit_truncate">"Treść notatki została automatycznie skrócona"</string>

@@ -244,6 +244,7 @@ Czujnik zasłonięty!"</string>
   <string name="volume_icon_description_media">Media</string>
   <string name="volume_icon_description_notification">Powiadomienie</string>
   <string name="volume_icon_description_ringer">Dzwonek</string>
+  <string name="volume_ring_description">Dzwonki i powiadomienia</string>
   <string name="wake_alarm_message">Alarm ustawiony: %s</string>
   <string name="winter_begins">Początek zimy</string>
   <string name="winter_solstice">Przesilenie zimowe</string>

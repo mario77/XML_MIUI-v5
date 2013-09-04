@@ -154,6 +154,7 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
     <string name="importing_progress_private_message">Wczytywanie wiadomości do prywatnej skrzynki</string>
     <string name="in_sms">Wiadomość</string>
     <string name="insufficient_drm_rights">Wykryto niewystarczające uprawnienia DRM.</string>
+    <string name="invalid_conversation">Nieprawidłowy wątek</string>
     <string name="invalid_destination">Wprowadzono nieprawidłowy adres.</string>
     <string name="invalid_recipient_message">Należy poprawić dane odbiorców, gdyż mogą oni nie otrzymać wiadomości.</string>
     <string name="kilobyte">KB</string>

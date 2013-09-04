@@ -1684,7 +1684,8 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="screen">Wyświetlacz</string>
   <string name="screen_button_custom">Ustawienia pozycji przycisków</string>
   <string name="screen_button_key">Przyciski ekranowe</string>
-  <string name="screen_color_temperature_adjust">Temperatura kolorów</string>
+  <string name="screen_color_temperature">Temperatura kolorów</string>
+  <string name="screen_color_temperature_and_saturation">Kolory ekranu</string>
   <string name="screen_compatibility_label">Zgodność z ekranem</string>
   <string name="screen_compatibility_text">Aplikacja może nie być przystosowana do ekranu Twojego urządzenia. Tutaj możesz ją skonfigurować do obsługi ekranu.</string>
   <string name="screen_key_long_press">Przytrzymanie przycisków</string>
@@ -1692,7 +1693,8 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="screen_key_long_press_timeout">Czas przytrzymania</string>
   <string name="screen_on_proximity_sensor_summary">Zapobiegaj aktywacji funkcji telefonu gdy urządzenie jest w kieszeni.</string>
   <string name="screen_on_proximity_sensor_title">Przypadkowe użycie</string>
-  <string name="screen_saturation_adjust">Nasycenie kolorów</string>
+  <string name="screen_saturation">Nasycenie kolorów</string>
+  <string name="screen_never_timeout_title">Nie usypiaj</string>
   <string name="screen_timeout">Uśpienie</string>
   <string name="screen_timeout_summary">Po %1$s bezczynności</string>
   <string name="screen_timeout_title">Uśpienie ekranu</string>
