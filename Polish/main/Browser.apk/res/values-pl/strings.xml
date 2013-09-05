@@ -70,6 +70,7 @@
     <string name="block">Zablokuj</string>
     <string name="bookmark_add_to">Dodaj do</string>
     <string name="bookmark_cannot_save_url">"URL-a nie można dodać do zakładek."</string>
+    <string name="bookmark_folder_needs_title">Katalog musi mieć nazwę.</string>
     <string name="bookmark_list_view">Lista</string>
     <string name="bookmark_needs_title">Zakładka musi mieć nazwę.</string>
     <string name="bookmark_needs_url">Zakładka musi zawierać adres.</string>
@@ -81,7 +82,7 @@
     <string name="bookmark_thumbnail_view">Miniaturki</string>
     <string name="bookmark_title">Nazwa</string>
     <string name="bookmark_to_readmodelist_not_saved">"Nie można zapisać strony Do Przeczytania."</string>
-    <string name="bookmark_to_readmodelist_saved">Zapisano Do Przeczytania.</string>
+    <string name="bookmark_to_readmodelist_saved">Zapisano do przeczytania.</string>
     <string name="bookmark_url">Url http://</string>
     <string name="bookmark_url_not_valid">"URL jest nieprawidłowy"</string>
     <string name="bookmarks">Zakładki</string>
