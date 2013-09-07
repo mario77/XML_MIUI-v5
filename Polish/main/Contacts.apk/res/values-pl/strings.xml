@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="AirPlane_mode_on">Nie można zapisać kontaktu jeśli Tryb Samolotowy jest aktywny.</string>
+    <string name="AirPlane_mode_on_edit">Nie można edytować kontaktu jeśli Tryb Samolotowy jest aktywny.</string>
+    <string name="FDNEnabled">Nie można zapisać kontaktu jeśli ustalone numery są aktywne.</string>
+    <string name="account_abnormal_state">Nieprawidłowe informacje o koncie. Spróbuj zalogować się lub spróbować ponownie później!</string>
     <string name="account_container_title">Kontakt zapisany jest na poniższych kontach</string>
     <string name="account_default">Telefon</string>
     <string name="account_phone">lokalnie, niesynchronizowany</string>
-    <string name="account_sim">na SIM, niesynchronizowany</string>
+    <string name="account_sim">Karta SIM %s</string>
     <string name="account_type_format">Kontakt %1$s</string>
     <string name="actionIncomingCall">Przychodzące</string>
     <string name="action_menu_overflow_description">Więcej opcji</string>
@@ -324,14 +328,18 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="edit_contact_card_title">Edytuj kartę kontaktu</string>
     <string name="email">E-mail</string>
     <string name="emailLabelsGroup">E-mail</string>
+    <string name="email_2g_invalid">Nie można zapisać e-maila na 2G SIM, wybierz kartę 3G SIM aby zapisać.</string>
     <string name="email_custom">E-mail – %s</string>
     <string name="email_home">E-mail – domowy</string>
+    <string name="email_invalid">Błędny e-mail.</string>
     <string name="email_mobile">E-mail – komórka</string>
     <string name="email_other">E-mail</string>
+    <string name="email_too_long">E-mail jest za długi</string>
     <string name="email_work">E-mail – służbowy</string>
     <string name="emptyGroup">Brak osób w grupie.</string>
     <string name="empty_divider_title">Wybierz jedną z opcji aby rozpocząć:</string>
     <string name="enter_contact_name">Wpisz imię osoby</string>
+    <string name="error_save_usim_contact_email_lost">Failed to save Email address because the USIM storage for Email is full.</string>
     <string name="eventLabelsGroup">Urodziny</string>
     <string name="event_edit_field_hint_text">Data</string>
     <string name="export_sim_contact_finish">Kopiowanie na kartę SIM ukończone</string>
@@ -339,7 +347,8 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="export_sim_contact_finish_success">Skopiowano %d kontaktów z SIM</string>  
     <string name="export_sim_contacts_dialog_message">Twoja karta SIM pomieści %d kontaktów. Kontynuować?</string>
     <string name="export_to_sdcard">Kopiuj na nośnik</string>
-    <string name="export_to_sim">Kopia kontaktów na SIM</string>
+    <string name="export_to_sim">Kopia kontaktów na SIM 1</string>
+    <string name="export_to_sim2">Kopia kontaktów na SIM 2</string>
     <string name="export_to_sim_title">Kopiowanie na SIM…</string>
     <string name="export_vcard_description">Kopiuj dane kontaktów na nośnik</string>
     <string name="exporting_contact_failed_message">"Dane kontaktów nie zostały skopiowane. Przyczyna: \"%s\""</string>
@@ -354,7 +363,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="fail_reason_could_not_open_file" formatted="false">Nie można otworzyć pliku \"%s\": %s.</string>
     <string name="fail_reason_error_occurred_during_export">Wystąpił błąd podczas kopiowania: \"%s\".</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">"Couldn't collect meta information of given vCard file(s)."</string>
-    <string name="fail_reason_failed_to_read_files">"One or more files couldn't be imported (%s)."</string>
+    <string name="fail_reason_failed_to_read_files">"Jeden lub więcej plików nie mogło być skopiowane (%s)."</string>
     <string name="fail_reason_io_error">Błąd wejścia/wyjścia</string>
     <string name="fail_reason_low_memory_during_import">Za mało pamięci. Plik może być zbyt duży.</string>
     <string name="fail_reason_no_exportable_contact">Brak kontaktów, które można skopiować.</string>
@@ -366,6 +375,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="favoritesFrequentCalled">Częste połączenia</string>
     <string name="favoritesFrequentContacted">Częste kontakty</string>
     <string name="favorites_list_empty">Brak ulubionych</string>
+    <string name="fix_number_too_long">Numer jest za długi.</string>
     <string name="foundTooManyContacts">Znaleziono więcej niż %d.</string>
     <string name="frequency_none">Nie przypominaj</string>
     <string name="frequency_three_days">Sprawdź i przypomnij co 3 dni</string>
@@ -373,6 +383,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="frequentList">Częste</string>
     <string name="from_account_format">%1$s</string>
     <string name="full_name">Imię i nazwisko</string>
+    <string name="generic_failure">Błąd ogólny.</string>
     <string name="generic_no_account_prompt">Kontakty nie zostaną utracone jeśli telefon zostanie zgubiony. Konto jest synchronizowane w chmurze.</string>
     <string name="generic_no_account_prompt_title">Dodaj konto</string>
     <string name="ghostData_company">Firma</string>
@@ -393,6 +404,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="group_sms_progress_msg">Rozpoczynanie grupowe SMS…</string>
     <string name="groupsLabel">Grupy</string>
     <string name="groups_list_empty">Brak grup</string>
+    <string name="has_double_phone_number">Nie można zapisać dwukrotnie tego samego typu numeru.</string>
     <string name="help_url_people_add"/>
     <string name="help_url_people_edit"/>
     <string name="help_url_people_main"/>
@@ -406,13 +418,15 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="ic_menu_done">Gotowe</string>
     <string name="imLabelsGroup">Komunikatory</string>
     <string name="imei">IMEI</string>
+    <string name="imei_invalid">Nieprawidłowy IMEI</string>
     <string name="import_all_sim_entries_miui">Przywróć wszystkie kontakty</string>
     <string name="import_all_vcard_string">Przywróć wszystkie pliki vCard</string>
     <string name="import_contact_card_button">Przywróć</string>
     <string name="import_failure_no_vcard_file">Brak pliku vCard z kontaktami.</string>
     <string name="import_from_other_phone">Wczytaj z innego telefonu</string>
     <string name="import_from_sdcard">Przywracanie z nośnika</string>
-    <string name="import_from_sim">Przywracanie z karty SIM</string>
+    <string name="import_from_sim">Przywracanie z karty SIM 1</string>
+    <string name="import_from_sim2">Przywracanie z karty SIM 2</string>
     <string name="import_multiple_vcard_string">Przywróć wiele plików vCard</string>
     <string name="import_name">nazwa</string>
     <string name="import_one_vcard_string">Przywróć jeden plik vCard</string>
@@ -500,6 +514,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="menu_create_contact_shortcut">Wyślij na pulpit</string>
     <string name="menu_deleteContact">Usuń kontakt</string>
     <string name="menu_deleteGroup">Usuń grupę</string>
+    <string name="menu_dial_ip_number">Wybierz z IP</string>
     <string name="menu_dialpad_text">Klawiatura</string>
     <string name="menu_discard">Odrzuć</string>
     <string name="menu_display_all">Pokaż wszystko</string>
@@ -535,6 +550,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="messageShortcutActivityTitle">Wybierz numer, aby wysłać wiadomość</string>
     <string name="missing_name">(Bez nazwy)</string>
     <string name="move_and_resize">Zmień pozycję lub rozmiar</string>
+    <string name="msg_loading_sim_contacts_toast">Wczytywanie kontaktów SIM w tle. Proszę czekać.</string>
     <string name="multipleContactDeleteConfirmation">Usunięcie tego kontaktu spowoduje usunięcie danych z wielu kont.</string>
     <string name="multipleContactDeleteConfirmationDetail">Usunięcie \"%s\" spowoduje usunięcie danych z wielu kont.</string>
     <string name="my_phone_not_provider_bluetooth">my phone dont provider bluetooth</string>
@@ -549,6 +565,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="name_phonetic_middle">Drugie imię (fonetycznie)</string>
     <string name="name_prefix">Przedrostek nazwiska</string>
     <string name="name_suffix">Przyrostek nazwiska</string>
+    <string name="name_too_long">Nazwa jest za długa.</string>
     <string name="next">Dalej</string>
     <string name="next_birthday">Następne urodziny: %s</string>
     <string name="nfc_vcard_file_name">Odebrane przez NFC</string>
@@ -605,6 +622,7 @@ Aby dodać kontakt do listy ulubionych:
 
 • Używaj jej w dowolnej przeglądarce. 
 • Twórz kopie zapasowe kontaktów."</string>
+    <string name="no_connection_dialog_title">Połączenie Bluetooth nieudane</string>
     <string name="no_contact_details">Brak dodatkowych informacji dla tego kontaktu</string>
     <string name="no_contact_in_other_phone">Brak kontaktów w telefonie</string>
     <string name="no_contacts_dialog_message">Nie znaleziono kontaktu. Może on znajdować się na karcie SIM. Wczytaj kontakty z SIM do pamięci telefonu.</string>
@@ -620,6 +638,7 @@ Aby dodać kontakt do listy ulubionych:
     <string name="notification_action_voicemail_play">Odtwórz</string>
     <string name="notification_new_voicemail_ticker">Nowa poczta głosowa od: %1$s</string>
     <string name="notification_voicemail_callers_list">%1$s, %2$s</string>
+    <string name="number_too_long">Numer jest za długi.</string>
     <string name="online_no_network">Nie można połączyć się z siecią</string>
     <string name="online_search_hint">Wyszukaj zasoby online</string>
     <string name="openDialKeyboard">Klawiatura</string>
@@ -643,6 +662,7 @@ Aby dodać kontakt do listy ulubionych:
     <string name="percent_sign">%</string>
     <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Telefon</string>
+    <string name="phone_book_busy">Aplikacja Osoby jest zajęta. Spróbuj ponownie później.</string>
     <string name="phone_info_divider">"  |  "</string>
     <string name="phone_primary">Podstawowy</string>
     <string name="photoPickerNotFoundText">W telefonie brak dostępnych zdjęć.</string>
@@ -848,18 +868,24 @@ Aby dodać kontakt do listy ulubionych:
     <string name="simContacts_empty">Nie znaleziono kontaktów na karcie SIM</string>
     <string name="simContacts_emptyLoading">Wczytywanie z karty SIM…</string>
     <string name="simContacts_title">Kontakty z karty SIM</string>
+    <string name="sim_capacity">Pojemność karty SIM</string>
+    <string name="sim_capacity_content" formatted="false">"Maksymalna ilość kontaktów na SIM: %d
+Zajęte: %d."</string>
     <string name="sim_card_no_free_space_message">Karta SIM jest pełna, nie można skopiować nowych kontaktów. Zwolnij miejsce na karcie SIM i spróbuj ponownie</string>
     <string name="sim_card_no_free_space_title">Karta SIM jest pełna</string>
     <string name="sim_contact_dropdown_menu_deselect_all_miui">Odznacz wszystko</string>
     <string name="sim_contact_dropdown_menu_select_all_miui">Zaznacz wszystko</string>
     <string name="sim_contact_search_error">Wystąpił błąd podczas przeszukiwania karty SIM</string>
     <string name="sim_contacts">Kontakty SIM</string>
-    <string name="sim_export_loading">Załaduj z SIM</string>
+    <string name="sim_export_loading">Wczytywanie z SIM</string>
     <string name="sim_indexed_contact_not_exist">Pozycja %1$d na karcie SIM jest nieprawidłowa, powinna się być między %2$d a %3$d</string>
+    <string name="sim_invalid">Nie można zapisać kontaktu na nieprawidłowej karcie SIM.</string>
+    <string name="sim_invalid_fix_number">Nie można zapisać nieprawidłowego numeru.</string>
+    <string name="sim_invalid_number">Nie można zapisać nieprawidłowego numeru.</string>
     <string name="sim_no_contact">Brak kontaktów na karcie SIM</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Brak członków grupy</string>
-    <string name="smart_group_action_bar_title">%1$s-%2$s</string>
+    <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
     <string name="smart_group_company_label">Firma</string>
     <string name="smart_group_company_unavailable">Brak informacji o firmie</string>
     <string name="smart_group_frequency_1">Z ost. miesiąca</string>
@@ -903,6 +929,7 @@ Aby dodać kontakt do listy ulubionych:
     <string name="status_available">Dostępny</string>
     <string name="status_away">Nieobecny</string>
     <string name="status_busy">Zajęty</string>
+    <string name="storage_full">Pamięć jest pełna.</string>
     <string name="strequentList">Ulubione</string>
     <string name="success_message_import_from_account">Przywracanie udane</string>
     <string name="summary_kind_title">Profil</string>
@@ -914,7 +941,7 @@ Aby dodać kontakt do listy ulubionych:
     <string name="title_paired_devices">Sparowane urządzenia</string>
     <string name="toast_call_detail_error">"Nie można odczytać szczegółów żądanego połączenia."</string>
     <string name="toast_copy_done">Kopiowanie zakończone</string>
-    <string name="toast_copying">Kopiowanie, proszę czekać...</string>
+    <string name="toast_copying">Kopiowanie...</string>
     <string name="toast_displaying_all_contacts">Wszystkie kontakty</string>
     <string name="toast_finish_delete_call_log">Rejestr połączeń usunięty</string>
     <string name="toast_for_failed_saving_nickname">Nie udało się zapisać pseudonimu!</string>
@@ -930,15 +957,15 @@ Aby dodać kontakt do listy ulubionych:
     <string name="unknown">Nieznane</string>
     <string name="unknown_contact_name">Nieznany</string>
     <string name="upgrade_in_progress">Lista kontaktów jest aktualizowana.</string>
-    <string name="upgrade_out_of_memory">Trwa proces uaktualniania kontaktów. 
+    <string name="upgrade_out_of_memory">"Trwa proces uaktualniania kontaktów. 
 
 Proces uaktualniania wymaga w przybliżeniu %s MB pamięci wewnętrznej. 
 
-Wybierz jedną z następujących opcji:</string>
+Wybierz jedną z następujących opcji:"</string>
     <string name="upgrade_out_of_memory_retry">Ponów próbę uaktualnienia</string>
     <string name="upgrade_out_of_memory_uninstall">Odinstaluj część aplikacji</string>
     <string name="use_photo_as_primary">Użyj tego zdjęcia</string>
-    <string name="use_photo_as_primary2">Użyj zdjęcia z konta %1$s</string>
+    <string name="use_photo_as_primary2">Użyj zdjęcia z konta %s</string>
     <string name="user_profile_contacts_list_header">Ja</string>
     <string name="vcard_export_request_rejected_message">Żądanie kopii danych vCard zostało odrzucone. Spróbuj ponownie później.</string>
     <string name="vcard_export_will_start_message">Plik %s zostanie za chwilę skopiowany.</string>
