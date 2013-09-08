@@ -7,6 +7,7 @@
         <item>2 min</item>
         <item>5 min</item>
         <item>10 min</item>
+        <item>Nie usypiaj</item>
     </string-array>
     <string-array name="led_color_entries">
         <item>Czerwony</item>

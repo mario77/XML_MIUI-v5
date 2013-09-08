@@ -324,7 +324,7 @@
   <string name="gemini_gsm_umts_network_preferneces_summary">Jeszcze nie zaimplementowane!</string>
   <string name="gemini_intenet_call">Połączenie internetowe</string>
   <string name="gemini_msg">SMS/MMS</string>
-  <string name="gemini_no_sim_indicator">Brak karty SIM</string>
+  <string name="gemini_no_sim_indicator">Brak SIM</string>
   <string name="gemini_roaming_reminder_summary">Propozycja SIM w oparciu o jej wykorzystanie</string>
   <string name="gemini_roaming_reminder_title">Pokazuj ostrzeżenie o roamingu</string>
   <string name="gemini_roaming_settings_title">Roaming</string>
@@ -525,12 +525,11 @@
   <string name="silent_settings_title">Cisza</string>
   <string name="silent_summary">Wyciszenie</string>
   <string name="sim_change_failed">"Nie można zmienić kodu PIN. Wpisany kod PIN może być błędny."</string>
-  <string name="sim_enter_pin_hints">(Input 4-8 digitals)</string>
+  <string name="sim_enter_pin_hints">(Wpisz 4-8 cyfr)</string>
   <string name="sim_lock">Zablokowany</string>
   <string name="sim_lock_change_not_supported">"Unable to Change SIM Lock. SIM doesn't support it."</string>
   <string name="sim_remain">(Pozostało:%d)</string>
-  <string name="sim_slot">SIM Slot</string>
-  <string name="sim_status_summary">SIM related information</string>
+  <string name="sim_slot">Slot SIM</string>
   <string name="slot_status_summary">IMEI-Dodatkowe informacje</string>
   <string name="software_update">Centrum aktualizacji</string>
   <string name="software_updates_more_summary">Szukaj nowej wersji oprogramowania</string>
