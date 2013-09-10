@@ -1867,6 +1867,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="sim_pins_dont_match">Kody PIN nie są identyczne.</string>
   <string name="sim_reenter_new">Wpisz ponownie nowy kod PIN</string>
   <string name="sim_status_title">Status SIM</string>
+  <string name="sim_status_summary">Informacje o SIM, zasięgu, sieci itp.</string>
   <string name="skip_button_label">Anuluj</string>
   <string name="skip_label">Pomiń</string>
   <string name="skip_step">Pomiń krok</string>
@@ -1901,7 +1902,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="status_icc_id">ICCID</string>
   <string name="status_imei">IMEI</string>
   <string name="status_imei_sv">IMEI SV</string>
-  <string name="status_latest_area_info">Operator info</string>
+  <string name="status_latest_area_info">Informacje o operatorze</string>
   <string name="status_meid_number">MEID</string>
   <string name="status_min_number">MIN</string>
   <string name="status_msid_number">MSID</string>
