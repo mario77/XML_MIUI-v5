@@ -2,6 +2,7 @@
 <resources>
     <string name="activity_not_found">Nie znaleziono programu do otwarcia załącznika</string>
     <string name="activity_not_found_uri">Nie znaleziono odpowiedniego programu</string>
+    <string name="addBlackList">Dodaj do czarnej listy</string>
     <string name="add_attachment">Dodaj załącznik</string>
     <string name="add_bookmark">Ulubione</string>
     <string name="add_contact">Dodaj kontakt</string>
@@ -13,8 +14,8 @@
     <string name="add_picture">Dodaj zdjęcie</string>
     <string name="add_private_contact">Dodaj prywatny kontakt</string>
     <string name="add_slide">Dodaj slajd</string>
-    <string name="add_slide_hint">Wybierz, aby utworzyć nowy slajd.</string>
-    <string name="add_smiley">Emotki</string>   
+    <string name="add_slide_hint">Wybierz, aby utworzyć nowy slajd.</string>   
+    <string name="add_smiley">Emotki</string>
     <string name="add_timing">Czas</string>
     <string name="add_video">Dodaj film wideo</string>
     <string name="adding_attachments">Poczekaj na zakończenie dodawania elementów do pokazu slajdów.</string>
@@ -30,6 +31,7 @@
     <string name="attach_take_photo">Zrób zdjęcie</string>
     <string name="attach_video">Filmy wideo</string>
     <string name="back_to_message_list">Powrót do listy wiadomości</string>
+    <string name="batch_adding_progress_message">Dodawanie...</string>
     <string name="batch_delete_confirm_dialog_message">Usuń %1$s wybranych wiadomości</string>
     <string name="batch_deleting_message_progress_message">Usuwanie wybranych wiadomości</string>
     <string name="batch_deleting_progress_message">Usuwanie wybranych...</string>
@@ -51,6 +53,7 @@
     <string name="close">Zamknij</string>
     <string name="compressing">Obraz jest zbyt duży. Trwa kompresowanie...</string>
     <string name="confirm">Potwierdź</string>
+    <string name="confirm_add_blacklist_dialog_dspt">Dodać numer do czarnej listy?</string>
     <string name="confirm_delete_SIM_message">Wiadomość na karcie SIM zostanie usunięta.</string>
     <string name="confirm_delete_all_SIM_messages">Wszystkie wiadomości na karcie SIM zostaną usunięte.</string>
     <string name="confirm_delete_all_conversations">Wszystkie wątki zostaną usunięte.</string>
@@ -135,13 +138,14 @@
     <string name="festival_sms_category_count_format">(%s)</string>
     <string name="festival_sms_loading">Ładowanie...</string>
     <string name="fetion_prefix">[Otwórz]</string>
+    <string name="file_share_message_description">I would like to share files with you</string>
     <string name="flatshow_page_no">Strona %1$d</string>
-    <string name="forward_prefix">"Fwd: "</string>
+    <string name="forward_prefix">"Fwd: "</string>    
     <string name="found_old_messages">Znaleziono %1$s wiadomości na starym koncie telefonu. Chcesz je skopiować na nowe konto: %2$s?</string>
     <string name="found_old_messages_title">Skopiuj wiadomości</string>
     <string name="found_wild_messages">"Znaleziono wiadomości z kart SIM w Chmurze: %s 
 Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
-    <string name="found_wild_messages_title">Pobrane wiadomości</string>    
+    <string name="found_wild_messages_title">Pobrane wiadomości</string>
     <string name="from_label">"Od: "</string>
     <string name="group_message">Wiadomość grupowa</string>
     <string name="group_message_failed_title">Wysłanie %d wiadomości nieudane. Ponowić?</string>
@@ -211,11 +215,11 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
     <string name="mx_activate_int_hint_sim_change">SIM card state changed. An international SMS is required to reactivate Cloud Messaging. Would you like to activate it now?</string>
     <string name="mx_auto_resend_mms">Wyślij jako MMS</string>
     <string name="mx_auto_resend_mms_summary">Wyślij jako MMS gdy wiadomości w chmurze są niedostępne.</string>
-    <string name="mx_auto_resend_sms">Wyślij jako SMS</string>
+    <string name="mx_auto_resend_sms">Wyślij jako SMS</string>   
     <string name="mx_auto_resend_sms_summary">Wyślij jako SMS gdy wiadomości w chmurze są niedostępne</string>
     <string name="mx_btn_enable">Włącz</string>
     <string name="mx_count_dspt">Od momentu aktywacji, MIUI wysłało dla Ciebie %1$d wiadomości w chmurze (%2$s)</string>
-    <string name="mx_current_status">Status: Online</string>   
+    <string name="mx_current_status">Status: Online</string>
     <string name="mx_dspt">Wysyłaj wiadomości przez Internet pomiędzy telefonami z MIUI</string>
     <string name="mx_enable">Wiadomości w chmurze</string>
     <string name="mx_enable_int_popup_msg">Wiadomości w chmurze pozwalają na wysyłanie SMS pomiędzy systemem MIUI. Wymagane jest wysłanie międzynarodowego SMS w celu aktywacji usługi. Koszt SMS wg. taryfy operatora!</string>
@@ -301,11 +305,11 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
     <string name="priority_label">"Priorytet: "</string>
     <string name="priority_low">Niski</string>
     <string name="priority_normal">Normalny</string>
-    <string name="privacy_mode_hint">Nie można wysłać wiadomości w trybie chronionym</string>
+    <string name="privacy_mode_hint">Nie można wysłać wiadomości w trybie chronionym</string>   
     <string name="private_message">Prywatne wiadomości</string>
     <string name="private_new_notification">Pokaż powiadomienie</string>
     <string name="private_protect">Ochrona prywatności</string>
-    <string name="private_settings">Ustawienia</string>   
+    <string name="private_settings">Ustawienia</string>
     <string name="processing">Przetwarzanie...</string>
     <string name="prvate_contact">Prywatny kontakt</string>
     <string name="rate_limit_surpassed">Potwierdź</string>

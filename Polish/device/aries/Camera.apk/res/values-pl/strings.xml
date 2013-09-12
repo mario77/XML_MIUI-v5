@@ -351,6 +351,9 @@ Opuść na chwilę widok"</string>
   <string name="pref_grp_restore_settings">Przywracanie ustawień</string>
   <string name="pref_settings_mode">Opcje wyświetlania</string>
   <string name="pref_video_captrue_ability_title">Przechwytywanie zdjęć</string>
+  <string name="pref_video_continuous_focus">Ciągły autofokus</string>
+  <string name="pref_video_continuous_focus_entry_off">Wył</string>
+  <string name="pref_video_continuous_focus_entry_on">Wł</string>
   <string name="pref_video_focusmode_entry_auto">Ręczny</string>
   <string name="pref_video_focusmode_entry_continuous">Ciągły</string>
   <string name="pref_video_focusmode_title">Tryb ostrości</string>

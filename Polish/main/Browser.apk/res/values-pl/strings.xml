@@ -83,7 +83,7 @@
     <string name="bookmark_title">Nazwa</string>
     <string name="bookmark_to_readmodelist_not_saved">"Nie można zapisać strony Do Przeczytania."</string>
     <string name="bookmark_to_readmodelist_saved">Zapisano do przeczytania.</string>
-    <string name="bookmark_url">Url http://</string>
+    <string name="bookmark_url">Url</string>
     <string name="bookmark_url_not_valid">"URL jest nieprawidłowy"</string>
     <string name="bookmarks">Zakładki</string>
     <string name="bookmarks_content_is_null">Zawartość jest pusta</string>
@@ -102,7 +102,7 @@
     <string name="choosertitle_sharevia">Udostępnij przez</string>
     <string name="clear">Wyczyść</string>
     <string name="clear_history">Wyczyść historię</string>
-    <string name="clear_history_group">Wyczyść całą historię %s</string>
+    <string name="clear_history_group">Wyczyść historię</string>
     <string name="clip_dialog_title">Przejść pod skopiowany link?</string>
     <string name="close_all_tab_alert_message">Zamknąć wszystkie karty?</string>
     <string name="close_all_tab_alert_title">Zamknij wszystkie</string>
@@ -228,7 +228,7 @@
     <string name="history_most_visited">Popularne</string>
     <string name="history_saved_webpage">Zapisz stronę</string>
     <string name="history_track">Historia</string>
-    <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
+    <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="homepage_set">Strona główna została ustawiona.</string>
     <string name="http">http://</string>
     <string name="import_bookmark">Importuj zakładki</string>

@@ -86,6 +86,8 @@
     <string name="qm_vip_sms_setting_button">Wycisz wiadomości od wyjątków</string>
     <string name="quiet_mode">Godziny ciszy</string>
     <string name="st_advanced_setting_group">Zaawansowane</string>
+    <string name="st_bl_block_setting_title">Zapytaj mnie później</string>
+    <string name="st_bl_setting_group">Opcje czarnej listy</string>
     <string name="st_block_setting_title">Akcje blokowania</string>
     <string name="st_block_setting_group">Czarna lista</string>
     <string name="st_block_all">Odrzuć połączenia i wiadomości</string>
