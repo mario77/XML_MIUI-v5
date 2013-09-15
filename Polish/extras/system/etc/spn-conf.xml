@@ -176,109 +176,37 @@
 	<spnOverride numeric="28010" spn="MTN"/>
 	<spnOverride numeric="28201" spn="GEO-GEOCELL"/>
 	<spnOverride numeric="28202" spn="Bani"/>
-	<spnOverride numeric="28202" spn="MAGTI"/>
-	<spnOverride numeric="28202" spn="MAGTI GSM GEO"/>
-	<spnOverride numeric="28202" spn="MAGTI-GSM-GEO"/>
 	<spnOverride numeric="28204" spn="BEELINE GE"/>
 	<spnOverride numeric="28301" spn="Beeline AM"/>
 	<spnOverride numeric="28301" spn="RA-ARMGSM"/>
-	<spnOverride numeric="28305" spn="ARM MTS"/>
-	<spnOverride numeric="28305" spn="RA 05"/>
 	<spnOverride numeric="28305" spn="Vivacell-MTS"/>
 	<spnOverride numeric="28310" spn="Orange"/>
-	<spnOverride numeric="28401" spn="M-Tel"/>
-	<spnOverride numeric="28401" spn="M-Tel BG"/>
 	<spnOverride numeric="28401" spn="M-TelBG"/>
-	<spnOverride numeric="28403" spn="VIVACOM"/>
-	<spnOverride numeric="28403" spn="VIVACOM"/>
 	<spnOverride numeric="28403" spn="vivatel"/>
-	<spnOverride numeric="28405" spn="BG GLOBUL"/>
 	<spnOverride numeric="28405" spn="Cosmo Bulgaria "/>
-	<spnOverride numeric="28405" spn="GLOBUL"/>
-	<spnOverride numeric="28601" spn=""/>
-	<spnOverride numeric="28601" spn="KKTCELL"/>
-	<spnOverride numeric="28601" spn="TR TURKCELL"/>
 	<spnOverride numeric="28601" spn="TURKCELL"/>
-	<spnOverride numeric="28601" spn="Turkcell lletis"/>
-	<spnOverride numeric="28602" spn="TELSIM GSM"/>
 	<spnOverride numeric="28602" spn="VODAFONE TR"/>
-	<spnOverride numeric="28602" spn="Vodafone Turkey"/>
-	<spnOverride numeric="28603" spn="AVEA"/>
-	<spnOverride numeric="28603" spn="Fenercell"/>
-	<spnOverride numeric="28603" spn="GSMobile"/>
-	<spnOverride numeric="28603" spn="KARTALCELL"/>
-	<spnOverride numeric="28603" spn="TR AVEA"/>
 	<spnOverride numeric="28603" spn="TrabzonCell"/>
 	<spnOverride numeric="28801" spn="FT-GSM"/>
 	<spnOverride numeric="29001" spn="TELE Greenland"/>
-	<spnOverride numeric="29340" spn="SI vodafone"/>
-	<spnOverride numeric="29340" spn="Si.mobil"/>
 	<spnOverride numeric="29340" spn="Simobil"/>
 	<spnOverride numeric="29341" spn="MOBITEL"/>
-	<spnOverride numeric="29341" spn="Mobitel D.D."/>
 	<spnOverride numeric="29364" spn="T-2"/>
-	<spnOverride numeric="29370" spn="SI TUSMOBIL"/>
 	<spnOverride numeric="29370" spn="TUSMOBIL"/>
 	<spnOverride numeric="29401" spn="T-Mobile MK"/>
 	<spnOverride numeric="29402" spn="COSMOFON"/>
-	<spnOverride numeric="29402" spn="MKD COSMOFON"/>
-	<spnOverride numeric="29402" spn="ONE"/>
 	<spnOverride numeric="29403" spn="Vip MK"/>
-	<spnOverride numeric="29403" spn="Vip MKD"/>
 	<spnOverride numeric="29502" spn="Orange FL"/>
 	<spnOverride numeric="29701" spn="Telenor "/>
 	<spnOverride numeric="29702" spn="T-Mobile CG"/>
-	<spnOverride numeric="31000" spn="MetroPCS"/>
-	<spnOverride numeric="31000" spn="Ain't no I ph"/>
-	<spnOverride numeric="31000" spn="Damien's Phon"/>
-	<spnOverride numeric="31000" spn="Enhanced Servic"/>
-	<spnOverride numeric="31000" spn="Hey Friend"/>
-	<spnOverride numeric="31000" spn="Keith Albers"/>
-	<spnOverride numeric="31000" spn="MIUI JB MoPho"/>
-	<spnOverride numeric="31000" spn="MIUI Roaming"/>
-	<spnOverride numeric="31000" spn="MIUIAndroid"/>
-	<spnOverride numeric="31000" spn="MetroPCS"/>
-	<spnOverride numeric="31000" spn="PurpleHaze"/>
-	<spnOverride numeric="31000" spn="Roaming Indicat"/>
-	<spnOverride numeric="31000" spn="Roy Santana"/>
-	<spnOverride numeric="31000" spn="Sprint"/>
-	<spnOverride numeric="31000" spn="T-CDMA 64"/>
-	<spnOverride numeric="31000" spn="US Cellular"/>
 	<spnOverride numeric="31000" spn="Verizon Wireles"/>
-	<spnOverride numeric="31000" spn="chzbrgr"/>
 	<spnOverride numeric="31001" spn="Sprint"/>
 	<spnOverride numeric="31016" spn="Sprint"/>
-	<spnOverride numeric="31020" spn="3 AT"/>
 	<spnOverride numeric="31020" spn="3G AT&amp;T"/>
-	<spnOverride numeric="31020" spn="AVEA"/>
-	<spnOverride numeric="31020" spn="CMCC"/>
-	<spnOverride numeric="31020" spn="CUBACEL"/>
-	<spnOverride numeric="31020" spn="ETISALAT"/>
-	<spnOverride numeric="31020" spn="Irancell"/>
-	<spnOverride numeric="31020" spn="M-Tel BG"/>
-	<spnOverride numeric="31020" spn="T-Mobile"/>
-	<spnOverride numeric="31020" spn="TURKCELL"/>
-	<spnOverride numeric="31020" spn="Telenor PK"/>
-	<spnOverride numeric="31020" spn="VIVO"/>
-	<spnOverride numeric="31020" spn="VN MOBIFONE"/>
-	<spnOverride numeric="31020" spn="VODAFONE TR"/>
-	<spnOverride numeric="31020" spn="Vip SRB"/>
-	<spnOverride numeric="31020" spn="etisalat"/>
-	<spnOverride numeric="31020" spn="zain SA"/>
-	<spnOverride numeric="31026" spn=" T-Mobil"/>
-	<spnOverride numeric="31026" spn=" T-Mobile"/>
-	<spnOverride numeric="31026" spn="CHINA MOBILE"/>
-	<spnOverride numeric="31026" spn="CMCC"/>
-	<spnOverride numeric="31026" spn="Family Mobile"/>
-	<spnOverride numeric="31026" spn="Simple Mobile"/>
-	<spnOverride numeric="31026" spn="T - Mobile"/>
-	<spnOverride numeric="31026" spn="T-Mobil"/>
 	<spnOverride numeric="31026" spn="T-Mobile"/>
 	<spnOverride numeric="31027" spn="Sprint"/>
 	<spnOverride numeric="31030" spn="Sprint"/>
 	<spnOverride numeric="31038" spn="Sprint"/>
-	<spnOverride numeric="31038" spn="TELUS"/>
-	<spnOverride numeric="31038" spn="VIETTEL"/>
 	<spnOverride numeric="31045" spn="Sprint"/>
 	<spnOverride numeric="31047" spn="Sprint"/>
 	<spnOverride numeric="31053" spn="Sprint"/>
@@ -288,16 +216,13 @@
 	<spnOverride numeric="31084" spn="Sprint"/>
 	<spnOverride numeric="31093" spn="MetroPCS"/>
 	<spnOverride numeric="31094" spn="Sprint"/>
-	<spnOverride numeric="31099" spn="T-CDMA 64"/>
 	<spnOverride numeric="31099" spn="Verizon Wireles"/>
 	<spnOverride numeric="31100" spn="Sprint"/>
 	<spnOverride numeric="31124" spn="AT&amp;T"/>
 	<spnOverride numeric="31600" spn="Verizon Wireles"/>
 	<spnOverride numeric="32300" spn="Sprint"/>
 	<spnOverride numeric="33011" spn="CLARO"/>
-	<spnOverride numeric="33011" spn="CLARO P.R."/>
 	<spnOverride numeric="33403" spn="3G movistar"/>
-	<spnOverride numeric="33403" spn="movistar"/>
 	<spnOverride numeric="33404" spn="Sprint "/>
 	<spnOverride numeric="33420" spn="TELCEL GSM"/>
 	<spnOverride numeric="33450" spn="Iusacell0"/>
@@ -309,8 +234,6 @@
 	<spnOverride numeric="35611" spn="LIME"/>
 	<spnOverride numeric="35811" spn="LIME"/>
 	<spnOverride numeric="36269" spn="ANT CURACAO TEL"/>
-	<spnOverride numeric="36269" spn="DIGICEL"/>
-	<spnOverride numeric="36291" spn="CHIPPIE"/>
 	<spnOverride numeric="36291" spn="Setel"/>
 	<spnOverride numeric="36301" spn="SETAR"/>
 	<spnOverride numeric="36301" spn="SETAR GSM"/>

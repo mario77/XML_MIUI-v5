@@ -281,7 +281,7 @@ d MMMM yyyy"</string>
     <string name="usb_storage_stop_notification_title">Wyłącz nośnik USB</string>
     <string name="usb_storage_stop_title">Nośnik USB w użyciu</string>
     <string name="usb_storage_title">Połączono USB</string>
-    <string name="user_guide_for_notification">Nowe powiadomienie，możesz przeciągnąć w dół pasek statusu, aby zobaczyć szczegóły</string>
+    <string name="user_guide_for_notification">Nowe powiadomienie, możesz przeciągnąć w dół pasek statusu, aby zobaczyć szczegóły</string>
     <string name="user_guide_for_toggle">Lista przełączników może być przesuwana w poziomie</string>
     <string name="user_guide_for_toggle_list">Kliknij by ustawić własne przełączniki</string>
  </resources>
