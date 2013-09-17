@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="ster_mon_entries">
-        <item>Stereo</item>
-        <item>Mono</item>
-    </string-array>
     <string-array name="sleep_duration_values">
         <item>15 minut</item>
         <item>30 minut</item>
@@ -61,7 +57,7 @@
         <item>National Music</item>
         <item>Other Music</item>
         <item>Oldies Music</item>
-        <item>Phone co</item>
+        <item>Phone In</item>
         <item>Pop Music</item>
         <item>Religion</item>
         <item>Rock Music</item>
@@ -170,5 +166,33 @@
         <item>Select the option</item>
         <item>Configure FM Search parameters</item>
         <item>RF Statistics</item>
+    </string-array>
+    <string-array name="fm_mhz_number_entries">
+        <item>" "</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>.</item>
+    </string-array>
+    <string-array name="freq_entries">
+        <item>" "</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>.</item>
     </string-array>
 </resources>
