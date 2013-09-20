@@ -6,7 +6,7 @@
   <string name="action_fail_unknown_error">Nie udało się ukończyć operacji z powodu błędu.</string>
   <string name="activity_not_found">Brak aplikacji do zakończenia tego działania.</string>
   <string name="add_account">Dodaj konto</string>
-  <string name="add_sharer">Dodaj udostępnienia</string>
+  <string name="add_sharer">Dodaj użytkowników</string>
   <string name="add_to_cloud_album">Dodaj do chmury</string>
   <string name="add_to_cloud_exceeded_the_size_message">Plik jest za duży.</string>
   <string name="add_to_cloud_fail_too_many_items">Za dużo zaznaczonych elementów. Nie można usunąć.</string>

@@ -71,7 +71,7 @@
         <item>Rozłączona</item>
         <item>Niepowodzenie</item>
         <item>Zablokowana</item>
-        <item>Tymczasowo, by uniknąć połączenia o niskiej jakości</item>
+        <item>Tymczasowo rozłączono, by uniknąć połączenia o niskiej jakości</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -85,7 +85,7 @@
         <item>Rozłączona</item>
         <item>Niepowodzenie</item>
         <item>Zablokowana</item>
-        <item>Tymczasowo, by uniknąć połączenia o niskiej jakości</item>
+        <item>Tymczasowo rozłączono, by uniknąć połączenia o niskiej jakości</item>
     </string-array>
     <string-array name="wifi_ap_security">
         <item>Otwarte</item>
@@ -365,9 +365,9 @@
         <item>Urządzenie rozłączone</item>
     </string-array>
     <string-array name="power_mode_entries">
-        <item>Wysoka wydajność</item>
-        <item>Zrównoważony</item>
-        <item>Oszczędzanie energii</item>
+        <item>Wydajny</item>
+        <item>Normalny</item>
+        <item>Oszczędny</item>
     </string-array>
     <string-array name="msd_pc_system">
         <item>Windows XP lub starszy</item>
