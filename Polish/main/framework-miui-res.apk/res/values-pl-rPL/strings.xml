@@ -236,6 +236,8 @@ Czujnik zasłonięty!"</string>
   <string name="v5_edit_mode_title_empty">Wybierz</string>
   <string name="v5_icon_menu_bar_more_item_label">Więcej</string>
   <string name="v5_select_all">Wszystko</string>
+  <string name="v5_time_picker_label_hour">Godz</string>
+  <string name="v5_time_picker_label_minute">Min</string>
   <string name="valentines_day">Walentynki</string>
   <string name="vernal_equinox">Równonoc wiosenna</string>
   <string name="volume_alarm">Alarm</string>

@@ -285,7 +285,8 @@
   <string name="custom_location_location_no_item_miui">"Naciśnij 'Dodaj' aby dodać własny numer kierunkowy"</string>
   <string name="custom_location_number_hint_miui">Kierunkowy np. 070</string>
   <string name="cw_title_miui">Połączenia oczekujące</string>
-  <string name="data_conn_under_roaming_hint">Włacz także Dane w roamingu w Ustawienia -> Sieci komórkowe -> Dane w roamingu</string>
+  <string name="data_conn_under_roaming_hint">Włącz także Dane w roamingu w Ustawienia -> Sieci komórkowe -> Dane w roamingu</string>
+  <string name="data_connected_change">Zmiana sieci nie jest możliwa przy aktywnej usłudze przesyłu danych. Zatrzymać usługę przesyłu danych i wybrać inną sieć komórkową?</string>
   <string name="data_enable_summary">Włącz przesył danych przez sieć komórkową</string>
   <string name="data_enabled">Włącz przesył danych</string>
   <string name="deactivate_all">Anuluj wszystko</string>
@@ -376,6 +377,7 @@
   <string name="dualtalk_tip_accept_disconnect_outgoing">Accept this call will end up the outgoing call.</string>
   <string name="dualtalk_tip_accept_disconnect_outgoing_reject_incoming">Accept this call will end up the outgoing call and reject the other incoming call.</string>
   <string name="dualtalk_tip_accept_disconnect_voice">Accept this call will end up the voice call(s).</string>
+  <string name="duringcall">Operacja jest niedozwolona podczas połączenia</string>
   <string name="ecm_exit_dialog">EcmExitDialog</string>
   <string name="editContact">Edycja</string>
   <string name="edit_custom_location_title_miui">Dostosuj numery kierunkowe</string>
@@ -516,8 +518,9 @@
   <string name="incall_screen_background_summary_miui">"Użyj tapety ekranu blokady jeśli nie ustawiono zdjęcia kontaktu"</string>
   <string name="incall_screen_background_title_miui">Tło ekranu rozmowy</string>
   <string name="incall_status_dialed_mmi">Starting MMI sequence…</string>
-  <string name="incall_toast_hold">Hold</string>
-  <string name="incall_toast_unhold">Unhold</string>
+  <string name="incall_toast_hold">Wstrzymaj</string>
+  <string name="incall_toast_unhold">Ponów</string>
+  <string name="information">Informacje</string>
   <string name="international_dialing_add_country_code" formatted="false">"It's detected that you're dialing a %s number. Do you want to add the country code (+%s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code">"It's detected that you are dialing a number in %1$s, %2$s. Do you want to add the country code and the area code (+%3$s)?"</string>
   <string name="international_dialing_add_country_code_and_area_code_without_prefix">Do you want to add the country code and the area code?</string>
@@ -528,9 +531,9 @@
   <string name="international_dialing_change_country_prefix">"It's detected that you're dialing from the %s. Change international call prefix to '+'?"</string>
   <string name="international_dialing_click_below_button">Click the button below to change the country code number.</string>
   <string name="international_dialing_confirm_area_code">If your destination city is not %s, please input the area code of your destination city below.</string>
-  <string name="international_dialing_dial_with_country_code">Dial with country code</string>
-  <string name="international_dialing_dialed_number">Dialing number:</string>
-  <string name="international_dialing_input_area_code">Input area code here</string>
+  <string name="international_dialing_dial_with_country_code">Wybierz z numerem kierunkowym</string>
+  <string name="international_dialing_dialed_number">Numer wybierania:</string>
+  <string name="international_dialing_input_area_code">Wpisz numer kierunkowy</string>
   <string name="international_dialing_invalid_number">The number is invalid. Do you want to continue dialing anyway?</string>
   <string name="international_dialing_need_area_code">The area code of your destination city is needed for the call.</string>
   <string name="international_dialing_no">No. Use original number:</string>

@@ -218,6 +218,7 @@
   <string name="cit_tool_log_ril">RIL log</string>
   <string name="cit_tool_log_dmesg">DMESG</string>
   <string name="cit_tool_log_modem">Modem log</string>
+  <string name="cit_tool_log_no_sdcard">Operation failed, please insert SD card</string>
   <string name="cit_tool_log_kmsg">Last kernel log</string>
   <string name="cit_tool_log_bugreport">Bug report</string>
   <string name="cit_tool_log_toast">Log file saved to %s</string>

@@ -5,6 +5,7 @@
             "url":"http://miuipolska.pl",
             "thumbnail":"miui-polska.png",
             "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
         {
@@ -12,13 +13,15 @@
             "url":"http://Android.com.pl/",
             "thumbnail":"androidcompl.png",
             "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
-                {
-            "title":"MIUIAndroid",
-            "url":"http://miuiandroid.com/",
-            "thumbnail":"miuiandroid2.png",
+         {
+            "title":"miuiandroid",
+            "url":"http://miuiandroid.com",
+            "thumbnail":"miuiandroid.png",
             "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
         {
@@ -26,6 +29,7 @@
             "url":"http://www.hatak.pl/",
             "thumbnail":"hatak.png",
             "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
         {
@@ -33,6 +37,7 @@
             "url":"http://www.youtube.com/",
             "thumbnail":"youtube.png",
             "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
         {
@@ -40,6 +45,7 @@
             "url":"http://www.google.com/",
             "thumbnail":"google.png",
             "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
         {
@@ -47,6 +53,15 @@
             "url":"http://antyweb.pl",
             "thumbnail":"antyweb.png",
             "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"Wikipedia",
+            "url":"http://pl.wikipedia.org/",
+            "thumbnail":"thumb_wikipedia.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
         {
@@ -54,13 +69,15 @@
             "url":"http://www.allegro.pl/",
             "thumbnail":"allegro.png",
             "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
         {
-            "title":"Wykop",
+            			"title":"Wykop",
             "url":"http://wykop.pl/",
             "thumbnail":"wykop.png",
             "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
         {
@@ -68,6 +85,7 @@
             "url":"http://www.twitter.com/miuipolskapl",
             "thumbnail":"tw.png",
             "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
             "favicon":""
         },
         {

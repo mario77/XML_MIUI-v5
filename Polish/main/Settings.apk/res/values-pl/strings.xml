@@ -2318,11 +2318,14 @@ zakończone"</string>
   <string name="wfd_disconnect_diag_msg">Jeśli sesja Wi-Fi zostanie przerwana połączenie z %1$s się zakończy.</string>
   <string name="wfd_disconnect_diag_title">Rozłączyć sesję Wi-Fi?</string>
   <string name="wfd_disconnect_multiple_diag_message">Jeśli przerwiesz sesję Wi-Fi Display, twoje połączenie z %1$s i %2$s zostanie zakończone.</string>
+  <string name="wfd_enable_wifi_diag_title">Z Wi-Fi Display można korzystać jedynie jeśli włączona jest sieć Wi-Fi. Włączyć?</string>
+  <string name="wfd_enabler_title">Wyświetlacz bezprzewodowy</string>
   <string name="wfd_menu_search">Szukanie urządzeń</string>
   <string name="wfd_menu_searching">Wyszukiwanie...</string>
   <string name="wfd_menu_teardown">Rozłącz</string>
-  <string name="wfd_settings_title">Ustawienia Wi-Fi Display</string>
-  <string name="wfd_settings_description">Połącz z wyświetlaczem Wi-Fi</string>
+  <string name="wfd_settings_title">Wyświetlacz bezprzewodowy</string>
+  <string name="wfd_settings_description">"Połącz z bezprzewodowym wyświetlaczem
+   (Wi-Fi Display)"</string>
   <string name="wfd_wps_keypad">Przycisk</string>
   <string name="wfd_wps_pbc">Wpisz PIN</string>
   <string name="widget_picker_title">Wybierz widżet</string>
