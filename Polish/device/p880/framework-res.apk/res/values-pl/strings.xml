@@ -1091,8 +1091,8 @@ Zamknąć ją?"</string>
     <string name="ime_action_default">Wykonaj</string>
     <string name="managed_roaming_title">Roaming</string>
     <string name="managed_roaming_dialog_content">Wykryto ograniczoną usługę sieciową. Czy chcesz wyszukać dostępne sieci mobilne?</string>
-    <string name="managed_roaming_dialog_ok_button">Yes</string>
-    <string name="managed_roaming_dialog_cancel_button">No</string>
+    <string name="managed_roaming_dialog_ok_button">Tak</string>
+    <string name="managed_roaming_dialog_cancel_button">Nie</string>
     <string name="dial_number_using">"Połącz
 z numerem %s"</string>
     <string name="create_contact_using">"Utwórz kontakt
