@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="search_engines">
+        <item>google</item>
+        <item>yahoo</item>
+        <item>bing</item>
+    </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Zawsze</item>
         <item>Na życzenie</item>
@@ -21,6 +26,24 @@
         <item>Małe</item>
         <item>Średnie</item>
         <item>Duże</item>
+    </string-array>
+    <string-array name="pref_development_ua_choices">
+        <item>Android</item>
+        <item>Desktop</item>
+        <item>iPhone</item>
+        <item>iPad</item>
+        <item>Froyo-N1</item>
+        <item>Honeycomb-Xoom</item>
+    </string-array>
+    <string-array name="pref_default_text_encoding_choices">
+        <item>Latin-1 (ISO-8859-1)</item>
+        <item>Unicode (UTF-8)</item>
+        <item>Chinese (GBK)</item>
+        <item>Chinese (Big5)</item>
+        <item>Japanese (ISO-2022-JP)</item>
+        <item>Japanese (SHIFT_JIS)</item>
+        <item>Japanese (EUC-JP)</item>
+        <item>Korean (EUC-KR)</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
         <item>"Nigdy. "</item>
@@ -45,6 +68,9 @@
         <item>Strona do przodu/do tyłu</item>
         <item>Przełączenie karty</item>
     </string-array>
+    <string-array name="search_engines_cmcc">
+        <item>google</item>
+    </string-array>
     <string-array name="pref_images_preload_choices">
         <item>"Nigdy. "</item>
         <item>"Tylko przy Wi-Fi. "</item>
@@ -58,5 +84,20 @@
         <item>Zielony</item>
         <item>Niebieski</item>
         <item>Ciemny</item>
+    </string-array>
+    <string-array name="google_in_list">
+        <item>search_google</item>
+        <item>ic_search_engine_google_list_item</item>
+        <item>google</item>
+    </string-array>
+    <string-array name="yahoo_in_list">
+        <item>search_yahoo</item>
+        <item>ic_search_engine_yahoo_list_item</item>
+        <item>yahoo</item>
+    </string-array>
+    <string-array name="bing_in_list">
+        <item>search_bing</item>
+        <item>ic_search_engine_bing_list_item</item>
+        <item>bing</item>
     </string-array>
 </resources>
