@@ -43,17 +43,9 @@
   <string name="Phone_vibrate_summary">Alarm wibracyjny dla rozmów przychodzących</string>
   <string name="USER_RESPONSE_TIMEOUT">Limit czasu oczekiwania na weryfikację</string>
   <string name="WiFiNetwork_on_title">Połączenie Wi-Fi jest aktywne</string>
-  <string name="about_agps_message">"\u0009A-GPS (Assisted GPS) to system, który skraca czas wymagany do uzyskania pierwszego stałego punktu TTFF (Time-To-First-Fix).
-    \u0009Urządzenie z aktywnym A-GPS może łączyć się z serwerami serwisu poprzez transmisję danych w sieci komórkowej w celu uzyskania danych pomocniczych. \u0009Należy
-    pamiętać, że transmisja danych w roamingu może powodować naliczenie dodatkowych opłat. Aby uzyskać szczegółowe informacje, należy skontaktować się z operatorem
-    sieci."</string>
   <string name="about_agps_title">Informacje o A-GPS</string>
   <string name="accessibility_feature_state_off">Wył.</string>
   <string name="accessibility_feature_state_on">Wł.</string>
-  <string name="accessibility_global_gesture_preference_description">"Kiedy ta funkcja jest aktywna, możesz szybko włączyć ułatwienia dostępu w dwóch krokach: Krok 1:
-    naciśnij i przytrzymaj przycisk zasilania, aż usłyszysz sygnał lub poczujesz wibracje. Krok 2: naciśnij i przytrzymaj ekran dwoma palcami, aż usłyszysz potwierdzenie
-    dźwiękowe. Jeśli z tego urządzenia korzysta kilka osób, użycie tego skrótu na zablokowanym ekranie spowoduje tymczasowe włączenie ułatwień dostępu do momentu
-    zablokowania urządzenia."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Wył.</string>
   <string name="accessibility_global_gesture_preference_summary_on">Wł.</string>
   <string name="accessibility_global_gesture_preference_title">Skrót ułatwień dostępu</string>
@@ -61,26 +53,15 @@
   <string name="accessibility_menu_item_settings">Ustawienia</string>
   <string name="accessibility_no_services_installed">Brak zainstalowanych usług</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Przycisk zasilania kończy połączenie</string>
-  <string name="accessibility_screen_magnification_summary">"Kiedy ta funkcja jest włączona, możesz powiększyć i pomniejszyć obraz, trzykrotnie klikając ekran. W trybie
-    powiększenia możesz: "<ul><li>"Przesuwać: przeciągnij palcami po ekranie. "<li>Regulować powiększenie: ściągnij lub rozsuń palce.</li></li></ul>" Możesz też
-    tymczasowo powiększyć miejsce pod palcem, klikając trzykrotnie i przytrzymując palec na ekranie. W takim widoku „lupy” możesz przesuwać palcem po ekranie i powiększać
-    różne miejsca. Podniesienie palca spowoduje powrót do poprzedniego widoku. Uwaga: trzykrotne kliknięcie powiększające działa wszędzie poza klawiaturą i paskiem
-    nawigacji."</string>
   <string name="accessibility_screen_magnification_title">Gesty powiększania</string>
   <string name="accessibility_script_injection_allowed">Dozwolone</string>
   <string name="accessibility_script_injection_button_allow">Zezwalaj</string>
   <string name="accessibility_script_injection_button_disallow">Nie zezwalaj</string>
   <string name="accessibility_script_injection_disallowed">Niedozwolone</string>
-  <string name="accessibility_script_injection_security_warning_summary">Czy chcesz, aby aplikacje instalowały skrypty od Google, które zwiększą dostępność treści
-    internetowych?</string>
   <string name="accessibility_service_default_description">Brak opisu</string>
   <string name="accessibility_service_disable_warning_summary">Dotknięcie OK spowoduje zatrzymanie usługi %1$s.</string>
   <string name="accessibility_service_disable_warning_title">Zatrzymać usługę %1$s?</string>
-  <string name="accessibility_service_no_apps_message">TalkBack odczytuje zawartość ekranu, pomagając użytkownikom niewidomym i niedowidzącym. Czy chcesz zainstalować tę
-    usługę za darmo z Android Market?</string>
   <string name="accessibility_service_no_apps_title">Potrzebujesz czytnika ekranu?</string>
-  <string name="accessibility_service_security_warning_summary">%1$s może gromadzić cały wpisywany tekst z wyjątkiem haseł. Dotyczy to także danych osobistych, np.
-    numerów kart kredytowych. Może ponadto zbierać informacje o korzystaniu z telefonu.</string>
   <string name="accessibility_service_security_warning_title">Użyć usługi %1$s?</string>
   <string name="accessibility_services_title">Usługi</string>
   <string name="accessibility_settings">Ułatwienia dostępu</string>
