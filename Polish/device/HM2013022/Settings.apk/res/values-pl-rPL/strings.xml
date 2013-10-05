@@ -43,17 +43,9 @@
   <string name="Phone_vibrate_summary">Alarm wibracyjny dla rozmów przychodzących</string>
   <string name="USER_RESPONSE_TIMEOUT">Limit czasu oczekiwania na weryfikację</string>
   <string name="WiFiNetwork_on_title">Połączenie Wi-Fi jest aktywne</string>
-  <string name="about_agps_message">"\u0009A-GPS (Assisted GPS) to system, który skraca czas wymagany do uzyskania pierwszego stałego punktu TTFF (Time-To-First-Fix).
-    \u0009Urządzenie z aktywnym A-GPS może łączyć się z serwerami serwisu poprzez transmisję danych w sieci komórkowej w celu uzyskania danych pomocniczych. \u0009Należy
-    pamiętać, że transmisja danych w roamingu może powodować naliczenie dodatkowych opłat. Aby uzyskać szczegółowe informacje, należy skontaktować się z operatorem
-    sieci."</string>
   <string name="about_agps_title">Informacje o A-GPS</string>
   <string name="accessibility_feature_state_off">Wył.</string>
   <string name="accessibility_feature_state_on">Wł.</string>
-  <string name="accessibility_global_gesture_preference_description">"Kiedy ta funkcja jest aktywna, możesz szybko włączyć ułatwienia dostępu w dwóch krokach: Krok 1:
-    naciśnij i przytrzymaj przycisk zasilania, aż usłyszysz sygnał lub poczujesz wibracje. Krok 2: naciśnij i przytrzymaj ekran dwoma palcami, aż usłyszysz potwierdzenie
-    dźwiękowe. Jeśli z tego urządzenia korzysta kilka osób, użycie tego skrótu na zablokowanym ekranie spowoduje tymczasowe włączenie ułatwień dostępu do momentu
-    zablokowania urządzenia."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Wył.</string>
   <string name="accessibility_global_gesture_preference_summary_on">Wł.</string>
   <string name="accessibility_global_gesture_preference_title">Skrót ułatwień dostępu</string>
@@ -61,26 +53,15 @@
   <string name="accessibility_menu_item_settings">Ustawienia</string>
   <string name="accessibility_no_services_installed">Brak zainstalowanych usług</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Przycisk zasilania kończy połączenie</string>
-  <string name="accessibility_screen_magnification_summary">"Kiedy ta funkcja jest włączona, możesz powiększyć i pomniejszyć obraz, trzykrotnie klikając ekran. W trybie
-    powiększenia możesz: "<ul><li>"Przesuwać: przeciągnij palcami po ekranie. "<li>Regulować powiększenie: ściągnij lub rozsuń palce.</li></li></ul>" Możesz też
-    tymczasowo powiększyć miejsce pod palcem, klikając trzykrotnie i przytrzymując palec na ekranie. W takim widoku „lupy” możesz przesuwać palcem po ekranie i powiększać
-    różne miejsca. Podniesienie palca spowoduje powrót do poprzedniego widoku. Uwaga: trzykrotne kliknięcie powiększające działa wszędzie poza klawiaturą i paskiem
-    nawigacji."</string>
   <string name="accessibility_screen_magnification_title">Gesty powiększania</string>
   <string name="accessibility_script_injection_allowed">Dozwolone</string>
   <string name="accessibility_script_injection_button_allow">Zezwalaj</string>
   <string name="accessibility_script_injection_button_disallow">Nie zezwalaj</string>
   <string name="accessibility_script_injection_disallowed">Niedozwolone</string>
-  <string name="accessibility_script_injection_security_warning_summary">Czy chcesz, aby aplikacje instalowały skrypty od Google, które zwiększą dostępność treści
-    internetowych?</string>
   <string name="accessibility_service_default_description">Brak opisu</string>
   <string name="accessibility_service_disable_warning_summary">Dotknięcie OK spowoduje zatrzymanie usługi %1$s.</string>
   <string name="accessibility_service_disable_warning_title">Zatrzymać usługę %1$s?</string>
-  <string name="accessibility_service_no_apps_message">TalkBack odczytuje zawartość ekranu, pomagając użytkownikom niewidomym i niedowidzącym. Czy chcesz zainstalować tę
-    usługę za darmo z Android Market?</string>
   <string name="accessibility_service_no_apps_title">Potrzebujesz czytnika ekranu?</string>
-  <string name="accessibility_service_security_warning_summary">%1$s może gromadzić cały wpisywany tekst z wyjątkiem haseł. Dotyczy to także danych osobistych, np.
-    numerów kart kredytowych. Może ponadto zbierać informacje o korzystaniu z telefonu.</string>
   <string name="accessibility_service_security_warning_title">Użyć usługi %1$s?</string>
   <string name="accessibility_services_title">Usługi</string>
   <string name="accessibility_settings">Ułatwienia dostępu</string>
@@ -204,8 +185,7 @@
   <string name="display_default">Wyświetlacz</string>
   <string name="display_personalize">Personalizacja</string>
   <string name="display_settings_scences_title">Widoki</string>
-  <string name="dlg_confirm_unmount_usb_text">Gdy odłączysz pamięć USB niektóre aplikacje które używasz mogą zostać zakończone i nie będą dostępne do momentu ponownego
-    podłączenia pamięci USB.</string>
+  <string name="dlg_confirm_unmount_usb_text">Gdy odłączysz pamięć USB niektóre aplikacje które używasz mogą zostać zakończone i nie będą dostępne do momentu ponownego podłączenia pamięci USB.</string>
   <string name="dlg_confirm_unmount_usb_title">Odłączyć nośnik USB?</string>
   <string name="dlg_error_unmount_text">Nie można odłączyć karty SD. Spróbuj ponownie później.</string>
   <string name="dlg_error_unmount_usb_title"/>
@@ -232,14 +212,12 @@
   <string name="eap_sim_slot_0">SIM-Slot 1</string>
   <string name="eap_sim_slot_1">SIM-Slot 2</string>
   <string name="enable_gps">Włącz GPS</string>
-  <string name="enable_gps_confirm_message">Do polepszenia dokładności lokalizacji wymagane jest połączenie z siecią bezprzewodową. Może to powodować zwiększone użycia
-    danych. Na pewno włączyć GPS?</string>
+  <string name="enable_gps_confirm_message">Do polepszenia dokładności lokalizacji wymagane jest połączenie z siecią bezprzewodową. Może to powodować zwiększone użycia danych. Na pewno włączyć GPS?</string>
   <string name="enable_opengl_traces_title">Włącz ślady OpenGL</string>
   <string name="enable_sim">Aktywne</string>
   <string name="enable_wifi_display">Włącz Wi-Fi Display</string>
   <string name="enable_wifi_tether">Włącz Hotspot Wi-Fi</string>
-  <string name="epo_about_message">"\u0009EPO (Extended Prediction Orbit) jest innowacyjnym systemem MediaTek bazującym na technologii A-GPS. \u0009EPO przyśpiesza
-    uzyskanie pierwszej pozycji TTFF (time-to-first-fix) w warunkach utrudnionego odbioru sygnału GPS."</string>
+  <string name="epo_about_message">"\u0009EPO (Extended Prediction Orbit) jest innowacyjnym systemem MediaTek bazującym na technologii A-GPS. \u0009EPO przyśpiesza uzyskanie pierwszej pozycji TTFF (time-to-first-fix) w warunkach utrudnionego odbioru sygnału GPS."</string>
   <string name="epo_about_title">Informacje o EPO</string>
   <string name="epo_auto_download_summary">Automatycznie pobieraj dane o położeniu satelitów</string>
   <string name="epo_auto_download_title">Automatyczne pobieranie</string>
@@ -249,8 +227,7 @@
   <string name="epo_download_time_title">Dane pobrano:</string>
   <string name="epo_enable_confirm_allow">Zezwalaj</string>
   <string name="epo_enable_confirm_deny">Odmów</string>
-  <string name="epo_enable_confirm_message">Wymaga połączenia bezprzewodowego, aby uzyskać wspomaganie GPS danymi EPO, co może prowadzić do dodatkowych opłat. Naprawdę
-    chcesz włączyć wspomaganie GPS EPO?</string>
+  <string name="epo_enable_confirm_message">Wymaga połączenia bezprzewodowego, aby uzyskać wspomaganie GPS danymi EPO, co może prowadzić do dodatkowych opłat. Naprawdę chcesz włączyć wspomaganie GPS EPO?</string>
   <string name="epo_enable_confirm_title">Potwierdź aktywację EPO</string>
   <string name="epo_enable_summary">Użyj wspomagania GPS (EPO) aby przyspieszyć pozycjonowanie GPS.</string>
   <string name="epo_enable_title">Wspomaganie GPS EPO</string>
@@ -450,8 +427,6 @@
   <string name="mtp_transfer_unmount_error_text">Karta SD nie może być usunięta podczas transferu plików</string>
   <string name="music_app_name">Muzyka</string>
   <string name="music_command_summary_format">Możesz powiedzieć %1$s i %2$s by kontrolować odtwarzanie muzyki.</string>
-  <string name="music_plus_summary">Polepszenie dźwięku w słuchawkach</string>
-  <string name="music_plus_title">Muzyka+</string>
   <string name="new_access_points">Nieznany punkt dostępu</string>
   <string name="next_button_label">Dalej</string>
   <string name="nfc_p2p_mode">P2P mode</string>
