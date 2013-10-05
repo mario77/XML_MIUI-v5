@@ -140,6 +140,7 @@ Opuść na chwilę widok"</string>
   <string name="not_enough_space">Pamięć wewnętrzna jest pełna.</string>
   <string name="not_selectable_in_scene_mode">Nie można tego wybrać w trybie sceny</string>
   <string name="ok">OK</string>
+  <string name="open">Otwórz</string>
   <string name="orientation">Orientacja</string>
   <string name="pano_dialog_panorama_failed">"Nie udało się zapisać panoramy."</string>
   <string name="pano_dialog_prepare_preview">Przygotowanie panoramy</string>
