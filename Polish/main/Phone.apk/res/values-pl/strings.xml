@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="ContactScreen">Dodaj/Edytuj kontakt SIM</string>
   <string name="ExportContactScreen">Kopia kontaktów na SIM</string>
@@ -145,13 +145,13 @@
   <string name="callFailed_powerOff">Sieci bezprzewodowe są wyłączone</string>
   <string name="callFailed_server_error">Błąd serwera. Spróbuj ponownie później.</string>
   <string name="callFailed_server_unreachable">Serwer nieosiągalny</string>
-  <string name="callFailed_simError_slotNumber">Brak lub błąd karty SIM w slocie %d</string>
   <string name="callFailed_simError">Brak lub błąd karty SIM</string>
+  <string name="callFailed_simError_slotNumber">Brak lub błąd karty SIM w slocie %d</string>
   <string name="callFailed_timedOut">Brak odpowiedzi, przekroczono limit czasu</string>
   <string name="callFailed_unobtainable_number">Nieprawidłowy numer</string>
   <string name="callFailed_userBusy">Linia jest zajęta</string>
-  <string name="call_additional_sum">Inni</string>
   <string name="callUnanswered_forwarded">Nieodebrane i przekazane połączenia</string>
+  <string name="call_additional_sum">Inni</string>
   <string name="call_assistant_miui">Wspomaganie wybierania</string>
   <string name="call_barring_sum">Ograniczenie połączeń głosowych</string>
   <string name="call_forwarding_number_hint_miui">Wpisz numer do przekazania</string>
@@ -285,7 +285,7 @@
   <string name="custom_location_location_no_item_miui">"Naciśnij 'Dodaj' aby dodać własny numer kierunkowy"</string>
   <string name="custom_location_number_hint_miui">Kierunkowy np. 070</string>
   <string name="cw_title_miui">Połączenia oczekujące</string>
-  <string name="data_conn_under_roaming_hint">Włącz także Dane w roamingu w Ustawienia -> Sieci komórkowe -> Dane w roamingu</string>
+  <string name="data_conn_under_roaming_hint">Włącz także Dane w roamingu w Ustawienia -&gt; Sieci komórkowe -&gt; Dane w roamingu</string>
   <string name="data_connected_change">Zmiana sieci nie jest możliwa przy aktywnej usłudze przesyłu danych. Zatrzymać usługę przesyłu danych i wybrać inną sieć komórkową?</string>
   <string name="data_enable_summary">Włącz przesył danych przez sieć komórkową</string>
   <string name="data_enabled">Włącz przesył danych</string>
@@ -338,7 +338,7 @@
   <string name="dial">Wybierz</string>
   <string name="dial_emergency_empty_error">Połączenie niezrealizowane, należy wybrać numer alarmowy!</string>
   <string name="dial_emergency_error">Połączenie niezrealizowane, %s nie jest numerem alarmowym!</string>
-  <string name="dial_related_setting_catory_miui">Ustawienia wybierania</string>  
+  <string name="dial_related_setting_catory_miui">Ustawienia wybierania</string>
   <string name="dialerKeyboardHintText">Użyj klawiatury do wybierania</string>
   <string name="dialog_network_priority_title">Priorytety</string>
   <string name="disable">Wyłącz</string>
@@ -354,7 +354,7 @@
   <string name="disable_sim_pin">Wyłącz PIN do karty SIM</string>
   <string name="disable_sim_pin_miui">Wyłącz PIN do karty SIM</string>
   <string name="display_name">DisplayName</string>
-  <string name="display_name_summary">&lt;Takie jak nazwa użytk.></string>
+  <string name="display_name_summary">&lt;Takie jak nazwa użytk.&gt;</string>
   <string name="display_name_title">Nazwa wyświetlana</string>
   <string name="dm_lock">DM Locked</string>
   <string name="dm_unlock">DM Unlock</string>
@@ -732,6 +732,7 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="ok">OK</string>
   <string name="oldPin2Label">Stary PIN2</string>
   <string name="oldPinLabel">Stary PIN</string>
+  <string name="old_password_label">Stare hasło (4 cyfry)</string>
   <string name="old_pin2_hint_miui">Aktualny PIN2</string>
   <string name="old_pin_hint_miui">Aktualny PIN</string>
   <string name="onHold">Oczekujące</string>
@@ -879,7 +880,7 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="proxy_address_title">Adres proxy</string>
   <string name="pstn_phone">Połączenie komórkowe</string>
   <string name="puk2_blocked">PUK2 jest zablokowany.</string>
-  <string name="puk2_requested">Hasło jest nieprawidłowe, SIM zablokowana! Kod PUK2 jest wymagany.</string>  
+  <string name="puk2_requested">Hasło jest nieprawidłowe, SIM zablokowana! Kod PUK2 jest wymagany.</string>
   <string name="puk_lock_warning_miui">" Karta SIM zostanie nieodwracalnie zablokowana jeśli następna próba będzie niepomyślna!"</string>
   <string name="puk_requested">Hasło nieprawidłowe, SIM zablokowana! PUK2 jest wymagany.</string>
   <string name="puk_unlock_success">Odblokowanie PUK pomyślne.</string>
@@ -970,10 +971,10 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="select_automatically">Wybierz automatycznie</string>
   <string name="select_clear">Odznacz</string>
   <string name="select_from">Wybierz z</string>
-  <string name="select_trash">Trash</string>
-  <string name="selected_item_count">Zaznaczono %d</string>
   <string name="select_network_automatic_hint_miui">"Nie można zarejestrować wybranej sieci,
   sieć zostanie wybrana automatycznie"</string>
+  <string name="select_trash">Trash</string>
+  <string name="selected_item_count">Zaznaczono %d</string>
   <string name="sendSms">Wyślij SMS</string>
   <string name="send_button">Wyślij</string>
   <string name="send_keepalive">SendKeepAlive</string>
@@ -1166,7 +1167,7 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="voicemail_notification_vibarte_when_dialog_title">Wibruj</string>
   <string name="voicemail_notification_vibrate_when_default">never</string>
   <string name="voicemail_notification_vibrate_when_title">Wibracja</string>
-  <string name="voicemail_number_not_set">nie ustawiono></string>
+  <string name="voicemail_number_not_set">nie ustawiono&gt;</string>
   <string name="voicemail_provider">Usługa poczty głosowej</string>
   <string name="voicemail_provider_miui">Usługa poczty głosowej</string>
   <string name="voicemail_provider_sum_miui">Wybierz usługę poczty głosowej</string>

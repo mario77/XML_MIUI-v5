@@ -148,6 +148,11 @@
         <item>TTLS</item>
         <item>PWD</item>
     </string-array>
+    <string-array name="wifi_peap_phase2_entries">
+        <item>Brak</item>
+        <item>MSCHAPV2</item>
+        <item>GTC</item>
+    </string-array>
     <string-array name="wifi_phase2_entries">
         <item>Brak</item>
         <item>PAP</item>
@@ -441,5 +446,10 @@ komputer automatycznie odczyta zawartość telefonu"</item>
     <string-array name="phone_call_noise_suppression_title">
         <item>Wyłącz redukcję szumów</item>
         <item>Włącz redukcję szumów (2 mikrofony)</item>
+    </string-array>
+    <string-array name="miracast_policies">
+        <item>Shorter delay</item>
+        <item>Standard</item>
+        <item>Better quality</item>
     </string-array>
  </resources>
