@@ -6,7 +6,11 @@
 "</string>
     <string name="active_xiaomi_account_title">Aktywuj konto Xiaomi</string>
     <string name="app_name">Aktualizacje</string>
-    <string name="apply_buddy_update_info_message">"Wybierz 'Instaluj' aby rozpocząć aktualizację. Gdy proces zostanie zakończony telefon uruchomi się ponownie na drugim systemie."</string>
+    <string name="apply_buddy_update_info_message">" AKTUALIZACJA SYSTEMU MIUI
+
+Tylko dla MI-1, MI-2, MI-2A, MI-3.
+
+Wybierz 'Instaluj' aby rozpocząć aktualizację. Gdy proces zostanie zakończony telefon uruchomi się ponownie."</string>
     <string name="apply_existing_update_md5error_title">MD5 się nie zgadza.</string>
     <string name="apply_later_button_text">Anuluj</string>
     <string name="apply_now_button_text">Instaluj</string>

@@ -837,7 +837,7 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="port_title">Port</string>
   <string name="pref_custom_location_summary_miui">Ustaw numery kierunkowe i regionalne</string>
   <string name="pref_custom_location_title_miui">Numery kierunkowe</string>
-  <string name="prefer_2g">Tylko sieć 2G</string>
+  <string name="prefer_2g">Tylko sieć GSM</string>
   <string name="prefer_2g_summary">Oszczędza baterię</string>
   <string name="preference_category_ringtone">Dzwonek</string>
   <string name="preferred_network_mode_cdma_evdo_gsm_wcdma_summary">Preferowany tryb sieci: Global</string>
@@ -854,20 +854,20 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="preferred_network_mode_lte_gsm_wcdma_summary">Zmień tryb działania sieci</string>
   <string name="preferred_network_mode_lte_wcdma_summary">Preferowany tryb sieci: LTE / WCDMA</string>
   <string name="preferred_network_mode_summary">Zmień tryb sieciowy</string>
-  <string name="preferred_network_mode_title">Tryb sieci</string>
+  <string name="preferred_network_mode_title">Tryb sieciowy</string>
   <string name="preferred_network_mode_wcdma_only_summary">Preferowany tryb sieci: tylko WCDMA</string>
   <string name="preferred_network_mode_wcdma_perf_summary">Preferowany tryb sieci: preferowane WCDMA</string>
   <string name="preferred_network_type_3g_only_warning_miui">
-    "Wybrałeś tylko sieć 3G jako preferowany typ sieci, więc telefon nie uzyska sygnału jeśli Twoja karta SIM nie ma obsługi sieci 3G!
+    "Wybrałeś tylko sieć WCDMA jako preferowany typ sieci. Telefon nie uzyska sygnału jeśli Twoja karta SIM nie ma obsługi sieci 3G!
     Kliknij OK by kontynuować"
   </string>
   <string name="preferred_network_type_cdma_miui">CDMA</string>
-  <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
-  <string name="preferred_network_type_pref_entries_3g_preferred_miui">Preferowane 3G</string>
+  <string name="preferred_network_type_gsm_umts_miui">Typy połączeń sieci komórkowych</string>
+  <string name="preferred_network_type_pref_entries_3g_preferred_miui">Preferowane sieci 3G WCDMA (E/H/H+)</string>
   <string name="preferred_network_type_pref_entries_auto_miui">Automatycznie</string>
   <string name="preferred_network_type_pref_entries_global_miui">Globalnie</string>
-  <string name="preferred_network_type_pref_entries_only_2g_miui">Tylko 2G</string>
-  <string name="preferred_network_type_pref_entries_only_3g_miui">Tylko 3G</string>
+  <string name="preferred_network_type_pref_entries_only_2g_miui">Tylko sieci 2G GSM (E)</string>
+  <string name="preferred_network_type_pref_entries_only_3g_miui">Tylko sieci 3G WCDMA (H/H+)</string>
   <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title_miui">Tryb sieciowy</string>
   <string name="primary_account_summary_with">Podstawowe konto. %s</string>

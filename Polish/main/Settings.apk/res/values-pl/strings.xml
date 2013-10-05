@@ -18,6 +18,9 @@
   <string name="access_control_recording_intro_header">Narysuj wzór, aby ograniczyć dostęp</string>
   <string name="access_control_reset_by_account">Zaloguj do konta Xiaomi aby zresetować hasło</string>
   <string name="accessibility_enable">Włącz dostępność</string>
+  <string name="about_agps_message">" A-GPS (Assisted GPS) to system, który skraca czas wymagany do uzyskania pierwszego stałego punktu TTFF (Time-To-First-Fix). Urządzenie z aktywnym A-GPS może łączyć się z serwerami serwisu poprzez transmisję danych w sieci komórkowej w celu uzyskania danych pomocniczych. 
+
+  Należy pamiętać, że transmisja danych w roamingu może powodować naliczenie dodatkowych opłat. Aby uzyskać szczegółowe informacje, należy skontaktować się z operatorem sieci."</string>
   <string name="accessibility_feature_state_off">Wył</string>
   <string name="accessibility_feature_state_on">Wł</string>
   <string name="accessibility_global_gesture_preference_description">"Kiedy ta funkcja jest aktywna, możesz szybko włączyć ułatwienia dostępu w dwóch krokach:
@@ -27,7 +30,7 @@ Krok 1: naciśnij i przytrzymaj przycisk zasilania, aż usłyszysz sygnał lub p
 Krok 2: naciśnij i przytrzymaj ekran dwoma palcami, aż usłyszysz potwierdzenie dźwiękowe.
 
 Jeśli z tego urządzenia korzysta kilka osób, użycie tego skrótu na zablokowanym ekranie spowoduje tymczasowe włączenie ułatwień dostępu do momentu zablokowania urządzenia."</string>
- <string name="accessibility_global_gesture_preference_summary_off">Wył.</string>
+  <string name="accessibility_global_gesture_preference_summary_off">Wył.</string>
   <string name="accessibility_global_gesture_preference_summary_on">Wł.</string>
   <string name="accessibility_global_gesture_preference_title">Skrót ułatwień dostępu</string>
   <string name="accessibility_global_gesture_title">Skrót ułatwień dostępu</string>
@@ -747,10 +750,12 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="dialog_title_font_size">Rozmiar czcionki</string>
   <string name="dialog_title_hdmi_color_calibration">Ustaw korekcję kolorów przez HDMI</string>
   <string name="dirac_control">Dekodowanie Dirac</string>
-  <string name="dirac_mode_earbuds">"Słuchawki Xiaomi"</string>
-  <string name="dirac_mode_piston_100">"Słuchawki Piston Xiaomi"</string>
-  <string name="dirac_mode_in_ear">"Słuchawki dokanałowe Xiaomi"</string>
+  <string name="dirac_mode_earbuds">"Słuchawki nauszne (preferowane)"</string>
+  <string name="dirac_mode_in_ear">"Słuchawki dokanałowe"</string>
   <string name="dirac_mode_off">Dirac Wył</string>
+  <string name="dirac_mode_piston_100">"Słuchawki Xiaomi Piston"</string>
+  <string name="dirac_switch_summary">Wykorzystuje technologię Dirac do polepszania dźwięku w słuchawkach</string>
+  <string name="dirac_switch_title">Włącz dekodowanie Dirac</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Wyłącz nakładki HW</string>
   <string name="disable_overlays_summary">Zawsze używaj GPU do komponowania ekranu</string>
@@ -815,7 +820,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="dndm_summary">Podczas godzin ciszy dźwięki połączeń przychodzących i powiadomień będą wyciszane.</string>
   <string name="dndm_auto_setting_group">Automatycznie</string>
   <string name="dndm_auto_button_title">Zaplanowane włączenie</string>
-  <string name="dndm_auto_time_setting">Czas wyciszenia</string>
+  <string name="dndm_auto_time_setting">Godziny wyciszenia</string>
   <string name="dndm_auto_time_setting_summary">Początek: %1$s, koniec: %2$s</string>
   <string name="dndm_auto_time_turn_on">Początek godzin ciszy</string>
   <string name="dndm_auto_time_turn_on_title">Czas aktywacji godzin ciszy</string>
@@ -1246,7 +1251,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="menu_cancel">Odrzuć</string>
   <string name="menu_delete">Usuń APN</string>
   <string name="menu_key">Przycisk Menu</string>
-  <string name="menu_new">Nowa nazwa APN</string>
+  <string name="menu_new">Nowy APN</string>
   <string name="menu_restore">Resetuj ustawienia</string>
   <string name="menu_save">Zapisz</string>
   <string name="menu_stats_last_unplugged">%1$s od ostatniego odłączenia</string>
@@ -1304,6 +1309,8 @@ spróbuj:
   <string name="multi_touch_points_category_title">Punkty Multi-touch</string>
   <string name="multi_touch_points_preference">Uruchom ponownie by aktywować</string>
   <string name="musicfx_title">Efekty muzyczne</string>
+  <string name="music_plus_summary">Polepszenie dźwięku w słuchawkach</string>
+  <string name="music_plus_title">Muzyka+</string>
   <string name="nearby_wifi">Wykryte sieci Wi-Fi</string>
   <string name="network_detail">%s</string>
   <string name="network_settings_title">Sieci komórkowe</string>
@@ -2325,7 +2332,7 @@ zakończone"</string>
   <string name="wfd_menu_teardown">Rozłącz</string>
   <string name="wfd_settings_title">Wyświetlacz bezprzewodowy</string>
   <string name="wfd_settings_description">"Połącz z bezprzewodowym wyświetlaczem
-   (Wi-Fi Display)"</string>
+(Wi-Fi Display)"</string>
   <string name="wfd_wps_keypad">Przycisk</string>
   <string name="wfd_wps_pbc">Wpisz PIN</string>
   <string name="widget_picker_title">Wybierz widżet</string>

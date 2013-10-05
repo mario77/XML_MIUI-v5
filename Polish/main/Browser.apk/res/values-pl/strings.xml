@@ -476,7 +476,7 @@
     <string name="progress_dialog_setting_wallpaper">Ustawianie tapety…</string>
     <string name="quicklinks_management">Przydatne strony</string>
     <string name="readmode_already_add_to_bookshelf">Już dodano do biblioteki</string>
-    <string name="readmode_battery">Bateria </string>
+    <string name="readmode_battery">"Bateria: "</string>
     <string name="readmode_login">Logowanie</string>
     <string name="readmode_login_message">subsequent chapters need to log in before mobile reading base account View</string>
     <string name="readmode_page_load_error">Wczytywaine strony nieudane. Odśwież stronę ponownie</string>

@@ -83,7 +83,7 @@
     <string name="dlg_error_unmount_text">"Nie można odłączyć nośnika USB. Spróbuj ponownie później"</string>
     <string name="download_current_progress">%1$d/100</string>
     <string name="download_failed">Pobieranie nieudane!</string>
-    <string name="download_link_completed">Udostępniono na MiDrive: %1$s. Kliknij poniższy link by wyświetlić: </string>
+    <string name="download_link_completed">"Udostępniono na MiDrive: %1$s. Kliknij w link by wyświetlić zawartość: "</string>
     <string name="downloading">Pobieranie…</string>
     <string name="empty_dir_cleanup_indication">%s niepotrzebnych plików</string>
     <string name="empty_dir_title">Puste katalogi</string>

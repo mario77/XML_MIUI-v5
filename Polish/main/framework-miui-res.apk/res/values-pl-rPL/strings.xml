@@ -227,11 +227,11 @@ Czujnik zasłonięty!"</string>
   <string name="unlockscreen_low_battery">Podłącz ładowarkę!</string>
   <string name="unlockscreen_recharge_completed">Naładowany</string>
   <string name="unlockscreen_recharging_message">Ładowanie %d%%</string>
-  <string name="user_agreement1">Masz zamiar korzystać z systemu i usług online dostarczanych przez Xiaomi. Zapoznaj się z poniższymi:</string>
-  <string name="user_agreement2">" Umowa użytkownika"</string>
+  <string name="user_agreement1">"Aby zacząć korzystać z systemu i usług online dostarczanych przez Xiaomi zapoznaj się z: "</string>
+  <string name="user_agreement2">"Umowa użytkownika"</string>
   <string name="user_agreement3">" i "</string>
   <string name="user_agreement4">"Polityka prywatności"</string>
-  <string name="user_agreement5">，Kliknięcie OK oznacza zgodę na powyższe warunki. Anuluj by wyjść.</string>
+  <string name="user_agreement5">" Kliknięcie OK oznacza zgodę na powyższe warunki."</string>
   <string name="v5_deselect_all">Odznacz wszystko</string>
   <string name="v5_edit_mode_title_empty">Wybierz</string>
   <string name="v5_icon_menu_bar_more_item_label">Więcej</string>
