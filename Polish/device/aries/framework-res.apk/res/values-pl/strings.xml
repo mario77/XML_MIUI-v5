@@ -851,7 +851,6 @@ Spróbuj ponownie za %d s."</string>
   <string name="permgroupdesc_location">Monitorowanie fizycznej lokalizacji</string>
   <string name="permgroupdesc_messages">Czytanie i zapisywanie wiadomości SMS, e-mail i innych</string>
   <string name="permgroupdesc_network">Uzyskiwanie dostępu do różnych funkcji sieciowych</string>
-  <string name="permgroupdesc_network">Access various network features.</string>
   <string name="permgroupdesc_personalInfo">Bezpośredni dostęp do kontaktów i kalendarza zapisanych w telefonie.</string>
   <string name="permgroupdesc_phoneCalls">Monitorowanie, nagrywanie i przetwarzanie połączeń telefonicznych.</string>
   <string name="permgroupdesc_storage">Dostęp do nośnika USB.</string>
