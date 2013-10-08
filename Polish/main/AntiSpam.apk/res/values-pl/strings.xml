@@ -79,6 +79,7 @@
     <string name="st_sms_group">Wiadomość</string>
     <string name="tab_blacklist">Czarna lista</string>
     <string name="tab_block_log">Blokowane</string>
+    <string name="tab_block_log_unKnowNumber">Nieznany numer</string>
     <string name="tab_call">Połączenia</string>
     <string name="tab_sms">Wiadomości</string>
     <string name="tab_title">Firewall</string>

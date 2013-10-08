@@ -426,6 +426,7 @@ DW: %4$s
     <string name="move_action">Przenieś</string>
     <string name="move_to_folder_dialog_title">Przenieś do</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
+    <string name="newer_action">Nowsze</string>
     <string name="next_action">Dalej</string>
     <string name="notification_multiple_new_messages_fmt">Nowe wiadomości: %1$d</string>
     <string name="notification_to_account">na konto %1$s</string>
@@ -435,6 +436,7 @@ DW: %4$s
     <string name="notify_uploads">Autoprzesyłanie</string>    
     <string name="ok">OK</string>
     <string name="okay_action">OK</string>
+    <string name="older_action">Starsze</string>
     <string name="password_expire_warning_content_title">Hasło ekranu blokady wkrótce wygaśnie</string>
     <string name="password_expire_warning_dialog_content_fmt">Należy wkrótce zmienić kod PIN lub hasło ekranu blokady, albo dane konta %s zostaną wymazane. Zmienić teraz?</string>
     <string name="password_expire_warning_dialog_title">Hasło ekranu blokady wkrótce wygaśnie</string>
