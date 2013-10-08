@@ -9,14 +9,6 @@
             "favicon":""
         },
         {
-            "title":"Forum MIUIPolska",
-            "url":"http://miuipolska.pl/forum/",
-            "thumbnail":"miuiforum.png",
-            "logobg":"bg01.9.png",
-            "nightModeMask": "night.9.png",
-            "favicon":""
-        },
-         {
             "title":"miuiandroid",
             "url":"http://miuiandroid.com",
             "thumbnail":"miuiandroid.png",
@@ -25,9 +17,17 @@
             "favicon":""
         },
         {
-            "title":"Hatak.pl",
-            "url":"http://www.hatak.pl/",
-            "thumbnail":"hatak.png",
+            "title":"Forum MIUIPolska",
+            "url":"http://miuipolska.pl/forum/",
+            "thumbnail":"miuiforum.png",
+            "logobg":"bg01.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":""
+        },
+        {
+            "title":"Facebook",
+            "url":"http://www.facebook.pl/",
+            "thumbnail":"fb.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":""
@@ -89,9 +89,9 @@
             "favicon":""
         },
         {
-            "title":"Facebook MIUIPolska",
-            "url":"http://www.facebook.pl/miuipolska",
-            "thumbnail":"fb.png",
+            "title":"Hatak.pl",
+            "url":"http://www.hatak.pl/",
+            "thumbnail":"hatak.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
             "favicon":""
