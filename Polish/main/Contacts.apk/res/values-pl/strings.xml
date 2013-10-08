@@ -501,7 +501,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
     <string name="map_work">Wyświetl adres służbowy</string>
     <string name="meid">Numer MEID</string>
     <string name="menu_accounts">Konta i synchronizacja</string>
-    <string name="menu_addStar">Dodaj do ulubionych</string>
+    <string name="menu_addStar">Ulubione</string>
     <string name="menu_bar_group_add">Dodaj</string>
     <string name="menu_bar_group_delete">Usuń</string>
     <string name="menu_bar_group_rename">Zmień nazwę</string>
