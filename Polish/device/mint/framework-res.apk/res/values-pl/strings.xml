@@ -948,7 +948,7 @@ Zamknąć ją?"</string>
     <string name="smv_process">Proces %1$s naruszył wymuszone przez siebie zasady StrictMode.</string>
     <string name="android_upgrading_title">Android jest uaktualniany...</string>
     <string name="android_upgrading_apk">Optymalizowanie aplikacji %1$d z %2$d.</string>
-    <string name="android_upgrading_starting_apps">Uruchamianie aplikacji.</string>
+    <string name="android_upgrading_starting_apps">Uruchamianie systemu.</string>
     <string name="android_upgrading_complete">Kończenie uruchamiania.</string>
     <string name="heavy_weight_notification">Działa %1$s</string>
     <string name="heavy_weight_notification_detail">Dotknij, aby przejść do aplikacji.</string>

@@ -67,7 +67,7 @@
   <string name="android_system_label">System Android</string>
   <string name="android_upgrading_apk">Optymalizowanie aplikacji %1$d z %2$d.</string>
   <string name="android_upgrading_complete">Kończenie uruchamiania.</string>
-  <string name="android_upgrading_starting_apps">Uruchamianie aplikacji.</string>
+  <string name="android_upgrading_starting_apps">Uruchamianie systemu.</string>
   <string name="android_upgrading_title">Android jest uaktualniany...</string>
   <string name="anr_activity_application">"Aplikacja %2$s nie reaguje.
 
