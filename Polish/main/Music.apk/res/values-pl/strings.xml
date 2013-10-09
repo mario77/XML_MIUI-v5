@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add">Dodaj</string>
   <string name="add_to">Dodaj do</string>
@@ -59,8 +59,10 @@
   <string name="delete_playlist_menu">Usuń</string>
   <string name="delete_song_desc">Z pamięci urządzenia zostaną trwale usunięte: %s</string>
   <string name="deselect_all">Odznacz wszystko</string>
-  <string name="dirac_enabled">Dirac Włączony</string>
-  <string name="dirac_disabled">Dirac Wyłączony</string>
+  <string name="dirac_mode_earbuds">Słuchawki nauszne</string>
+  <string name="dirac_mode_in_ear">Słuchawki dokanałowe</string>
+  <string name="dirac_mode_off">Dirac Wył</string>
+  <string name="dirac_mode_piston_100">Słuchawki Xiaomi Piston</string>
   <string name="download">Pobieranie</string>
   <string name="download_album_settings">Pobierz okładkę albumu</string>
   <string name="download_album_summary">Włącz pobieranie okładek albumów</string>
@@ -74,11 +76,30 @@
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
-  <string name="edit_playlist_menu">Edytuj</string>
   <string name="empty_edit_hint">Informacje o utworze niedostępne</string>
   <string name="empty_track_list">Brak listy utworów</string>
   <string name="emptyplaylist">Playlista jest pusta</string>
   <string name="enter_sleep_mode">Tryb uśpienia</string>
+  <string name="eq_auto">Własne</string>
+  <string name="eq_blues">Blues</string>
+  <string name="eq_classical">Klasyka</string>
+  <string name="eq_country">Country</string>
+  <string name="eq_dance">Taniec</string>
+  <string name="eq_delete">Usuń</string>
+  <string name="eq_delete_success">Gotowe.</string>
+  <string name="eq_electronic">Elektroniczna</string>
+  <string name="eq_flat">Płaski</string>
+  <string name="eq_hiphop">Hip Hop</string>
+  <string name="eq_jazz">Jazz</string>
+  <string name="eq_metal">Metalowa</string>
+  <string name="eq_pop">Pop</string>
+  <string name="eq_preset_create">Utwórz</string>
+  <string name="eq_preset_format">Użytkownika %d</string>
+  <string name="eq_preset_hint">Wpisz nazwę profilu</string>
+  <string name="eq_preset_rename">Zmień nazwę</string>
+  <string name="eq_preset_select">Wybierz profil</string>
+  <string name="eq_rb">R &amp; B</string>
+  <string name="eq_rock">Rock</string>
   <string name="equalizer">Equalizer</string>
   <string name="equalizer_delete">Usuń własne ustawienia equalizera</string>
   <string name="equalizer_delete_success">Własne ustawienia equalizera usunięte. Przywrócono Płaski</string>
@@ -105,6 +126,7 @@
   <string name="folder_title_format" formatted="false">%s(%d)</string>
   <string name="folders_title">"Katalogi "</string>
   <string name="frequentlyplayed_title">Popularne</string>
+  <string name="headphone_settings">Ustawienia słuchawek</string>
   <string name="hot_artists">Popularni wykonawcy</string>
   <string name="id3_edit">Edycja tagów ID3</string>
   <string name="id3_edit_failed">Edycja metadanych nieudana</string>
@@ -148,6 +170,9 @@ Spróbuj ponownie później"</string>
   <string name="lyric_picker_not_found">Menedżer plików nieznaleziony</string>
   <string name="max_interval">90</string>
   <string name="mediaplaybacklabel">Muzyka</string>
+  <string name="mi_effect">Dekodowanie Dirac</string>
+  <string name="mi_effect_summary">Wykorzystuje technologię Dirac do polepszania dźwięku w słuchawkach</string>
+  <string name="mi_effect_title">Włącz dekodowanie Dirac</string>
   <string name="min_interval">1</string>
   <string name="mobile_connect_settings">Łączność z siecią</string>
   <string name="modify_id3_for_list">Dane ID3 z listy utworów zostaną edytowane</string>
@@ -158,6 +183,7 @@ Spróbuj ponownie później"</string>
   <string name="music_browser_label">Muzyka</string>
   <string name="music_filter">Filtrowanie plików</string>
   <string name="music_filter_helper">W celu ukrycia plików, które nie są plikami muzyki zastosowano filtr rozmiaru 800KB</string>
+  <string name="music_not_loaded">Nie wczytano muzyki.</string>
   <string name="music_open_other_connect">Pobieraj muzykę używając sieci mobilnej</string>
   <string name="music_picker_title">Wybierz utwór</string>
   <string name="music_settings">Ustawienia</string>
@@ -170,7 +196,6 @@ Spróbuj ponownie później"</string>
   <string name="no_song_downloaded">Utwory nie mogły być pobrane.</string>
   <string name="not_selected">Wybierz utwór</string>
   <string name="notification_artist_album">"%2$s %1$s" </string>
-  <string name="online_music">Muzyka online</string>
   <string name="online_search_hint">Wyszukaj muzykę online</string>
   <string name="online_title">Online</string>
   <string name="other_settings">Pozostałe opcje</string>
@@ -188,7 +213,6 @@ Spróbuj ponownie później"</string>
   <string name="playlist_deleted_message">Playlista usunięta.</string>
   <string name="playlist_favorite">Ulubione</string>
   <string name="playlist_frequently_played">Popularne</string>
-  <string name="playlist_new">Utwórz playlistę</string>
   <string name="playlist_recently_added">Ostatnio dodane</string>
   <string name="playlist_recently_played">Ostatnie</string>
   <string name="playlist_renamed_message">Zmieniono nazwę playlisty.</string>

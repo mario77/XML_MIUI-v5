@@ -60,6 +60,7 @@
     <string name="menu_add_list">Dodaj listę</string>
     <string name="menu_delete">Usuń</string>
     <string name="menu_edit">Edytuj</string>
+    <string name="menu_exit">Zakończ</string>
     <string name="menu_new_station">Dodaj nową stację</string>
     <string name="menu_play">Odtwórz</string>
     <string name="menu_record_list">Lista nagrań</string>
@@ -116,6 +117,7 @@
     <string name="spaceIsLow_content">Kończy się miejsce na SD. Zmień jakość nagrywania lub usuń pliki z SD.</string>
     <string name="stat_notif_frequency">%1$s MHz</string>
     <string name="stat_notif_tx_frequency">Nadawanie FM na: %1$s</string>
+    <string name="station_check_favorite">Dodaj do profili</string>
     <string name="station_edit">Edytuj</string>
     <string name="station_freq_format">%s MHz</string>
     <string name="station_move">Przesuń</string>
@@ -128,6 +130,7 @@
     <string name="test_prompt">Wybierz test</string>
     <string name="test_run">Run Test</string>
     <string name="title_select_station">Wybierz stację - %s</string>
+    <string name="toast_added_to_list">Dodano do listy</string>
     <string name="toast_added_to_presets">Stacja zapisana</string>
     <string name="toast_channel_searched">Przeskanowano %1$d stacji.</string>
     <string name="toast_delete_station">Usunięto %sMHz.</string>
