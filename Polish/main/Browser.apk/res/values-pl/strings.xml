@@ -90,7 +90,10 @@
   <string name="bookmarks_management">Zakładki</string>
   <string name="bookmarks_root_folder">Folder root</string>
   <string name="bookmarks_search">Przeglądarka</string>
-  <string name="browserFrameFileErrorLabel">Problem z plikiem</string>
+  <string name="bottom_bar_tabs_long_click_down_tip_txt">Przesuń w dół by zamknąć</string>
+  <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Ostatnia zakładka</string>
+  <string name="bottom_bar_tabs_long_click_up_tip_txt">Przesuń w górę by zamknąć</string>
+  <string name="browserFrameFileErrorLabel">Wystąpił problem z plikiem</string>
   <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">"Strona, którą próbujesz wyświetlić, zawiera przesłane dane („POSTDATA”). Jeśli wyślesz je ponownie, wszelkie operacje wykonane przez formularz na tej stronie (np. wyszukiwanie lub zakup online) zostaną powtórzone."</string>
   <string name="browserFrameNetworkErrorLabel">Problem z połączeniem</string>
@@ -211,6 +214,10 @@
   <string name="folder_name">Nazwa folderu</string>
   <string name="folder_name_too_long">Nazwa katalogu jest za długa</string>
   <string name="forward">Dalej</string>
+  <string name="general_set_default_browser_dialog_close_txt">Anuluj</string>
+  <string name="general_set_default_browser_dialog_ok_txt">Ok</string>
+  <string name="general_set_default_browser_dialog_summary">Aplikacja Przeglądarka zostanie ustawiona jako domyślna</string>
+  <string name="general_set_default_browser_title">Ustaw jako domyślną przeglądarkę systemową</string>
   <string name="geolocation_permissions_prompt_dont_share">Odrzuć</string>
   <string name="geolocation_permissions_prompt_message">%s chce znać Twoją lokalizację</string>
   <string name="geolocation_permissions_prompt_remember">Zapamiętaj ustawienie</string>

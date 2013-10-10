@@ -451,7 +451,7 @@ Czy włączyć funkcję?"</string>
   <string name="bluetooth_quick_toggle_title">Bluetooth</string>
   <string name="bluetooth_rename_button">Zmień nazwę</string>
   <string name="bluetooth_rename_device">Zmień nazwę telefonu</string>
-  <string name="bluetooth_sap_acceptance_dialog_text">%1$s would like to access your SIM. Give access to %2$s?</string>
+  <string name="bluetooth_sap_acceptance_dialog_text">%1$s prosi o dostęp do karty SIM. Udzielić dostępu do %2$s?</string>
   <string name="bluetooth_sap_connection_permission_request">Sap connection request</string>
   <string name="bluetooth_sap_profile_summary_connected">Połączony z serwerem dostępu SIM</string>
   <string name="bluetooth_sap_profile_summary_not_connected">Not connected to SIM Access Server</string>
@@ -479,15 +479,14 @@ Czy włączyć funkcję?"</string>
   <string name="bluetooth_visibility">Wykrywalny</string>
   <string name="bluetooth_visibility_timeout">Czas widoczności</string>
   <string name="bluetooth_visibility_timeout_summary">Ustaw czas, przez jaki urządzenie będzie wykrywalne</string>
+  <string name="breathing_light_color_menu_title">Kolor diody</string>
   <string name="breathing_light_color_summary">Kolor diody gdy otrzymano nowe powiadomienie</string>
   <string name="breathing_light_color_title">" - Kolor LED "</string>
   <string name="breathing_light_freq_summary">Oczekiwanie między pulsowaniem diody LED</string>
   <string name="breathing_light_freq_title">" - Częstość pulsowania LED"</string>
   <string name="brightness">Jasność ekranu</string>
-  <string name="brightness_auto_adjust_off">Ręczny poziom jasności może być dostosowany przez ustawienie suwaka. Jasność ekranu pozostanie niezmieniona, niezależnie od
-    warunków otoczenia.</string>
-  <string name="brightness_auto_adjust_on">Automatyczna jasność może być dostosowana przez ustawienie suwaka. Jasność ekranu dostosuje się do warunków oświetleniowych
-    otoczenia.</string>
+  <string name="brightness_auto_adjust_off">Ręczny poziom jasności może być dostosowany przez ustawienie suwaka. Jasność ekranu pozostanie niezmieniona, niezależnie od warunków otoczenia.</string>
+  <string name="brightness_auto_adjust_on">Automatyczna jasność może być dostosowana przez ustawienie suwaka. Jasność ekranu dostosuje się do warunków oświetleniowych otoczenia.</string>
   <string name="brightness_summary">Dostosuj jasność ekranu</string>
   <string name="bssid_label">BSSID:</string>
   <string name="bugreport_in_power">Błędy w menu zasilania</string>
@@ -519,8 +518,7 @@ Czy włączyć funkcję?"</string>
   <string name="camera_key_action_toggle_title">Aktywacja przełącznika</string>
   <string name="cancel">Anuluj</string>
   <string name="cancel_alert">Odrzucić zmiany?</string>
-  <string name="cant_sync_dialog_message">Synchronizacja tego elementu jest obecnie wyłączona. Aby zmienić ustawienie, tymczasowo włącz obsługę danych w tle i
-    automatyczną synchronizację.</string>
+  <string name="cant_sync_dialog_message">Synchronizacja tego elementu jest obecnie wyłączona. Aby zmienić ustawienie, tymczasowo włącz obsługę danych w tle i automatyczną synchronizację.</string>
   <string name="cant_sync_dialog_title">Nie można zsynchronizować ręcznie</string>
   <string name="carrier_enabled">Włącz/wyłącz APN</string>
   <string name="carrier_enabled_summaryOff">APN wyłączona</string>
@@ -659,8 +657,7 @@ Ilość przesyłanych danych może być różnie rozliczana przez telefon i oper
   <string name="data_usage_metered_wifi_disabled">Aby wybrać punkt dostępu włącz Wi-Fi.</string>
   <string name="data_usage_pick_cycle_day">Resetowanie cyklu transmisji danych – dzień miesiąca:</string>
   <string name="data_usage_received_sent">Odebrano: %1$s, wysłano: %2$s</string>
-  <string name="data_usage_restrict_background">Jeśli ograniczysz transmisję danych w tle, niektóre aplikacje i usługi będą działać tylko po nawiązaniu połączenia z
-    siecią Wi-Fi.</string>
+  <string name="data_usage_restrict_background">Jeśli ograniczysz transmisję danych w tle, niektóre aplikacje i usługi będą działać tylko po nawiązaniu połączenia z siecią Wi-Fi.</string>
   <string name="data_usage_restrict_background_multiuser">"Jeśli ograniczysz komórkową transmisję danych w tle, niektóre aplikacje i usługi będą działały wyłącznie po połączeniu z siecią Wi-Fi.
 To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="data_usage_restrict_background_title">Ograniczyć dane w tle?</string>
