@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="alert_message_delete_record">Usunąć wybrane nagranie?</string>
-  <string name="app_name">Nagrywanie</string>
+  <string name="app_name">Dyktafon</string>
   <string name="audio_db_album_name">Nagrania audio</string>
   <string name="audio_db_artist_name">Moje nagrania</string>
   <string name="audio_db_playlist_name">Moje nagrania</string>
@@ -48,8 +48,9 @@
   <string name="overwrite_dialog_message" formatted="false">%s już istnieje. Nadpisać?</string>
   <string name="pause">Wstrzymaj</string>
   <string name="play_record">Odtwórz</string>
-  <string name="preference_enable_earpiece_summary">Wykorzystaj odbiornik do odtwarzania dźwięku</string>
-  <string name="preference_enable_earpiece_title">Zewnętrzny odbiornik audio</string>
+  <string name="preference_enable_earpiece_summary">"Dyktafon odtworzy nagrania na głośniku przednim lub w słuchawkach. 
+Wyłącz by odtworzyć dźwięk na tylnym głośniku telefonu"</string>
+  <string name="preference_enable_earpiece_title">Zewnętrzny odbiornik dźwięku</string>
   <string name="preference_led_indicator">Powiadomienie o nagrywaniu</string>
   <string name="preference_led_indicator_prompt">Pokaż powiadomienie LED podczas nagrywania gdy ekran jest wyłączony</string>
   <string name="preference_record_scenes_dialog_title">Wybierz kategorię typu nagrania</string>
