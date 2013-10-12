@@ -662,7 +662,7 @@ Aby dodać kontakt do listy ulubionych:
     <string name="other_contacts">Inne</string>
     <string name="other_phone">inne telefony</string>
     <string name="payphone">Telefon płatny</string>
-    <string name="people">Osoby</string>
+    <string name="people">Kontakty</string>
     <string name="percent_sign">%</string>
     <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Telefon</string>

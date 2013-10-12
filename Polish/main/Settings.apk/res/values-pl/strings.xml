@@ -605,6 +605,8 @@ Czy włączyć funkcję?"</string>
   <string name="cryptkeeper_return_to_call">Powrót do połączenia</string>
   <string name="current_backup_pw_prompt">Wpisz tutaj bieżące hasło pełnych kopii zapasowych.</string>
   <string name="current_input_method">Domyślna</string>
+  <string name="current_use_ese">Using embedded secure element</string>
+  <string name="current_use_uicc_se">Using secure element on SIM card</string>
   <string name="data_size_label">Dane</string>
   <string name="data_summary">Select Subscription for Data Call</string>
   <string name="data_title">Data Call</string>
@@ -1069,6 +1071,8 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="led_settings">Dioda LED</string>
   <string name="legal_information">Informacje prawne</string>
   <string name="license_title">Licencja</string>
+  <string name="line_breaking_summary">Polepsz zawijanie tekstu paragrafów przy wielu liniach</string>
+  <string name="line_breaking_title">Zawijanie tekstu</string>
   <string name="link_speed_label">Prędkość połączenia:</string>
   <string name="loading">Wczytywanie...</string>
   <string name="local_backup_password_summary_change">Wybierz, aby zmienić lub usunąć hasło pełnych kopii zapasowych na komputerze stacjonarnym.</string>
@@ -1316,6 +1320,7 @@ spróbuj:
   <string name="next_button_label">Dalej</string>
   <string name="next_label">Dalej</string>
   <string name="nfc_category_title">NFC</string>
+  <string name="nfc_se_route_title">Secure element position</string>
   <string name="nfc_quick_toggle_summary">Zezwalaj na wymianę danych, gdy telefon dotyka innego urządzenia.</string>
   <string name="nfc_quick_toggle_title">Komunikacja NFC</string>
   <string name="no">Nie</string>
@@ -1922,6 +1927,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="sound_category_system_title">System</string>
   <string name="sound_effects_enable_title">Dźwięki przy dotknięciu</string>
   <string name="sound_settings">Dźwięk</string>
+  <string name="sound_switch">Dzwięki w funkcjach telefonu</string>
   <string name="spellchecker_language">Język</string>
   <string name="spellchecker_quick_settings">Ustawienia</string>
   <string name="spellchecker_security_warning">Ten moduł sprawdzania pisowni może gromadzić cały wpisywany tekst, w tym dane osobiste w postaci haseł i numerów kart kredytowych. Pochodzi on z aplikacji %1$s. Użyć go?</string>

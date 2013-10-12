@@ -67,6 +67,7 @@
     <string name="camera_key_action_shortcut_title">Skrót</string>
     <string name="camera_key_action_shortcut_wake">Zablokuj/Wybudź urządzenie</string>
     <string name="camera_key_action_toggle_title">Aktywacja przełącznika</string>
+    <string name="center_clock_title">Zegar na środku</string>
     <string name="chooseUsbActivity">Wybierz aplikację dla urządzenia USB</string>
     <string name="compat_mode_help_body">Jeśli aplikacja została przystosowana do mniejszego ekranu, obok zegara zostanie wyświetlony element sterujący powiększeniem.</string>
     <string name="compat_mode_help_header">Powiększenie w trybie zgodności</string>
@@ -173,6 +174,7 @@
     <string name="settings_show_notificationBar_notification">Pokaż powiadomienia</string>
     <string name="settings_show_statusBar_notification">Na pasku statusu</string>
     <string name="settings_status_bar">Pasek statusu</string>
+    <string name="settings_statusbar_style">Styl paska statusu</string>
     <string name="settings_toggle_collapse_after_clicked">Zwiń po przełączeniu</string>
     <string name="settings_toggle_layout_style">Styl przełączników</string>
     <string name="settings_toggle_layout_style_applying">Zmiana stylu...</string>
