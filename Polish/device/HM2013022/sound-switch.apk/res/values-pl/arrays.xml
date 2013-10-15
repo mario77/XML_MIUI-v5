@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="powermanage_entries">
+        <item>Tylko telefon</item>
+        <item>Oszczędzanie energii</item>
+        <item>Normalny</item>
+        <item>Wydajny</item>
+    </string-array>
+    <string-array name="lowmem_entries">
+        <item>Default</item>
+        <item>Aggressive</item>
+        <item>Balanced</item>
+        <item>MultiTasking</item>
+        <item>Gaming</item>
+    </string-array>
+</resources>
