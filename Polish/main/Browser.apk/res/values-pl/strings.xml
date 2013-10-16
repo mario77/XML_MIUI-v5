@@ -182,7 +182,7 @@
   <string name="download_video_start_down_toast">Pobierz %1$s filmów</string>
   <string name="download_video_unseleted_all">Odznacz wszystko</string>
   <string name="downloaded">Pobrane</string>
-  <string name="downloading">Pobieranie</string>
+  <string name="downloading">Pobieranie...</string>
   <string name="dump_counters">Dump V8 counters</string>
   <string name="dump_display_tree">Dump display tree to file</string>
   <string name="dump_dom_tree">Dump DOM tree to file</string>
@@ -265,8 +265,8 @@
   <string name="is_first_tab">Pierwsza zakładka</string>
   <string name="is_last_history_item">Ostatni wpis w historii</string>
   <string name="is_last_tab">Ostatnia zakładka</string>
-  <string name="is_page_bottom">Na dole strony</string>
-  <string name="is_page_top">Na górze strony</string>
+  <string name="is_page_bottom">"Dół strony"</string>
+  <string name="is_page_top">"Góra strony"</string>
   <string name="js_engine_flags">Set JS flags</string>
   <string name="loadSuspended">"Przeglądarka nie może wczytać strony ze względu na brak połączenia internetowego."</string>
   <string name="loadSuspendedTitle">Brak połączenia</string>
@@ -306,7 +306,7 @@
   <string name="new_tab">Nowa karta</string>
   <string name="no_subfolders">Brak podfolderów</string>
   <string name="not_enough_disk_space_alert">Brak miejsca na urządzeniu</string>
-  <string name="not_remind_again">Nie przypominaj więcej</string>
+  <string name="not_remind_again">"Nie przypominaj więcej"</string>
   <string name="notif_install_successful">Pobieranie udane</string>
   <string name="ok">OK</string>
   <string name="open_all_bookmarks">Otwórz</string>
@@ -483,7 +483,12 @@
   <string name="pref_zoom_on_double_tap">Powiększ po dwukrotnym dotknięciu</string>
   <string name="preview">Podgląd</string>
   <string name="progress_dialog_setting_wallpaper">Ustawianie tapety…</string>
-  <string name="quicklinks_management">Przydatne strony</string>
+  <string name="quicklink_user_define_webpage_title">Nazwa</string>
+  <string name="quicklink_user_define_webpage_url">URL</string>
+  <string name="quicklinks_group_default_subtitle">Puste</string>
+  <string name="quicklinks_management">Popularne</string>
+  <string name="quicklinks_most_visited">Dodaj ostatnio odwiedzane strony do startowej</string>
+  <string name="quicklinks_most_visited_subtitle">Pokaż ostatnio odwiedzane strony w nowej karcie</string>
   <string name="readmode_already_add_to_bookshelf">Już dodano do biblioteki</string>
   <string name="readmode_battery">"Bateria: "</string>
   <string name="readmode_login">Logowanie</string>
@@ -583,6 +588,8 @@
   <string name="uploads_disabled">Przesyłanie plików jest wyłączone.</string>
   <string name="url_copy_done">Link skopiowany</string>
   <string name="url_hint">Wyszukaj lub wpisz URL</string>
+  <string name="user_defined_webpage">Dodaj stronę</string>
+  <string name="user_defined_webpage_title">Dodaj do strony startowej</string>
   <string name="username">Nazwa</string>
   <string name="view_certificate">Wyświetl certyfikat</string>
   <string name="warning">Ostrzeżenie</string>

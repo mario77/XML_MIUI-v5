@@ -30,8 +30,8 @@
    <string name="backup_file_error">Wystąpił problem z kopią, operacja nieprawidłowa.</string>
    <string name="backup_finished">Kopia utworzona</string>
    <string name="backup_hint">Nie wyłączaj telefonu podczas wykonywania kopii.</string>
-   <string name="backup_items_app_tailer">" dane użytkownika"</string>
-   <string name="backup_items_sysdata_tailer">" dane systemowe, "</string>
+   <string name="backup_items_app_tailer">" danych użytkownika"</string>
+   <string name="backup_items_sysdata_tailer">" danych systemowych, "</string>
    <string name="backup_new">Nowa kopia:</string>
    <string name="backup_progress">Tworzenie kopii zapasowej...</string>
    <string name="backup_recently">" (aktualna)"</string>

@@ -156,7 +156,7 @@
     <string name="theme_import_activity_label">Aktualizacje motywów</string>
     <string name="theme_import_data">Wczytywanie danych motywu</string>
     <string name="theme_import_fail">Wczytywanie nieudane %1$s</string>
-    <string name="theme_import_from_sdcard">Wczytaj motyw z karty SD</string>
+    <string name="theme_import_from_sdcard">Wczytaj motyw z pamięci telefonu</string>
     <string name="theme_import_importing">Aktualizacja.. (pozostało: %1$d)</string>
     <string name="theme_import_item_delete_request_button">Usuń</string>
     <string name="theme_import_item_delete_request_content">Motyw nie został zaktualizowany. Możesz go użyć dopiero po aktualizacji lub teraz usunąć klikając na Usuń.</string>

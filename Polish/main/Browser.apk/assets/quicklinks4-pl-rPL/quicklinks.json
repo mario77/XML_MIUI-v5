@@ -6,7 +6,11 @@
             "thumbnail":"miuipl.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "MIUIPolska",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 0
         },
         {
             "title":"miuiandroid",
@@ -14,7 +18,11 @@
             "thumbnail":"miuiandroid.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "MIUIAndroid",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 1
         },
         {
             "title":"Forum MIUIPolska",
@@ -22,7 +30,11 @@
             "thumbnail":"miuiforum.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "MIUIPolska Forum",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 2
         },
         {
             "title":"Facebook",
@@ -30,7 +42,11 @@
             "thumbnail":"fb.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Facebook",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 3
         },
         {
             "title":"Youtube",
@@ -38,7 +54,11 @@
             "thumbnail":"youtube.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Yotube",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 4
         },
         {
             "title":"Google",
@@ -46,7 +66,11 @@
             "thumbnail":"google.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Google",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 5
         },
         {
             "title":"Antyweb",
@@ -54,7 +78,11 @@
             "thumbnail":"antyweb.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Antyweb",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 6
         },
         {
             "title":"Wikipedia",
@@ -62,7 +90,11 @@
             "thumbnail":"thumb_wikipedia.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Wikipedia",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 7
         },
         {
             "title":"Allegro",
@@ -70,7 +102,11 @@
             "thumbnail":"allegro.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Allegro",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 8
         },
         {
             "title":"Wykop",
@@ -78,7 +114,11 @@
             "thumbnail":"wykop.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Wykop",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 9
         },
         {
             "title":"Twitter MIUIPolska",
@@ -86,7 +126,11 @@
             "thumbnail":"tw.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Twitter MIUIPolska",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 10
         },
         {
             "title":"Hatak.pl",
@@ -94,7 +138,11 @@
             "thumbnail":"hatak.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
-            "favicon":""
+            "favicon":"",
+	    "displayName": "Hatak",
+	    "isDelete": true,
+	    "movable": true,
+	    "position": 11
         }
     ]
 }

@@ -59,7 +59,8 @@
   <string name="delete_playlist_menu">Usuń</string>
   <string name="delete_song_desc">Z pamięci urządzenia zostaną trwale usunięte: %s</string>
   <string name="deselect_all">Odznacz wszystko</string>
-  <string name="dirac_mode_earbuds">Słuchawki nauszne</string>
+  <string name="dirac_mode_earbuds">Słuchawki douszne</string>
+  <string name="dirac_mode_general">Słuchawki zwykłe</string>
   <string name="dirac_mode_in_ear">Słuchawki dokanałowe</string>
   <string name="dirac_mode_off">Dirac Wył</string>
   <string name="dirac_mode_piston_100">Słuchawki Xiaomi Piston</string>

@@ -28,7 +28,7 @@
   <string name="app_detail_version">Wersja: %s</string>
   <string name="app_has_deleted">%s został usunięty.</string>
   <string name="app_name">Monitor Danych</string>
-  <string name="app_traffic_detail">". Wykorzystano: (%s)"</string>
+  <string name="app_traffic_detail">": (%s)"</string>
   <string name="apply_rules_failed">"Błąd aplikacji zapory firewall, spróbuj ponownie. (%s)"</string>
   <string name="apply_rules_failed_known">Zapamiętaj</string>
   <string name="batch_connect_control">Aplikacje</string>
