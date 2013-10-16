@@ -737,6 +737,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="device_memory">Pamięć RAM</string>
   <string name="device_miui_version">Wersja MIUI</string>
   <string name="device_name">Nazwa urządzenia</string>
+  <string name="device_name_input_error">Nie można zapisać ten nazwy urządzenia. Spróbuj ponownie</string>
   <string name="device_name_input_hint">Wpisz nazwę urządzenia</string>
   <string name="device_name_usage_point">Nazwa urządzenia zostanie użyta przy wykrywaniu Bluetooth.</string>
   <string name="device_picker">Wybór urządzenia Bluetooth</string>
@@ -1351,6 +1352,8 @@ spróbuj:
   <string name="oldman_mode_settings_caption">Ułatwienia sterowania</string>
   <string name="oldman_mode_summary">Włącz lub wyłącz enable or disable elder mode, will reboot!</string>
   <string name="onscreen_keyboard_settings_summary">Ustawienia klawiatury ekranowej</string>
+  <string name="open_wifi_connect_summary">Kliknij aby przejść do opcji połączenia</string>
+  <string name="open_wifi_connect_title">Połącz z otwartą siecią %1$s</string>
   <string name="osb_settings">Klawisze ekranowe</string>
   <string name="other_relative">Inne uprawnienia</string>
   <string name="overlay_display_devices_title">Symuluj dodatkowe ekrany</string>

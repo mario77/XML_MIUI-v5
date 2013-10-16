@@ -10,7 +10,7 @@
   <string name="add_to_cloud_album">Dodaj do chmury</string>
   <string name="add_to_cloud_exceeded_the_size_message">Plik jest za duży.</string>
   <string name="add_to_cloud_fail_too_many_items">Za dużo zaznaczonych elementów. Nie można usunąć.</string>
-  <string name="add_to_cloud_failed_message_with_count">%s elementów nie mogło być dodanych do albumu online</string>
+  <string name="add_to_cloud_failed_message_with_count">%2$s elementów nie mogło być dodanych do albumu online: %1$s.</string>
   <string name="add_to_cloud_file_exist_message">Zdjęcie już istnieje w zaznaczonym albumie.</string>
   <string name="add_to_cloud_file_not_exist_message">Plik nie istnieje.</string>
   <string name="add_to_cloud_folder">Dodaj do katalogu w chmurze</string>
@@ -36,15 +36,14 @@
   <string name="album_share_subtitle_requesting">Pobieranie informacji o albumie...</string>
   <string name="album_share_title_new_album">Nowy album</string>
   <string name="albums">Albumy</string>
+  <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Uwaga</string>
-  <string name="alert_message_initial_cloud">System wyśle automatycznie stare i nowe zdjęcia, a także zrzuty ekranu tylko przy połączeniu Wi-Fi.</string>
   <string name="alert_message_open_sync">Zamierzasz przesłać zdjęcia do Albumów Online. Funkcja zostanie aktywowana.</string>
   <string name="already_apply_album">Otworzyć %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Tapety Android</string>
   <string name="aperture">Przesłona</string>
   <string name="app_name">Galeria</string>
-  <string name="apply_successfully">Połączono albumy</string>
   <string name="appwidget_empty_text">Brak zdjęć.</string>
   <string name="appwidget_title">Galeria fotografii</string>
   <string name="auto">Auto</string>
@@ -57,7 +56,8 @@
   <string name="baidu_flyflow_downloads">Baidu Browser</string>
   <string name="beautyphone">Beauty Phone</string>
   <string name="big_screen_alertdialog_title">Lista urządzeń</string>
-  <string name="bigscrren_slide_exit">Wyjdź z pokazu slajdów</string>
+  <string name="bigscreen_slide_exit">Wyjdź z pokazu slajdów</string>
+  <string name="bigscreen_slide_fail_cause_loading">Ponów aby zacząć pokaz slajdów po wczytaniu zdjęcia.</string>
   <string name="browse_category">Albumy</string>
   <string name="by_email">E-mail</string>
   <string name="by_sms">SMS</string>
@@ -110,19 +110,13 @@
   <string name="confirm_delete">Na pewno usunąć %s?</string>
   <string name="confirm_delete_album" formatted="false">Usunąć %s albumów (%s zdjęć)?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">Na pewno chcesz usunąć %s zdjęć w %s albumach?</string>
-  <string name="confirm_delete_folders_and_pictures">Na pewno usunąć %s?</string>
-  <string name="confirm_delete_folders_including" formatted="false">%s katalogów (włączając %s)</string>
-  <string name="confirm_delete_including_null">0 szt.</string>
-  <string name="confirm_delete_items">%s</string>
   <string name="confirm_delete_pictures">%s zdjęć</string>
-  <string name="confirm_delete_system_album">%s jest albumem systemowym, na pewno usunąć?</string>
+  <string name="confirm_delete_system_album">Usunąć %s?</string>
   <string name="confirm_delete_videos">%s filmów</string>
   <string name="contact_photo">Zdjęcie kontaktu</string>
   <string name="context_menu_add_contact">Dodaj do kontaktów</string>
   <string name="context_menu_copy">Kopiuj</string>
   <string name="context_menu_copy_notice">Zaznaczenie skopiowane do schowka</string>
-  <string name="context_menu_new_contact">Nowy kontakt</string>
-  <string name="context_menu_view_contact">Pokaż kontakt</string>
   <string name="contrast">Kontrast</string>
   <string name="create_new_cloud_folder">Utwórz nowy katalog w chmurze</string>
   <string name="crop">Przytnij</string>
@@ -138,7 +132,6 @@
   <string name="dcim_viva_pics">VIVA</string>
   <string name="defalt_local_mobile">mobile</string>
   <string name="delete">Usuń</string>
-  <string name="delete_fail_too_many_items">Za dużo wybranych elementów. Nie można usunąć.</string>
   <string name="delete_file">Na pewno usunąć %1$d wybranych plików?</string>
   <string name="delete_files_and_folders">Na pewno usunąć %1$d wybranych plików i %2$d katalogów?</string>
   <string name="delete_folder">Na pewno usunąć %1$d wybranych katalogów?</string>
@@ -161,7 +154,6 @@
   <string name="edit">Edytuj</string>
   <string name="edited_photo_bucket_name">Edytowane</string>
   <string name="email_picker_title">Dodaj udostępniony e-mail</string>
-  <string name="empty_album">Brak obrazów/filmów.</string>
   <string name="enable_cloud_for_sharing">Włącz Album w chmurze Xiaomi by przeglądać udostępnione zdjęcia.</string>
   <string name="enter_email_hint">"Wpisz adres E-mail "</string>
   <string name="error_album_not_exist">"Album nie istnieje."</string>
@@ -184,7 +176,6 @@
   <string name="facetan">Przyciemnienie twarzy</string>
   <string name="fail_hint">Operacja nieudana.</string>
   <string name="fail_init_gallery_db_helper">Aplikacja zamknięta. Nie można otworzyć bazy danych Galerii: pamięć jest pełna.</string>
-  <string name="fail_to_apply">Niepowodzenie dostępu do albumu.</string>
   <string name="fail_to_pick_email">Nie zaznaczono poprawnych adresów E-mail</string>
   <string name="fail_to_sync_album">Nie udało się synchronizować albumu z serwerem. Sprawdź swoje połączenie z siecią!</string>
   <string name="file_size">Rozmiar</string>
@@ -240,7 +231,6 @@
   <string name="kick_sharer">Usuń udziały</string>
   <string name="kick_sharer_failed">Usuwanie udziałów niemożliwe</string>
   <string name="kick_sharer_successfully">Usuwanie udziałów udane</string>
-  <string name="landscape_mode">Włącz widok w poziomie</string>
   <string name="loading">Ładowanie...</string>
   <string name="loading_failure">Zdjęcie nie mogło zostać załadowane</string>
   <string name="loading_thumbnail">Ładowanie miniatur...</string>
@@ -271,8 +261,6 @@
   <string name="mishop_saved_folder_display_name">MiShop Saves</string>
   <string name="miui_capture_screen_folder_display_name">Zrzuty ekranu</string>
   <string name="model">Model</string>
-  <string name="modify_allow_hint">Dodawanie nowych zdjęć do albumu jest możliwe</string>
-  <string name="modify_disallow_hint">Dodawanie nowych zdjęć do albumu jest niemożliwe</string>
   <string name="more">Więcej</string>
   <string name="move_to_cloud_album">Przenieś do chmury</string>
   <string name="mtgif">MTGIF</string>
@@ -340,7 +328,6 @@
   <string name="rename_failed">Zmiana nazwy nieudana</string>
   <string name="rename_failed_duplicated_name">Nie można zmienić nazwy. Nazwa istnieje.</string>
   <string name="renren_image">RenRen</string>
-  <string name="request_qr_code">Odczytywanie kodu QR...</string>
   <string name="request_qr_code_failed">Odczytywanie kodu QR nieudane, kliknij aby ponowić</string>
   <string name="request_sms_url_failed">Nie udało się odczytać URL do SMS</string>
   <string name="request_sms_url_msg">Odczytywanie URL do udostępnienia przez SMS...</string>
@@ -355,17 +342,14 @@
   <string name="save_photo">Zapisać edytowane zdjęcie?</string>
   <string name="saving_failure">Zdjęcie nie mogło zostać zapisane</string>
   <string name="saving_image">Zapisywanie zdjęcia...</string>
-  <string name="scan_barcode">Skanuj kod QR</string>
   <string name="scan_barcode_guide">Aby uzyskać kod QR dotknij ikonki w prawym górnym rogu albumu.</string>
   <string name="scan_barcode_to_join">Skanuj ten kod QR by dołączyć do albumu.</string>
-  <string name="scan_qr_code">Inni użytkownicy mogą skanować kod QR i wyświetlać ten udostępniony album</string>
   <string name="scan_qr_code_buttom_text">Skanuj ten kod QR by pokazać album.</string>
   <string name="scan_qr_code_failure">Nie udało się skanować kodu.</string>
   <string name="scan_qr_code_top_text">Wyświetlanie i dodawanie zdjęć.</string>
   <string name="screensaver_activate_mode">Włącz wygaszacz ekranu</string>
   <string name="screensaver_activate_only_charging">Tylko gdy podłączony</string>
   <string name="screensaver_category">Wygaszacz ekranu</string>
-  <string name="screensaver_no_data">Brak zdjęć w albumie.</string>
   <string name="screensaver_path">"Album: "</string>
   <string name="screensaver_path_not_set">nie wybrano</string>
   <string name="sd_not_available">Pamięć wewnętrzna odłączona</string>
@@ -379,9 +363,6 @@
   <string name="send">Wyślij</string>
   <string name="send_multiple_files_hint_format">Wyślij wiele plików (%s)</string>
   <string name="send_public_url">Wyślij odnośnik URL</string>
-  <string name="send_to_cloud_failed_message">Nie udało się wysłać elementu do chmury</string>
-  <string name="sending_image_title">Wyślij zdjęcie (%s)</string>
-  <string name="sending_video_title">Wyślij wideo (%s)</string>
   <string name="sepia">Sepia</string>
   <string name="set_hidden_album">Ukryj album</string>
   <string name="set_image">Ustaw zdjęcie jako</string>
@@ -401,19 +382,12 @@
   <string name="shadow">Cienie</string>
   <string name="share_album">Udostępnij album</string>
   <string name="share_album_owner">Właściciel</string>
-  <string name="share_album_qr_code">Kod QR</string>
-  <string name="share_album_share_to">Udostępnij do</string>
   <string name="share_album_space_full">Album ma maksymalną dopuszczoną wielkość. Usuń niepotrzebne zdjęcia.</string>
   <string name="share_by_email_start">Udostępnianie %1$s w tle</string>
   <string name="share_by_email_successfully">Udostępnianie %1$s przez E-mail pomyślne</string>
   <string name="share_current_album">Udostępnij obecny album</string>
   <string name="share_public_url_text">Udostępniłem album %1$s. Kliknij aby przeglądać %2$s</string>
-  <string name="share_user_name">Nazwa</string>
   <string name="sharer_quota_fulfiled">"Nie można dodać więcej użytkowników. Limit osiągnięty"</string>
-  <string name="sharer_status_accepted">Zaakceptowane</string>
-  <string name="sharer_status_refused">Odrzucone</string>
-  <string name="sharer_status_waiting">Oczekiwanie</string>
-  <string name="sharer_status_waitting">waiting</string>
   <string name="sharpen">Wyostrzenie</string>
   <string name="show_all">Zdjęcia i filmy</string>
   <string name="show_hidden_album">Pokaż ukryte albumy</string>
@@ -456,6 +430,7 @@
   <string name="tencent_mobile_qq_img_save">QQ2012</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
   <string name="tencent_qzonepic">Qzone</string>
+  <string name="there_is_no_image">Brak pliku obrazu.</string>
   <string name="tieba">Tie Ba</string>
   <string name="time">Data</string>
   <string name="times">Czas</string>
@@ -464,8 +439,7 @@
   <string name="to_count">Razem %d</string>
   <string name="too_many_recipients">Message has too many recipients (%1$s), %2$s is the allowed total recipients.</string>
   <string name="try_to_send">Próba wysłania</string>
-  <string name="turn_left">Obróć w lewo</string>
-  <string name="turn_right">Obróć w prawo</string>
+  <string name="ucdownloads_screenshot">UC Browser</string>
   <string name="unit_mm">mm</string>
   <string name="unpublish_failed">Niepowodzenie!</string>
   <string name="unpublish_succeeded">Album unpublished!</string>

@@ -37,10 +37,6 @@
         <item>Czas otrzymania</item>
         <item>Czas wysłania</item>
     </string-array>
-        <string-array name="resent_via_entries">
-        <item>Używając wiadomości SMS</item>
-        <item>Używając wiadomości w chmurze</item>
-    </string-array>
     <string-array name="resent_via_entries_sms">
         <item>Używając wiadomości SMS</item>
         <item>Używając wiadomości w chmurze</item>

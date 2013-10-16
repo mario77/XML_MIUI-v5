@@ -68,7 +68,8 @@
     <string name="menu_record_stop">Zatrzymaj nagrywanie</string>
     <string name="menu_rename_list">Zmień nazwę listy</string>
     <string name="menu_reorder_list">Zmień kolejność na liście</string>
-    <string name="menu_save_station">Zapisz stację</string>
+    <string name="menu_save_station_list">Dodaj do listy stacji</string>
+    <string name="menu_save_station_presets">Dodaj stację</string>
     <string name="menu_scan_for_preset">Szukaj zapisanych stacji</string>
     <string name="menu_scan_start">Skanuj</string>
     <string name="menu_scan_stop">Zatrzymaj wyszukiwanie</string>
@@ -135,12 +136,16 @@
     <string name="toast_channel_searched">Przeskanowano %1$d stacji.</string>
     <string name="toast_delete_station">Usunięto %sMHz.</string>
     <string name="toast_edit_station">Zapisano zmiany</string>
+    <string name="toast_fm_not_stated">Radio nie zostało uruchomione</string>
+    <string name="toast_fm_recorder_internal_error">Błąd radia.</string>
+    <string name="toast_fm_recorder_storage_full">Pamięć jest pełna. Nie można nagrywać</string>
     <string name="toast_fm_seeking">Wyszukiwanie stacji...</string>
     <string name="toast_fm_starting">Uruchamianie Radia FM...</string>
     <string name="toast_fm_stoping">Zatrzymywanie Radia FM</string>
     <string name="toast_removed_from_presets">Usunięto stację z ulubionych</string>
     <string name="toast_save_station">Zapisano %sMHz</string>
     <string name="toast_sleep_mode">Wyłączenie FM za %s</string>
+    <string name="toast_sleep_mode_exit">Uśpienie anulowane.</string>
     <string name="transmit_msg_string">Transmisja z:</string>
     <string name="turn_off_fm">Wyłącz FM</string>
     <string name="turn_off_speaker_phone">Wyłącz głośnik</string>

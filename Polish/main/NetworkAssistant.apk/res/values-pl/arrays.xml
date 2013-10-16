@@ -6,17 +6,17 @@
         <item>"Przesył danych w tym miesiącu "</item>
     </string-array>
     <string-array name="date_of_app_all">
-        <item>Wczoraj 2G/3G</item>
-        <item>Dzisiaj 2G/3G</item>
-        <item>W tym miesiącu 2G/3G</item>
-        <item>Wczoraj Wi-Fi</item>
-        <item>Dzisiaj Wi-Fi</item>
-        <item>W tym miesiącu Wi-Fi</item>
+        <item>Przesył danych 2G/3G wczoraj</item>
+        <item>Przesył danych 2G/3G dzisiaj</item>
+        <item>Przesył danych 2G/3G w tym miesiącu</item>
+        <item>Przesył danych Wi-Fi wczoraj</item>
+        <item>Przesył danych Wi-Fi dzisiaj</item>
+        <item>Przesył danych Wi-Fi w tym miesiącu</item>
     </string-array>
     <string-array name="date_of_app">
-        <item>Wczoraj 2G/3G</item>
-        <item>Dzisiaj 2G/3G</item>
-        <item>Ten miesiąc 2G/3G</item>
+        <item>Przesył danych 2G/3G wczoraj</item>
+        <item>Przesył danych 2G/3G dzisiaj</item>
+        <item>Przesył danych 2G/3G w tym miesiącu</item>
     </string-array>
     <string-array name="traffic_uints">
         <item>" B"</item>
