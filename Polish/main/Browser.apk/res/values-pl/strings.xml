@@ -487,7 +487,7 @@
   <string name="quicklink_user_define_webpage_url">URL</string>
   <string name="quicklinks_group_default_subtitle">Puste</string>
   <string name="quicklinks_management">Popularne</string>
-  <string name="quicklinks_most_visited">Dodaj ostatnio odwiedzane strony do startowej</string>
+  <string name="quicklinks_most_visited">Dodaj ostatnio odwiedzane strony</string>
   <string name="quicklinks_most_visited_subtitle">Pokaż ostatnio odwiedzane strony w nowej karcie</string>
   <string name="readmode_already_add_to_bookshelf">Już dodano do biblioteki</string>
   <string name="readmode_battery">"Bateria: "</string>
