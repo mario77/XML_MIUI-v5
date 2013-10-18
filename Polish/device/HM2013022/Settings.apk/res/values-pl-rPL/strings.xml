@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="AGPS_CAUSE_BAD_PUSH_CONTENT">Błędna treść PUSH</string>
   <string name="AGPS_CAUSE_NETWORK_CREATE_FAIL">Błąd tworzenia sieci</string>
@@ -381,7 +381,7 @@
   <string name="internal_format">Wymaż wewnętrzny nośnik USB</string>
   <string name="internal_format_summary">Erases all data on the internal storage, such as music and photos</string>
   <string name="internal_media_format_button_text">Wymaż wewnętrzny nośnik USB</string>
-  <string name="internal_media_format_desc">Erase all Internal storage? You will lose <b>all</b> stored data, and then phone will restart!</string>
+  <string name="internal_media_format_desc">Erase all Internal storage? You will lose &lt;b&gt;all&lt;/b&gt; stored data, and then phone will restart!</string>
   <string name="internal_media_format_final_desc">"Erase the Internal storage, deleting all files stored there? You can't reverse this action! Phone will restart after
     Internel storage is erased!"</string>
   <string name="internal_media_format_title">Wymaż wewnętrzny nośnik USB</string>
@@ -637,7 +637,7 @@
   <string name="wifi_disabled_password_failure">Problem z uwierzytelnianiem</string>
   <string name="wifi_display_available_devices">Dostępne urządzenia</string>
   <string name="wifi_display_details">Ustawienia wyświetlacza</string>
-  <string name="wifi_display_disconnect_text">Spowoduje to zakończenie połączenia z:<b>%1$s</b></string>
+  <string name="wifi_display_disconnect_text">Spowoduje to zakończenie połączenia z:&lt;b&gt;%1$s&lt;/b&gt;</string>
   <string name="wifi_display_disconnect_title">Rozłączyć?</string>
   <string name="wifi_display_no_devices_found">Nie znaleziono wyświetlaczy bezprzewodowych w pobliżu.</string>
   <string name="wifi_display_options_done">Gotowe</string>
