@@ -1,0 +1,16 @@
+<feature>
+    <name>MIUI V4</name>
+    <boolean>TRUE</boolean>
+    <title>
+Dla urządzenia z MIUI V4:
+
+1. Przejdź do Ustawienia > Bluetooth 
+
+2. Włącz Bluetooth przyciskiem 
+
+3. Włącz przełącznik Widoczności urządzenia 
+
+Po uruchomieniu Bluetooth na urządzeniu z V4 wciśnij "Dalej" poniżej. 
+    </title>
+    <header></header>
+</feature>

@@ -25,6 +25,7 @@
   <string name="add_new_account">Dodaj nowe konto</string>
   <string name="add_new_entry_for_section">Dodaj nowy</string>
   <string name="add_organization">Dodaj organizację</string>
+  <string name="add_slide_before">Dodaj slajd</string>
   <string name="add_to_my_contacts">Dodaj do moich kontaktów</string>
   <string name="add_wait">Dodaj pauzę</string>
   <string name="add_xiaomi_account_dialog_btn">Użyj konta Xiaomi</string>
@@ -193,6 +194,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="contacts_unavailable_add_xiaomi_account">Przywróć kontakty z Xiaomi</string>
   <string name="contacts_unavailable_create_contact">Utwórz nowy kontakt</string>
   <string name="contacts_unavailable_import_contacts">Przywróć kontakty z pliku vCard</string>
+  <string name="context_menu_add_to_browser_favorite">Dodaj do ulubionych w przeglądarce</string>
   <string name="copy_text">Kopiuj do schowka</string>
   <string name="createContactShortcutSuccessful">Ikona z kontaktem została dodana na pulpit.</string>
   <string name="create_group_dialog_title">Utwórz nową grupę</string>
@@ -557,8 +559,8 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="msg_loading_sim_contacts_toast">Wczytywanie kontaktów SIM w tle. Proszę czekać.</string>
   <string name="multipleContactDeleteConfirmation">Usunięcie tego kontaktu spowoduje usunięcie danych z wielu kont.</string>
   <string name="multipleContactDeleteConfirmationDetail">Usunięcie \"%s\" spowoduje usunięcie danych z wielu kont.</string>
-  <string name="my_phone_not_provider_bluetooth">my phone dont provider bluetooth</string>
-  <string name="my_phone_provider_bluetooth">my phone provider bluetooth</string>
+  <string name="my_phone_not_provider_bluetooth">Telefon nie posiada nazwy Bluetooth</string>
+  <string name="my_phone_provider_bluetooth">Telefon posiada nazwę w Bluetooth</string>
   <string name="nameLabelsGroup">Nazwa</string>
   <string name="name_family">Nazwisko</string>
   <string name="name_given">Imię</string>
@@ -698,6 +700,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="postal_postcode">Kod pocztowy</string>
   <string name="postal_region">Województwo</string>
   <string name="postal_street">Ulica</string>
+  <string name="pref_forward_title">Przekażj</string>
   <string name="pref_key_photo">Zdjęcia kontaktów</string>
   <string name="pref_key_photo_word_summary">Jeśli nie ustawiono własnego zdjęcia kontaktu system ustawi domyślne</string>
   <string name="pref_key_photo_word_title">Domyślne zdjęcia kontaktu</string>
@@ -706,7 +709,11 @@ Aby dodać kontakt do listy ulubionych:
   <string name="pref_key_sim_manage">Zarządzanie SIM</string>
   <string name="pref_summary_import_from_account">Kopiowanie kontaktów z Google lub Exchange na konto Xiaomi</string>
   <string name="pref_title_account_import">Przenoszenie kontaktów</string>
+  <string name="pref_title_card_format">Format udostępniania karty</string>
+  <string name="pref_title_fwd_sender_info">Przekaż informacje o nadawcy</string>
   <string name="pref_title_import_from_account">Kopiowanie na konto Xiaomi</string>
+  <string name="pref_title_miui_card">Wyślij przez MIUI card</string>
+  <string name="pref_title_vcard">Wyślij przez vCard</string>
   <string name="preference_auto_ip_summary_disable">Nieaktywne</string>
   <string name="preference_auto_ip_summary_on">"Prefiks operatora: %s"</string>
   <string name="preference_auto_ip_title">Wybieranie IP</string>
@@ -746,7 +753,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="preference_tone_title">Ton</string>
   <string name="prepare_import">przygotuj import</string>
   <string name="preview_contact_card_title">Przywróć kartę kontaktu</string>
-  <string name="previous">poprzedni</string>
+  <string name="previous">Wstecz</string>
   <string name="private_num">Numer prywatny</string>
   <string name="processing">Przetwarzanie...</string>
   <string name="profile_display_name">Konfiguruj profil</string>
@@ -828,12 +835,16 @@ Aby dodać kontakt do listy ulubionych:
   <string name="resource_update">Aktualizuj</string>
   <string name="resource_waiting_download">Oczekiwanie...</string>
   <string name="restore_nickname">Przywróć</string>
+  <string name="restore_to_phone_memory_failed">Failed to restore to phone memory!</string>
+  <string name="restored_to_phone_memory">"Restored to phone's memory"</string>
   <string name="ret_sign">"
  "</string>
   <string name="returnCall">Powrót do połączenia</string>
   <string name="ringLabelsGroup">Dzwonek</string>
   <string name="save">Zapisz</string>
   <string name="save_photo_progress">Zapisywanie zdjęcia...</string>
+  <string name="save_to_sim_failed">Failed to save to SIM! restored_to_phone_memory</string>
+  <string name="saved_to_sim">Zapisano na SIM!</string>
   <string name="savingContact">Zapisywanie kontaktu…</string>
   <string name="savingDisplayGroups">Trwa zapisywanie opcji wyświetlania...</string>
   <string name="scan">skanuj</string>
@@ -863,6 +874,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="service_provider">Dostawca usług</string>
   <string name="set_default">Ustaw jako wartość domyślną</string>
   <string name="set_photo_failed_msg">Nie udało się ustawić zdjęcia kontaktu</string>
+  <string name="set_smsc_address_title_miui">Ustaw numer centrum SMS</string>
   <string name="share_error">Tego kontaktu nie można udostępniać.</string>
   <string name="share_via">Udostępnij kontakt przez</string>
   <string name="share_visible_contacts">Udostępnij widoczne kontakty</string>
@@ -875,8 +887,10 @@ Aby dodać kontakt do listy ulubionych:
   <string name="simContacts_empty">Nie znaleziono kontaktów na karcie SIM</string>
   <string name="simContacts_emptyLoading">Wczytywanie z karty SIM…</string>
   <string name="simContacts_title">Kontakty z karty SIM</string>
-  <string name="sim_capacity">Pojemność karty SIM</string>
-  <string name="sim_capacity_content" formatted="false">"SIM: %d, Zajęte: %d."</string>
+  <string name="sim_capacity_content" formatted="false">"SIM: %d, zajęte: %d."</string>
+  <string name="sim_card1">SIM 1</string>
+  <string name="sim_card2">SIM 2</string>
+  <string name="sim_card_cloud">%s (z chmury)</string>
   <string name="sim_card_no_free_space_message">Karta SIM jest pełna, nie można skopiować nowych kontaktów. Zwolnij miejsce na karcie SIM i spróbuj ponownie</string>
   <string name="sim_card_no_free_space_title">Karta SIM jest pełna</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Odznacz wszystko</string>

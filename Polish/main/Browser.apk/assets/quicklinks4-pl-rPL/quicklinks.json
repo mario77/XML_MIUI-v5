@@ -7,10 +7,10 @@
             "logobg":"white.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "MIUIPolska",
-	    "isDelete": true,
-	    "movable": true,
-	    "position": 0
+    	    "displayName": "MIUIPolska",
+    	    "isDelete": true,
+    	    "movable": true,
+    	    "position": 0
         },
         {
             "title":"miuiandroid",
@@ -19,10 +19,10 @@
             "logobg":"white.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "MIUIAndroid",
-	    "isDelete": true,
-	    "movable": true,
-	    "position": 1
+    	    "displayName": "MIUIAndroid",
+    	    "isDelete": true,
+    	    "movable": true,
+    	    "position": 1
         },
         {
             "title":"Forum MIUIPolska",
@@ -31,10 +31,10 @@
             "logobg":"white.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "MIUIPolska Forum",
-	    "isDelete": true,
-	    "movable": true,
-	    "position": 2
+    	    "displayName": "MIUIPolska Forum",
+    	    "isDelete": true,
+    	    "movable": true,
+    	    "position": 2
         },
         {
             "title":"Facebook",
@@ -43,10 +43,10 @@
             "logobg":"white.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Facebook",
-	    "isDelete": true,
-	    "movable": true,
-	    "position": 3
+    	    "displayName": "Facebook",
+    	    "isDelete": true,
+    	    "movable": true,
+    	    "position": 3
         },
         {
             "title":"Youtube",
@@ -55,10 +55,10 @@
             "logobg":"youtube.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Yotube",
-	    "isDelete": true,
-	    "movable": true,
-	    "position": 4
+    	    "displayName": "Yotube",
+    	    "isDelete": true,
+    	    "movable": true,
+    	    "position": 4
         },
         {
             "title":"Google",
@@ -67,10 +67,10 @@
             "logobg":"google.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Google",
-	    "isDelete": true,
-	    "movable": true,
-	    "position": 5
+    	    "displayName": "Google",
+    	    "isDelete": true,
+    	    "movable": true,
+    	    "position": 5
         },
         {
             "title":"Antyweb",
@@ -79,10 +79,10 @@
             "logobg":"white.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Antyweb",
-	    "isDelete": true,
-	    "movable": true,
-	    "position": 6
+    	    "displayName": "Antyweb",
+    	    "isDelete": true,
+    	    "movable": true,
+    	    "position": 6
         },
         {
             "title":"Wikipedia",
@@ -91,10 +91,10 @@
             "logobg":"white.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Wikipedia",
-	    "isDelete": true,
-	    "movable": true,
-	    "position": 7
+    	    "displayName": "Wikipedia",
+    	    "isDelete": true,
+    	    "movable": true,
+    	    "position": 7
         },
         {
             "title":"Allegro",
@@ -103,10 +103,10 @@
             "logobg":"white.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Allegro",
-	    "isDelete": true,
-	    "movable": true,
-	    "position": 8
+    	    "displayName": "Allegro",
+    	    "isDelete": true,
+    	    "movable": true,
+    	    "position": 8
         },
         {
             "title":"Wykop",
@@ -115,10 +115,10 @@
             "logobg":"white.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Wykop",
-	    "isDelete": true,
-	    "movable": true,
-	    "position": 9
+    	    "displayName": "Wykop",
+    	    "isDelete": true,
+    	    "movable": true,
+    	    "position": 9
         },
         {
             "title":"Twitter MIUIPolska",
@@ -127,10 +127,10 @@
             "logobg":"white.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Twitter MIUIPolska",
-	    "isDelete": true,
-	    "movable": true,
-	    "position": 10
+    	    "displayName": "Twitter MIUIPolska",
+    	    "isDelete": true,
+    	    "movable": true,
+    	    "position": 10
         },
         {
             "title":"Hatak.pl",
@@ -139,10 +139,120 @@
             "logobg":"white.9.png",
             "nightModeMask": "night.9.png",
             "favicon":"",
-	    "displayName": "Hatak",
-	    "isDelete": true,
-	    "movable": true,
-	    "position": 11
+    	    "displayName": "Hatak",
+    	    "isDelete": true,
+    	    "movable": true,
+    	    "position": 11
+        }
+    ],
+"topquicklinks": [
+                {
+            "title":"MIUIPolska",
+            "url":"http://miuipolska.pl",
+            "thumbnail":"miuipl.png",
+            "logobg":"white.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+            "displayName": "MIUIPolska"
+        },
+        {
+            "title":"miuiandroid",
+            "url":"http://miuiandroid.com",
+            "thumbnail":"miuiandroid.png",
+            "logobg":"white.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+            "displayName": "MIUIAndroid"
+        },
+        {
+            "title":"Forum MIUIPolska",
+            "url":"http://miuipolska.pl/forum/",
+            "thumbnail":"miuiforum.png",
+            "logobg":"white.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+            "displayName": "MIUIPolska Forum"
+        },
+        {
+            "title":"Facebook",
+            "url":"http://www.facebook.pl/",
+            "thumbnail":"fb.png",
+            "logobg":"white.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+            "displayName": "Facebook"
+        },
+        {
+             "title":"Youtube",
+            "url":"http://www.youtube.com/",
+            "thumbnail":"youtube.png",
+            "logobg":"youtube.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+            "displayName": "Yotube"
+        },
+        {
+            "title":"Antyweb",
+            "url":"http://antyweb.pl",
+            "thumbnail":"antyweb.png",
+            "logobg":"white.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+            "displayName": "Antyweb"
+        },
+        {
+            "title":"Wikipedia",
+            "url":"http://pl.wikipedia.org/",
+            "thumbnail":"thumb_wikipedia.png",
+            "logobg":"white.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+            "displayName": "Wikipedia"
+        },
+        {
+            "title":"Wykop",
+            "url":"http://wykop.pl/",
+            "thumbnail":"wykop.png",
+            "logobg":"white.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+            "displayName": "Wykop"
+        },
+        {
+            "title":"Allegro",
+            "url":"http://www.allegro.pl/",
+            "thumbnail":"allegro.png",
+            "logobg":"white.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+            "displayName": "Allegro"
+        },
+        {
+            "title":"iBuyGou.com",
+            "url":"http://www.ibuygou.com//",
+            "thumbnail":"ibuy.png",
+            "logobg":"white.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+            "displayName": "iBuyGou.com"
+        },
+        {
+            "title":"Twitter MIUIPolska",
+            "url":"http://www.twitter.com/miuipolskapl",
+            "thumbnail":"tw.png",
+            "logobg":"white.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+            "displayName": "Twitter MIUIPolska"
+        },
+        {
+            "title":"Hatak.pl",
+            "url":"http://www.hatak.pl/",
+            "thumbnail":"hatak.png",
+            "logobg":"white.9.png",
+            "nightModeMask": "night.9.png",
+            "favicon":"",
+            "displayName": "Hatak"
         }
     ]
 }

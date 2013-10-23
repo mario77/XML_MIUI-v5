@@ -1,0 +1,16 @@
+<feature>
+    <name>iPhone 3G</name>
+    <boolean>TRUE</boolean>
+    <title>
+Na iPhone 3G:
+
+1. Przejdź do Ustawień
+
+2. Dotknij "Ogólne"
+
+3. Włącz Bluetooth
+
+Dotknij "Dalej" poniżej
+    </title>
+    <header></header>
+</feature>

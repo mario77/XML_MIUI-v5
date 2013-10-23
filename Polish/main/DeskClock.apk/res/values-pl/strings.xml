@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_alarm">Dodaj alarm</string>
   <string name="alarm_alert">Ustaw dzwonek</string>
@@ -73,8 +73,7 @@
   <string name="legal_workday">Dni wolne od pracy</string>
   <string name="legal_workday_invalidate">Dane są nieważne. Aktualnie alarm jest powtarzany od Pon. do Pią.</string>
   <string name="legal_workday_invalidate_message">(Dane nieważne. Odśwież dane w Ustawieniach)</string>
-  <string name="legal_workday_message">"
-(tylko w Chinach)"</string>
+  <string name="legal_workday_message">"(tylko w Chinach)"</string>
   <string name="loading_ringtone">Wczytywanie dzwonka…</string>
   <string name="menu_add_worldclock">Strefy czasowe</string>
   <string name="menu_alarmclock_edit">Edytuj alarm</string>
@@ -92,8 +91,8 @@
   <string name="pause">Pauza</string>
   <string name="remind_ringtone">Dźwięk powiadomienia</string>
   <string name="reset">Reset</string>
-  <string name="revert">Przywróć</string>
   <string name="resource_update">Aktualizuj</string>
+  <string name="revert">Przywróć</string>
   <string name="set_alarm">Ustaw alarm</string>
   <string name="settings">Ustawienia</string>
   <string name="show_clock">Pokaż zegar</string>
@@ -101,11 +100,11 @@
   <string name="shutdown_alarm_enable_summary">Alarm aktywny</string>
   <string name="shutdown_alarm_title">Alarm na wyłączeniu</string>
   <string name="silent_alarm_summary">Cichy</string>
-  <string name="snooze_duration_title">Czas drzemki</string>
   <string name="snooze_confirm_cancel">Anuluj drzemkę</string>
   <string name="snooze_confirm_message"> "Drzemka przedłużona. Następny alarm o %s. 
 Możesz także anulować alarm." </string>
   <string name="snooze_confirm_ok">Ok</string>
+  <string name="snooze_duration_title">Czas drzemki</string>
   <string name="start">Start</string>
   <string name="start_up">Start</string>
   <string name="stopwatch_lap_empty_text">Brak okrążeń</string>
