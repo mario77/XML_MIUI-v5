@@ -102,11 +102,11 @@ Wait five minutes and try again."</string>
   <string name="label_order_name">Product:</string>
   <string name="label_order_price">Price:</string>
   <string name="memu_refresh">Refresh</string>
-  <string name="mibi_license_message">Touch OK if you agree to the terms and conditions described in the %1$s.</string>
-  <string name="mibi_license_message_span">MiCredit User Agreement</string>
-  <string name="mibi_license_title">User agreement</string>
-  <string name="mili_center">MiCredit</string>
-  <string name="msg_denomination_type">MiCredit</string>
+  <string name="mibi_license_message">Dotknij OK jeśli zgadzasz się warunki użytkowania usługi opisane w %1$s.</string>
+  <string name="mibi_license_message_span">Umowa użytkownika Mi Kredyty</string>
+  <string name="mibi_license_title">Warunki użytkowania</string>
+  <string name="mili_center">Mi Kredyty</string>
+  <string name="msg_denomination_type">Mi Kredyty</string>
   <string name="msg_error">Top-up failed</string>
   <string name="msg_picker_hint_1_1">1.</string>
   <string name="msg_picker_hint_1_2">Topping up via text maybe more expensive: &lt;font color=red&gt;￥2 = 1 MiCredit&lt;/font&gt;</string>

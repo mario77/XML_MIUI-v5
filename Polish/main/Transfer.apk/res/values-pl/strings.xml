@@ -57,8 +57,8 @@
   <string name="file_download">Pobierz plik</string>
   <string name="file_downloading">Pobieranie pliku</string>
   <string name="file_restore">Przywróć pliki</string>
-  <string name="file_share_download_complete">Shared file successfully recieved</string>
-  <string name="file_share_upload_complete">Shared file uploaded successfully</string>
+  <string name="file_share_download_complete">Otrzymano udostępniony plik</string>
+  <string name="file_share_upload_complete">Udostępniono pliki</string>
   <string name="file_upload">Skopiuj pliki</string>
   <string name="file_uploading">Kopiowanie plików</string>
   <string name="fill_download_paused">Pobieranie wstrzymane</string>
@@ -80,7 +80,7 @@
   <string name="init_xiaomi_account">Wczytywanie danych konta Xiaomi...</string>
   <string name="input_device_name">Wpisz nazwę urządzenia</string>
   <string name="input_device_name_tip">Wykorzytaj aplikację Transfer do wysyłania plików przez utworzenie mobilnego hotspotu. Inne urządzenia będą wykrywały nazwę Twojego telefonu.</string>
-  <string name="load_file_error">Failed to load file!</string>
+  <string name="load_file_error">Nie można wczytać pliku!</string>
   <string name="loading_file">Wczytywanie pliku...</string>
   <string name="login_failed">Błąd logowania do konta Xiaomi</string>
   <string name="mishare_app_name">Udostępnianie</string>
@@ -99,7 +99,7 @@
   <string name="notify_after_restore">Powiadom po przywróceniu</string>
   <string name="ok">Zezwól</string>
   <string name="online_file">MiDrive</string>
-  <string name="only_support_single_share">Only single file sharing is supported!</string>
+  <string name="only_support_single_share">Tylko pojedynczy plik może zostać udostępniony!</string>
   <string name="open">Otwórz</string>
   <string name="operation_delete">Usuń</string>
   <string name="operation_goto_folder">Przejdź do katalogu</string>
