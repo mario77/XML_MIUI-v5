@@ -7,6 +7,5 @@
 			<Text x="#view_width/2" y="296" align="center" alignV="center" color="#ffffff" alpha="234" size="32" format="Bateria: %d%%" paras="#battery_level" alpha="200"/>
 		</Group>
 	</Group>
-    <!-- 触发点击事件 -->
-    <Button name="clock_button" x="#view_width/2" y="74" w="#time.actual_w" h="#time.actual_h/2+138"/>
+    <Button name="clock_button" x="#view_width/2-75" y="74" w="#time.actual_w" h="#time.actual_h/2+138"/>
 </clock>

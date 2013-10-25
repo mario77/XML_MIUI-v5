@@ -69,6 +69,6 @@
 		</Group>
 	</Group>
 	
-	<Button name="clock_button" x="#view_width/2" y="30" w="#time.actual_w" h="#time.actual_h/2+138"/>
+	<Button name="clock_button" x="#view_width/2-75" y="30" w="#time.actual_w" h="#time.actual_h/2+138"/>
 
 </clock>

@@ -49,7 +49,6 @@
 			<DateTime x="#view_width-44" y="222" align="right" alignV="top" color="#ffffff" alpha="234" size="32" format="@long_date_time"/>
 			<DateTime x="#view_width-44" y="264+4" align="right" alignV="top" color="#000000" alpha="25" size="32" format="EEEE" name="datetime"/>
 			<DateTime x="#view_width-44" y="264" align="right" alignV="top" color="#ffffff" alpha="234" size="32" format="EEEE"/>
-
 			<Group visibility="#show_weather">
 				<Text textExp="''+@weather_location+', '+ifelse(isnull(#weather_temperature),'-',#weather_temperature)+'°'" x="60" y="264+4" align="left" alignV="top" color="#000000" alpha="25" size="32"/>
 				<Text textExp="''+@weather_location+', '+ifelse(isnull(#weather_temperature),'-',#weather_temperature)+'°'" x="60" y="264" align="left" alignV="top" color="#ffffff" alpha="234" size="32"/>
