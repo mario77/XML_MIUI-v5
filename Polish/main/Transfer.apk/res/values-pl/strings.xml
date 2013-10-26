@@ -138,7 +138,7 @@
   <string name="retry">Ponów</string>
   <string name="retry_in_good_network">Please try again when your network connection is stronger</string>
   <string name="retry_to_load_file_info">Odświeżyć informacje?</string>
-  <string name="save_to_kuaipan">Zapisz na dysk MiDrive</string>
+  <string name="save_to_kuaipan">Zapisz na dysk Kuaipan</string>
   <string name="scan_2d_code">Skanuj kod 2D</string>
   <string name="scan_file">Przeglądaj pliki</string>
   <string name="scan_tip">"Upewnij się, że odbiorca ma włączony Transfer

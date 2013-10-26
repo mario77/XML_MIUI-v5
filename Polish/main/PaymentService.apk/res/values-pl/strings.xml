@@ -98,7 +98,7 @@ Wait five minutes and try again."</string>
   <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit giveaway.</string>
   <string name="giftcard_record">My gift cards</string>
   <string name="giftcard_value">(%1$s-MiCredit gift card)</string>
-  <string name="label_balance">Balance:</string>
+  <string name="label_balance">Saldo:</string>
   <string name="label_order_name">Product:</string>
   <string name="label_order_price">Price:</string>
   <string name="memu_refresh">Refresh</string>
