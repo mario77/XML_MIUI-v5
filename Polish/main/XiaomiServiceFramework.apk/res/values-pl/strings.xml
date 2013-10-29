@@ -37,7 +37,7 @@
   <string name="data_sync_notice">Wykorzystaj konto Xiaomi do synchronizacji wiadomości, kontaktów i innych danych telefonu</string>
   <string name="data_wipe_from_phone">Usuń z urządzenia</string>
   <string name="disable_find_device_error">%1$s, nieudane wyłączenie lokalizacji telefonu</string>
-  <string name="disable_micloud">&lt;u&gt;Nie aktywuj Chmury Xiaomi&lt;/u&gt;</string>
+  <string name="disable_micloud">Nie aktywuj Chmury Xiaomi</string>
   <string name="email_already_be_used">Adres E-mail w użyciu</string>
   <string name="enable_find_device_error">%1$s, nieudane włączenie z lokalizacją telefonu</string>
   <string name="enable_micloud">Włącz usługi w chmurze</string>
@@ -67,7 +67,7 @@
   <string name="header_data_and_synchronization">Konta i synchronizacja</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Wprowadź hasło</string>
-  <string name="int_phone_user_notice">Dla użytkowników spoza Chin należy wprowadzić numer telefonu wg. formatu zawierającego kod kraju: +48xxxxxxxxx</string>
+  <string name="int_phone_user_notice">Wprowadź numer telefonu wg. formatu: +48xxxxxxxxx</string>
   <string name="internet_comm">Wiadomości</string>
   <string name="internet_message">Wiadomości w chmurze</string>
   <string name="login">Wpisz się</string>
@@ -119,7 +119,7 @@
   <string name="micloud_use_existing">Istniejące</string>
   <string name="micloud_via_int_sms_alert">Na telefon zostanie wysłany SMS. Koszt SMS wg. taryfy operatora</string>
   <string name="micloud_via_sms_alert">Zostanie wysłany SMS aby zweryfikować numer telefonu. Kontynuować?</string>
-  <string name="micloud_welcome_skip_login">&lt;u&gt;Pomi&amp;#324; krok&lt;/u&gt;</string>
+  <string name="micloud_welcome_skip_login">Pomiń krok</string>
   <string name="mili_center">Mi Kredyty</string>
   <string name="my_xiaomi_account">Moje konto Xiaomi</string>
   <string name="next">Dalej</string>
@@ -163,7 +163,7 @@
   <string name="update_contacts">Aktualizuj kontakty</string>
   <string name="update_contacts_description">Aktualizuj kontakty i inne informacje</string>
   <string name="updated_contacts">Aktualizuj %s kontaktów</string>
-  <string name="updated_nothing">Nothing updated!</string>
+  <string name="updated_nothing">Nie zaktualizowano!</string>
   <string name="user_agreement_p1">"Wpisując się na konto Xiaomi, zgadzasz się z
  "</string>
   <string name="user_agreement_p2">Warunki usług Xiaomi</string>

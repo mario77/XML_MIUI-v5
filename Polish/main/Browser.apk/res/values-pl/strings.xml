@@ -41,6 +41,7 @@
   <string name="added_to_bookmarks">Dodano do zakładek.</string>
   <string name="alert_tips">Strona do której chcesz przejść może zawierać niebezpieczne treści. Kontynuować?</string>
   <string name="allow">Zezwól</string>
+  <string name="already_in_top_level">Zakładka już jest dodana</string>
   <string name="app_new_version">Pobieranie ukończone. Aktualna wersja aplikacji jest zainstalowana.</string>
   <string name="app_update_install">Pobieranie ukończone. Gotowość do instalacji aktualizacji</string>
   <string name="application_name">Internet</string>
@@ -153,6 +154,8 @@
   <string name="delete_bookmark_warning">Usunąć zakładkę \„%s\”?</string>
   <string name="delete_folder">Usuń folder</string>
   <string name="delete_multi_bookmarks_alert_title">Usunąć %1$s zakładek?</string>
+  <string name="dialog_geolocation_reject">Nie zgadzam się</string>
+  <string name="dialog_geolocation_share">Zgadzam się</string>
   <string name="disable_autofill">Wyłącz autouzupełnianie</string>
   <string name="disk_space_available">Dostępne %1$s</string>
   <string name="disk_space_selected">Zaznaczone %1$s</string>
@@ -605,6 +608,18 @@
   <string name="username">Nazwa</string>
   <string name="view_certificate">Wyświetl certyfikat</string>
   <string name="warning">Ostrzeżenie</string>
+  <string name="webapp_add_to_desktop">Dodaj na pulpit</string>
+  <string name="webapp_addtodeskpop_append">Dodana</string>
+  <string name="webapp_app_name">Aplikacje Web</string>
+  <string name="webapp_bottom_bar_addtodesk">Dodaj na pulpit</string>
+  <string name="webapp_bottom_bar_exit">Wyjdź</string>
+  <string name="webapp_bottom_bar_hidebar">Ukryj dolny pasek</string>
+  <string name="webapp_bottom_bar_openbrowser">Otwórz z Przeglądarki</string>
+  <string name="webapp_bottom_bar_showbar">Pokaż dolny pasek</string>
+  <string name="webapp_dialog_title">Dodaj aplikacje na pulpit</string>
+  <string name="webapp_splashview_loading">Wczytywanie</string>
+  <string name="webapp_web_forward">Dalej</string>
+  <string name="webapp_web_goback">Wstecz</string>
   <string name="website_settings_clear_all">Wyczyść wszystko</string>
   <string name="website_settings_clear_all_dialog_cancel_button">Anuluj</string>
   <string name="website_settings_clear_all_dialog_message">Usunąć wszystkie dane witryn i uprawnienia dotyczące lokalizacji?</string>
