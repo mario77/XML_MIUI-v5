@@ -95,10 +95,10 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="calllog_menu_send_sms">Wyślij SMS</string>
   <string name="callrecordview_item_newcontact">Nowy kontakt</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d min %2$d sek</string>
-  <string name="callrecordview_item_op_time_missed">Nie połączono</string>
+  <string name="callrecordview_item_op_time_missed">nie połączono</string>
   <string name="callrecordview_item_op_time_only_minutes">%d min</string>
   <string name="callrecordview_item_op_time_only_seconds">%d sek</string>
-  <string name="callrecordview_item_op_time_rejected">Odrzucone</string>
+  <string name="callrecordview_item_op_time_rejected">odrzucone</string>
   <string name="callrecordview_item_op_time_short_incoming">"Przychodzące: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Wychodzące: "</string>
   <string name="callrecordview_menu_add_call_note">Dodaj notatkę</string>

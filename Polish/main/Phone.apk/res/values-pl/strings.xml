@@ -204,7 +204,7 @@
   <string name="cancel">Anuluj</string>
   <string name="cannot_answered_Video_Call">Video call cannot be answered since there is already a voice call</string>
   <string name="cannot_answered_Voice_Call">Voice call cannot be answered since there is already a video call</string>
-  <string name="card_title_call_ended">"Połączenie zakończone: "</string>
+  <string name="card_title_call_ended">"Połączenie "</string>
   <string name="card_title_conf_call">Połączenie konferencyjne</string>
   <string name="card_title_dialing">Wybieranie</string>
   <string name="card_title_forwarded_incoming_call_miui">Przekazywanie połączeń</string>

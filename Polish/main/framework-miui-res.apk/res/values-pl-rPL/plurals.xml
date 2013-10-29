@@ -23,17 +23,17 @@
         <item quantity="one">za 1 min</item>
     </plurals>
     <plurals name="abbrev_less_than_one_minute_ago">
-        <item quantity="other">Chwilę temu</item>
+        <item quantity="other">"Chwilę temu: "</item>
     </plurals>
     <plurals name="abbrev_num_minutes_ago">
         <item quantity="other">%d min temu</item>
-        <item quantity="one">1 min temu</item>
+        <item quantity="one">"1 min temu: "</item>
     </plurals>
     <plurals name="half_hour_ago">
-        <item quantity="other">Pół godziny temu</item>
+        <item quantity="other">"Pół godziny temu: "</item>
     </plurals>
     <plurals name="in_a_hour">
-        <item quantity="other">Godzinę temu</item>
+        <item quantity="other">"Godzinę temu: "</item>
     </plurals>
     <plurals name="in_half_hour">
         <item quantity="other">Za pół godziny</item>
