@@ -52,7 +52,7 @@
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Przeglądarka</string>
   <string name="resource_apply">Zastosuj</string>
-  <string name="resource_buy">Kup</string>
+  <string name="resource_buy">"Kupuję "</string>
   <string name="resource_can_not_selected">%1$s nie może zostać zaznaczonych!</string>
   <string name="resource_category">Kategorie</string>
   <string name="resource_comment_1_star">*</string>
@@ -72,7 +72,7 @@
   <string name="resource_comment_edit_title">Komentarz: %1$s</string>
   <string name="resource_comment_entry_tips">Pokaż komentarze</string>
   <string name="resource_comment_expand_full_text">Rozwiń tekst▼</string>
-  <string name="resource_comment_footer">Puste komentarze nie są pokazywane.</string>
+  <string name="resource_comment_footer">Wczytywanie komentarzy.</string>
   <string name="resource_comment_good_comments">Pozytywne</string>
   <string name="resource_comment_invalid">Dotknij gwiazdki aby ocenić motyw</string>
   <string name="resource_comment_name_default">Użytkownik %1$s</string>
@@ -85,7 +85,7 @@
   <string name="resource_comment_upload_data_invalid">Wysłany komentarz jest nieprawidłowy</string>
   <string name="resource_comment_upload_failed">Nie udało się zapisać komentarza</string>
   <string name="resource_comment_upload_hint">Twój komentarz zostanie wyświetlony po szybkiej moderacji.</string>
-  <string name="resource_comment_upload_not_bought">Musisz zastosować motyw zanim zaczniesz komentować.</string>
+  <string name="resource_comment_upload_not_bought">"Musisz zastosować motyw zanim zaczniesz komentować."</string>
   <string name="resource_comment_upload_not_logined">Zaloguj się</string>
   <string name="resource_comment_upload_success">Komentarz wysłany! </string>
   <string name="resource_default">Domyślny dzwonek</string>
@@ -99,10 +99,10 @@
   <string name="resource_detail_comment_title">Komentarze</string>
   <string name="resource_detail_jump_to_online_title">W sieci</string>
   <string name="resource_detail_jump_to_same_author_title">Ten sam autor</string>
-  <string name="resource_detail_recommend_desiner_other_themes">Inne motywy od %1$s</string>
+  <string name="resource_detail_recommend_desiner_other_themes">Inne motywy od %1$s:</string>
   <string name="resource_detail_recommend_desiner_themes">%1$s motywów</string>
-  <string name="resource_detail_recommend_other_themes">Podobne</string>
-  <string name="resource_detail_update_log_title">Aktualizacje</string>
+  <string name="resource_detail_recommend_other_themes">Podobne:</string>
+  <string name="resource_detail_update_log_title">Aktualizacje:</string>
   <string name="resource_detail_window_title">%1$s</string>
   <string name="resource_download">Pobierz</string>
   <string name="resource_downloaded_title">Pobrane elementy</string>
@@ -129,7 +129,7 @@
   <string name="resource_preview">Podgląd</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Darmowy</string>
-  <string name="resource_price_unit">MiKredytów</string>
+  <string name="resource_price_unit">" MiKredytów"</string>
   <string name="resource_ranking">Popularne</string>
   <string name="resource_ranking_free">Darmowe</string>
   <string name="resource_ranking_purchase">Płatne</string>

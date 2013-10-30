@@ -807,7 +807,6 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   Are you sure to allow mobile data service preferred?"</string>
   <string name="pch_data_prefer_summary">Allow mobile data transmission at full speed</string>
   <string name="pch_data_prefer_title">Mobile data service preferred</string>
-  <string name="payphone">Telefon płatny</string>
   <string name="phoneAppLabel">Telefon</string>
   <string name="phoneIconLabel">Telefon</string>
   <string name="phone_entered_ecm_text">Włączono tryb alarmowego połączenia zwrotnego</string>

@@ -51,7 +51,6 @@
   <string name="menu_refresh">Odśwież</string>
   <string name="menu_remove_black_list">Usuń z czarnej listy</string>
   <string name="mishop_web_payment_title">MiStore checkout</string>
-  <string name="network_unavaliable">"Couldn't connect to network."</string>
   <string name="packages_no_package">No suitable traffic packages</string>
   <string name="packages_pay">Buy</string>
   <string name="packages_pay_confirm">Confirm to buy</string>

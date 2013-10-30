@@ -99,7 +99,7 @@ Wait five minutes and try again."</string>
   <string name="giftcard_denom_frozen">MiCredit frozen</string>
   <string name="giftcard_empty">No gift cards.</string>
   <string name="giftcard_expire">%1$s expired</string>
-  <string name="giftcard_hint">MiCredits added via gift card will be spent first automatically.</string>
+  <string name="giftcard_hint">MiKredyty added via gift card will be spent first automatically.</string>
   <string name="giftcard_push_notification_prime_title">"You've received a gift certificate"</string>
   <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit giveaway.</string>
   <string name="giftcard_record">My gift cards</string>
@@ -326,7 +326,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="msg_send_send_fail_error">Failed to send message</string>
   <string name="msg_telecom_order_denom">￥%1s（not including mobile network data fees）</string>
   <string name="msg_telecom_order_denom_label">Amount due:</string>
-  <string name="msg_telecom_order_goods">%1s MiCredits</string>
+  <string name="msg_telecom_order_goods">%1s MiKredyty</string>
   <string name="msg_telecom_order_goods_label">Product description:</string>
   <string name="msg_telecom_picker_hint_1_1">After you touch Confirm purchase, your phone will</string>
   <string name="msg_telecom_picker_hint_1_2">Automatically contact your service provider.</string>
@@ -334,7 +334,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="msg_telecom_picker_hint_2_2">You will receive a text confirmation shortly.</string>
   <string name="msg_telecom_sending">Contacting network provider…</string>
   <string name="onemore_click_exit">Wciśnij jeszcze razy by wyjść</string>
-  <string name="order_price">%1$s MiCredits</string>
+  <string name="order_price">%1$s MiKredyty</string>
   <string name="password_error">Password incorrect.</string>
   <string name="password_hint">Enter account password</string>
   <string name="pay_record_empty">No payment records.</string>
@@ -363,7 +363,7 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="progress_bankcall_card_querying">Checking account type…</string>
   <string name="progress_creating">Retrieving order info…</string>
   <string name="progress_downloading">Loading…</string>
-  <string name="progress_error_pay_summary">%1$s MiCredits recharged, but payment failed, please retry later.</string>
+  <string name="progress_error_pay_summary">%1$s MiKredyty recharged, but payment failed, please retry later.</string>
   <string name="progress_error_pay_title">Payment failed</string>
   <string name="progress_error_recharge_summary">Top-up failed, please retry later.</string>
   <string name="progress_error_recharge_title">Top-up failed</string>
@@ -374,12 +374,12 @@ You have purchased [%1$s] for a value of [%2$s yuan]. Customer Service Phone: %3
   <string name="progress_prepaid_creating">Generating order…</string>
   <string name="progress_querying">Processing…</string>
   <string name="progress_submit_hint">Top-up will be reflected in you account balance within 3 minutes.</string>
-  <string name="progress_submit_pay_summary">Paying %1$s MiCredits.</string>
-  <string name="progress_submit_recharge_summary">Topping up: %1$s MiCredits.</string>
+  <string name="progress_submit_pay_summary">Paying %1$s MiKredyty.</string>
+  <string name="progress_submit_recharge_summary">Topping up: %1$s MiKredyty.</string>
   <string name="progress_submit_title">Request submitted</string>
-  <string name="progress_success_pay_summary">%1$s MiCredits recharged，%2$s MiCredits paied</string>
+  <string name="progress_success_pay_summary">%1$s MiKredyty recharged，%2$s MiKredyty paied</string>
   <string name="progress_success_pay_title">%1$s MiCredit payment complete</string>
-  <string name="progress_success_recharge_summary">Account balance: %1$s MiCredits.</string>
+  <string name="progress_success_recharge_summary">Account balance: %1$s MiKredyty.</string>
   <string name="progress_success_recharge_title">%1$s MiCredit top-up complete</string>
   <string name="progress_voucher_creating">Topping up MiCredit card…</string>
   <string name="progress_warning_check">"Payment hasn't reached your account yet. 
@@ -399,12 +399,12 @@ We will check again within two working days."</string>
   <string name="recharge_group_favorite">Use previous top-up method</string>
   <string name="recharge_group_others">Other top-up methods</string>
   <string name="recharge_message_title">Text message</string>
-  <string name="recharge_notification">Topping up: %1$s MiCredits</string>
+  <string name="recharge_notification">Topping up: %1$s MiKredyty</string>
   <string name="recharge_novalid_method">No valid top-up method.</string>
   <string name="recharge_other">View other methods</string>
   <string name="recharge_pcpay_title">Computer</string>
   <string name="recharge_prepaid_title">Prepaid card</string>
-  <string name="recharge_push_notification_prime_title">%1$d added %2$s MiCredits to your account</string>
+  <string name="recharge_push_notification_prime_title">%1$d added %2$s MiKredyty to your account</string>
   <string name="recharge_push_notification_sub_title">Top-up complete.</string>
   <string name="recharge_record_empty">No top-up records.</string>
   <string name="recharge_tenpay_title">Tenpay</string>
@@ -416,13 +416,13 @@ We will check again within two working days."</string>
   <string name="title_gesture">Pattern lock</string>
   <string name="title_giftcard">Promotions</string>
   <string name="title_lockpattern">Require pattern lock</string>
-  <string name="title_mili_center">MiCredits</string>
+  <string name="title_mili_center">MiKredyty</string>
   <string name="title_myaccount">My account: %s</string>
   <string name="title_nopassword">"Don't require for small payments"</string>
   <string name="title_nopassword_dialog">Daily limit</string>
   <string name="title_password">Password</string>
   <string name="title_password_threshold">Daily limit = %1$s yuan</string>
-  <string name="title_pay">Pay with MiCredits</string>
+  <string name="title_pay">Pay with MiKredyty</string>
   <string name="title_pay_record">Payment records</string>
   <string name="title_recharge">Top up MiCredit</string>
   <string name="title_recharge_record">Top-up records</string>
