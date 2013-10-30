@@ -5,10 +5,10 @@
   <string name="activating">Aktywacja...</string>
   <string name="alwaysUsePrompt">Ustaw domyślne</string>
   <string name="android_lockscreen_glogin_instructions">Wpisz się na konto aby odblokować</string>
-  <string name="arbor_day"/>
-  <string name="app_notificaiton_on_statusBar_and_notificationBar">Pasek statusu i powiadomień</string>
   <string name="app_no_notification">Bez powiadomień</string>
   <string name="app_notificaiton_on_notificationBar">Pasek powiadomień</string>
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">Pasek statusu i powiadomień</string>
+  <string name="arbor_day"/>
   <string name="autumn_begins">Jesień</string>
   <string name="autumn_equinox">Równonoc</string>
   <string name="callNoAnswerTimeFormat">%s dzwonków</string>
@@ -49,7 +49,7 @@
   <string name="find_device_turn_off_flight_mode">Wyłącz Tryb Samolotowy</string>
   <string name="find_device_turn_off_flight_mode_instructions">"Urządzenie zablokowane. Wyłącz Tryb Samolotowy"</string>
   <string name="firewall_setting">Firewall</string>
-  <string name="first_back_long_press_message">"Chcesz włączyć funkcję kończenia działania aplikacji przez długie naciśnięcie przycisku powrotu? Włącz w Ustawienia > System > Przyciski sprzętowe"</string>
+  <string name="first_back_long_press_message">"Chcesz włączyć funkcję kończenia działania aplikacji przez długie naciśnięcie przycisku powrotu? Włącz w Ustawienia &gt; System &gt; Przyciski sprzętowe"</string>
   <string name="fm_record_smaple_prefix_miui">RadioFM</string>
   <string name="fools_day">"Prima Aprilis"</string>
   <string name="force_exit_message">Pomyślnie zatrzymano \"%1$s\"</string>
@@ -124,6 +124,7 @@ Spróbuj ponownie za %d sekund."</string>
   <string name="lunar_zheng"/>
   <string name="memory_clear_nothing_result">Pamięć została już zwolniona</string>
   <string name="memory_clear_result">"Zwolniono: %1$s pamięci | Wolne: %2$s."</string>
+  <string name="minutes">%d minut</string>
   <string name="miui_copyright_title">Prawa autorskie</string>
   <string name="miui_device_name">Android</string>
   <string name="miui_mibi_license_title">Umowa użytkownika Mi Kredyty</string>
@@ -131,7 +132,6 @@ Spróbuj ponownie za %d sekund."</string>
   <string name="miui_unlockscreen_password_wrong">Spróbuj ponownie</string>
   <string name="miui_user_agreement_title">Umowa użytkownika</string>
   <string name="miui_user_manual_title">Podręcznik użytkownika</string>
-  <string name="minutes">%d minut</string>
   <string name="month_of_april">Kwi</string>
   <string name="month_of_august">Sie</string>
   <string name="month_of_december">Gru</string>
@@ -209,10 +209,8 @@ Czujnik zasłonięty!"</string>
   <string name="summer_begins">Początek lata</string>
   <string name="summer_solstice">Przesilenie letnie</string>
   <string name="sync_one_time_sync">Dotknij by zsynchronizować (%1$s)</string>
-  <string name="text_pastelist">Schowek</string>
-  <string name="today">Dzisiaj</string>
   <string name="teachers_day">Dzień nauczyciela</string>
-  <string name="tomorrow">Jutro</string>
+  <string name="text_pastelist">Schowek</string>
   <string name="the_armys_day"/>
   <string name="the_double_ninth_festival"/>
   <string name="the_dragon_boat_festival"/>
@@ -220,6 +218,8 @@ Czujnik zasłonięty!"</string>
   <string name="the_mid_autumn_festival"/>
   <string name="the_rains"/>
   <string name="the_spring_festival"/>
+  <string name="today">Dzisiaj</string>
+  <string name="tomorrow">Jutro</string>
   <string name="unknown">Nieznany numer</string>
   <string name="unknown_caller">Nieznany numer</string>
   <string name="unlock_string">OK</string>
@@ -250,5 +250,10 @@ Czujnik zasłonięty!"</string>
   <string name="wake_alarm_message">Alarm ustawiony: %s</string>
   <string name="winter_begins">Początek zimy</string>
   <string name="winter_solstice">Przesilenie zimowe</string>
+  <string name="yellow_page_module_sms_sent">Wiadomość tekstowa wysłana.</string>
+  <string name="yellow_page_sms_disabled_in_privacy_mode">"Nie można wysłać wiadomości w trybie chronionym."</string>
+  <string name="yellow_page_sms_send_failed">Nie udało się wysłać wiadomości.</string>
+  <string name="yellow_page_sms_sending">Wysyłanie…</string>
+  <string name="yellow_page_unable_send_sms">Nie można wysłać wiadomości.</string>
   <string name="yesterday">Wczoraj</string>
 </resources>

@@ -8,12 +8,48 @@
   <string name="account_hint_text">E-mail/Numer telefonu</string>
   <string name="account_name">Konto: %1$s</string>
   <string name="activate_phone_failed_notif_title">Nie udało się aktywować usługi Chmury Xiaomi</string>
+  <string name="activate_phone_failed_notif_title_msim">Nie udało się aktywować usługi Chmury Xiaomi dla SIM %s</string>
   <string name="activate_phone_send_sms_fail">Nie udało się wysłać SMSa aktywacyjnego</string>
   <string name="activate_phone_send_sms_failed_notif">Nie udało się wysłać SMSa aktywacyjnego</string>
-  <string name="activate_phone_server_error">Serwer niedostępny</string>
-  <string name="activate_phone_server_error_notif">Błąd serwera</string>
-  <string name="activating">Aktywacja...</string>
+  <string name="activate_phone_server_error">Błąd serwera.</string>
+  <string name="activate_phone_server_error_notif">Błąd serwera.</string>
+  <string name="activate_status_desc_acquire_phone_number">Uzyskiwanie numeru telefonu z serwera</string>
+  <string name="activate_status_desc_acquire_phone_number_server_error">Wystąpił błąd podczas uzyskiwania numeru.</string>
+  <string name="activate_status_desc_acquire_phone_number_server_error_wait">Wystąpił błąd podczas uzyskiwania numeru. Ponawianie próby...</string>
+  <string name="activate_status_desc_acquire_phone_number_server_io_error">Server I/O error while acquiring phone number due.</string>
+  <string name="activate_status_desc_acquire_phone_number_server_io_error_wait">Server I/O error while acquiring phone number. Waiting for retry...</string>
+  <string name="activate_status_desc_acquire_phone_number_server_no_info">Nie można uzyskać numeru telefonu.</string>
+  <string name="activate_status_desc_acquire_phone_number_server_no_info_wait">Nie można uzyskać numeru telefonu. Ponawianie próby...</string>
+  <string name="activate_status_desc_acquire_sim_pass_token">Uzyskiwanie informacji z serwera</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_password_error">Nie można uzyskać informacji o zabezpieczeniu z powodu błędnego tokena</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_error">Server error while acquiring security info</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_error_wait">Server error while acquiring security info. Waiting for retry...</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_io_error">Server I/O error while acquiring security info</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_io_error_wait">Server I/O error while acquiring security info. Waiting for retry...</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_no_info">Cannot get security info</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_no_info_wait">Cannot get security info. Waiting for retry...</string>
+  <string name="activate_status_desc_acquire_sim_user_id">Uzyskiwanie informacji o ID użytkownika</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_error">Server error while acquiring registration info</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_error_wait">Server error while acquiring registration info. Waiting for retry...</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_io_error">Server I/O error while acquiring registration info</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_io_error_wait">Server I/O error while acquiring registration info. Waiting for retry...</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_no_info">Cannot get registration info</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_no_info_wait">Cannot get registration info. Waiting for retry...</string>
+  <string name="activate_status_desc_failed_getting_device_info">Nie można uzyskać informacji o urządzeniu</string>
+  <string name="activate_status_desc_failed_getting_gateway">Nie można połączyć się z bramką SMS</string>
+  <string name="activate_status_desc_failed_getting_sim_info">Nie można uzyskać dostępu do SIM</string>
+  <string name="activate_status_desc_getting_device_info">Uzyskiwanie informacji o urządzeniu</string>
+  <string name="activate_status_desc_getting_gateway">Uzyskiwanie informacji o bramce SMS</string>
+  <string name="activate_status_desc_getting_sim_info">Uzyskiwanie informacji o SIM</string>
+  <string name="activate_status_desc_prepare_sending_sms">Przygotowanie do wysłania SMS</string>
+  <string name="activate_status_desc_sending_sms">Wysyłanie wiadomości aktywacyjnej do bramki SMS</string>
+  <string name="activate_status_desc_sim_absent">Karta SIM nie jest dostępna</string>
+  <string name="activate_status_desc_sms_sent">Wiadomość aktywacyjna została pomyślnie wysłana</string>
+  <string name="activate_status_title_activating">Aktywacja karty SIM</string>
+  <string name="activate_status_title_activating_msim">Aktywacja karty SIM %s</string>
+  <string name="activating">Aktywacja…</string>
   <string name="add_weibo_account">Dodaj konto</string>
+  <string name="alert_notif_title_dspt">Proposes to restore synchronization to ensure data security</string>
   <string name="alert_title_remove_account">Usuń konto</string>
   <string name="app_name">Usługi Xiaomi</string>
   <string name="available_functionality">Dostępne funkcje</string>
@@ -24,9 +60,11 @@
   <string name="binded">Powiązany</string>
   <string name="btn_activate">Aktywuj</string>
   <string name="button_cancel">Anuluj</string>
+  <string name="captcha">Kod Captcha</string>
   <string name="check_phone_error_title">Nie udało się uruchomić usługi synchronizacji</string>
   <string name="check_phone_io_error">Błąd sieci</string>
   <string name="checking_account">Weryfikacja konta...</string>
+  <string name="checking_input">Sprawdzanie...</string>
   <string name="cloud_messaging">Wiadomości w chmurze</string>
   <string name="cmcc_data_sync_notice">Wykorzystaj konto Xiaomi by synchronizować wiadomości, kontakty, galerię zdjęć i inne dane w chmurze</string>
   <string name="cmcc_micloud_dspt">Usługi chmury pozwalają także na lokalizację urządzenia. Możesz zarządzać swoimi danymi w każdej chwili z komputera!</string>
@@ -36,9 +74,13 @@
   <string name="data_keep_in_phone">Zatrzymaj na moim urządzeniu</string>
   <string name="data_sync_notice">Wykorzystaj konto Xiaomi do synchronizacji wiadomości, kontaktów i innych danych telefonu</string>
   <string name="data_wipe_from_phone">Usuń z urządzenia</string>
+  <string name="dirty_contacts_count">Kontakty: %d</string>
+  <string name="dirty_mms_count">SMS: %d</string>
+  <string name="dirty_note_count">Notatki: %d </string>
   <string name="disable_find_device_error">%1$s, nieudane wyłączenie lokalizacji telefonu</string>
   <string name="disable_micloud">Nie aktywuj Chmury Xiaomi</string>
   <string name="email_already_be_used">Adres E-mail w użyciu</string>
+  <string name="enableAll">Włącz wszystko</string>
   <string name="enable_find_device_error">%1$s, nieudane włączenie z lokalizacją telefonu</string>
   <string name="enable_micloud">Włącz usługi w chmurze</string>
   <string name="error_dup_phone">Telefon zarejestrowany</string>
@@ -48,6 +90,7 @@
   <string name="error_server">Błąd serwera</string>
   <string name="error_sim_not_ready">SIM nie gotowa</string>
   <string name="error_unknown">Nieznany błąd: %1$s</string>
+  <string name="error_user_name">Nieprawidłowa nazwa użytkownika.</string>
   <string name="failed_to_send_activate_email">Nie udało się wysłać E-maila aktywacyjnego.</string>
   <string name="find_device">Lokalizacja urządzenia</string>
   <string name="find_device_check_phone_error_title">Nie udało się włączyć lokalizacji urządzenia</string>
@@ -66,7 +109,10 @@
   <string name="get_back_pwd">Odzyskaj hasło do konta</string>
   <string name="header_data_and_synchronization">Konta i synchronizacja</string>
   <string name="i_know">OK</string>
+  <string name="input_captcha_hint">Wprowadź kod Captcha</string>
   <string name="input_password_hint">Wprowadź hasło</string>
+  <string name="input_vcode_hint">Wprowadź kod weryfikacyjny</string>
+  <string name="input_vcode_prompt">Wprowadź kod weryfikacyjny</string>
   <string name="int_phone_user_notice">Wprowadź numer telefonu wg. formatu: +48xxxxxxxxx</string>
   <string name="internet_comm">Wiadomości</string>
   <string name="internet_message">Wiadomości w chmurze</string>
@@ -74,6 +120,10 @@
   <string name="login_failed">Wpisanie się nieudane</string>
   <string name="login_instead_reg">Zaloguj używając numeru telefonu</string>
   <string name="login_notice">Wpisywanie...</string>
+  <string name="master_alert_notif_dspt" formatted="false">"W tym czasie dodano %s kontaktów, %s SMS, %s zdjęć, %s notatek. 
+
+ W przypadku zgubienia telefonu, te dane zostaną bezpowrotnie stracone. Zalecane jest przywrócenie synchronizacji danych"</string>
+  <string name="master_alert_notif_title">Dane nie są synchronizowane od %s dni</string>
   <string name="micloud_account">Xiaomi</string>
   <string name="micloud_account_label">Konto: %1$s</string>
   <string name="micloud_account_name">Xiaomi</string>
@@ -97,8 +147,10 @@
   <string name="micloud_dspt">Usługi w chmurze to m.in wiadomości online, synchronizacja czy lokalizacja urządzenia.  Możesz także zarządzać swoimi danymi online w każdej chwili!</string>
   <string name="micloud_email">Adres E-mail</string>
   <string name="micloud_error_email">Nieprawidłowy E-mail</string>
+  <string name="micloud_error_empty_captcha_code">Wpisz kod Captcha</string>
   <string name="micloud_error_empty_pwd">Puste hasło</string>
   <string name="micloud_error_empty_username">Puste pole użytkownika</string>
+  <string name="micloud_error_empty_vcode">Wpisz kod weryfikacyjny.</string>
   <string name="micloud_error_illegal_pwd">Nieprawidłowe hasło</string>
   <string name="micloud_input_password_prompt">Wpisz hasło</string>
   <string name="micloud_intro_01_part_01">Oszczędzaj na kosztach SMS</string>
@@ -123,12 +175,14 @@
   <string name="mili_center">Mi Kredyty</string>
   <string name="my_xiaomi_account">Moje konto Xiaomi</string>
   <string name="next">Dalej</string>
-  <string name="nobind">Brak autoryzacji</string>
+  <string name="noRemind">Nie przypominaj</string>
+  <string name="nobind">"Nie łącz"</string>
   <string name="other_settings">Usługi lokalizacyjne</string>
   <string name="password">Hasło</string>
   <string name="prev">Wstecz</string>
   <string name="process_result">Wynik:</string>
-  <string name="quick_login_title">"Wymagana jest autoryzacja. Wpisz hasło"</string>
+  <string name="quick_login_step2_title">"Wymagana jest autoryzacja. Wpisz hasło"</string>
+  <string name="quick_login_title">Hasło</string>
   <string name="reg_by_email_failure">Rejestracja nieudana: %1$s</string>
   <string name="reg_failed">Rejestracja nieudana</string>
   <string name="reg_success">Rejestracja pomyślna</string>
@@ -141,6 +195,7 @@
   <string name="remove_confirm">Usuń</string>
   <string name="remove_unactivated_account_notice">Konto Xiaomi nie jest aktywowane. Usunąć konto?</string>
   <string name="removing_account">Usuwanie konta...</string>
+  <string name="restoreSync">Przywracanie</string>
   <string name="send_int_sms_for_sync_notice">Zostanie wysłany SMS do aktywacji. Koszt SMS wg. taryfy operatora. Kontynuwać?</string>
   <string name="send_sms_for_sync_notice">Zostanie wysłany SMS do aktywacji, kontynuować?</string>
   <string name="send_sms_for_sync_title">Usługa synchronizacji nieaktywowana</string>
@@ -149,17 +204,23 @@
   <string name="sim_changed_notification_content">SIM nieaktywna, aktywuj ponownie</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Pomiń logowanie</string>
+  <string name="skip_login_u">Pomiń logowanie</string>
   <string name="skip_setup_account_msg">Korzystając z konta Xiaomi możesz synchronizować i zapisywać swoje SMSy, kontakty, zdjęcia i notatki. Przejść do ustawień później?</string>
   <string name="skip_setup_account_title">Pomiń logowanie do konta</string>
   <string name="start_micloud">Start</string>
-  <string name="sync_dspt">Włącz synchronizację usług</string>
+  <string name="sub_alert_notif_dspt" formatted="false">"Masz niesynchronizowane %s kontaktów, %s SMS, %s zdjęć i %s notatek. 
+
+ W przypadku zgubienia telefonu, te dane zostaną bezpowrotnie stracone. Zalecane jest przywrócenie synchronizacji danych"</string>
+  <string name="sub_alert_notif_title">Włącz synchronizację usług</string>
+  <string name="sync_dspt">Włącz synchronizację</string>
   <string name="sync_off">Wył</string>
   <string name="sync_on">Wł</string>
   <string name="sync_sub_dspt">Zostanie wysłany SMS aby aktywować usługę</string>
   <string name="sync_sub_int_dspt">Zostanie wysłany SMS aby aktywować usługę</string>
   <string name="title_reg">Wpisz się na konto Xiaomi</string>
+  <string name="trust_device">Zaufane urządzenie</string>
   <string name="unactivated_user">Bez aktywacji</string>
-  <string name="unbind">De-authorise</string>
+  <string name="unbind">Odłącz</string>
   <string name="update_contacts">Aktualizuj kontakty</string>
   <string name="update_contacts_description">Aktualizuj kontakty i inne informacje</string>
   <string name="updated_contacts">Aktualizuj %s kontaktów</string>
@@ -171,6 +232,14 @@
   <string name="user_agreement_p4">Polityka Prywatności</string>
   <string name="user_agreement_p5">"Zgadzasz się na poniższe warunki 
 "</string>
+  <string name="vcode">Kod weryfikacyjny</string>
+  <string name="vcode_notification_title">Weryfikacja logowania jest niekompletna</string>
+  <string name="vcode_prompt_long">Wpisz kod weryfikacyjny wygenerowany przez Xiaomi</string>
+  <string name="wipe_data_dialog_msg">%s nie jest synchronizowanych. Ten dane zostaną utracone w przypadku kontynuowania.</string>
+  <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="wipe_data_dialog_title">"Nie wszystko zostało zsynchronizowane."</string>
+  <string name="wrong_captcha">Nieprawidłowy kod Captcha</string>
+  <string name="wrong_vcode">Nieprawidłowy kod</string>
   <string name="xiaomi_cloud_service">Chmura Xiaomi</string>
   <string name="xmpp_server_addr"/>
 </resources>

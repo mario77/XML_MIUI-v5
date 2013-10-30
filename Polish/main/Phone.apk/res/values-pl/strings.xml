@@ -92,10 +92,12 @@
   <string name="auto_record_scenario_enteries_always_miui">Nagrywanie wszystkich numerów</string>
   <string name="auto_record_scenario_enteries_whitelist_miui">Nagrywanie wybranego numeru</string>
   <string name="auto_record_scenario_title_miui">Nagrywanie numerów</string>
+  <string name="auto_record_unknown_miui">Nieznane numery</string>
   <string name="auto_record_whitelist_miui">Wybierz numery</string>
   <string name="auto_record_whitelist_no_item_miui">Kliknij przycisk aby dodać numery</string>
   <string name="auto_record_whitelist_summary_for_one_miui">1</string>
   <string name="auto_record_whitelist_summary_miui">%d numerów</string>
+  <string name="auto_record_yellowpage_miui">Wyjątki</string>
   <string name="auto_redial_pref_summary_miui">Jeśli nie połączono, system będzie próbował połączyć się 10 razy wybierając numer automatycznie</string>
   <string name="auto_redial_pref_title_miui">Ponowne wybieranie</string>
   <string name="auto_reject_sum">Block different incoming calls directly</string>
@@ -124,8 +126,6 @@
   <string name="buttonTxtContinue">Kontynuuj</string>
   <string name="callDurationFormat">%1$s min %2$s sek</string>
   <string name="callFailed_cb_enabled">"Nie możesz wykonywać połączeń wychodzących gdy jest aktywne Ograniczenie połączeń."</string>
-  <string name="callFailed_cdma_notEmergency">Tylko połączenia alarmowe.</string>
-  <string name="callFailed_cdma_reorder">CDMA: reorder.</string>
   <string name="callFailed_congestion">Sieć zajęta</string>
   <string name="callFailed_dsac_restricted">Wszystkie połączenia są zablokowane przez funkcję kontroli dostępu.</string>
   <string name="callFailed_dsac_restricted_emergency">Połączenia alarmowe są zablokowane przez funkcję kontroli dostępu.</string>
@@ -807,12 +807,14 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   Are you sure to allow mobile data service preferred?"</string>
   <string name="pch_data_prefer_summary">Allow mobile data transmission at full speed</string>
   <string name="pch_data_prefer_title">Mobile data service preferred</string>
+  <string name="payphone">Telefon płatny</string>
   <string name="phoneAppLabel">Telefon</string>
   <string name="phoneIconLabel">Telefon</string>
   <string name="phone_entered_ecm_text">Włączono tryb alarmowego połączenia zwrotnego</string>
   <string name="phone_in_ecm_call_notification_text">Połączenie transmisji danych jest wyłączone</string>
   <string name="phone_in_ecm_notification_title">Tryb alarmowego połączenia zwrotnego</string>
   <string name="phone_info_divider">"  |  "</string>
+  <string name="phone_numbers">Wpisz numery</string>
   <string name="pick_outgoing_call_phone_type">Zadzwoń</string>
   <string name="pick_outgoing_sip_phone">Użyj konta do dzwonienia przez internet:</string>
   <string name="pin2_changed">Kod PIN2 został pomyślnie zmieniony</string>
