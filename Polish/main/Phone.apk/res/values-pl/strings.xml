@@ -97,7 +97,7 @@
   <string name="auto_record_whitelist_no_item_miui">Kliknij przycisk aby dodać numery</string>
   <string name="auto_record_whitelist_summary_for_one_miui">1</string>
   <string name="auto_record_whitelist_summary_miui">%d numerów</string>
-  <string name="auto_record_yellowpage_miui">Wyjątki</string>
+  <string name="auto_record_yellowpage_miui">Wyjątki (tylko w Chinach)</string>
   <string name="auto_redial_pref_summary_miui">Jeśli nie połączono, system będzie próbował połączyć się 10 razy wybierając numer automatycznie</string>
   <string name="auto_redial_pref_title_miui">Ponowne wybieranie</string>
   <string name="auto_reject_sum">Block different incoming calls directly</string>
@@ -120,7 +120,7 @@
   <string name="badPuk2">Kod PUK2 nie jest poprawny. Spróbuj ponownie.</string>
   <string name="bad_pin2_miui">Stary PIN2 jest niepoprawny. Spróbuj ponownie.</string>
   <string name="bad_pin_miui">Stary PIN nie jest poprawny. Spróbuj ponownie.</string>
-  <string name="bad_puk2_miui">KKod PUK2 nie jest poprawny. Spróbuj ponownie.</string>
+  <string name="bad_puk2_miui">Kod PUK2 nie jest poprawny. Spróbuj ponownie.</string>
   <string name="bad_puk_miui">Kod PUK jest nie jest poprawny. Spróbuj ponownie.</string>
   <string name="bf_news_settings">Wiadomości biznesowe i finansowe</string>
   <string name="buttonTxtContinue">Kontynuuj</string>
@@ -354,7 +354,7 @@
   <string name="disable_sim_pin">Wyłącz PIN do karty SIM</string>
   <string name="disable_sim_pin_miui">Wyłącz PIN do karty SIM</string>
   <string name="display_name">DisplayName</string>
-  <string name="display_name_summary">&lt;Takie jak nazwa użytk.&gt;</string>
+  <string name="display_name_summary">"Takie jak nazwa użytk."</string>
   <string name="display_name_title">Nazwa wyświetlana</string>
   <string name="dm_lock">DM Locked</string>
   <string name="dm_unlock">DM Unlock</string>
@@ -1168,7 +1168,7 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="voicemail_notification_vibarte_when_dialog_title">Wibruj</string>
   <string name="voicemail_notification_vibrate_when_default">never</string>
   <string name="voicemail_notification_vibrate_when_title">Wibracja</string>
-  <string name="voicemail_number_not_set">nie ustawiono&gt;</string>
+  <string name="voicemail_number_not_set">nie ustawiono</string>
   <string name="voicemail_provider">Usługa poczty głosowej</string>
   <string name="voicemail_provider_miui">Usługa poczty głosowej</string>
   <string name="voicemail_provider_sum_miui">Wybierz usługę poczty głosowej</string>
@@ -1246,10 +1246,8 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="vt_recording_saved">The recording has been saved.</string>
   <string name="vt_recording_saved_fail">The recording was saved unsuccessfully.</string>
   <string name="vt_recording_saved_sd_full">SD card is out of space, the recording has been saved.</string>
-  <string name="vt_sd_not_enough">"SD card is running
-  out of space"</string>
-  <string name="vt_sd_null">"SD card is
-  unavailable"</string>
+  <string name="vt_sd_not_enough">"SD card is running out of space"</string>
+  <string name="vt_sd_null">"SD card is unavailable"</string>
   <string name="vt_settings">Video settings</string>
   <string name="vt_start_time_from">Started from</string>
   <string name="vt_swap_video">Swap videos</string>

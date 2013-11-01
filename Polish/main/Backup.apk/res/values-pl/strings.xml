@@ -51,7 +51,7 @@
   <string name="cancel">Anuluj</string>
   <string name="cancel_backup">Anuluj kopię</string>
   <string name="cancel_restore">Anuluj przywracanie</string>
-  <string name="cloud_app_backup_date">"Skopiowane "</string>
+  <string name="cloud_app_backup_date">" "</string>
   <string name="cloud_app_backup_pending">Oczekiwanie…</string>
   <string name="cloud_app_backup_progress">Kopiowanie…</string>
   <string name="cloud_app_backup_summary">Automatyczna kopia aplikacji i danych użytkownika podczas ładowania telefonu i połączeniu z Wi-Fi</string>
@@ -68,12 +68,12 @@
   <string name="cloud_app_mine">Pobrane aplikacje</string>
   <string name="cloud_app_name">Kopia online</string>
   <string name="cloud_app_no_data">Brak danych.</string>
-  <string name="cloud_app_other_devices">Inne urządzenia</string>
+  <string name="cloud_app_other_devices">Urządzenia</string>
   <string name="cloud_app_remove_error">Nie można usunąć.</string>
   <string name="cloud_app_remove_pending">Oczekiwanie…</string>
   <string name="cloud_app_remove_progress">Usuwanie…</string>
   <string name="cloud_app_remove_prompt">%1$s danych będzie usuwanych. Kontynuować?</string>
-  <string name="cloud_app_restore_action_bar_title">Skopiowano %1$s danych</string>
+  <string name="cloud_app_restore_action_bar_title">Kopia zapasowa: %1$s</string>
   <string name="cloud_app_restore_app_and_data">Przywróć aplikacje i dane użytkownika</string>
   <string name="cloud_app_restore_data">Przywróć poprzednio instalowane aplikacje</string>
   <string name="cloud_app_restore_data_title">Przywróć dane użytkownika</string>
@@ -86,7 +86,7 @@
   <string name="cloud_app_restore_summary">Przywróć instalowane wcześniej aplikacje i powiązane z nimi dane użytkownika</string>
   <string name="cloud_app_restore_wifi_prompt">Musisz być połączony z internetem przez Wi-Fi aby przywracać dane i aplikacje.</string>
   <string name="cloud_app_total_size">Rozmiar kopii: %1$s</string>
-  <string name="cloud_app_version_size">Wersja: %1$s, Rozmiar:%2$s</string>
+  <string name="cloud_app_version_size">Wersja: %1$s, Rozmiar: %2$s</string>
   <string name="cloud_backup_hint">Zaloguj aby bezpiecznie przechować Twoje Kopie</string>
   <string name="cloud_backup_login">Zaloguj na konto Xiaomi</string>
   <string name="cloud_backup_window_title">Kopia danych online</string>

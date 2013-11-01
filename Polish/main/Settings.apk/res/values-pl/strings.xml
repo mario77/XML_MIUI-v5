@@ -40,15 +40,7 @@ Jeśli z tego urządzenia korzysta kilka osób, użycie tego skrótu na zablokow
   <string name="accessibility_no_services_installed">Brak zainstalowanych usług</string>
   <string name="accessibility_power_button_ends_call_prerefence_title">Przycisk kończy rozmowę</string>
   <string name="accessibility_power_button_ends_call_title">Przycisk kończy rozmowę</string>
-  <string name="accessibility_screen_magnification_summary">"Kiedy ta funkcja jest włączona, możesz powiększyć i pomniejszyć obraz, trzykrotnie klikając ekran.
-
-W trybie powiększenia możesz:
-"&lt;li&gt;&lt;ul&gt;"Przesuwa&amp;#263;: przeci&amp;#261;gnij palcami po ekranie.
-"&lt;li&gt;Regulowa&amp;#263; powi&amp;#281;kszenie: &amp;#347;ci&amp;#261;gnij lub rozsu&amp;#324; palce.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
-
-Mo&amp;#380;esz te&amp;#380; tymczasowo powi&amp;#281;kszy&amp;#263; miejsce pod palcem, klikaj&amp;#261;c trzykrotnie i przytrzymuj&amp;#261;c palec na ekranie. W takim widoku &amp;#8222;lupy&amp;#8221; mo&amp;#380;esz przesuwa&amp;#263; palcem po ekranie i powi&amp;#281;ksza&amp;#263; r&amp;#243;&amp;#380;ne miejsca. Podniesienie palca spowoduje powr&amp;#243;t do poprzedniego widoku.
-
-Uwaga: trzykrotne klikni&amp;#281;cie powi&amp;#281;kszaj&amp;#261;ce dzia&amp;#322;a wsz&amp;#281;dzie poza klawiatur&amp;#261; i paskiem nawigacji."</string>
+  <string name="accessibility_screen_magnification_summary">"Kiedy ta funkcja jest włączona, możesz powiększyć i pomniejszyć obraz, trzykrotnie klikając ekran."</string>
   <string name="accessibility_screen_magnification_title">Gesty powiększania</string>
   <string name="accessibility_script_injection_allowed">Dozwolone</string>
   <string name="accessibility_script_injection_button_allow">Zezwalaj</string>
@@ -324,7 +316,7 @@ Czy włączyć funkcję?"</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">Aplikacja chce włączyć Bluetooth i ustawić Twój telefon jako wykrywalny dla innych urządzeń. Później możesz to zmienić w ustawieniach Bluetooth.</string>
   <string name="bluetooth_ask_lasting_discovery">Aplikacja chce ustawić Twój telefon jako wykrywalny dla innych urządzeń Bluetooth. Później możesz to zmienić w ustawieniach Bluetooth.</string>
   <string name="bluetooth_auto_connect">Połącz automatycznie</string>
-  <string name="bluetooth_confirm_passkey_msg">Aby sparować z urządzeniem:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Upewnij się, że jest na nim wyświetlony następujący klucz:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_confirm_passkey_msg">Aby sparować z urządzeniem: %1$s. Upewnij się, że jest na nim wyświetlony następujący klucz: %2$s</string>
   <string name="bluetooth_connect_specific_profiles_title">Połącz z siecią…</string>
   <string name="bluetooth_connected">Połączony</string>
   <string name="bluetooth_connected_no_a2dp">Połączono (bez multimediów)</string>
@@ -353,10 +345,10 @@ Czy włączyć funkcję?"</string>
   <string name="bluetooth_device_name">Nazwa urządzenia</string>
   <string name="bluetooth_device_searchable">Urządzenie widoczne</string>
   <string name="bluetooth_devices">Lista urządzeń</string>
-  <string name="bluetooth_disable_profile_message">Spowoduje to wyłączenie profilu:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Urządzenie:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_disable_profile_message">Spowoduje to wyłączenie profilu: %1$s. Urządzenie: %2$s</string>
   <string name="bluetooth_disable_profile_title">Wyłączyć profil?</string>
   <string name="bluetooth_disconnect_a2dp_profile">Urządzenie %1$s zostanie odłączone od funkcji audio multimediów.</string>
-  <string name="bluetooth_disconnect_all_profiles">Spowoduje to zakończenie połączenia z urządzeniem:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
+  <string name="bluetooth_disconnect_all_profiles">Spowoduje to zakończenie połączenia z urządzeniem: %1$s</string>
   <string name="bluetooth_disconnect_headset_profile">Urządzenie %1$s zostanie odłączone od zestawu głośnomówiącego.</string>
   <string name="bluetooth_disconnect_hid_profile">%1$s zostanie odłączony od urządzenia wejściowego.</string>
   <string name="bluetooth_disconnect_pan_nap_profile">Urządzenie %1$s nie będzie korzystać z połączenia internetowego tego telefonu.</string>
@@ -364,7 +356,7 @@ Czy włączyć funkcję?"</string>
   <string name="bluetooth_disconnect_title">Rozłączyć?</string>
   <string name="bluetooth_disconnected">Rozłączona</string>
   <string name="bluetooth_disconnecting">Rozłączanie...</string>
-  <string name="bluetooth_display_passkey_pin_msg">Aby sparować z urządzeniem &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;, wpisz na nim klucz &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;, a
+  <string name="bluetooth_display_passkey_pin_msg">Aby sparować z urządzeniem  %1$s, wpisz na nim klucz  %2$s, a
     następnie naciśnij klawisz zatwierdzania.</string>
   <string name="bluetooth_dock_settings">Ustawienia podstawki</string>
   <string name="bluetooth_dock_settings_a2dp">Dla muzyki i multimediów</string>
@@ -381,9 +373,9 @@ Czy włączyć funkcję?"</string>
   <string name="bluetooth_empty_list_bluetooth_off">Aby zobaczyć urządzenia, włącz moduł Bluetooth.</string>
   <string name="bluetooth_enable">Włącz Bluetooth</string>
   <string name="bluetooth_enable_alphanumeric_pin">Kod PIN zawiera litery lub symbole</string>
-  <string name="bluetooth_enter_passkey_msg">"Aby sparować z urządzeniem :&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;, wpisz wymagane hasło klucz urządzenia:"</string>
+  <string name="bluetooth_enter_passkey_msg">"Aby sparować z urządzeniem : %1$s , wpisz wymagane hasło klucz urządzenia:"</string>
   <string name="bluetooth_enter_passkey_other_device">Może być również konieczne wpisanie tego klucza na drugim urządzeniu.</string>
-  <string name="bluetooth_enter_pin_msg">Aby sparować z urządzeniem &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;, wpisz wymagany kod PIN urządzenia:</string>
+  <string name="bluetooth_enter_pin_msg">Aby sparować z urządzeniem  %1$s , wpisz wymagany kod PIN urządzenia:</string>
   <string name="bluetooth_enter_pin_other_device">Może być również konieczne wpisanie tego kodu PIN na drugim urządzeniu.</string>
   <string name="bluetooth_error_title"/>
   <string name="bluetooth_ftp_acceptance_dialog_text">%1$s would like to access your files and folders. Give access to %2$s?</string>
@@ -394,7 +386,7 @@ Czy włączyć funkcję?"</string>
   <string name="bluetooth_headset_profile_summary_use_for">Użyj dla funkcji audio telefonu</string>
   <string name="bluetooth_hid_profile_summary_connected">Podłączono do urządzenia wejściowego</string>
   <string name="bluetooth_hid_profile_summary_use_for">Użyj do wprowadzania</string>
-  <string name="bluetooth_incoming_pairing_msg">Od:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Sparować z tym urządzeniem?</string>
+  <string name="bluetooth_incoming_pairing_msg">Od: %1$s Sparować z tym urządzeniem?</string>
   <string name="bluetooth_is_discoverable">Widoczne dla wszystkich urządzeń Bluetooth (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Widoczne dla wszystkich urządzeń Bluetooth</string>
   <string name="bluetooth_lock_voice_dialing">Zablokuj wybieranie głosowe</string>
@@ -621,7 +613,7 @@ Encryption ustawienia transmisji danych są zazwyczaj dostępne bezpośrednio w 
   <string name="data_usage_auto_sync_off_dialog">Powoduje przesyłanie mniejszej ilości danych oraz zmniejsza użycie baterii, ale pobranie najnowszych informacji będzie
     wymagało ręcznej synchronizacji każdego konta. Poza tym nie będziesz otrzymywać powiadomień o aktualizacjach.</string>
   <string name="data_usage_auto_sync_off_dialog_title">Wyłączyć autosynchronizację?</string>
-  <string name="data_usage_auto_sync_on_dialog">"Wszystkie zmiany, które wprowadzisz na swoich kontach w sieci, będą automatycznie kopiowane na Twój telefon. Niektóre konta mogą też kopiować do sieci wszystkie zmiany, które wprowadzisz na telefonie. W ten sposób działa konto Google. Aby wybrać informacje synchronizowane przez poszczególne konta, wyświetl Ustawienia &gt; Konta."</string>
+  <string name="data_usage_auto_sync_on_dialog">"Wszystkie zmiany, które wprowadzisz na swoich kontach w sieci, będą automatycznie kopiowane na Twój telefon. Niektóre konta mogą też kopiować do sieci wszystkie zmiany, które wprowadzisz na telefonie. W ten sposób działa konto Google. Aby wybrać informacje synchronizowane przez poszczególne konta, wyświetl Ustawienia > Konta."</string>
   <string name="data_usage_auto_sync_on_dialog_title">Włączyć auto synchronizację?</string>
   <string name="data_usage_change_cycle">Zmień cykl</string>
   <string name="data_usage_cycle">Cykl transmisji danych</string>
@@ -1176,10 +1168,9 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="master_clear_all">"Wymazać wszystkie dane i przywrócić ustawienia fabryczne? Tej czynności nie można cofnąć."</string>
   <string name="master_clear_button_text">Resetuj telefon</string>
   <string name="master_clear_confirm_title">Zresetować?</string>
-  <string name="master_clear_desc">Powrót do ustawień fabrycznych spowoduje wymazanie wszystkich danych z &lt;b&gt;pami&amp;#281;ci wewn&amp;#281;trznej&lt;/b&gt;" telefonu, w tym: "&lt;li&gt;danych Twojego
-      konta Google,&lt;/li&gt;" "&lt;li&gt;danych i ustawie&amp;#324; systemu oraz aplikacji,&lt;/li&gt;" "&lt;li&gt;a tak&amp;#380;e pobranych aplikacji.&lt;/li&gt;</string>
-  <string name="master_clear_desc_also_erases_external">&lt;li&gt;Muzyka&lt;/li&gt;" "&lt;li&gt;Zdj&amp;#281;cia&lt;/li&gt;" "&lt;li&gt;Inne dane u&amp;#380;ytkownika&lt;/li&gt;</string>
-  <string name="master_clear_desc_erase_external_storage">" Aby usunąć muzykę, zdjęcia i inne dane użytkownika, należy wymazać "&lt;b&gt;no&amp;#347;nik USB&lt;/b&gt;.</string>
+  <string name="master_clear_desc">Powrót do ustawień fabrycznych spowoduje wymazanie wszystkich danych z pamięci wewnętrznej telefonu, w tym: danych Twojego konta Google, danych i ustawienia systemu oraz aplikacji, a także pobranych aplikacji.</string>
+  <string name="master_clear_desc_also_erases_external">Muzyka, Zdjęcia, inne dane użytkownika</string>
+  <string name="master_clear_desc_erase_external_storage">Aby usunąć muzykę, zdjęcia i inne dane użytkownika, należy wymazać nośnik USB.</string>
   <string name="master_clear_erase_application_progress">Usuwanie aplikacji...</string>
   <string name="master_clear_failed">"Nie wykonano resetowania, ponieważ usługa czyszczenia systemu jest niedostępna."</string>
   <string name="master_clear_final_button_text">Wymaż wszystko</string>
@@ -1194,7 +1185,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="media_button">Przycisk multimedialny</string>
   <string name="media_feedback_enable_title">Wibruj w rytmie</string>
   <string name="media_format_button_text">Wyczyść nośnik USB</string>
-  <string name="media_format_desc">Wymazać cały nośnik USB? Utracisz &lt;b&gt;wszystkie&lt;/b&gt; zapisane dane.</string>
+  <string name="media_format_desc">Wymazać cały nośnik USB? Utracisz wszystkie  zapisane dane.</string>
   <string name="media_format_final_button_text">Wymaż wszystko</string>
   <string name="media_format_final_desc">Wymazać nośnik USB, usuwając wszystkie zapisane na nim pliki? Tej czynności nie można cofnąć.</string>
   <string name="media_format_gesture_explanation">Aby potwierdzić zamiar wyczyszczenia nośnika USB, musisz narysować wzór odblokowania.</string>
@@ -1281,25 +1272,25 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="msd_install_next">Dalej</string>
   <string name="msd_install_retry_linux">"Jeśli komputer nie wykrywa MI 2
 na systemie Ubuntu 12.xx wykonaj polecenia tego poradnika:
-&lt;a href="http://tinyurl.com/Ubuntu-MTP"&gt;Ubuntu-MTP&lt;/a&gt;.
-Uwaga: Ubuntu 13.04 i wy&amp;#380;ej posiada
-ju&amp;#380; wbudowany tryb MTP. 
-Wystarczy pod&amp;#322;&amp;#261;czy&amp;#263; urz&amp;#261;dzenie do USB
+<a href="http://tinyurl.com/Ubuntu-MTP">Ubuntu-MTP</a>.
+Uwaga: Ubuntu 13.04 i nowsze posiada
+już wbudowany tryb MTP. 
+Wystarczy podłączyć urządzenie do USB
 Acid"</string>
   <string name="msd_install_retry_mac">"If the computer did not detect MI 2 properly,
 Try the following:
-"&lt;li&gt;"Do a computer search for
+"Do a computer search for
 Android File Transfer
-for MAC"&lt;/li&gt;"
-"&lt;li&gt;Disconnect the MI 2 to computer USB cable and reconnect.&lt;/li&gt;"
-"&lt;li&gt;Re-install the driver.&lt;/li&gt;</string>
+for MAC"
+"Disconnect the MI 2 to computer USB cable and reconnect."
+"Re-install the driver.</string>
   <string name="msd_install_retry_windows_vista">"Jeśli komputer nie wykryje MI 2,
 spróbuj:
-"&lt;li&gt;Od&amp;#322;&amp;#261;czy&amp;#263; MI 2 od USB i ponownie pod&amp;#322;&amp;#261;czy&amp;#263; do PC.&lt;/li&gt;</string>
+Odłączyć MI 2 od USB i ponownie podłączyć do PC."</string>
   <string name="msd_install_retry_windows_xp">"Jeśli komputer nie wykryje MI 2,
 spróbuj:
-"&lt;li&gt;Od&amp;#322;&amp;#261;czy&amp;#263; MI 2 od USB i ponownie pod&amp;#322;&amp;#261;czy&amp;#263; do PC.&lt;/li&gt;"
-"&lt;li&gt;Przeinstalowa&amp;#263; sterownik&lt;/li&gt;</string>
+Odłączyć MI 2 od USB i ponownie podłączyć do PC.
+Przeinstalować sterownik."</string>
   <string name="msd_install_status_done">Sterownik zainstalowany</string>
   <string name="msd_install_status_undo">Zainstaluj sterownik</string>
   <string name="msd_install_succeed">Sterownik zainstalowany</string>
@@ -1684,11 +1675,11 @@ spróbuj:
   <string name="reset_app_preferences">Resetuj opcje aplikacji</string>
   <string name="reset_app_preferences_button">Resetuj aplikacje</string>
   <string name="reset_app_preferences_desc">"Wszystkie te ustawienia zostaną zresetowane:
-"&lt;li&gt;wy&amp;#322;&amp;#261;czone aplikacje,&lt;/li&gt;"
-"&lt;li&gt;wy&amp;#322;&amp;#261;czone powiadomienia aplikacji,&lt;/li&gt;"
-"&lt;li&gt;aplikacje u&amp;#380;ywane domy&amp;#347;lnie do wykonania czynno&amp;#347;ci,&lt;/li&gt;"
-"&lt;li&gt;ograniczenia u&amp;#380;ycia danych w tle w aplikacjach.&lt;/li&gt;"
- Nie utracisz &amp;#380;adnych danych aplikacji."</string>
+"wyłączone aplikacje,"
+"wyłączone powiadomienia aplikacji,"
+"aplikacje używane domyślnie do wykonania czynności,"
+"ograniczenia użycia danych w tle w aplikacjach."
+ Nie utracisz żadnych danych aplikacji."</string>
   <string name="reset_app_preferences_title">Zresetować opcje aplikacji?</string>
   <string name="restore_default_apn">Przywracanie domyślnych ustawień APN</string>
   <string name="restore_default_apn_completed">Przywracanie domyślnych ustawień APN zostało ukończone.</string>
@@ -1994,9 +1985,9 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="sync_menu_sync_now">Synchronizuj teraz</string>
   <string name="sync_one_time_sync">"Dotknij, aby zsynchronizować %1$s"</string>
   <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;Google Sync &amp;#8211; witamy!&lt;/font&gt;" Synchronizacja danych zapewniaj&amp;#261;ca dost&amp;#281;p do kontakt&amp;#243;w, termin&amp;#243;w oraz innych informacji z dowolnego miejsca."</string>
-  <string name="sync_settings">Konta i synchronizacja</string>
+  <string name="sync_settings">Synchronizacja</string>
   <string name="sync_wifi_label">Ustawienia Wi-Fi</string>
-  <string name="sync_wifi_only">Tylko z Wi-Fi</string>
+  <string name="sync_wifi_only">Synchronizuj po Wi-Fi</string>
   <string name="system">System</string>
   <string name="system_package">Aktualizacji systemu nie można instalować na nośniku zewnętrznym.</string>
   <string name="system_update_settings_list_item_summary"/>
@@ -2369,7 +2360,7 @@ zakończone"</string>
   <string name="wifi_disabled_password_failure">Problem z uwierzytelnianiem</string>
   <string name="wifi_display_available_devices">Dostępne urządzenia</string>
   <string name="wifi_display_details">Ustawienia wyświetlacza</string>
-  <string name="wifi_display_disconnect_text">Spowoduje to zakończenie połączenia z:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
+  <string name="wifi_display_disconnect_text">Spowoduje to zakończenie połączenia z: %1$s </string>
   <string name="wifi_display_disconnect_title">Rozłączyć?</string>
   <string name="wifi_display_no_devices_found">Nie znaleziono wyświetlaczy bezprzewodowych w pobliżu.</string>
   <string name="wifi_display_options_done">Gotowe</string>
@@ -2500,7 +2491,7 @@ zakończone"</string>
   <string name="wifi_setup_back">Wróć</string>
   <string name="wifi_setup_cancel">Anuluj</string>
   <string name="wifi_setup_connect">Połącz</string>
-  <string name="wifi_setup_description_connected">Dotknij opcji &lt;b&gt;Dalej&lt;/b&gt;", aby kontynuowa&amp;#263; konfiguracj&amp;#281;. Wybierz "&lt;b&gt;Wr&amp;#243;&amp;#263;&lt;/b&gt;, aby po&amp;#322;&amp;#261;czy&amp;#263; si&amp;#281; z inn&amp;#261; sieci&amp;#261; Wi-Fi.</string>
+  <string name="wifi_setup_description_connected">Dotknij opcji "Dalej", aby kontynuować konfigurację. Wybierz "Wstecz", aby połączyć się z inną siecią Wi-Fi.</string>
   <string name="wifi_setup_description_connecting">Łączenie może potrwać kilka minut…</string>
   <string name="wifi_setup_detail">Szczegóły sieci</string>
   <string name="wifi_setup_eap_not_supported">Ustawień połączenia Wi-Fi z zabezpieczeniami EAP nie można określić podczas konfiguracji. Możesz to zrobić później na ekranie Ustawienia &gt; Sieci bezprzewodowe.</string>
