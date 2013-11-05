@@ -50,6 +50,9 @@
     <string name="always_use_accessory">Użyj domyślnie dla tego akcesorium USB</string>
     <string name="always_use_device">Użyj domyślnie dla tego urządzenia USB</string>
     <string name="app_label">Interfejs Systemu</string>
+    <string name="audio_effect_custom">Własne</string>
+    <string name="audio_effect_info">Optymalizacja dźwięku</string>
+    <string name="audio_effect_settings">Wybierz typ słuchawek</string>
     <string name="battery_low_percent_format">Pozostało %d%%</string>
     <string name="battery_low_subtitle">Niski poziom baterii.</string>
     <string name="battery_low_title">Podłącz ładowarkę</string>

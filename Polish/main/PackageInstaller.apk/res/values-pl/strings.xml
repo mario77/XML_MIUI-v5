@@ -37,6 +37,7 @@ Wszystkie dane użytkownika zostaną zapisane."</string>
     <string name="install_failed_invalid_apk">Ten pakiet wygląda na uszkodzony.</string>
     <string name="install_failed_msg">Nie można zainstalować aplikacji %1$s w tym telefonie.</string>
     <string name="install_failed_older_sdk">Ten pakiet działa tylko w nowszych wersjach systemu Android.</string>
+    <string name="install_failed_system_incompatible">Ta aplikacja nie jest kompatybilna z systemem MIUI.</string>
     <string name="install_failed_verify_failed">Pakiet nie przeszedł weryfikacji i nie można go zainstalować.</string>
     <string name="install_failed_verify_timeout">Przekroczono czas oczekiwania podczas próby zweryfikowania tego pakietu. Spróbuj zainstalować go ponownie później.</string>
     <string name="installing">Instalowanie...</string>

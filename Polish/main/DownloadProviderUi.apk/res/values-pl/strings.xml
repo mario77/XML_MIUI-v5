@@ -5,6 +5,7 @@
   <string name="app_label">Pobrane</string>
   <string name="button_sort_by_date">Sortuj po dacie</string>
   <string name="button_sort_by_size">Sortuj po rozmiarze</string>
+  <string name="cancel_download_notice">Odrzuć powiadomienie</string>
   <string name="cancel_running_download">Anuluj</string>
   <string name="confirm_delete_downloads_message">%d pobierań zostanie usuniętych!</string>
   <string name="confirm_delete_the_download_item_message">Usunąć pobrane?</string>
@@ -23,6 +24,7 @@
   <string name="dialog_queued_body">Plik jest w kolejce do pobierania.</string>
   <string name="dialog_title_not_available">Pobieranie nieudane</string>
   <string name="dialog_title_queued_body">Plik jeszcze niedostępny</string>
+  <string name="disable_download_only_in_wifi_title">Wyłączanie “Tylko z Wi-Fi”</string>
   <string name="download_complete">Pobrane</string>
   <string name="download_error">Niepowodzenie</string>
   <string name="download_error_insufficient_space">Niewystarczające miejsce</string>
@@ -46,10 +48,12 @@
   <string name="keep_queued_download">Zatrzymaj</string>
   <string name="menu_enter_edit_mode">Edycja</string>
   <string name="menu_preferences">Ustawienia</string>
+  <string name="might_lead_to_mobile_charge">"After canceling, there will be no download prompt of operator's network. This may lead to traffic costs"</string>
   <string name="missing_title">Nieznany</string>
   <string name="no_downloads">Brak pobierań.</string>
   <string name="open_download">Otwórz</string>
   <string name="pause_download">Wstrzymaj</string>
+  <string name="pause_download_when_wifi_disconnected">Pobieraj tylko z Wi-Fi</string>
   <string name="paused_by_app">Pobieranie zatrzymane</string>
   <string name="paused_queued_for_wifi">Oczekiwanie na połączenie Wi-Fi</string>
   <string name="paused_unknown">Wstrzymane z nieznanego powodu</string>
@@ -61,6 +65,7 @@
   <string name="pref_summary_max_bytes_limit_format">Powiadom gdy rozmiar pliku przekracza %s</string>
   <string name="pref_summary_no_limit_popup">Limit wielkości pobieranego pliku wyłączony!</string>
   <string name="pref_title_enable_max_bytes_popup">Powiadomienie o pobieraniu</string>
+  <string name="pref_title_max_bytes_limit">File size limit</string>
   <string name="preferences_title">Ustawienia</string>
   <string name="remove_download">Usuń</string>
   <string name="restart_download">Restart</string>

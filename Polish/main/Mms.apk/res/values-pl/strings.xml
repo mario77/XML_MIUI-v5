@@ -163,6 +163,7 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
   <string name="insufficient_drm_rights">Wykryto niewystarczające uprawnienia DRM.</string>
   <string name="invalid_conversation">Nieprawidłowy wątek</string>
   <string name="invalid_destination">Wprowadzono nieprawidłowy adres.</string>
+  <string name="invalid_private_contact">Nieprawidłowy kontakt</string>
   <string name="invalid_recipient_message">Należy poprawić dane odbiorców, gdyż mogą oni nie otrzymać wiadomości.</string>
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"Styl pokazu slajdów "</string>
