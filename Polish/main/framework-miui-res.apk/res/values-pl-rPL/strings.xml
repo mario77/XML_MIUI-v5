@@ -49,7 +49,7 @@
   <string name="find_device_turn_off_flight_mode">Wyłącz Tryb Samolotowy</string>
   <string name="find_device_turn_off_flight_mode_instructions">"Urządzenie zablokowane. Wyłącz Tryb Samolotowy"</string>
   <string name="firewall_setting">Firewall</string>
-  <string name="first_back_long_press_message">"Chcesz włączyć funkcję kończenia działania aplikacji przez długie naciśnięcie przycisku powrotu? Włącz w Ustawienia &gt; System &gt; Przyciski sprzętowe"</string>
+  <string name="first_back_long_press_message">"Chcesz włączyć funkcję kończenia działania aplikacji przez długie naciśnięcie przycisku powrotu? Włącz w Ustawienia > System > Przyciski sprzętowe"</string>
   <string name="fm_record_smaple_prefix_miui">RadioFM</string>
   <string name="fools_day">"Prima Aprilis"</string>
   <string name="force_exit_message">Pomyślnie zatrzymano \"%1$s\"</string>
@@ -176,7 +176,8 @@ Spróbuj ponownie za %d sekund."</string>
   <string name="safetylegal_activity_unreachable">Telefon nie jest podłączony do usługi danych. Aby wyświetlić informację, przejdź do %s z komputera podłączonego do internetu.</string>
   <string name="screen_button_notification_text">"Naciśnij 'Home'+'Power' aby aktywować"</string>
   <string name="screen_button_notification_title">Przyciski ekranowe wyłączone</string>
-  <string name="screen_on_proximity_sensor_hint">"Naciśnij 'Back' + 'Vol-up' aby wyjść. Info: Ustawienia Systemu - Wyświetlacz"</string>
+  <string name="screen_on_proximity_sensor_hint">"Naciśnij 'Back' + 'Vol-up' aby wyjść. 
+Info: Ustawienia Systemu - Wyświetlacz"</string>
   <string name="screen_on_proximity_sensor_summary">"Blokada funkcji telefonu!
 Czujnik zasłonięty!"</string>
   <string name="screen_on_proximity_sensor_title">Przypadkowe użycie</string>
@@ -218,6 +219,7 @@ Czujnik zasłonięty!"</string>
   <string name="the_mid_autumn_festival"/>
   <string name="the_rains"/>
   <string name="the_spring_festival"/>
+  <string name="toast_lockscreen_glogin_empty_password">Wymagane hasło.</string>
   <string name="today">Dzisiaj</string>
   <string name="tomorrow">Jutro</string>
   <string name="unknown">Nieznany numer</string>
