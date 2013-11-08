@@ -45,7 +45,7 @@
   <string name="btn_recharge_confirm">Potwierdź wpłatę</string>
   <string name="btn_recharge_large">Doładuj</string>
   <string name="btn_recharge_other">Doładuj</string>
-  <string name="btn_recharge_success">Doładowanie zakończone</string>
+  <string name="btn_recharge_success">Gotowe</string>
   <string name="btn_recharge_success_quick">Doładowanie zakończone</string>
   <string name="btn_wait_call">Oczekiwanie…</string>
   <string name="btn_wait_call_count">Oczekiwanie (%1$s)</string>
