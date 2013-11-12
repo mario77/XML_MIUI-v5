@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="account_and_synchronization">Konta i synchronizacja</string>
+  <string name="account_setting">Konto</string>
   <string name="add">Dodaj</string>
   <string name="add_to">Dodaj do</string>
   <string name="add_to_favorite">Dodaj do ulubionych</string>
@@ -30,6 +32,8 @@
   <string name="auto_correct_id3_summary">Automatyczna korekta danych ID3 podczas odtwarzania muzyki</string>
   <string name="batch_correct_id3_completed">Grupowa korekta ID3 ukończona!</string>
   <string name="billboard">Toplisty</string>
+  <string name="bind_baidu_account_setting">Bind Baidu Account</string>
+  <string name="bind_baidu_account_summary">Get your playlist and value-added service by binding Baidu music accout if you already have one</string>
   <string name="buffering">Buforowanie...</string>
   <string name="cancel">Anuluj</string>
   <string name="cancel_sleep_mode">Zatrzymaj uśpienie odtwarzacza</string>
@@ -195,6 +199,7 @@ Spróbuj ponownie później"</string>
   <string name="new_playlist_name_template">Nowa playlista %d</string>
   <string name="no_effect">Płaski</string>
   <string name="no_song_downloaded">Utwory nie mogły być pobrane.</string>
+  <string name="not_login">Wpisz się</string>
   <string name="not_selected">Wybierz utwór</string>
   <string name="notification_artist_album">"%2$s %1$s" </string>
   <string name="online_search_hint">Wyszukaj muzykę online</string>
@@ -275,6 +280,8 @@ Spróbuj ponownie później"</string>
   <string name="start_to_download_album">Pobieranie okładek albumów dla utworów</string>
   <string name="start_to_download_avatar">Pobieranie zdjęć wykonawców</string>
   <string name="streamloadingtext">Łączenie z %s</string>
+  <string name="synchronize_playlist_setting">Synchronizuj listy odtwarzania</string>
+  <string name="synchronize_playlist_summary">Synchronizuje listy odtwarzania z chmurą.</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_edit">Utwór</string>
   <string name="track_num_format">(%s)</string>
@@ -283,4 +290,5 @@ Spróbuj ponownie później"</string>
   <string name="unknown_artist_name">Nieznany wykonawca</string>
   <string name="use_local_album">Dodaj zapisaną okładkę</string>
   <string name="use_local_lyric">Dodaj zapisane słowa piosenek</string>
+  <string name="xiaomi_account_setting">Konto Xiaomi</string>
 </resources>

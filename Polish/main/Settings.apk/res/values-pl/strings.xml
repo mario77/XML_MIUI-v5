@@ -871,12 +871,16 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="erase_application_description">Wymaż wszystkie zainstalowane aplikacje</string>
   <string name="erase_external_storage">Wyczyść kartę SD</string>
   <string name="erase_external_storage_description">Wymaż wszystkie dane z karty SD, np. pliki muzyczne i zdjęcia.</string>
-  <string name="erase_internal_storage">Wyczyść wewnętrzny nośnik USB</string>
-  <string name="erase_internal_storage_description">Wymaż wszystkie dane z wewnętrznego nośnika USB, np. pliki muzyczne i zdjęcia.</string>
+  <string name="erase_internal_storage">Wyczyść nośnik USB</string>
+  <string name="erase_internal_storage_description">Wymaż wszystkie dane z wewnętrznego nośnika USB w tym muzykę i zdjęcia.</string>
   <string name="erase_optional">Opcjonalne</string>
-  <string name="erase_personal_data">Dane osobiste</string>
-  <string name="erase_personal_data_description">W tym konta, kontakty, rejestr połączeń i inne</string>
-  <string name="erase_sure">Potwierdzić usuwanie?</string>
+  <string name="erase_personal_data">Wymazywanie danych osobistych</string>
+  <string name="erase_personal_data_description">"Zostaną usunięte wszystkie dane z wewnętrznej pamięci telefonu,
+w tym:
+<li>Dane konta Xiaomi i Google</li>
+<li>Dane i ustawienia systemu oraz aplikacji</li>
+</string>
+  <string name="erase_sure">Dane osobiste</string>
   <string name="error_apn_empty">Nazwa APN nie może być pusta.</string>
   <string name="error_mcc_not3">Pole MMC musi zawierać 3 cyfry.</string>
   <string name="error_mnc_not23">Pole MNC musi zawierać 2 lub 3 cyfry.</string>

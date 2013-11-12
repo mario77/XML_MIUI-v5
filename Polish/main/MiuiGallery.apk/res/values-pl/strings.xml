@@ -285,6 +285,7 @@
   <string name="open_public_title">Udostępnij album przez URL</string>
   <string name="open_single_image_failure">Nie można otworzyć pliku obrazu!</string>
   <string name="open_sync_title">Wymagana synchronizacja</string>
+  <string name="operation_add_picture">Dodaj zdjęcia</string>
   <string name="operation_delete_confirm_message_folder">"Pliki i katalogi zostaną jednocześnie usunięte"</string>
   <string name="operation_failed">Operacja nieudana!</string>
   <string name="operation_in_process">Przetwarzanie...</string>
@@ -308,8 +309,14 @@
   <string name="photoeditor_name">Photo Studio</string>
   <string name="photos">" zdjęcia"</string>
   <string name="pick_too_many_recipients">Zbyt dużo odbiorców</string>
+  <string name="pick_too_much_tips">"Można zaznaczyć maksymalnie %d elementów."</string>
+  <string name="picker_no_album_selected">Nie wybrano albumu</string>
+  <string name="picker_no_items_selected">Nie wybrano</string>
+  <string name="picker_select_album_title_empty">Wybierz album</string>
+  <string name="picker_tab_camera">Aparat</string>
   <string name="posterize">Posteryzacja</string>
   <string name="ppmm_gallery">PPMM</string>
+  <string name="preparing_data_to_delete">Przygotowanie do usuwania.</string>
   <string name="projection">Projekcja</string>
   <string name="public_url_descript">Każdy posiadacz tego odnośnika URL może mieć dostęp do Twoich albumów</string>
   <string name="publish_failed">Nie udało się udostępnić.</string>
@@ -444,7 +451,10 @@
   <string name="unpublishing">Anulowanie, proszę czekać...</string>
   <string name="untagged">Nieoznaczone</string>
   <string name="user_alias_self">Ja</string>
+  <string name="video_download_in_process">Film jest aktualnie pobierany</string>
+  <string name="video_download_start">Rozpocznij pobieranie filmu</string>
   <string name="video_err">"Nie można odtworzyć filmu."</string>
+  <string name="video_not_exist">Film nie istnieje</string>
   <string name="view_sharers">Pokaż użytkowników</string>
   <string name="vignette">Winieta</string>
   <string name="wallpaper">Tapeta</string>

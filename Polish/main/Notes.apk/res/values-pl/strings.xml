@@ -48,7 +48,6 @@
   <string name="menu_delete">Usuń</string>
   <string name="menu_discard">Odrzuć</string>
   <string name="menu_folder_change_name">Zmień nazwę katalogu</string>
-  <string name="menu_font_size">Czcionka</string>
   <string name="menu_move">Przenieś do katalogu</string>
   <string name="menu_move_parent_folder">Nadrzędny katalog</string>
   <string name="menu_rename_folder">Zmień nazwę</string>
@@ -76,8 +75,8 @@
   <string name="pref_desc_mode_list">Lista</string>
   <string name="pref_title_alarm_when_silent">Alarmy na wyciszeniu</string>
   <string name="pref_title_common">Ustawienia</string>
-  <string name="pref_title_data_export">Kopiowanie notatek</string>
   <string name="pref_title_data_export_to_sdcard">Zachowaj notatki na SD</string>
+  <string name="pref_title_font_size">Rozmiar czcionki</string>
   <string name="pref_title_note_style">Styl wyświetlania</string>
   <string name="preferences_bg_random_appear_title">Losowe tło notatek</string>
   <string name="preferences_title">Ustawienia</string>

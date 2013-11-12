@@ -106,10 +106,10 @@
   <string name="discard_message">Odrzuć</string>
   <string name="discard_message_reason">Wiadomość zostanie odrzucona, ponieważ nie zawiera poprawnych odbiorców.</string>
   <string name="discard_slideshow">Odrzuć pokaz slajdów</string>
-  <string name="dl_failure_notification">Pobieranie wiadomości %1$s od %2$s zakończyło się niepowodzeniem.</string>
+  <string name="dl_failure_notification">"Pobieranie wiadomości %1$s od %2$s zakończyło się niepowodzeniem."</string>
   <string name="done">Gotowe</string>
   <string name="download">Pobierz</string>
-  <string name="download_later">Nie można pobrać w tej chwili. Spróbuj ponownie później.</string>
+  <string name="download_later">"Nie można pobrać w tej chwili. Spróbuj ponownie później."</string>
   <string name="downloading">Pobieranie</string>
   <string name="duration_not_a_number">Czas trwania musi być liczbą</string>
   <string name="duration_sec">Czas trwania (%s s)</string>
@@ -133,7 +133,7 @@
   <string name="exceed_message_size_limitation">Osiągnięto maksymalny rozmiar wiadomości.</string>
   <string name="expire_on">Traci ważność: %s</string>
   <string name="exporting_progress_private_message">Kopiowanie wiadomości z prywatnej skrzynki</string>
-  <string name="failed_to_add_media">Niestety, nie można dodać: %1$s do wiadomości.</string>
+  <string name="failed_to_add_media">"Niestety, nie można dodać: %1$s do wiadomości."</string>
   <string name="failed_to_resize_image">Nie zmieniono rozmiaru zdjęcia.</string>
   <string name="fdn_check_failure">Wiadomości możesz wysyłać wyłącznie na swoje ustalone numery.</string>
   <string name="festival">Polecane</string>
@@ -187,7 +187,7 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
   <string name="message_failed">Niepowodzenie</string>
   <string name="message_failed_body">Wyświetl wiadomość i spróbuj ponownie.</string>
   <string name="message_pending">Oczekujące</string>
-  <string name="message_queued">Nie można w tej chwili wysłać wiadomości. Zostanie ona wysłana, gdy usługa będzie dostępna.</string>
+  <string name="message_queued">"Nie można w tej chwili wysłać wiadomości. Zostanie ona wysłana, gdy usługa będzie dostępna."</string>
   <string name="message_readed">Przeczytane</string>
   <string name="message_received">Dostarczono</string>
   <string name="message_rejected">Odrzucone</string>
@@ -262,6 +262,7 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
   <string name="pick_too_many_recipients">Zbyt dużo odbiorców</string>
   <string name="play">Odtwórz</string>
   <string name="pref_advanced_settings_title">Zaawansowane</string>
+  <string name="pref_collapse_sp_messages_summary">Łączy wiadomości tekstowe od operatora w jeden wątek</string>
   <string name="pref_edit_smsc_address">Numer centrum SMS</string>
   <string name="pref_forward_title">Przekaż</string>
   <string name="pref_messages_to_save">Ustaw liczbę wiadomości w wątku</string>
@@ -398,6 +399,10 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
   <string name="sms_full_title">Pamięć wiadomości tekstowych jest pełna</string>
   <string name="sms_rejected_body">Przychodząca wiadomość została odrzucona z nieznanego powodu.</string>
   <string name="sms_rejected_title">Wiadomość tekstowa została odrzucona</string>
+  <string name="sp_conversation_title">Powiadomienia o wiadomościach</string>
+  <string name="sp_mark_as_read">Oznaczyć wiadomości jako przeczytane?</string>
+  <string name="sp_mark_as_read_progress">Oznaczanie wiadomości...</string>
+  <string name="sp_mark_as_read_title">Przeczytane wiadomości</string>
   <string name="status_failed">Nieudany</string>
   <string name="status_label">"Status: "</string>
   <string name="status_pending">Oczekujący</string>
@@ -420,6 +425,7 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
   <string name="timed_message_expired_title_2">Wysłać teraz?</string>
   <string name="timed_message_in_total">... (%d razem)</string>
   <string name="timed_message_to">do</string>
+  <string name="title_collapse_sp_messages">Połącz wiadomości operatora</string>
   <string name="title_date_type">Czas wiadomości</string>
   <string name="title_timed_message_dialog">Ustaw czas wysłania wiadomości</string>
   <string name="to_address_label">"Do: "</string>
