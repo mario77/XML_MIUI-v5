@@ -3,9 +3,9 @@
   <string name="account_detail">"Konto Xiaomi:
 %1$s"</string>
   <string name="app_name">Płatności</string>
-  <string name="balance">Saldo: %1$s Mi Kredytów</string>
-  <string name="balance_giftcard_payment">%1$s Mi Kredytów（%2$s z karty MI）</string>
-  <string name="balance_payment">%1$s Mi Kredytów</string>
+  <string name="balance">Saldo: %1$s MiKredytów</string>
+  <string name="balance_giftcard_payment">%1$s MiKredytów（%2$s z karty MI）</string>
+  <string name="balance_payment">%1$s MiKredytów</string>
   <string name="bankcall_bank_account">Karta bankowa:</string>
   <string name="bankcall_call_hint">"You will receive Union pays call on (020-96585). Please follow prompts to complete transaction."</string>
   <string name="bankcall_card">Karta bankowa</string>

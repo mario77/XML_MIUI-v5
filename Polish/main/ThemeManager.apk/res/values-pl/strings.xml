@@ -87,14 +87,14 @@
   <string name="resource_comment_upload_hint">Twój komentarz zostanie wyświetlony po szybkiej moderacji.</string>
   <string name="resource_comment_upload_not_bought">"Musisz zastosować motyw zanim zaczniesz komentować."</string>
   <string name="resource_comment_upload_not_logined">Zaloguj się</string>
-  <string name="resource_comment_upload_success">Komentarz wysłany! </string>
+  <string name="resource_comment_upload_success">Komentarz wysłany!</string>
   <string name="resource_default">Domyślny dzwonek</string>
   <string name="resource_default_name">Element</string>
   <string name="resource_delete_all">Czy chcesz usunąć %1$d elementów?</string>
   <string name="resource_delete_confirm">Usunąć te elementy?</string>
   <string name="resource_delta_update_failed">Aktualizacja motywu nieudana! Zostanie pobrany pełny pakiet</string>
-  <string name="resource_delta_update_successful">Aktualizacja motywu pomyślna</string>
-  <string name="resource_delta_update_total">Aktualizacje częściowe %1$d zaoszczędziły %2$s</string>
+  <string name="resource_delta_update_successful">Aktualizacja motywu</string>
+  <string name="resource_delta_update_total">Zaktualizowano: %1$d (%2$s)</string>
   <string name="resource_detail">Szczegóły</string>
   <string name="resource_detail_comment_title">Komentarze</string>
   <string name="resource_detail_jump_to_online_title">W sieci</string>
@@ -123,8 +123,8 @@
   <string name="resource_notification_default">Powiadomienia</string>
   <string name="resource_online">W sieci %1$s</string>
   <string name="resource_pack_confirm">You have already purchased %1$d items, but current price is still more favorable than purchase individually for left items, continue?</string>
-  <string name="resource_pack_discount_info">%1$s Saved!</string>
-  <string name="resource_pack_price_info">%1$s Original</string>
+  <string name="resource_pack_discount_info">%1$s mniej!</string>
+  <string name="resource_pack_price_info">%1$s</string>
   <string name="resource_pack_warning">Attention, you have already purchased %1$d items, current price is no more favorable for left items, please purchase them individually.</string>
   <string name="resource_preview">Podgląd</string>
   <string name="resource_price_format">(%1$s)</string>
@@ -159,7 +159,7 @@
   <string name="theme_batch_has_update_text">Dostępna nowa wersja dla %1$d motywów</string>
   <string name="theme_batch_update_all">Aktualizuj wszystko</string>
   <string name="theme_batch_update_dlg_content">Aktualizować teraz wszystkie motywy?</string>
-  <string name="theme_batch_update_dlg_content_single">Aktualizować?</string>
+  <string name="theme_batch_update_dlg_content_single">Aktualizować motyw?</string>
   <string name="theme_batch_update_dlg_title">Aktualizuj</string>
   <string name="theme_batch_updating_text">Aktualizowanie %1$d motywów</string>
   <string name="theme_changed_failed_message">Ustawianie motywu: nieudane</string>
