@@ -4,6 +4,18 @@
         <item quantity="other">Od zostania programistą dzieli Cię już tylko tyle kroków: %1$d.</item>
         <item quantity="one">Od zostania programistą dzieli Cię już tylko %1$d krok.</item>
     </plurals>
+        <plurals name="power_center_battery_day">
+        <item quantity="other">"%d dni "</item>
+        <item quantity="one">%"d dzień "</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d godz. "</item>
+        <item quantity="one">"%d godz. "</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d min. "</item>
+        <item quantity="one">"%d min. "</item>
+    </plurals>
     <plurals name="lockpassword_password_requires_letters">
         <item quantity="other">Hasło musi zawierać litery (co najmniej %d).</item>
         <item quantity="one">Hasło musi zawierać co najmniej jedną literę.</item>

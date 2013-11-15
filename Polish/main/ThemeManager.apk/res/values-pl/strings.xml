@@ -76,7 +76,7 @@
   <string name="resource_comment_good_comments">Pozytywne</string>
   <string name="resource_comment_invalid">Dotknij gwiazdki aby ocenić motyw</string>
   <string name="resource_comment_name_default">Użytkownik %1$s</string>
-  <string name="resource_comment_no_average_score">-.-</string>
+  <string name="resource_comment_no_average_score">0.0</string>
   <string name="resource_comment_no_comment">Brak komentarzy.</string>
   <string name="resource_comment_publish">Wyślij</string>
   <string name="resource_comment_rate">Ocena:</string>

@@ -49,7 +49,7 @@
   <string name="activate_status_title_activating_msim">Aktywacja karty SIM %s</string>
   <string name="activating">Aktywacja…</string>
   <string name="add_weibo_account">Dodaj konto</string>
-  <string name="alert_notif_title_dspt">Proposes to restore synchronization to ensure data security</string>
+  <string name="alert_notif_title_dspt">Prośba o aktywację synchronizacji</string>
   <string name="alert_title_remove_account">Usuń konto</string>
   <string name="app_name">Usługi Xiaomi</string>
   <string name="available_functionality">Dostępne funkcje</string>

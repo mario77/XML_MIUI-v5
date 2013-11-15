@@ -84,4 +84,9 @@ Zaufać aplikacji?"</string>
     <string name="unknown">Nieznane</string>
     <string name="unknown_apps_dlg_text">Ze względów bezpieczeństwa telefon jest ustawiony tak, aby blokować instalowanie aplikacji niepochodzących z usługi Android Market.</string>
     <string name="unknown_apps_dlg_title">Instalowanie zablokowane</string>
+  <string name="unknown_installer">Nieznany instalator</string>
+  <string name="virus_scan_clear">Usuń</string>
+  <string name="virus_scan_install">"  "</string>
+  <string name="virus_scan_is_risk">Ta aplikacja jest podejrzana!</string>
+  <string name="virus_scan_is_virus">Ta aplikacja zawiera wirusa. Usuń ją natychmiast!</string>
 </resources>
