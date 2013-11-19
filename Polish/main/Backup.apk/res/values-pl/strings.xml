@@ -56,6 +56,7 @@
   <string name="cloud_app_backup_progress">Kopiowanie…</string>
   <string name="cloud_app_backup_summary">Automatyczna kopia aplikacji i danych użytkownika podczas ładowania telefonu i połączeniu z Wi-Fi</string>
   <string name="cloud_app_backup_title">Kopia zapasowa w chmurze</string> 
+  <string name="cloud_app_current_device">To urządzenie</string>
   <string name="cloud_app_data_in_other_devices">Brak aktualnych kopii.</string>
   <string name="cloud_app_delete_data">Usuń kopię</string>
   <string name="cloud_app_device">Urządzenie</string>
@@ -64,7 +65,7 @@
   <string name="cloud_app_find_backup_prompt_2">Jeśli wybierzesz Anuluj dane zostaną nadpisane przez przywracaną kopię</string>
   <string name="cloud_app_function_summary">Kopia danych w chmurze może być szybko przywrócona nawet na innym urządzeniu.</string>
   <string name="cloud_app_invalid_op">"Nie możesz wyświetlać obecnej kopii jeśli jest używana."</string>
-  <string name="cloud_app_just_show_in_current_device">To urządzenie</string>
+  <string name="cloud_app_just_show_in_current_device">Pokaż tylko to urządzenie</string>
   <string name="cloud_app_mine">Pobrane aplikacje</string>
   <string name="cloud_app_name">Kopia online</string>
   <string name="cloud_app_no_data">Brak danych.</string>
@@ -132,6 +133,7 @@ Zaloguj się do konta Xiaomi aby tworzyć szyfrowane kopie zapasowe."</string>
   <string name="import_from_xiaomi_account_hint1">"1. Zainstaluj MiTalk i zaloguj się. 2. http://www.miliao.com 3. Wejdź w ustawienia MiTalk i wybierz ”Kopia kontaktów na konto Xiaomi”"</string>
   <string name="import_from_xiaomi_account_hint2">Uwaga: Idź do następnego kroku gdy kopia już została przeprowadzona</string>
   <string name="import_from_xiaomi_account_hint_title">Użyj MiTalk do utworzenia kopii kontaktów na innych urządzeniach, prócz MI-ONE</string>
+  <string name="just_support_op_with_wifi_connected">Tylko przy Wi-Fi</string>
   <string name="local_app_name">Kopia MIUI</string>
   <string name="local_backup_window_title">Kopia danych lokalnych</string>
   <string name="local_home_title">Kopia Lokalna</string>

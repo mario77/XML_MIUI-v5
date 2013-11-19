@@ -748,7 +748,7 @@ We recommend that you use the \"Select automatically\", or you can manually sele
   <string name="onscreenSwapCallsText">Przełącz</string>
   <string name="onscreen_add_call_text_miui">Dodaj</string>
   <string name="onscreen_audio_mode_bluetooth_miui">Bluetooth</string>
-  <string name="onscreen_audio_mode_handset_miui">Głośnomówiący</string>
+  <string name="onscreen_audio_mode_handset_miui">Telefon</string>
   <string name="onscreen_audio_mode_headset_miui">Słuchawki</string>
   <string name="onscreen_audio_mode_miui">Odbierz używając</string>
   <string name="onscreen_audio_mode_speaker_miui">Głośnik</string>

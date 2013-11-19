@@ -262,7 +262,7 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
   <string name="pick_too_many_recipients">Zbyt dużo odbiorców</string>
   <string name="play">Odtwórz</string>
   <string name="pref_advanced_settings_title">Zaawansowane</string>
-  <string name="pref_collapse_sp_messages_summary">Łączy wiadomości tekstowe od operatora w jeden wątek</string>
+  <string name="pref_collapse_sp_messages_summary">Łączy wiadomości z powiadomieniami od operatora lub banku w jeden wątek</string>
   <string name="pref_edit_smsc_address">Numer centrum SMS</string>
   <string name="pref_forward_title">Przekaż</string>
   <string name="pref_messages_to_save">Ustaw liczbę wiadomości w wątku</string>
@@ -425,7 +425,7 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
   <string name="timed_message_expired_title_2">Wysłać teraz?</string>
   <string name="timed_message_in_total">... (%d razem)</string>
   <string name="timed_message_to">do</string>
-  <string name="title_collapse_sp_messages">Połącz wiadomości operatora</string>
+  <string name="title_collapse_sp_messages">Grupuj SMS z powiadomieniami</string>
   <string name="title_date_type">Czas wiadomości</string>
   <string name="title_timed_message_dialog">Ustaw czas wysłania wiadomości</string>
   <string name="to_address_label">"Do: "</string>

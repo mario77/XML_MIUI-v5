@@ -430,5 +430,6 @@ We will check again within two working days."</string>
   <string name="voucher_edit_hint">Kod</string>
   <string name="voucher_edit_limit">" "</string>
   <string name="voucher_error_password">Kod jest pusty!</string>
+  <string name="voucher_error_password_empty">Pusty kod.</string>
   <string name="voucher_input_password_prompt">Wprowadź kod</string>
 </resources>
