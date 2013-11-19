@@ -14,6 +14,7 @@
   <string name="add_to_cloud_file_exist_message">Zdjęcie już istnieje w zaznaczonym albumie.</string>
   <string name="add_to_cloud_file_not_exist_message">Plik nie istnieje.</string>
   <string name="add_to_cloud_folder">Dodaj do katalogu w chmurze</string>
+  <string name="add_to_cloud_image_limit_exceeded_message">Przekroczono limit zdjęć.</string>
   <string name="add_to_cloud_local_space_full_message">Pamięć jest pełna lub niegotowa.</string>
   <string name="add_to_cloud_reasons"/>
   <string name="add_to_cloud_space_full_message">Album w chmurze jest pełny.</string>
@@ -60,6 +61,7 @@
   <string name="bigscreen_slide_fail_cause_loading">Ponów aby zacząć pokaz slajdów po wczytaniu zdjęcia.</string>
   <string name="browse_category">Albumy</string>
   <string name="by_email">E-mail</string>
+  <string name="by_others">Inne</string>
   <string name="by_sms">SMS</string>
   <string name="camera_connected">Aparat podłączony.</string>
   <string name="camera_disconnected">Aparat rozłączony.</string>

@@ -159,6 +159,7 @@ Ponowne uruchomienie za: %d sekund."</string>
   <string name="update_success">Instalacja aktualizacji zakończona!</string>
   <string name="update_success_body">Aktualizacja do %s udana</string>
   <string name="update_success_title">Instalacja aktualizacji zakończona!</string>
+  <string name="updater_finish_download">Ukończono pobieranie romu</string>
   <string name="upgrade_close">Zamknij</string>
   <string name="upgrade_kernel">Aktualny kernel wymaga aktualizacji</string>
   <string name="upgrade_kernel_msg">"Aktualna wersja kernela nie pokrywa się z tą z romu MIUI. Możesz uaktualnić kernel ręcznie. Zapoznaj się z pomocą:
