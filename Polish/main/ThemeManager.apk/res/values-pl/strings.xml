@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_abnormal_state">Abnormal account information, try to login in again or try again later!</string>
+  <string name="account_info">Moje konto</string>
   <string name="account_unactivated">Konto nie jest aktywne.</string>
   <string name="all_resources">Wszystkie</string>
   <string name="all_ringtone_resource">Wszystkie</string>
@@ -118,23 +119,23 @@
   <string name="resource_download">Pobierz</string>
   <string name="resource_downloaded_title">Pobrane elementy</string>
   <string name="resource_downloading">Pobieranie</string>
-  <string name="resource_exchange">Redeem</string>
-  <string name="resource_exchange_confirm">Confirm</string>
-  <string name="resource_exchange_empty_format">Enter gift code!</string>
-  <string name="resource_exchange_has_bought">"You've already purchased this theme."</string>
-  <string name="resource_exchange_has_expired">The code you entered has expired.</string>
-  <string name="resource_exchange_has_used">The code you entered has already been used.</string>
-  <string name="resource_exchange_hint">Enter your gift code</string>
+  <string name="resource_exchange">Podarunek</string>
+  <string name="resource_exchange_confirm">Potwierdź</string>
+  <string name="resource_exchange_empty_format">Wpisz kod prezentu!</string>
+  <string name="resource_exchange_has_bought">"Już kupiłeś ten element."</string>
+  <string name="resource_exchange_has_expired">Kod stracił ważność.</string>
+  <string name="resource_exchange_has_used">Kod został już użyty.</string>
+  <string name="resource_exchange_hint">Wpisz kody</string>
   <string name="resource_exchange_purchase_unkown_error">Yikes! An unknown error occurred. Sign in at http://market.xiaomi.com to view your payment status.</string>
-  <string name="resource_exchange_share_code_content">You received a gift code for the theme %1$s on the MIUI Theme Store. The code number is: %2$s. Touch %3$s to use it now.</string>
-  <string name="resource_exchange_share_code_dlg_content">The gift code you purchased for the theme %1$sis: %2$s. When you send it to another MIUI user, he or she can use it to download this theme.</string>
-  <string name="resource_exchange_share_code_dlg_title">Sending</string>
-  <string name="resource_exchange_success">Enjoy! :)</string>
+  <string name="resource_exchange_share_code_content">Otrzymałeś kod podarunkowy za motyw %1$s w sklepie MIUI. Kod o numerze: %2$s. Dotknij by użyć kodu teraz.</string>
+  <string name="resource_exchange_share_code_dlg_content">Zakupiony kod podarunkowy %1$ jest do motywu: %2$s. Możesz wysłać ten motyw do innego użytkownika MIUI.</string>
+  <string name="resource_exchange_share_code_dlg_title">Wysyłania</string>
+  <string name="resource_exchange_success">Miłej zabawy! :)</string>
   <string name="resource_exchange_unavailable">The theme associated with the code you entered is not available.</string>
   <string name="resource_exchange_universal_finish">Use this code to download a theme from the MIUI Theme Store.</string>
   <string name="resource_exchange_universal_goon">This code can be used to download any theme in the store.</string>
-  <string name="resource_exchange_window_title">Redeem</string>
-  <string name="resource_exchange_wrong_format_by_local">The format of the code you entered is incorrect.</string>
+  <string name="resource_exchange_window_title">Podarunki</string>
+  <string name="resource_exchange_wrong_format_by_local">Format kodu jest nieprawidłowy.</string>
   <string name="resource_exchange_wrong_format_by_server">"Code was not verified. Make sure you've entered it correctly."</string>
   <string name="resource_expand_full_text">Rozwiń</string>
   <string name="resource_get_auth_checking">Autoryzacja...</string>

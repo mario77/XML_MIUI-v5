@@ -330,6 +330,7 @@ Pobrać wiadomości i dodać do skrzynki odbiorczej?"</string>
   <string name="received_label">"Otrzymano: "</string>
   <string name="recipient_editor_count_format">"%d"</string>
   <string name="recipient_label">"Odbiorca: "</string>
+  <string name="refill_now">Wprowadź ponownie</string>
   <string name="refresh">Odśwież</string>
   <string name="refresh_failed">Odświeżanie nieudane</string>
   <string name="refreshing">Odświeżanie...</string>
