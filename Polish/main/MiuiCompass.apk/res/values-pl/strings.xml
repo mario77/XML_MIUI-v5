@@ -15,7 +15,7 @@
     <string name="direction_south">S</string>
     <string name="direction_west">W</string>
     <string name="getting_location">Określanie lokalizacji...</string>
-    <string name="guide_toast">"Aby skalibrować kompas poruszaj telefon wg. schematu powyżej."</string>
+    <string name="guide_toast">"Aby skalibrować kompas poruszaj telefon wg schematu powyżej."</string>
     <string name="latitude">Szer.</string>
     <string name="location_east">Szerokość</string>
     <string name="location_north">Długość</string>

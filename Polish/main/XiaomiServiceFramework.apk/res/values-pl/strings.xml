@@ -113,7 +113,7 @@
   <string name="input_password_hint">Wprowadź hasło</string>
   <string name="input_vcode_hint">Wprowadź kod weryfikacyjny</string>
   <string name="input_vcode_prompt">Wprowadź kod weryfikacyjny</string>
-  <string name="int_phone_user_notice">Wprowadź numer telefonu wg. formatu: +48xxxxxxxxx</string>
+  <string name="int_phone_user_notice">Wprowadź numer telefonu wg formatu: +48xxxxxxxxx</string>
   <string name="internet_comm">Wiadomości</string>
   <string name="internet_message">Wiadomości w chmurze</string>
   <string name="login">Wpisz się</string>
@@ -169,7 +169,7 @@
   <string name="micloud_resend_active_email">Wyślij ponownie E-mail aktywacyjny</string>
   <string name="micloud_summary">Zaloguj do konta Xiaomi.</string>
   <string name="micloud_use_existing">Istniejące</string>
-  <string name="micloud_via_int_sms_alert">Na telefon zostanie wysłany SMS. Koszt SMS wg. taryfy operatora</string>
+  <string name="micloud_via_int_sms_alert">Na telefon zostanie wysłany SMS. Koszt SMS wg taryfy operatora</string>
   <string name="micloud_via_sms_alert">Zostanie wysłany SMS aby zweryfikować numer telefonu. Kontynuować?</string>
   <string name="micloud_welcome_skip_login">Pomiń krok</string>
   <string name="mili_center">Mi Kredyty</string>
@@ -196,7 +196,7 @@
   <string name="remove_unactivated_account_notice">Konto Xiaomi nie jest aktywowane. Usunąć konto?</string>
   <string name="removing_account">Usuwanie konta...</string>
   <string name="restoreSync">Przywracanie</string>
-  <string name="send_int_sms_for_sync_notice">Zostanie wysłany SMS do aktywacji. Koszt SMS wg. taryfy operatora. Kontynuwać?</string>
+  <string name="send_int_sms_for_sync_notice">Zostanie wysłany SMS do aktywacji. Koszt SMS wg taryfy operatora. Kontynuwać?</string>
   <string name="send_sms_for_sync_notice">Zostanie wysłany SMS do aktywacji, kontynuować?</string>
   <string name="send_sms_for_sync_title">Usługa synchronizacji nieaktywowana</string>
   <string name="service_error">Błąd usługi</string>

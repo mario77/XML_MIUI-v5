@@ -285,7 +285,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="device_import_progress_toast">Przywróconych kontaktów: %1$d </string>
   <string name="device_import_title">Przywracanie</string>
   <string name="device_list_title">Wybierz zdjęcie</string>
-  <string name="device_other_guide">Jeśli Twojego telefonu nie ma na liście, spróbuj wg. poniższego poradnika</string>
+  <string name="device_other_guide">Jeśli Twojego telefonu nie ma na liście, spróbuj wg poniższego poradnika</string>
   <string name="device_other_title">inny telefon</string>
   <string name="device_paired_dialog_message">You may need to confirm on the other phone</string>
   <string name="device_paired_dialog_title">Urządzenie sparowane. Przetwarzanie kontaktów...</string>

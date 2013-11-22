@@ -178,7 +178,7 @@
   <string name="call_reject_list_delete">Usuń</string>
   <string name="call_reject_no_name">Bez nazwy</string>
   <string name="call_reject_please_wait">Proszę czekać…</string>
-  <string name="call_reject_sum">Automatyczne odrzucanie połączeń wg. listy</string>
+  <string name="call_reject_sum">Automatyczne odrzucanie połączeń wg listy</string>
   <string name="call_reject_title">Odrzucanie połączeń</string>
   <string name="call_ring_stepup_summary">Zwiększanie głośności dzwonka przy połączeniu przychodzącym</string>
   <string name="call_ring_stepup_title">Zwiększ gł. dzwonka</string>
