@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_abnormal_state">Abnormal account information, try to login in again or try again later!</string>
   <string name="account_info">Moje konto</string>
   <string name="account_unactivated">Konto nie jest aktywne.</string>
   <string name="all_resources">Wszystkie</string>
@@ -136,7 +135,7 @@
   <string name="resource_exchange_universal_goon">This code can be used to download any theme in the store.</string>
   <string name="resource_exchange_window_title">Podarunki</string>
   <string name="resource_exchange_wrong_format_by_local">Format kodu jest nieprawidłowy.</string>
-  <string name="resource_exchange_wrong_format_by_server">"Code was not verified. Make sure you've entered it correctly."</string>
+  <string name="resource_exchange_wrong_format_by_server">"Kod nie został zweryfikowany. Upewnij się, że jest poprawny"</string>
   <string name="resource_expand_full_text">Rozwiń</string>
   <string name="resource_get_auth_checking">Autoryzacja...</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Theme can not run on the current equipment with your account which is up to 10 mobile devices every year. Please try other Xiaomi accounts.</string>
@@ -158,20 +157,20 @@
   <string name="resource_pack_discount_info">%1$s mniej!</string>
   <string name="resource_pack_price_info">%1$s</string>
   <string name="resource_pack_warning">Attention, you have already purchased %1$d items, current price is no more favorable for left items, please purchase them individually.</string>
-  <string name="resource_present">Gift</string>
+  <string name="resource_present">Podarunek</string>
   <string name="resource_preview">Podgląd</string>
   <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Darmowy</string>
   <string name="resource_price_unit">" MiKredytów"</string>
-  <string name="resource_purchase_getting_order">Retrieving order info…</string>
-  <string name="resource_purchase_verifying_payment">Verifying payment info…</string>
-  <string name="resource_purchase_waiting_payment">Waiting for payment info…</string>
+  <string name="resource_purchase_getting_order">Przetwarzanie zamówienia…</string>
+  <string name="resource_purchase_verifying_payment">Weryfikacja…</string>
+  <string name="resource_purchase_waiting_payment">Oczekiwanie na płatność…</string>
   <string name="resource_ranking">Popularne</string>
   <string name="resource_ranking_free">Darmowe</string>
   <string name="resource_ranking_purchase">Płatne</string>
   <string name="resource_ringtone_default">Dzwonki</string>
-  <string name="resource_ringtone_volume_mute">Your ringer is currently silenced.</string>
-  <string name="resource_save_to_note">Save to Notes</string>
+  <string name="resource_ringtone_volume_mute">Dzwonek jest obecnie wyciszony.</string>
+  <string name="resource_save_to_note">Zapisz do notatek</string>
   <string name="resource_see_more">Więcej</string>
   <string name="resource_select">Wybierz</string>
   <string name="resource_selected">Wybrane</string>
@@ -195,6 +194,7 @@
   <string name="sdcard_not_mounted_dialog_message">"Wsuń kartę SD."</string>
   <string name="sdcard_not_mounted_dialog_title">Nie wykryto karty SD</string>  
   <string name="selected_resource_file_invalid">Wybrany plik nie jest dostępny.</string>
+  <string name="settings">Ustawienia</string>
   <string name="short_ringtone_resource">Krótkie</string>
   <string name="theme_another_import_running">Wczytywanie motywu jest już uruchomione, zaczekaj na ukończenie i spróbuj ponownie</string>
   <string name="theme_batch_has_update_text">Dostępna nowa wersja dla %1$d motywów</string>
