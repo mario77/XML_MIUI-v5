@@ -13,7 +13,7 @@
   <string name="activate_phone_send_sms_failed_notif">Nie udało się wysłać SMSa aktywacyjnego</string>
   <string name="activate_phone_server_error">Błąd serwera.</string>
   <string name="activate_phone_server_error_notif">Błąd serwera.</string>
-  <string name="activate_status_desc_acquire_phone_number">Uzyskiwanie numeru telefonu z serwera</string>
+  <string name="activate_status_desc_acquire_phone_number">Pomyślnie uzyskano numer z serwera</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Wystąpił błąd podczas uzyskiwania numeru.</string>
   <string name="activate_status_desc_acquire_phone_number_server_error_wait">Wystąpił błąd podczas uzyskiwania numeru. Ponawianie próby...</string>
   <string name="activate_status_desc_acquire_phone_number_server_io_error">Server I/O error while acquiring phone number due.</string>

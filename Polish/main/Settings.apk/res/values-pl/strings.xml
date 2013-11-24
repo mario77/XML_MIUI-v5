@@ -609,7 +609,7 @@ Czy włączyć funkcję?"</string>
   <string name="confirm">OK</string>
   <string name="confirm_clear_blacklist">Usunąć blokowane?</string>
   <string name="confirm_clear_whitelist">Usunąć wyjątki?</string>
-  <string name="confirm_erase">Podwierdź</string>
+  <string name="confirm_erase">Potwierdź</string>
   <string name="confirm_new_backup_pw_prompt">Ponownie wpisz tutaj nowe hasło pełnych kopii zapasowych.</string>
   <string name="confirm_title">Potwierdź</string>
   <string name="connected_wifi">Połączony z Wi-Fi</string>

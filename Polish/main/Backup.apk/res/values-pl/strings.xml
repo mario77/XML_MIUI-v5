@@ -29,7 +29,7 @@
   <string name="backup_failed">Kopia nieudana. Spróbuj ponownie</string>
   <string name="backup_file_error">Wystąpił problem z kopią, operacja nieprawidłowa.</string>
   <string name="backup_finished">Kopia utworzona</string>
-  <string name="backup_hint">Nie wyłączaj telefonu podczas wykonywania kopii.</string>
+  <string name="backup_hint">Nie wyłączaj telefonu.</string>
   <string name="backup_items_app_tailer">" danych użytkownika"</string>
   <string name="backup_items_sysdata_tailer">" danych systemowych, "</string>
   <string name="backup_new">Nowa kopia:</string>
