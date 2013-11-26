@@ -779,6 +779,7 @@ To ustawienie obowiązuje wszystkich użytkowników tego telefonu."</string>
   <string name="default_date_format">dd/MM/yyyy</string>
   <string name="default_input_method">Domyślna metoda wprowadzania</string>
   <string name="default_usb_mode">Domyślne połączenie USB</string>
+  <string name="default_sdcard_select_msg">"Jeśli wybierzesz %1$s, aplikacje zainstalowane na %2$s nie będą mogły być użyte, a urządzenie uruchomi się ponownie. Na pewno zmienić na %3$s?"</string>
   <string name="delete">Usuń</string>
   <string name="details_subtitle">Szczegóły użycia</string>
   <string name="details_title">Szczegóły użycia</string>
@@ -1577,6 +1578,7 @@ Przeinstalować sterownik."</string>
   <string name="optimizing">Optymalizowanie</string>
   <string name="optimizing_virus">Usuwanie wirusów...</string>
   <string name="other_relative">Inne uprawnienia</string>
+  <string name="overlay_display_devices_title">Symuluj ekrany dodatkowe</string>
   <string name="owner_info_settings_edit_text_hint">Wpisz tekst do wyświetlenia na ekranie blokady.</string>
   <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_title">Informacje o właścicielu</string>

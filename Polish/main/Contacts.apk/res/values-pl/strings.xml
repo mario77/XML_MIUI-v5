@@ -988,6 +988,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="simContacts_empty">Nie znaleziono kontaktów na karcie SIM</string>
   <string name="simContacts_emptyLoading">Wczytywanie z karty SIM…</string>
   <string name="simContacts_title">Kontakty z karty SIM</string>
+  <string name="sim_capacity">Pojemność karty SIM</string>
   <string name="sim_capacity_content" formatted="false">"SIM: %d, zajęte: %d."</string>
   <string name="sim_card1">SIM 1</string>
   <string name="sim_card2">SIM 2</string>

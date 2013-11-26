@@ -76,6 +76,8 @@
     <string name="compat_mode_help_header">Powiększenie w trybie zgodności</string>
     <string name="compat_mode_off">Rozciągnij, aby wypełnić ekran</string>
     <string name="compat_mode_on">Powiększ, aby wypełnić ekran</string>
+    <string name="cust_carrier_label_text_title">Własna nazwa operatora</string>
+    <string name="cust_carrier_label_title">Nazwa operatora</string>
     <string name="data_usage_disabled_dialog">"Osiągnąłeś limit użycia danych. Jeśli włączysz usługi danych, operator zacznie pobierać opłaty."</string>
     <string name="data_usage_disabled_dialog_3g_title">Dane 2G-3G wyłączone</string>
     <string name="data_usage_disabled_dialog_4g_title">Dane 4G wyłączone</string>

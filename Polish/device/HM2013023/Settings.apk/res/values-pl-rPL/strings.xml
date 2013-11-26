@@ -484,6 +484,7 @@
   <string name="security_settings_billing_desc">W aplikacji mogą być pobierane opłaty:</string>
   <string name="security_settings_premium_sms_desc">Wyślij premium SMS</string>
   <string name="select_memory">Domyślna lokalizacja zapisu</string>
+  <string name="select_memory_title">Wybierz domyślną lokalizację zapisu</string>
   <string name="select_ssid_type_title">Łączenie z siecią</string>
   <string name="selected_item_count">Wybrano %d</string>
   <string name="selinux_status">Stan SELinux</string>

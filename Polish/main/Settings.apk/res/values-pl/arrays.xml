@@ -448,8 +448,8 @@ komputer automatycznie odczyta zawartość telefonu"</item>
         <item>Włącz redukcję szumów (2 mikrofony)</item>
     </string-array>
     <string-array name="miracast_policies">
-        <item>Shorter delay</item>
-        <item>Standard</item>
-        <item>Better quality</item>
+        <item>Krótkie opóźnienie</item>
+        <item>Standardowo</item>
+        <item>Najwyższa jakość</item>
     </string-array>
  </resources>
