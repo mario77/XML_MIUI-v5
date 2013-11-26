@@ -13,7 +13,7 @@
   <string name="album_download">Pobierz okładki albumów</string>
   <string name="album_edit">Album</string>
   <string name="album_picker_not_found">Nie znaleziono galerii na urządzeniu</string>
-  <string name="album_search_failed">Okładki albumów nieznalezione!</string>
+  <string name="album_search_failed">Nie znaleziono okładek albumów!</string>
   <string name="album_search_local_descript">Lokalnie | %1$d x %2$d</string>
   <string name="album_search_online_descript">Online | %1$d x %2$d</string>
   <string name="album_select">Wybierz okładkę</string>
@@ -26,7 +26,7 @@
   <string name="artist_albums">Wszystkie albumy</string>
   <string name="artist_details_format">%1$s, %2$s</string>
   <string name="artist_edit">Wykonawca</string>
-  <string name="artist_hot_audios">Hot Audios</string>
+  <string name="artist_hot_audios">Popularne</string>
   <string name="artists_title">"Wykonawcy "</string>
   <string name="auto_correct_id3_settings">Autokorekta tagów ID3</string>
   <string name="auto_correct_id3_summary">Automatyczna korekta danych ID3 podczas odtwarzania muzyki</string>
@@ -57,13 +57,13 @@
   <string name="create_equalzier_create_text_prompt">Nowa nazwa ustawień equalizera</string>
   <string name="create_playlist_create_text_prompt">Nazwa playlisty</string>
   <string name="custom">Nowe ustawienia EQ</string>
-  <string name="default_interval">30 minut</string>
+  <string name="default_interval">30</string>
   <string name="delete_file_from_sdcard">Usuń z pamięci wewnętrznej</string>
   <string name="delete_item">Usuń</string>
   <string name="delete_playlist_menu">Usuń</string>
   <string name="delete_song_desc">Z pamięci urządzenia zostaną trwale usunięte: %s</string>
   <string name="deselect_all">Odznacz wszystko</string>
-  <string name="dirac_mode_earbuds">Słuchawki douszne</string>
+  <string name="dirac_mode_earbuds">Słuchawki nauszne</string>
   <string name="dirac_mode_general">Słuchawki zwykłe</string>
   <string name="dirac_mode_in_ear">Słuchawki dokanałowe</string>
   <string name="dirac_mode_off">Dirac Wył</string>
@@ -130,7 +130,7 @@
   <string name="filter_notification">Plik został odfiltrowany, zmień ustawienia by odtworzyć!</string>
   <string name="folder_title_format" formatted="false">%s(%d)</string>
   <string name="folders_title">"Katalogi "</string>
-  <string name="frequentlyplayed_title">Popularne</string>
+  <string name="frequentlyplayed_title">Ostatnio odtwarzane</string>
   <string name="headphone_settings">Ustawienia słuchawek</string>
   <string name="hot_artists">Popularni wykonawcy</string>
   <string name="id3_edit">Edycja tagów ID3</string>
@@ -197,7 +197,7 @@ Spróbuj ponownie później"</string>
   <string name="new_equalizer_name_template">Nowy profil EQ %d</string>
   <string name="new_playlist">Nowa</string>
   <string name="new_playlist_name_template">Nowa playlista %d</string>
-  <string name="no_effect">Płaski</string>
+  <string name="no_effect">Wyłączone</string>
   <string name="no_song_downloaded">Utwory nie mogły być pobrane.</string>
   <string name="not_login">Wpisz się</string>
   <string name="not_selected">Wybierz utwór</string>
@@ -230,7 +230,7 @@ Spróbuj ponownie później"</string>
   <string name="quit_player">Zakończ</string>
   <string name="quit_warining">Odtwarzacz zakończy odtwarzanie po %d minutach</string>
   <string name="recentlyadded_title">Ostatnio dodane</string>
-  <string name="recentlyplayed_title">Ostatnie</string>
+  <string name="recentlyplayed_title">Ostatnio odtwarzanehm</string>
   <string name="recommend">Polecane</string>
   <string name="refresh_finish">Odświeżono pomyślnie</string>
   <string name="refresh_in_processing">Odświeżanie...</string>
@@ -238,7 +238,7 @@ Spróbuj ponownie później"</string>
   <string name="refresh_start">Odświeżanie rozpoczęte, proszę czekać...</string>
   <string name="remove_from_favorite">Usuń z ulubionych</string>
   <string name="remove_item">Usuń</string>
-  <string name="rename_album_menu">Zmień nazwę</string>
+  <string name="rename_album_menu">Zmień nazwę albumu</string>
   <string name="rename_artist_menu">Zmień nazwę wykonawcy</string>
   <string name="rename_playlist_menu">Zmień nazwę</string>
   <string name="retry">Ponów</string>
@@ -248,7 +248,7 @@ Spróbuj ponownie później"</string>
   <string name="save">Zapisz</string>
   <string name="scanning">Skanowanie karty SD...</string>
   <string name="scanning_nosdcard">Skanowanie nośnika USB...</string>
-  <string name="screen_bright_wake">Ekran zawsze włączony</string>
+  <string name="screen_bright_wake">Ekran włączony</string>
   <string name="screen_bright_wake_summary">Pozostaw włączone podświetlenie</string>
   <string name="sdcard_busy_message">Karta SD jest w użyciu.</string>
   <string name="sdcard_busy_message_nosdcard">Nośnik USB jest w użyciu.</string>

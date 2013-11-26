@@ -54,7 +54,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="btn_delete_one_contact">Usuń kontakt</string>
   <string name="btn_rotation">Obracanie</string>
   <string name="btn_split_contact">Rozdziel kontakty na konta</string>
-  <string name="button_cancel_scan">Stop</string>
+  <string name="button_cancel_scan">Anuluj</string>
   <string name="button_scan">Przeskanuj</string>
   <string name="caching_vcard_message">Trwa buforowanie plików vCard w lokalnym obszarze tymczasowym. Właściwe przywracanie rozpocznie się za chwilę.</string>
   <string name="caching_vcard_title">Buforowanie</string>
@@ -387,6 +387,7 @@ Synchronizowane kontakty np. z Google czy Xiaomi także zostaną usunięte."</st
   <string name="favoritesFrequentCalled">Częste połączenia</string>
   <string name="favoritesFrequentContacted">Częste kontakty</string>
   <string name="favorites_list_empty">Brak ulubionych</string>
+  <string name="forward_from">Od:</string>
   <string name="fix_number_too_long">Numer jest za długi.</string>
   <string name="foundTooManyContacts">Znaleziono więcej niż %d.</string>
   <string name="frequency_none">Nie przypominaj</string>
@@ -928,6 +929,7 @@ Aby dodać kontakt do listy ulubionych:
   <string name="resource_share_subject">Udostępnij motyw: %1$s</string>
   <string name="resource_share_text">Sprawdź motyw, który mi się spodobał: %1$s! Link: %2$s</string>
   <string name="resource_share_title">Udostępnij</string>
+  <string name="resource_switch_account">Przełącz</string>
   <string name="resource_system_title">Elementy online</string>
   <string name="resource_tip_select_ringtone">Nie wybrano dzwonka</string>
   <string name="resource_title">Szczegóły</string>
@@ -938,10 +940,13 @@ Aby dodać kontakt do listy ulubionych:
   <string name="resource_user_know">OK</string>
   <string name="resource_waiting_download">Oczekiwanie...</string>
   <string name="restore_nickname">Przywróć</string>
+  <string name="restore_to_phone_memory_failed">Failed to restore to phone memory!</string>
+  <string name="restored_to_phone_memory">"Restored to phone's memory"</string>
   <string name="ret_sign">"
  "</string>
   <string name="returnCall">Powrót do połączenia</string>
   <string name="ringLabelsGroup">Dzwonek</string>
+  <string name="ringtone_volume_mute">Dzwonek jest już wyciszony.</string>
   <string name="save">Zapisz</string>
   <string name="save_photo_progress">Zapisywanie zdjęcia...</string>
   <string name="save_to_sim_failed">Failed to save to SIM! restored_to_phone_memory</string>
@@ -956,6 +961,8 @@ Aby dodać kontakt do listy ulubionych:
   <string name="scanning_sdcard_failed_title">"Wyszukiwanie nieudane"</string>
   <string name="sdcard_not_mounted_dialog_message">"Insert SD card now."</string>
   <string name="sdcard_not_mounted_dialog_title">No SD card detected</string>
+  <string name="sdcard_status_changed_dialog_message">App will now exit. Please re-open app to refresh resources.</string>
+  <string name="sdcard_status_changed_dialog_title">SD card status changed</string>
   <string name="searchHint">Przeszukuj kontakty</string>
   <string name="search_results_searching">Wyszukiwanie…</string>
   <string name="search_settings_description">Imiona i nazwiska oraz nazwy w Twoich kontaktach</string>

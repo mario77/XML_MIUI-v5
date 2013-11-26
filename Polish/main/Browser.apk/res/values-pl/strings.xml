@@ -30,8 +30,10 @@
   <string name="action">Zaloguj się</string>
   <string name="add_bookmark">Dodaj zakładkę</string>
   <string name="add_bookmark_short">Dodaj</string>
+  <string name="add_bookmark_to_home_screen">Dodaj na pulpit</string>
   <string name="add_folder">Dodaj folder</string>
   <string name="add_new_bookmark">Dodaj zakładkę</string>
+  <string name="add_quicklink_to_popular">Dodaj do startowej</string>
   <string name="add_to_bookmarks_menu_option">Zakładki</string>
   <string name="add_to_homescreen_menu_option">Ekran główny</string>
   <string name="add_to_other_folder_menu_option">Inny folder</string>
@@ -277,6 +279,7 @@
   <string name="loading_video">Wczytywanie filmu…</string>
   <string name="local_bookmarks">Lokalne</string>
   <string name="location">Adres</string>
+  <string name="manage_feature_permissions">Uprawnienia</string>
   <string name="max_tabs_warning">Brak dostępnych kart</string>
   <string name="menu_addtodesk">Dodaj zakładkę do strony na pulpit</string>
   <string name="menu_disable_night_mode">Wyłącz Tryb Nocny</string>
@@ -296,6 +299,8 @@
   <string name="menu_share_url">Udostępnij</string>
   <string name="menu_theme_setting">Motyw aplikacji</string>
   <string name="menu_view_download">Pobrane</string>
+  <string name="miui_yellowpage_category">Kategorie</string>
+  <string name="miui_yellowpage_site">Strony</string>
   <string name="modify_download_path_no_sdcard_dlg_msg">Wymagana jest zmiana ścieżki.</string>
   <string name="move_to_up_folder">W górę</string>
   <string name="multi_select_title">Zaznaczono %1$s</string>
@@ -304,6 +309,10 @@
   <string name="navigation_button_newtab">Nowa</string>
   <string name="navigation_button_tab">Karta</string>
   <string name="navigation_button_view">Pokaż</string>
+  <string name="navigator_permissions_prompt_dont_share">Odmów</string>
+  <string name="navigator_permissions_prompt_message" formatted="false">%s prosi o dostęp do %s na twoim urządzeniu</string>
+  <string name="navigator_permissions_prompt_remember">Pamiętaj wybór</string>
+  <string name="navigator_permissions_prompt_share">Zezwól</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Dostępna jest sieć Wi-Fi. Połączyć?</string>
   <string name="network_show_wifi_setting_tip_dialog_notshow">Zapamiętaj wybór</string>
   <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Powiadomienie o Wi-Fi</string>
@@ -492,6 +501,7 @@
   <string name="pref_zoom_on_double_tap">Powiększ po dwukrotnym dotknięciu</string>
   <string name="preview">Podgląd</string>
   <string name="progress_dialog_setting_wallpaper">Ustawianie tapety…</string>
+  <string name="quicklink_saved_before">Strona dodana do startowej</string>
   <string name="quicklink_user_define_webpage_title">Nazwa</string>
   <string name="quicklink_user_define_webpage_url">URL</string>
   <string name="quicklinks_group_default_subtitle">Puste</string>
@@ -555,6 +565,7 @@
   <string name="selection_all">Zaznacz wszystko</string>
   <string name="send_bookmark_to_home_screen">Wyślij na pulpit</string>
   <string name="send_to_desktop">Wyślij na pulpit</string>
+  <string name="send_to_popular">Popularne</string>
   <string name="set_as_homepage">Ustaw jako stronę główną</string>
   <string name="share_link">Udostępnij</string>
   <string name="share_page">Udostępnij stronę</string>
@@ -606,6 +617,7 @@
   <string name="webapp_addtodeskpop_append">Dodana</string>
   <string name="webapp_app_name">Aplikacje Web</string>
   <string name="webapp_bottom_bar_addtodesk">Dodaj na pulpit</string>
+  <string name="webapp_bottom_bar_already_addtodesk">Już dodano na pulpit</string>
   <string name="webapp_bottom_bar_exit">Wyjdź</string>
   <string name="webapp_bottom_bar_hidebar">Ukryj dolny pasek</string>
   <string name="webapp_bottom_bar_openbrowser">Otwórz z Przeglądarki</string>

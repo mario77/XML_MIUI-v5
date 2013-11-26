@@ -174,6 +174,7 @@
     <string name="settings_expandable_under_keyguard_summary">Możliwość wysunięcia paska powiadomień na zablokowanym ekranie</string>
     <string name="settings_expanded_view">Rozwijany pasek powiadomień</string>
     <string name="settings_notification_bar">Pasek powiadomień</string>
+    <string name="settings_notification_icon">Powiadomienia na pasku statusu</string>
     <string name="settings_screenshot_notification_disabled">Ukryj powiadomienie o zrzucie</string>
     <string name="settings_show_flow_info">Pokaż użycie danych</string>
     <string name="settings_show_network_speed">Pokaż prędkość transmisji</string>
@@ -260,6 +261,8 @@ d MMMM yyyy"</string>
     <string name="title_usb_accessory">Akcesorium USB</string>
     <string name="torch_activity_hint">Włącz latarkę przez naciśnięcie przycisku [icon] na ekranie blokady</string>
     <string name="torch_activity_name">Latarka</string>
+    <string name="torch_closed">Latarka wył</string>
+    <string name="torch_opened">Latarka wł</string>
     <string name="usb_accessory_confirm_prompt">Otworzyć %1$s gdy te akcesorium USB będzie połączone?</string>
     <string name="usb_accessory_permission_prompt">Zezwolić aplikacji %1$s na dostęp do tego akcesorium USB?</string>
     <string name="usb_accessory_uri_prompt">No installed applications work with this USB accessory. Learn more about this accessory at %1$s</string>

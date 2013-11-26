@@ -69,7 +69,7 @@ Ponowne uruchomienie za: %d sekund."</string>
   <string name="install_file_explorer">Zainstaluj przeglądarkę plików</string>
   <string name="install_rom_from_sd">Instalacja z pamięci</string>
   <string name="install_whole_rom">Zalecane jest pobranie pełnego ROMu</string>
-  <string name="later">Uruchom poniwnie później</string>
+  <string name="later">Później</string>
   <string name="loading">Łączenie z MIUI</string>
   <string name="md5_check_cancelled">Sprawdzanie MD5 anulowane</string>
   <string name="mione_update_fail_description">Spróbuj ponownie</string>
@@ -98,7 +98,7 @@ Ponowne uruchomienie za: %d sekund."</string>
   <string name="no_updates_warning">Nie znaleziono aktualizacji</string>
   <string name="no_updates_warning2">Nie znaleziono aktualizacji!</string>
   <string name="not_recommend">"Nie polecaj"</string>
-  <string name="now">Uruchom ponownie</string>
+  <string name="now">Teraz</string>
   <string name="paused_queued_for_network">Oczekiwanie na połączenie z siecią</string>
   <string name="paused_queued_for_wifi">Oczekiwanie na połączenie z Wi-Fi</string>
   <string name="previous">Poprzedni</string>
