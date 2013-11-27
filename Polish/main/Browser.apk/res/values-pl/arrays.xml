@@ -15,7 +15,6 @@
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Obecna strona</item>
-        <item>Najczęstsze strony</item>
         <item>Inna</item>
     </string-array>
     <string-array name="pref_text_size_choices">
@@ -82,9 +81,5 @@
         <item>Zielony</item>
         <item>Niebieski</item>
         <item>Ciemny</item>
-    </string-array>
-    <string-array name="pref_homepage_choices">
-       <item>Przejście do tej strony</item>
-       <item>Własne</item>
     </string-array>
 </resources>

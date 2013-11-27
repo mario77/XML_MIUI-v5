@@ -230,7 +230,7 @@ Spróbuj ponownie później"</string>
   <string name="quit_player">Zakończ</string>
   <string name="quit_warining">Odtwarzacz zakończy odtwarzanie po %d minutach</string>
   <string name="recentlyadded_title">Ostatnio dodane</string>
-  <string name="recentlyplayed_title">Ostatnio odtwarzanehm</string>
+  <string name="recentlyplayed_title">Ostatnio odtwarzane</string>
   <string name="recommend">Polecane</string>
   <string name="refresh_finish">Odświeżono pomyślnie</string>
   <string name="refresh_in_processing">Odświeżanie...</string>
