@@ -83,4 +83,8 @@
         <item>Niebieski</item>
         <item>Ciemny</item>
     </string-array>
+    <string-array name="pref_homepage_choices">
+       <item>Przejście do tej strony</item>
+       <item>Własne</item>
+    </string-array>
 </resources>

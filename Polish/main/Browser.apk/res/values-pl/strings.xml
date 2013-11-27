@@ -508,6 +508,7 @@
   <string name="quicklinks_management">Popularne</string>
   <string name="quicklinks_most_visited">Dodaj ostatnio odwiedzane strony</string>
   <string name="quicklinks_most_visited_subtitle">Pokaż ostatnio odwiedzane strony w nowej karcie</string>
+  <string name="quicklinks_most_visited_title">Dodaj do strony startowej</string>
   <string name="readmode_already_add_to_bookshelf">Już dodano do biblioteki</string>
   <string name="readmode_battery">"Bateria: "</string>
   <string name="readmode_login">Logowanie</string>

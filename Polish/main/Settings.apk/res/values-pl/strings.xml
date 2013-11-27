@@ -1465,9 +1465,11 @@ w tym:
   <string name="msd_install_retry_linux">"Jeśli komputer nie wykrywa MI 2
 na systemie Ubuntu 12.xx wykonaj polecenia tego poradnika:
 <a href="http://tinyurl.com/Ubuntu-MTP">Ubuntu-MTP</a>.
+
 Uwaga: Ubuntu 13.04 i nowsze posiada
 już wbudowany tryb MTP. 
-Wystarczy podłączyć urządzenie do USB
+Wystarczy podłączyć urządzenie do USB.
+
 Acid"</string>
   <string name="msd_install_retry_mac">"If the computer did not detect MI 2 properly,
 Try the following:
