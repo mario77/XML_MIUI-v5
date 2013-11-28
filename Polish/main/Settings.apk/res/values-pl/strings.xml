@@ -589,8 +589,9 @@ Czy włączyć funkcję?"</string>
   <string name="choose_timezone">Wybierz strefę czasową</string>
   <string name="clean_confirm_title">Usunąć zaznaczone pliki?</string>
   <string name="cleaner">Czyszczenie</string>
+  <string name="cleaner_support_hints">Powered by Clean Master</string>
   <string name="clear_activities">Wyczyść domyślne</string>
-  <string name="clear_activities_summary">Enable this program for some operations by default</string>
+  <string name="clear_activities_summary">Pozwól tej aplikacji na wykonywanie akcji domyślnych</string>
   <string name="clear_all_calllog">Usuń rejestry połączeń</string>
   <string name="clear_all_mslog">Usuń rejestry wiadomości</string>
   <string name="clear_cache_btn_text">Wyczyść pamięć podręczną</string>
@@ -1395,8 +1396,8 @@ w tym:
   <string name="menu_cancel">Odrzuć</string>
   <string name="menu_delete">Usuń APN</string>
   <string name="menu_edit">Edytuj</string>
-  <string name="menu_item_about_content">Bezpieczeństwo: %s</string>
-  <string name="menu_item_about_title">Informacje</string>
+  <string name="menu_item_about_content">Panel sterowania. Wersja: %s</string>
+  <string name="menu_item_about_title">Informacje o aplikacji</string>
   <string name="menu_key">Przycisk Menu</string>
   <string name="menu_new">Nowy APN</string>
   <string name="menu_restore">Resetuj ustawienia</string>

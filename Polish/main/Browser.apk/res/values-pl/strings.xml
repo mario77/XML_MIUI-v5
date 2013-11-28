@@ -146,7 +146,7 @@
   <string name="copy_link">Kopiuj URL</string>
   <string name="copy_page_url">Kopiuj URL strony</string>
   <string name="crash_recovcery_message">Przeglądarka niespodziewanie zamknięta. Chcesz odzyskać poprzednią sesję</string>
-  <string name="create_shortcut_bookmark">Dodaj skrót do strony głównej</string>
+  <string name="create_shortcut_bookmark">Wyślij skrót na pulpit</string>
   <string name="current_page">"z "</string>
   <string name="defaultBookmarksUpButton">Zakładki</string>
   <string name="delete">Usuń</string>
