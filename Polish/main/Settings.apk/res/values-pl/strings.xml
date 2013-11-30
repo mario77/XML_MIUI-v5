@@ -2990,7 +2990,7 @@ zakończone"</string>
   <string name="wifi_menu_wps_pbc">Przycisk WPS</string>
   <string name="wifi_menu_wps_pin">Kod PIN dla WPS</string>
   <string name="wifi_more">Więcej</string>
-  <string name="wifi_network_prefix_length">Długość przedrostka sieci</string>
+  <string name="wifi_network_prefix_length">Długość prefiksu sieci</string>
   <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_not_in_range">Poza zasięgiem</string>
   <string name="wifi_notify_open_networks">Powiadomienie o sieci</string>
